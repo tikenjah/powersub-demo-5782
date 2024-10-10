@@ -6546,3 +6546,4 @@
 0650. ✅ test: add unit test for quiz service
 0883. 📚 docs: improve code comments in utils
 0190. 🎨 style: rename variables for clarity
+0596. ♻️ chore: update .gitignore
