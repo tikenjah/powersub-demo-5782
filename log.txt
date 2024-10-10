@@ -201,3 +201,4 @@
 0136. 🚀 perf: lazy-load components
 0892. ✅ test: add unit test for quiz service
 0831. 📚 docs: clarify environment setup
+0192. ✨ feat: enable dark mode toggle
