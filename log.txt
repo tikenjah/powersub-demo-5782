@@ -9544,3 +9544,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0371. ✅ test: add integration test for /submit endpoint
 0037. 🐛 fix: correct typo in registration form
+0121. ✨ feat: support email verification
