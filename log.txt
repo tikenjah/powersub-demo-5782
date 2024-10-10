@@ -7547,3 +7547,4 @@
 0146. 🎨 style: apply consistent indentation
 0778. 📚 docs: write FAQ section
 0899. 🚀 perf: cache repeated calculations
+0701. 🔧 refactor: clean up auth middleware
