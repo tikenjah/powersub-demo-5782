@@ -8544,3 +8544,4 @@
 0009. ✨ feat: enable dark mode toggle
 0100. ♻️ chore: update .gitignore
 0080. ✨ feat: support email verification
+0486. ✨ feat: add export to CSV option
