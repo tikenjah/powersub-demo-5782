@@ -205,3 +205,4 @@
 0059. ♻️ chore: bump dependencies
 0368. 🚀 perf: lazy-load components
 0242. ♻️ chore: clean up unused files
+0634. 🎨 style: reformat files with black
