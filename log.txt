@@ -6199,3 +6199,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0395. 📚 docs: write FAQ section
 0184. 📚 docs: improve code comments in utils
+0888. 🚀 perf: lazy-load components
