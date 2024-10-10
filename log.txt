@@ -203,3 +203,4 @@
 0831. 📚 docs: clarify environment setup
 0192. ✨ feat: enable dark mode toggle
 0059. ♻️ chore: bump dependencies
+0368. 🚀 perf: lazy-load components
