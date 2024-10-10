@@ -8545,3 +8545,4 @@
 0100. ♻️ chore: update .gitignore
 0080. ✨ feat: support email verification
 0486. ✨ feat: add export to CSV option
+0978. 🐛 fix: prevent crash on empty input
