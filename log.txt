@@ -211,3 +211,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0277. 🎨 style: standardize quote style
 0772. 🐛 fix: fix null pointer exception on login
+0614. 🚀 perf: reduce image load time
