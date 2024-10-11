@@ -210,3 +210,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0068. 🐛 fix: fix null pointer exception on login
 0277. 🎨 style: standardize quote style
+0772. 🐛 fix: fix null pointer exception on login
