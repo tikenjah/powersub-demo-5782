@@ -208,3 +208,4 @@
 0634. 🎨 style: reformat files with black
 0437. 📚 docs: clarify environment setup
 0909. 🔧 refactor: organize models into subfolders
+0068. 🐛 fix: fix null pointer exception on login
