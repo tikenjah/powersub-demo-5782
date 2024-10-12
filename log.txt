@@ -224,3 +224,4 @@
 0524. ♻️ chore: rename env.example
 0736. 🐛 fix: fix null pointer exception on login
 0848. 📚 docs: update README with setup steps
+0965. 🎨 style: reformat files with black
