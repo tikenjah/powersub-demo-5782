@@ -231,3 +231,4 @@
 0012. 🚀 perf: cache repeated calculations
 0242. ♻️ chore: clean up unused files
 0386. 🚀 perf: optimize database query for quiz results
+0953. 🎨 style: remove trailing whitespace
