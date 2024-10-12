@@ -221,3 +221,4 @@
 0230. ✨ feat: create admin dashboard
 0096. 🐛 fix: prevent crash on empty input
 0454. ♻️ chore: bump dependencies
+0524. ♻️ chore: rename env.example
