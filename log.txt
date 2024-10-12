@@ -227,3 +227,4 @@
 0965. 🎨 style: reformat files with black
 0792. 🎨 style: standardize quote style
 0490. ✨ feat: create admin dashboard
+0026. 🔧 refactor: clean up auth middleware
