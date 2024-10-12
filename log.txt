@@ -10548,3 +10548,4 @@
 0844. 📚 docs: update README with setup steps
 0129. 🔧 refactor: organize models into subfolders
 0852. ✨ feat: enable dark mode toggle
+0386. 🚀 perf: optimize database query for quiz results
