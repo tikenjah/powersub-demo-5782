@@ -8552,3 +8552,4 @@
 0648. ♻️ chore: bump dependencies
 0599. ✅ test: test user registration edge cases
 0731. 🎨 style: standardize quote style
+0743. 🎨 style: apply consistent indentation
