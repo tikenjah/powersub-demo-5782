@@ -242,3 +242,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0873. 🚀 perf: cache repeated calculations
 0118. 🚀 perf: reduce image load time
+0792. 🎨 style: standardize quote style
