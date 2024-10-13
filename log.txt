@@ -239,3 +239,4 @@
 0219. ✅ test: increase coverage on auth module
 0529. 📚 docs: write FAQ section
 0687. 🎨 style: remove trailing whitespace
+0154. 🐛 fix: prevent crash on empty input
