@@ -5203,3 +5203,4 @@
 0427. ✅ test: mock database connection in test suite
 0018. 🔧 refactor: organize models into subfolders
 0882. 🚀 perf: optimize database query for quiz results
+0365. 🚀 perf: reduce image load time
