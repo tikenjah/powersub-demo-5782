@@ -234,3 +234,4 @@
 0953. 🎨 style: remove trailing whitespace
 0788. 📚 docs: add API usage examples
 0990. ♻️ chore: rename env.example
+0098. 🎨 style: rename variables for clarity
