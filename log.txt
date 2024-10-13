@@ -6552,3 +6552,4 @@
 0714. 📚 docs: improve code comments in utils
 0339. 📚 docs: update README with setup steps
 0326. 🚀 perf: cache repeated calculations
+0940. 📚 docs: document token refresh logic
