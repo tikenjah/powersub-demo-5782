@@ -10549,3 +10549,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0852. ✨ feat: enable dark mode toggle
 0386. 🚀 perf: optimize database query for quiz results
+0593. 🐛 fix: correct typo in registration form
