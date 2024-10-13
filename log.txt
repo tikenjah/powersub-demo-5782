@@ -7552,3 +7552,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0204. 🎨 style: standardize quote style
 0125. ✅ test: add integration test for /submit endpoint
+0659. 📚 docs: add API usage examples
