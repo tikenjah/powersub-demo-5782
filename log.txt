@@ -6213,3 +6213,4 @@
 0101. 📚 docs: clarify environment setup
 0053. ✅ test: increase coverage on auth module
 0311. 🎨 style: apply consistent indentation
+0300. ✨ feat: add export to CSV option
