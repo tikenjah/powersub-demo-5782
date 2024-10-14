@@ -6557,3 +6557,4 @@
 0959. 🐛 fix: fix null pointer exception on login
 0271. ✅ test: add unit test for quiz service
 0400. 🐛 fix: fix null pointer exception on login
+0982. 🚀 perf: lazy-load components
