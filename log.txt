@@ -11552,3 +11552,4 @@
 0005. ✅ test: add unit test for quiz service
 0492. 🎨 style: remove trailing whitespace
 0625. 🐛 fix: handle 500 error in quiz API
+0331. 🐛 fix: fix broken CSS in mobile view
