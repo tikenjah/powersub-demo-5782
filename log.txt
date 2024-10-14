@@ -11551,3 +11551,4 @@
 0395. 📚 docs: write FAQ section
 0005. ✅ test: add unit test for quiz service
 0492. 🎨 style: remove trailing whitespace
+0625. 🐛 fix: handle 500 error in quiz API
