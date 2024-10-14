@@ -247,3 +247,4 @@
 0439. 🐛 fix: correct typo in registration form
 0598. 🔧 refactor: remove redundant code blocks
 0713. 🐛 fix: handle 500 error in quiz API
+0404. 📚 docs: improve code comments in utils
