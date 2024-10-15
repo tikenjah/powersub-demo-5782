@@ -257,3 +257,4 @@
 0503. ♻️ chore: rename env.example
 0691. 🎨 style: rename variables for clarity
 0234. ♻️ chore: rename env.example
+0187. ✨ feat: support email verification
