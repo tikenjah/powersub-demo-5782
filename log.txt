@@ -260,3 +260,4 @@
 0187. ✨ feat: support email verification
 0853. 🔧 refactor: refactor quiz grading logic
 0566. 📚 docs: write FAQ section
+0842. 🎨 style: remove trailing whitespace
