@@ -9562,3 +9562,4 @@
 0768. 🎨 style: remove trailing whitespace
 0884. 📚 docs: clarify environment setup
 0187. ✨ feat: support email verification
+0306. 🎨 style: apply consistent indentation
