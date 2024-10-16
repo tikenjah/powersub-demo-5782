@@ -268,3 +268,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0941. 🚀 perf: cache repeated calculations
 0785. ✨ feat: enable dark mode toggle
+0880. 🐛 fix: fix broken CSS in mobile view
