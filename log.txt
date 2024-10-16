@@ -7564,3 +7564,4 @@
 0305. ✨ feat: enable dark mode toggle
 0623. 🎨 style: standardize quote style
 0746. ♻️ chore: add GitHub actions badge
+0017. ✅ test: mock database connection in test suite
