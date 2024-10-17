@@ -286,3 +286,4 @@
 0095. ✅ test: mock database connection in test suite
 0968. 🎨 style: standardize quote style
 0262. 🎨 style: remove trailing whitespace
+0041. 🐛 fix: fix broken CSS in mobile view
