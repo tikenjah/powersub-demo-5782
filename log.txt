@@ -282,3 +282,4 @@
 0596. ♻️ chore: update .gitignore
 0050. ✨ feat: enable dark mode toggle
 0508. ✅ test: add unit test for quiz service
+0702. ✨ feat: add user authentication
