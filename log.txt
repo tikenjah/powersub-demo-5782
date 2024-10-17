@@ -7568,3 +7568,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0608. 🔧 refactor: remove redundant code blocks
 0370. 🚀 perf: reduce image load time
+0362. 📚 docs: add API usage examples
