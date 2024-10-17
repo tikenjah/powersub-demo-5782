@@ -8564,3 +8564,4 @@
 0995. ✅ test: mock database connection in test suite
 0248. 🐛 fix: handle 500 error in quiz API
 0522. 🐛 fix: handle 500 error in quiz API
+0797. 📚 docs: add API usage examples
