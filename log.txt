@@ -6221,3 +6221,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0098. 🎨 style: rename variables for clarity
 0908. ♻️ chore: bump dependencies
+0251. ♻️ chore: update .gitignore
