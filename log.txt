@@ -301,3 +301,4 @@
 0159. 🚀 perf: lazy-load components
 0499. 🎨 style: reformat files with black
 0612. ✅ test: test user registration edge cases
+0004. 🚀 perf: optimize database query for quiz results
