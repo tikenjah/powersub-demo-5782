@@ -7570,3 +7570,4 @@
 0370. 🚀 perf: reduce image load time
 0362. 📚 docs: add API usage examples
 0396. 🔧 refactor: split large controller into smaller functions
+0749. ✨ feat: support email verification
