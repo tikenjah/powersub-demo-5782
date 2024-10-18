@@ -11561,3 +11561,4 @@
 0709. ♻️ chore: bump dependencies
 0811. 🎨 style: reformat files with black
 0336. ✨ feat: add export to CSV option
+0461. ✨ feat: add user authentication
