@@ -298,3 +298,4 @@
 0124. 🎨 style: reformat files with black
 0031. 📚 docs: document token refresh logic
 0058. ♻️ chore: add GitHub actions badge
+0159. 🚀 perf: lazy-load components
