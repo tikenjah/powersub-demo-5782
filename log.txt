@@ -11563,3 +11563,4 @@
 0336. ✨ feat: add export to CSV option
 0461. ✨ feat: add user authentication
 0232. 🎨 style: apply consistent indentation
+0968. 🎨 style: standardize quote style
