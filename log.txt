@@ -295,3 +295,4 @@
 0328. 🐛 fix: resolve issue with date parsing
 0934. ✨ feat: support email verification
 0819. 🚀 perf: reduce image load time
+0124. 🎨 style: reformat files with black
