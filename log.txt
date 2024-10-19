@@ -306,3 +306,4 @@
 0695. ✨ feat: create admin dashboard
 0617. ✨ feat: support email verification
 0245. 🐛 fix: resolve issue with date parsing
+0077. ♻️ chore: rename env.example
