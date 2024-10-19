@@ -8570,3 +8570,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0811. 🎨 style: reformat files with black
 0222. 🐛 fix: handle 500 error in quiz API
+0795. 📚 docs: update README with setup steps
