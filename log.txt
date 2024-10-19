@@ -5214,3 +5214,4 @@
 0595. ✨ feat: enable dark mode toggle
 0992. ♻️ chore: clean up unused files
 0673. 🐛 fix: correct typo in registration form
+0205. 📚 docs: update README with setup steps
