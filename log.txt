@@ -11566,3 +11566,4 @@
 0968. 🎨 style: standardize quote style
 0455. ♻️ chore: clean up unused files
 0069. 🎨 style: rename variables for clarity
+0101. 📚 docs: clarify environment setup
