@@ -8572,3 +8572,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0795. 📚 docs: update README with setup steps
 0970. ♻️ chore: update .gitignore
+0167. 🚀 perf: reduce image load time
