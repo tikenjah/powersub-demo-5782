@@ -317,3 +317,4 @@
 0013. ✅ test: increase coverage on auth module
 0830. 🎨 style: apply consistent indentation
 0601. ✨ feat: implement quiz timer feature
+0633. ✨ feat: add user authentication
