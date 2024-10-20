@@ -336,3 +336,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0055. 📚 docs: update README with setup steps
 0451. ✨ feat: support email verification
+0600. 🐛 fix: prevent crash on empty input
