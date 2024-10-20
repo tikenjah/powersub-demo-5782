@@ -326,3 +326,4 @@
 0226. 🚀 perf: lazy-load components
 0649. 📚 docs: update README with setup steps
 0583. ✅ test: increase coverage on auth module
+0496. ✅ test: add integration test for /submit endpoint
