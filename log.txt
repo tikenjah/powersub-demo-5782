@@ -318,3 +318,4 @@
 0830. 🎨 style: apply consistent indentation
 0601. ✨ feat: implement quiz timer feature
 0633. ✨ feat: add user authentication
+0388. 🎨 style: reformat files with black
