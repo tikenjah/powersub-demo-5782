@@ -6565,3 +6565,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0445. 📚 docs: improve code comments in utils
 0957. 🐛 fix: fix null pointer exception on login
+0035. ✅ test: increase coverage on auth module
