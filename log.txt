@@ -6232,3 +6232,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0372. ✨ feat: add user authentication
 0535. 📚 docs: write FAQ section
+0296. 🔧 refactor: organize models into subfolders
