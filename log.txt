@@ -5216,3 +5216,4 @@
 0673. 🐛 fix: correct typo in registration form
 0205. 📚 docs: update README with setup steps
 0965. 🎨 style: reformat files with black
+0049. 🐛 fix: handle 500 error in quiz API
