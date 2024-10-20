@@ -320,3 +320,4 @@
 0633. ✨ feat: add user authentication
 0388. 🎨 style: reformat files with black
 0400. 🐛 fix: fix null pointer exception on login
+0776. ✅ test: add integration test for /submit endpoint
