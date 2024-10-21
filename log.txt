@@ -10570,3 +10570,4 @@
 0980. 🎨 style: reformat files with black
 0321. 🔧 refactor: organize models into subfolders
 0402. 🎨 style: reformat files with black
+0035. ✅ test: increase coverage on auth module
