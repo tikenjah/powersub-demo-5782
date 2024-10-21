@@ -337,3 +337,4 @@
 0055. 📚 docs: update README with setup steps
 0451. ✨ feat: support email verification
 0600. 🐛 fix: prevent crash on empty input
+0448. 🐛 fix: correct typo in registration form
