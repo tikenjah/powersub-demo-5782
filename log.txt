@@ -340,3 +340,4 @@
 0448. 🐛 fix: correct typo in registration form
 0200. 🐛 fix: handle 500 error in quiz API
 0142. ✨ feat: implement quiz timer feature
+0262. 🎨 style: remove trailing whitespace
