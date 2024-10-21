@@ -347,3 +347,4 @@
 0838. 🎨 style: standardize quote style
 0766. 🎨 style: reformat files with black
 0206. 🐛 fix: handle 500 error in quiz API
+0351. ✨ feat: add export to CSV option
