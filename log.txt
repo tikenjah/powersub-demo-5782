@@ -6238,3 +6238,4 @@
 0341. 🚀 perf: lazy-load components
 0404. 📚 docs: improve code comments in utils
 0292. 📚 docs: clarify environment setup
+0533. ♻️ chore: add GitHub actions badge
