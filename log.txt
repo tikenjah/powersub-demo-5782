@@ -357,3 +357,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0570. 🎨 style: apply consistent indentation
 0923. ✨ feat: support email verification
+0738. 🐛 fix: prevent crash on empty input
