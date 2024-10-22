@@ -360,3 +360,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0781. 🚀 perf: reduce image load time
 0651. ✨ feat: enable dark mode toggle
+0457. 🐛 fix: handle 500 error in quiz API
