@@ -5221,3 +5221,4 @@
 0655. 🚀 perf: cache repeated calculations
 0723. 🔧 refactor: remove redundant code blocks
 0818. 🔧 refactor: remove redundant code blocks
+0144. ✅ test: increase coverage on auth module
