@@ -366,3 +366,4 @@
 0864. 🐛 fix: correct typo in registration form
 0298. ♻️ chore: update .gitignore
 0354. 📚 docs: add API usage examples
+0701. 🔧 refactor: clean up auth middleware
