@@ -364,3 +364,4 @@
 0147. ♻️ chore: bump dependencies
 0755. 🚀 perf: cache repeated calculations
 0864. 🐛 fix: correct typo in registration form
+0298. ♻️ chore: update .gitignore
