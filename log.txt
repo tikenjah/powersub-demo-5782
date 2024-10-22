@@ -10574,3 +10574,4 @@
 0349. ✅ test: increase coverage on auth module
 0097. 🐛 fix: handle 500 error in quiz API
 0958. 🐛 fix: prevent crash on empty input
+0684. 🚀 perf: reduce image load time
