@@ -359,3 +359,4 @@
 0923. ✨ feat: support email verification
 0738. 🐛 fix: prevent crash on empty input
 0781. 🚀 perf: reduce image load time
+0651. ✨ feat: enable dark mode toggle
