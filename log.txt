@@ -6569,3 +6569,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0318. 🔧 refactor: refactor quiz grading logic
 0554. 📚 docs: improve code comments in utils
+0229. 🚀 perf: optimize database query for quiz results
