@@ -378,3 +378,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0425. 🔧 refactor: refactor quiz grading logic
 0460. 📚 docs: write FAQ section
+0497. 🔧 refactor: refactor quiz grading logic
