@@ -9570,3 +9570,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0461. ✨ feat: add user authentication
 0647. 🐛 fix: prevent crash on empty input
+0789. ✨ feat: create admin dashboard
