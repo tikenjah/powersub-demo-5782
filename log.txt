@@ -10579,3 +10579,4 @@
 0677. 📚 docs: add API usage examples
 0052. 🎨 style: standardize quote style
 0804. ♻️ chore: add GitHub actions badge
+0646. ✅ test: test user registration edge cases
