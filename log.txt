@@ -5225,3 +5225,4 @@
 0913. 🚀 perf: optimize database query for quiz results
 0948. 🐛 fix: fix broken CSS in mobile view
 0910. 🎨 style: remove trailing whitespace
+0068. 🐛 fix: fix null pointer exception on login
