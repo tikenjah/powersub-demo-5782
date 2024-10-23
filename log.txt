@@ -6573,3 +6573,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0047. 🎨 style: rename variables for clarity
 0643. 🎨 style: apply consistent indentation
+0088. 📚 docs: add API usage examples
