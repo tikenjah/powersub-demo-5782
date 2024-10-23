@@ -7583,3 +7583,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0053. ✅ test: increase coverage on auth module
 0298. ♻️ chore: update .gitignore
+0539. 🔧 refactor: organize models into subfolders
