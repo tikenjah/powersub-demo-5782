@@ -5226,3 +5226,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0910. 🎨 style: remove trailing whitespace
 0068. 🐛 fix: fix null pointer exception on login
+0392. 🎨 style: remove trailing whitespace
