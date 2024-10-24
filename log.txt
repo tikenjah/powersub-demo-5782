@@ -391,3 +391,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0308. 🚀 perf: reduce image load time
 0536. ✨ feat: add user authentication
+0708. ✅ test: add integration test for /submit endpoint
