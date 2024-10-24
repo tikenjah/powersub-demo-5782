@@ -10581,3 +10581,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0646. ✅ test: test user registration edge cases
 0580. ♻️ chore: bump dependencies
+0882. 🚀 perf: optimize database query for quiz results
