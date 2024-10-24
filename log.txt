@@ -7584,3 +7584,4 @@
 0053. ✅ test: increase coverage on auth module
 0298. ♻️ chore: update .gitignore
 0539. 🔧 refactor: organize models into subfolders
+0109. 🚀 perf: lazy-load components
