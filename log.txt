@@ -8582,3 +8582,4 @@
 0832. 🔧 refactor: remove redundant code blocks
 0629. 🔧 refactor: organize models into subfolders
 0842. 🎨 style: remove trailing whitespace
+0751. 🐛 fix: handle 500 error in quiz API
