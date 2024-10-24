@@ -9575,3 +9575,4 @@
 0681. ✨ feat: create admin dashboard
 0811. 🎨 style: reformat files with black
 0547. 📚 docs: write FAQ section
+0423. ✅ test: mock database connection in test suite
