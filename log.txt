@@ -396,3 +396,4 @@
 0575. ✅ test: add unit test for quiz service
 0197. 📚 docs: update README with setup steps
 0267. 📚 docs: improve code comments in utils
+0551. 📚 docs: write FAQ section
