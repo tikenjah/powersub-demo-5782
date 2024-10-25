@@ -397,3 +397,4 @@
 0197. 📚 docs: update README with setup steps
 0267. 📚 docs: improve code comments in utils
 0551. 📚 docs: write FAQ section
+0436. ✅ test: add integration test for /submit endpoint
