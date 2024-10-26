@@ -5228,3 +5228,4 @@
 0068. 🐛 fix: fix null pointer exception on login
 0392. 🎨 style: remove trailing whitespace
 0765. ♻️ chore: clean up unused files
+0253. 📚 docs: update README with setup steps
