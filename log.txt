@@ -407,3 +407,4 @@
 0590. 🐛 fix: fix null pointer exception on login
 0113. ✨ feat: add user authentication
 0881. 🔧 refactor: split large controller into smaller functions
+0275. 🎨 style: standardize quote style
