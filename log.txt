@@ -8588,3 +8588,4 @@
 0132. ✅ test: add unit test for quiz service
 0373. 📚 docs: document token refresh logic
 0174. 📚 docs: clarify environment setup
+0613. 🐛 fix: prevent crash on empty input
