@@ -7590,3 +7590,4 @@
 0902. ✨ feat: enable dark mode toggle
 0962. ✨ feat: create admin dashboard
 0195. 📚 docs: clarify environment setup
+0564. 📚 docs: clarify environment setup
