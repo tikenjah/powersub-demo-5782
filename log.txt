@@ -7591,3 +7591,4 @@
 0962. ✨ feat: create admin dashboard
 0195. 📚 docs: clarify environment setup
 0564. 📚 docs: clarify environment setup
+0565. ♻️ chore: add GitHub actions badge
