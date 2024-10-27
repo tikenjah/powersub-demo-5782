@@ -425,3 +425,4 @@
 0724. ✅ test: mock database connection in test suite
 0711. 🐛 fix: fix broken CSS in mobile view
 0413. ✅ test: add integration test for /submit endpoint
+0019. ✨ feat: enable dark mode toggle
