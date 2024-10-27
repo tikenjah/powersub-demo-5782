@@ -412,3 +412,4 @@
 0964. ♻️ chore: clean up unused files
 0138. 🎨 style: rename variables for clarity
 0069. 🎨 style: rename variables for clarity
+0195. 📚 docs: clarify environment setup
