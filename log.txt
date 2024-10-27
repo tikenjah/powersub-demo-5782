@@ -5231,3 +5231,4 @@
 0253. 📚 docs: update README with setup steps
 0032. 🎨 style: apply consistent indentation
 0850. ♻️ chore: rename env.example
+0773. 📚 docs: document token refresh logic
