@@ -9579,3 +9579,4 @@
 0712. 🎨 style: apply consistent indentation
 0301. 🎨 style: apply consistent indentation
 0524. ♻️ chore: rename env.example
+0912. 📚 docs: document token refresh logic
