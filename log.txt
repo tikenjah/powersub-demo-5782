@@ -414,3 +414,4 @@
 0069. 🎨 style: rename variables for clarity
 0195. 📚 docs: clarify environment setup
 0776. ✅ test: add integration test for /submit endpoint
+0703. 🔧 refactor: clean up auth middleware
