@@ -5230,3 +5230,4 @@
 0765. ♻️ chore: clean up unused files
 0253. 📚 docs: update README with setup steps
 0032. 🎨 style: apply consistent indentation
+0850. ♻️ chore: rename env.example
