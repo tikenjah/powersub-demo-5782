@@ -6584,3 +6584,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0914. ✅ test: test user registration edge cases
 0614. 🚀 perf: reduce image load time
+0578. ✅ test: add integration test for /submit endpoint
