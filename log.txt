@@ -431,3 +431,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0586. 🎨 style: remove trailing whitespace
 0547. 📚 docs: write FAQ section
+0905. ♻️ chore: bump dependencies
