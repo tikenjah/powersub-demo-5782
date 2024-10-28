@@ -433,3 +433,4 @@
 0547. 📚 docs: write FAQ section
 0905. ♻️ chore: bump dependencies
 0925. ✨ feat: add export to CSV option
+0522. 🐛 fix: handle 500 error in quiz API
