@@ -6586,3 +6586,4 @@
 0614. 🚀 perf: reduce image load time
 0578. ✅ test: add integration test for /submit endpoint
 0164. 📚 docs: document token refresh logic
+0948. 🐛 fix: fix broken CSS in mobile view
