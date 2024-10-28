@@ -11588,3 +11588,4 @@
 0556. ✨ feat: support email verification
 0311. 🎨 style: apply consistent indentation
 0326. 🚀 perf: cache repeated calculations
+0257. 📚 docs: clarify environment setup
