@@ -452,3 +452,4 @@
 0269. ✅ test: test user registration edge cases
 1000. ✅ test: increase coverage on auth module
 0793. 📚 docs: clarify environment setup
+0408. ♻️ chore: add GitHub actions badge
