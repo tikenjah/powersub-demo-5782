@@ -10585,3 +10585,4 @@
 0551. 📚 docs: write FAQ section
 0059. ♻️ chore: bump dependencies
 0262. 🎨 style: remove trailing whitespace
+0360. ✨ feat: add export to CSV option
