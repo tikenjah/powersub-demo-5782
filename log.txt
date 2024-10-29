@@ -6255,3 +6255,4 @@
 0323. 📚 docs: clarify environment setup
 0812. 🔧 refactor: refactor quiz grading logic
 0411. ✅ test: add unit test for quiz service
+0947. 📚 docs: write FAQ section
