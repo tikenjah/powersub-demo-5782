@@ -451,3 +451,4 @@
 0525. ✅ test: mock database connection in test suite
 0269. ✅ test: test user registration edge cases
 1000. ✅ test: increase coverage on auth module
+0793. 📚 docs: clarify environment setup
