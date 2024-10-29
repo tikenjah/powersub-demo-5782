@@ -7599,3 +7599,4 @@
 0017. ✅ test: mock database connection in test suite
 0539. 🔧 refactor: organize models into subfolders
 0121. ✨ feat: support email verification
+0028. 🎨 style: standardize quote style
