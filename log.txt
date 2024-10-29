@@ -445,3 +445,4 @@
 0411. ✅ test: add unit test for quiz service
 0722. 📚 docs: add API usage examples
 0167. 🚀 perf: reduce image load time
+0102. ✨ feat: support email verification
