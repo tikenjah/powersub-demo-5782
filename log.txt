@@ -5239,3 +5239,4 @@
 0634. 🎨 style: reformat files with black
 0352. ✨ feat: add export to CSV option
 0470. 🎨 style: remove trailing whitespace
+0283. ♻️ chore: add GitHub actions badge
