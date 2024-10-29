@@ -439,3 +439,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0553. 🐛 fix: correct typo in registration form
 0165. 🎨 style: remove trailing whitespace
+0570. 🎨 style: apply consistent indentation
