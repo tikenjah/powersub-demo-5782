@@ -453,3 +453,4 @@
 1000. ✅ test: increase coverage on auth module
 0793. 📚 docs: clarify environment setup
 0408. ♻️ chore: add GitHub actions badge
+0792. 🎨 style: standardize quote style
