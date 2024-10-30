@@ -6258,3 +6258,4 @@
 0947. 📚 docs: write FAQ section
 0173. 🚀 perf: cache repeated calculations
 0640. ♻️ chore: bump dependencies
+0490. ✨ feat: create admin dashboard
