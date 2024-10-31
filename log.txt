@@ -8596,3 +8596,4 @@
 0073. 🔧 refactor: split large controller into smaller functions
 0947. 📚 docs: write FAQ section
 0656. 🎨 style: apply consistent indentation
+0680. ♻️ chore: add GitHub actions badge
