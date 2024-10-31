@@ -9594,3 +9594,4 @@
 0229. 🚀 perf: optimize database query for quiz results
 0315. ✅ test: add integration test for /submit endpoint
 0317. ✅ test: test user registration edge cases
+0029. 🚀 perf: lazy-load components
