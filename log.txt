@@ -6260,3 +6260,4 @@
 0640. ♻️ chore: bump dependencies
 0490. ✨ feat: create admin dashboard
 0701. 🔧 refactor: clean up auth middleware
+0680. ♻️ chore: add GitHub actions badge
