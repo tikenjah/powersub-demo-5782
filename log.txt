@@ -8594,3 +8594,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0422. 🔧 refactor: organize models into subfolders
 0073. 🔧 refactor: split large controller into smaller functions
+0947. 📚 docs: write FAQ section
