@@ -480,3 +480,4 @@
 0950. 🎨 style: reformat files with black
 0460. 📚 docs: write FAQ section
 0482. ✨ feat: add export to CSV option
+0292. 📚 docs: clarify environment setup
