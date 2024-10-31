@@ -7606,3 +7606,4 @@
 0544. 🔧 refactor: organize models into subfolders
 0626. 🎨 style: standardize quote style
 0318. 🔧 refactor: refactor quiz grading logic
+0241. 📚 docs: add API usage examples
