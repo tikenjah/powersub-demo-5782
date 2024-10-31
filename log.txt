@@ -10588,3 +10588,4 @@
 0360. ✨ feat: add export to CSV option
 0459. 🔧 refactor: organize models into subfolders
 0759. 🔧 refactor: organize models into subfolders
+0257. 📚 docs: clarify environment setup
