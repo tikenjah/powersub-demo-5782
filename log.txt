@@ -11597,3 +11597,4 @@
 0105. 🐛 fix: correct typo in registration form
 0061. ✨ feat: create admin dashboard
 0996. ✅ test: test user registration edge cases
+0969. ✨ feat: create admin dashboard
