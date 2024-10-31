@@ -482,3 +482,4 @@
 0482. ✨ feat: add export to CSV option
 0292. 📚 docs: clarify environment setup
 0499. 🎨 style: reformat files with black
+0855. 🎨 style: reformat files with black
