@@ -7607,3 +7607,4 @@
 0626. 🎨 style: standardize quote style
 0318. 🔧 refactor: refactor quiz grading logic
 0241. 📚 docs: add API usage examples
+0733. 🐛 fix: fix null pointer exception on login
