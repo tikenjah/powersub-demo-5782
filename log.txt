@@ -496,3 +496,4 @@
 0864. 🐛 fix: correct typo in registration form
 0058. ♻️ chore: add GitHub actions badge
 0153. ♻️ chore: rename env.example
+0148. 🔧 refactor: organize models into subfolders
