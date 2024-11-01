@@ -499,3 +499,4 @@
 0148. 🔧 refactor: organize models into subfolders
 0653. 🐛 fix: prevent crash on empty input
 0868. ✅ test: add unit test for quiz service
+0222. 🐛 fix: handle 500 error in quiz API
