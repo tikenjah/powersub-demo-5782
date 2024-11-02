@@ -503,3 +503,4 @@
 0172. 📚 docs: add API usage examples
 0140. 🐛 fix: handle 500 error in quiz API
 0771. 🚀 perf: cache repeated calculations
+0684. 🚀 perf: reduce image load time
