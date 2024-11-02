@@ -513,3 +513,4 @@
 0010. ✨ feat: add user authentication
 0164. 📚 docs: document token refresh logic
 0281. ✨ feat: support email verification
+0006. 🐛 fix: prevent crash on empty input
