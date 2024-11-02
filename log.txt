@@ -507,3 +507,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0594. 🎨 style: reformat files with black
 0308. 🚀 perf: reduce image load time
+0673. 🐛 fix: correct typo in registration form
