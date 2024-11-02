@@ -6598,3 +6598,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0282. 🔧 refactor: remove redundant code blocks
 0661. ✅ test: add integration test for /submit endpoint
+0979. 🎨 style: standardize quote style
