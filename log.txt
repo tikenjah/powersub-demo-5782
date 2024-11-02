@@ -512,3 +512,4 @@
 0186. ✅ test: test user registration edge cases
 0010. ✨ feat: add user authentication
 0164. 📚 docs: document token refresh logic
+0281. ✨ feat: support email verification
