@@ -504,3 +504,4 @@
 0140. 🐛 fix: handle 500 error in quiz API
 0771. 🚀 perf: cache repeated calculations
 0684. 🚀 perf: reduce image load time
+0235. 🐛 fix: fix null pointer exception on login
