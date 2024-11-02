@@ -7611,3 +7611,4 @@
 0946. ✅ test: add unit test for quiz service
 0105. 🐛 fix: correct typo in registration form
 0967. ♻️ chore: add GitHub actions badge
+0476. 🚀 perf: reduce image load time
