@@ -5248,3 +5248,4 @@
 0186. ✅ test: test user registration edge cases
 0970. ♻️ chore: update .gitignore
 0814. 🔧 refactor: remove redundant code blocks
+0171. 🐛 fix: fix broken CSS in mobile view
