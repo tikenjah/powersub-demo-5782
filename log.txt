@@ -11604,3 +11604,4 @@
 0783. 🐛 fix: handle 500 error in quiz API
 0459. 🔧 refactor: organize models into subfolders
 0683. ✅ test: mock database connection in test suite
+0442. 🎨 style: standardize quote style
