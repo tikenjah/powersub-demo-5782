@@ -511,3 +511,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0186. ✅ test: test user registration edge cases
 0010. ✨ feat: add user authentication
+0164. 📚 docs: document token refresh logic
