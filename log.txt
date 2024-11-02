@@ -510,3 +510,4 @@
 0673. 🐛 fix: correct typo in registration form
 0666. 🐛 fix: fix broken CSS in mobile view
 0186. ✅ test: test user registration edge cases
+0010. ✨ feat: add user authentication
