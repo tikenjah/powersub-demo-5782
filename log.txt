@@ -5252,3 +5252,4 @@
 0412. ✅ test: increase coverage on auth module
 0365. 🚀 perf: reduce image load time
 0777. 📚 docs: document token refresh logic
+0900. 🐛 fix: handle 500 error in quiz API
