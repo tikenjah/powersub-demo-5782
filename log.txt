@@ -535,3 +535,4 @@
 0072. 🚀 perf: optimize database query for quiz results
 0086. 🐛 fix: correct typo in registration form
 0800. 🚀 perf: optimize database query for quiz results
+0790. 📚 docs: write FAQ section
