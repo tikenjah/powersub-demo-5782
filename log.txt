@@ -523,3 +523,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0798. 🚀 perf: reduce image load time
 0050. ✨ feat: enable dark mode toggle
+0351. ✨ feat: add export to CSV option
