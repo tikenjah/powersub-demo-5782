@@ -5255,3 +5255,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0022. 📚 docs: document token refresh logic
 0064. 📚 docs: clarify environment setup
+0540. ♻️ chore: add GitHub actions badge
