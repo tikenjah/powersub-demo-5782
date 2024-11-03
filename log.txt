@@ -527,3 +527,4 @@
 0775. 🐛 fix: fix null pointer exception on login
 0914. ✅ test: test user registration edge cases
 0261. 🔧 refactor: refactor quiz grading logic
+0178. ✨ feat: support email verification
