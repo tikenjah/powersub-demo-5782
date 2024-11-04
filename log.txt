@@ -6270,3 +6270,4 @@
 0678. ✨ feat: add user authentication
 0494. 🎨 style: rename variables for clarity
 0523. ♻️ chore: bump dependencies
+0882. 🚀 perf: optimize database query for quiz results
