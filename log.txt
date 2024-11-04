@@ -546,3 +546,4 @@
 0561. 📚 docs: write FAQ section
 0300. ✨ feat: add export to CSV option
 0994. 🚀 perf: reduce image load time
+0207. 🐛 fix: prevent crash on empty input
