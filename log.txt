@@ -552,3 +552,4 @@
 0790. 📚 docs: write FAQ section
 0016. 🎨 style: apply consistent indentation
 0919. 🚀 perf: optimize database query for quiz results
+0374. 🎨 style: standardize quote style
