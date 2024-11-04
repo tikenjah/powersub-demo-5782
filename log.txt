@@ -5264,3 +5264,4 @@
 0404. 📚 docs: improve code comments in utils
 0084. 🐛 fix: handle 500 error in quiz API
 0626. 🎨 style: standardize quote style
+0229. 🚀 perf: optimize database query for quiz results
