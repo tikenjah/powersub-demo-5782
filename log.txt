@@ -6,3 +6,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0078. ♻️ chore: update .gitignore
 0546. 🐛 fix: fix null pointer exception on login
+0836. 🚀 perf: optimize database query for quiz results
