@@ -7619,3 +7619,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0267. 📚 docs: improve code comments in utils
 0254. 🚀 perf: reduce image load time
+0226. 🚀 perf: lazy-load components
