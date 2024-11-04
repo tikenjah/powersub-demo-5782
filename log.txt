@@ -8602,3 +8602,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0752. ✅ test: add integration test for /submit endpoint
 0021. ✨ feat: support email verification
+0011. ✅ test: add unit test for quiz service
