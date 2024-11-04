@@ -543,3 +543,4 @@
 0354. 📚 docs: add API usage examples
 0646. ✅ test: test user registration edge cases
 0353. ♻️ chore: rename env.example
+0561. 📚 docs: write FAQ section
