@@ -539,3 +539,4 @@
 0429. ✨ feat: add user authentication
 0332. 🎨 style: standardize quote style
 0881. 🔧 refactor: split large controller into smaller functions
+0217. 🚀 perf: reduce image load time
