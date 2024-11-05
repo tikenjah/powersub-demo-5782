@@ -558,3 +558,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0530. 🔧 refactor: refactor quiz grading logic
 0686. 🎨 style: standardize quote style
+0889. 🚀 perf: lazy-load components
