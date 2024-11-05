@@ -7624,3 +7624,4 @@
 0758. 🚀 perf: optimize database query for quiz results
 0162. ♻️ chore: add GitHub actions badge
 0093. ✅ test: add unit test for quiz service
+0750. 🎨 style: apply consistent indentation
