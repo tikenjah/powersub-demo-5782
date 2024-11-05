@@ -564,3 +564,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0620. ✨ feat: implement quiz timer feature
 0017. ✅ test: mock database connection in test suite
+0713. 🐛 fix: handle 500 error in quiz API
