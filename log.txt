@@ -563,3 +563,4 @@
 0468. 📚 docs: update README with setup steps
 0296. 🔧 refactor: organize models into subfolders
 0620. ✨ feat: implement quiz timer feature
+0017. ✅ test: mock database connection in test suite
