@@ -5265,3 +5265,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0626. 🎨 style: standardize quote style
 0229. 🚀 perf: optimize database query for quiz results
+0496. ✅ test: add integration test for /submit endpoint
