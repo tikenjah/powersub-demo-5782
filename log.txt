@@ -6275,3 +6275,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0324. 📚 docs: document token refresh logic
 0559. 🔧 refactor: split large controller into smaller functions
+0791. 🔧 refactor: clean up auth middleware
