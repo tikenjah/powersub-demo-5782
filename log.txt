@@ -562,3 +562,4 @@
 0221. ✨ feat: add user authentication
 0468. 📚 docs: update README with setup steps
 0296. 🔧 refactor: organize models into subfolders
+0620. ✨ feat: implement quiz timer feature
