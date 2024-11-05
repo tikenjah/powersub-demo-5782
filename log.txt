@@ -8604,3 +8604,4 @@
 0021. ✨ feat: support email verification
 0011. ✅ test: add unit test for quiz service
 0481. ✅ test: add unit test for quiz service
+0361. ✨ feat: support email verification
