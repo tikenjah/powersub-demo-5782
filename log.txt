@@ -10600,3 +10600,4 @@
 0409. 🚀 perf: lazy-load components
 0426. ✅ test: add integration test for /submit endpoint
 0516. ✅ test: add unit test for quiz service
+0021. ✨ feat: support email verification
