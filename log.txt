@@ -6279,3 +6279,4 @@
 0454. ♻️ chore: bump dependencies
 0976. ✨ feat: implement quiz timer feature
 0101. 📚 docs: clarify environment setup
+0128. ♻️ chore: rename env.example
