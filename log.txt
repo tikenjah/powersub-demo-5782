@@ -6608,3 +6608,4 @@
 0225. 🚀 perf: reduce image load time
 0644. 🎨 style: apply consistent indentation
 0446. 🎨 style: apply consistent indentation
+0287. 📚 docs: write FAQ section
