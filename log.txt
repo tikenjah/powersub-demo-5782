@@ -583,3 +583,4 @@
 0034. 📚 docs: improve code comments in utils
 0937. 🐛 fix: handle 500 error in quiz API
 0192. ✨ feat: enable dark mode toggle
+0338. ♻️ chore: add GitHub actions badge
