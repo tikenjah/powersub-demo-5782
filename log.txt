@@ -7625,3 +7625,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0093. ✅ test: add unit test for quiz service
 0750. 🎨 style: apply consistent indentation
+0772. 🐛 fix: fix null pointer exception on login
