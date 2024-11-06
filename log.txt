@@ -10604,3 +10604,4 @@
 0210. 🎨 style: apply consistent indentation
 0077. ♻️ chore: rename env.example
 0910. 🎨 style: remove trailing whitespace
+0706. ✨ feat: support email verification
