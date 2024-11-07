@@ -590,3 +590,4 @@
 0646. ✅ test: test user registration edge cases
 0971. 🎨 style: standardize quote style
 0740. 🐛 fix: resolve issue with date parsing
+0192. ✨ feat: enable dark mode toggle
