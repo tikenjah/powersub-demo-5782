@@ -6281,3 +6281,4 @@
 0101. 📚 docs: clarify environment setup
 0128. ♻️ chore: rename env.example
 0398. 🚀 perf: cache repeated calculations
+0618. ✨ feat: support email verification
