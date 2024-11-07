@@ -9603,3 +9603,4 @@
 0742. 📚 docs: clarify environment setup
 0380. 🐛 fix: fix null pointer exception on login
 0102. ✨ feat: support email verification
+0331. 🐛 fix: fix broken CSS in mobile view
