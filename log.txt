@@ -7627,3 +7627,4 @@
 0750. 🎨 style: apply consistent indentation
 0772. 🐛 fix: fix null pointer exception on login
 0376. 🎨 style: apply consistent indentation
+0447. ♻️ chore: bump dependencies
