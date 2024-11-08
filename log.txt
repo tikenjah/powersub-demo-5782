@@ -597,3 +597,4 @@
 0376. 🎨 style: apply consistent indentation
 0883. 📚 docs: improve code comments in utils
 0923. ✨ feat: support email verification
+0059. ♻️ chore: bump dependencies
