@@ -607,3 +607,4 @@
 0641. 📚 docs: write FAQ section
 0361. ✨ feat: support email verification
 0561. 📚 docs: write FAQ section
+0724. ✅ test: mock database connection in test suite
