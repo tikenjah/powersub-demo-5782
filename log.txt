@@ -6611,3 +6611,4 @@
 0287. 📚 docs: write FAQ section
 0039. ✅ test: add integration test for /submit endpoint
 0450. 🐛 fix: fix broken CSS in mobile view
+0769. ✨ feat: create admin dashboard
