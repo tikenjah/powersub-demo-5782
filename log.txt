@@ -604,3 +604,4 @@
 0264. 🚀 perf: optimize database query for quiz results
 0891. ✨ feat: create admin dashboard
 0888. 🚀 perf: lazy-load components
+0641. 📚 docs: write FAQ section
