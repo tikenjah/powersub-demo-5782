@@ -6284,3 +6284,4 @@
 0618. ✨ feat: support email verification
 0513. ♻️ chore: bump dependencies
 0622. 🎨 style: apply consistent indentation
+0456. 🚀 perf: optimize database query for quiz results
