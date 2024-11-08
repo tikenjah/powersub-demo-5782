@@ -599,3 +599,4 @@
 0923. ✨ feat: support email verification
 0059. ♻️ chore: bump dependencies
 0566. 📚 docs: write FAQ section
+0021. ✨ feat: support email verification
