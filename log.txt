@@ -605,3 +605,4 @@
 0891. ✨ feat: create admin dashboard
 0888. 🚀 perf: lazy-load components
 0641. 📚 docs: write FAQ section
+0361. ✨ feat: support email verification
