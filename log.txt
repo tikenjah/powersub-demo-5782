@@ -8610,3 +8610,4 @@
 0177. 📚 docs: add API usage examples
 0707. 🎨 style: apply consistent indentation
 0238. 🎨 style: apply consistent indentation
+0981. 🚀 perf: lazy-load components
