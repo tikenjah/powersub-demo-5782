@@ -7634,3 +7634,4 @@
 0581. ✅ test: add integration test for /submit endpoint
 0105. 🐛 fix: correct typo in registration form
 0339. 📚 docs: update README with setup steps
+0094. 📚 docs: document token refresh logic
