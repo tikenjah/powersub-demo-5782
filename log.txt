@@ -622,3 +622,4 @@
 0726. ✨ feat: enable dark mode toggle
 0521. 🎨 style: standardize quote style
 0002. 🚀 perf: cache repeated calculations
+0894. ✅ test: add integration test for /submit endpoint
