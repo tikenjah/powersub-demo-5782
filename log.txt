@@ -621,3 +621,4 @@
 0302. ✨ feat: implement quiz timer feature
 0726. ✨ feat: enable dark mode toggle
 0521. 🎨 style: standardize quote style
+0002. 🚀 perf: cache repeated calculations
