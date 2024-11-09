@@ -613,3 +613,4 @@
 0965. 🎨 style: reformat files with black
 0751. 🐛 fix: handle 500 error in quiz API
 0477. 🐛 fix: fix broken CSS in mobile view
+0571. 🔧 refactor: clean up auth middleware
