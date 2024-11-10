@@ -5277,3 +5277,4 @@
 0262. 🎨 style: remove trailing whitespace
 0274. 🔧 refactor: refactor quiz grading logic
 0170. ✅ test: increase coverage on auth module
+0172. 📚 docs: add API usage examples
