@@ -6614,3 +6614,4 @@
 0769. ✨ feat: create admin dashboard
 0578. ✅ test: add integration test for /submit endpoint
 0482. ✨ feat: add export to CSV option
+0225. 🚀 perf: reduce image load time
