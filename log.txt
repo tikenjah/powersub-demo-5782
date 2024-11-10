@@ -11630,3 +11630,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0741. 🎨 style: apply consistent indentation
 0663. 🚀 perf: reduce image load time
+0682. ♻️ chore: rename env.example
