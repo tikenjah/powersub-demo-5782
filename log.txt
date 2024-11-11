@@ -6619,3 +6619,4 @@
 0990. ♻️ chore: rename env.example
 0369. 🎨 style: standardize quote style
 0454. ♻️ chore: bump dependencies
+0367. 🐛 fix: fix null pointer exception on login
