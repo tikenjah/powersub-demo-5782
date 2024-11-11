@@ -6288,3 +6288,4 @@
 0911. ✅ test: increase coverage on auth module
 0490. ✨ feat: create admin dashboard
 0076. 🎨 style: reformat files with black
+0829. 🔧 refactor: organize models into subfolders
