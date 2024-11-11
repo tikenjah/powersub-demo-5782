@@ -633,3 +633,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0219. ✅ test: increase coverage on auth module
 0404. 📚 docs: improve code comments in utils
+0257. 📚 docs: clarify environment setup
