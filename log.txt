@@ -8615,3 +8615,4 @@
 0980. 🎨 style: reformat files with black
 0971. 🎨 style: standardize quote style
 0739. 🎨 style: remove trailing whitespace
+0683. ✅ test: mock database connection in test suite
