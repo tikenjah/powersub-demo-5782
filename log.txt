@@ -6621,3 +6621,4 @@
 0454. ♻️ chore: bump dependencies
 0367. 🐛 fix: fix null pointer exception on login
 0635. 🎨 style: apply consistent indentation
+0384. 📚 docs: clarify environment setup
