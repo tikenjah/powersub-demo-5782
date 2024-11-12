@@ -7645,3 +7645,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0001. 🚀 perf: cache repeated calculations
 0591. ♻️ chore: clean up unused files
+0565. ♻️ chore: add GitHub actions badge
