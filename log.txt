@@ -654,3 +654,4 @@
 0010. ✨ feat: add user authentication
 0866. 📚 docs: add API usage examples
 0860. 🔧 refactor: organize models into subfolders
+0772. 🐛 fix: fix null pointer exception on login
