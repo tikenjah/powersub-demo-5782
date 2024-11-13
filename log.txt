@@ -668,3 +668,4 @@
 0762. 🚀 perf: lazy-load components
 0879. 🎨 style: standardize quote style
 0646. ✅ test: test user registration edge cases
+0461. ✨ feat: add user authentication
