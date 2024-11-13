@@ -665,3 +665,4 @@
 0861. ♻️ chore: clean up unused files
 0609. 🐛 fix: handle 500 error in quiz API
 0080. ✨ feat: support email verification
+0762. 🚀 perf: lazy-load components
