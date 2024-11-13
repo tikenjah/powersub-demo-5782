@@ -11643,3 +11643,4 @@
 0560. 🎨 style: rename variables for clarity
 0791. 🔧 refactor: clean up auth middleware
 0606. 📚 docs: improve code comments in utils
+0237. 🎨 style: standardize quote style
