@@ -8621,3 +8621,4 @@
 0333. 🚀 perf: cache repeated calculations
 0822. 🔧 refactor: remove redundant code blocks
 0122. ✨ feat: support email verification
+0148. 🔧 refactor: organize models into subfolders
