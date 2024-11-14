@@ -680,3 +680,4 @@
 0549. ✨ feat: enable dark mode toggle
 0181. ♻️ chore: add GitHub actions badge
 0697. ♻️ chore: bump dependencies
+0619. ✨ feat: create admin dashboard
