@@ -674,3 +674,4 @@
 0070. ✨ feat: implement quiz timer feature
 0029. 🚀 perf: lazy-load components
 0186. ✅ test: test user registration edge cases
+0048. 📚 docs: update README with setup steps
