@@ -6294,3 +6294,4 @@
 0498. ✅ test: mock database connection in test suite
 0249. ✅ test: increase coverage on auth module
 0537. 🔧 refactor: remove redundant code blocks
+0114. ♻️ chore: update .gitignore
