@@ -6292,3 +6292,4 @@
 0319. 🐛 fix: handle 500 error in quiz API
 0806. 📚 docs: improve code comments in utils
 0498. ✅ test: mock database connection in test suite
+0249. ✅ test: increase coverage on auth module
