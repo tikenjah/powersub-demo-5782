@@ -5290,3 +5290,4 @@
 0253. 📚 docs: update README with setup steps
 0715. ✨ feat: create admin dashboard
 0694. 🎨 style: rename variables for clarity
+0639. 🐛 fix: correct typo in registration form
