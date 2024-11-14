@@ -682,3 +682,4 @@
 0697. ♻️ chore: bump dependencies
 0619. ✨ feat: create admin dashboard
 0879. 🎨 style: standardize quote style
+0324. 📚 docs: document token refresh logic
