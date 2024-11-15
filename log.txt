@@ -6634,3 +6634,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0289. 🐛 fix: resolve issue with date parsing
 0360. ✨ feat: add export to CSV option
+0645. 🐛 fix: resolve issue with date parsing
