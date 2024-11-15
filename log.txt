@@ -11648,3 +11648,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0691. 🎨 style: rename variables for clarity
 0648. ♻️ chore: bump dependencies
+0218. 🔧 refactor: clean up auth middleware
