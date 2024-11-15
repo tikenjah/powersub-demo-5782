@@ -9627,3 +9627,4 @@
 0879. 🎨 style: standardize quote style
 0374. 🎨 style: standardize quote style
 0402. 🎨 style: reformat files with black
+0095. ✅ test: mock database connection in test suite
