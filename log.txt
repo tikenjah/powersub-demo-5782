@@ -689,3 +689,4 @@
 0642. 🚀 perf: optimize database query for quiz results
 0742. 📚 docs: clarify environment setup
 0596. ♻️ chore: update .gitignore
+0192. ✨ feat: enable dark mode toggle
