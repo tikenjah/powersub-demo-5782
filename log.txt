@@ -692,3 +692,4 @@
 0192. ✨ feat: enable dark mode toggle
 0119. 📚 docs: improve code comments in utils
 0180. ✨ feat: add export to CSV option
+0593. 🐛 fix: correct typo in registration form
