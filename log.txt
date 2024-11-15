@@ -6631,3 +6631,4 @@
 0173. 🚀 perf: cache repeated calculations
 0905. ♻️ chore: bump dependencies
 0461. ✨ feat: add user authentication
+0865. ♻️ chore: add GitHub actions badge
