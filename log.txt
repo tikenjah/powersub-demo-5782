@@ -5298,3 +5298,4 @@
 0453. 🎨 style: standardize quote style
 0041. 🐛 fix: fix broken CSS in mobile view
 0095. ✅ test: mock database connection in test suite
+0186. ✅ test: test user registration edge cases
