@@ -705,3 +705,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0796. 🔧 refactor: refactor quiz grading logic
 0934. ✨ feat: support email verification
+0430. 🐛 fix: fix null pointer exception on login
