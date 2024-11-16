@@ -6635,3 +6635,4 @@
 0289. 🐛 fix: resolve issue with date parsing
 0360. ✨ feat: add export to CSV option
 0645. 🐛 fix: resolve issue with date parsing
+0795. 📚 docs: update README with setup steps
