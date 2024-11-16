@@ -709,3 +709,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0970. ♻️ chore: update .gitignore
 0298. ♻️ chore: update .gitignore
+0818. 🔧 refactor: remove redundant code blocks
