@@ -723,3 +723,4 @@
 0124. 🎨 style: reformat files with black
 0670. ✨ feat: add export to CSV option
 0784. ♻️ chore: clean up unused files
+0760. 🐛 fix: resolve issue with date parsing
