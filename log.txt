@@ -9634,3 +9634,4 @@
 0238. 🎨 style: apply consistent indentation
 0220. 🐛 fix: fix null pointer exception on login
 0997. ✅ test: increase coverage on auth module
+0293. ✅ test: add integration test for /submit endpoint
