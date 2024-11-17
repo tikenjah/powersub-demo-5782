@@ -9633,3 +9633,4 @@
 0910. 🎨 style: remove trailing whitespace
 0238. 🎨 style: apply consistent indentation
 0220. 🐛 fix: fix null pointer exception on login
+0997. ✅ test: increase coverage on auth module
