@@ -9636,3 +9636,4 @@
 0997. ✅ test: increase coverage on auth module
 0293. ✅ test: add integration test for /submit endpoint
 0470. 🎨 style: remove trailing whitespace
+0590. 🐛 fix: fix null pointer exception on login
