@@ -6300,3 +6300,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0522. 🐛 fix: handle 500 error in quiz API
 0158. 📚 docs: clarify environment setup
+0505. ♻️ chore: add GitHub actions badge
