@@ -736,3 +736,4 @@
 0788. 📚 docs: add API usage examples
 0179. 🔧 refactor: split large controller into smaller functions
 0696. 🔧 refactor: clean up auth middleware
+0407. 🚀 perf: cache repeated calculations
