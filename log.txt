@@ -732,3 +732,4 @@
 0409. 🚀 perf: lazy-load components
 0183. 🔧 refactor: split large controller into smaller functions
 0115. 🚀 perf: reduce image load time
+0249. ✅ test: increase coverage on auth module
