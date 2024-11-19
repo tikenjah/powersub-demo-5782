@@ -744,3 +744,4 @@
 0648. ♻️ chore: bump dependencies
 0598. 🔧 refactor: remove redundant code blocks
 0105. 🐛 fix: correct typo in registration form
+0357. ✅ test: add unit test for quiz service
