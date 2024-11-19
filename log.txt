@@ -8631,3 +8631,4 @@
 0253. 📚 docs: update README with setup steps
 0795. 📚 docs: update README with setup steps
 0764. ✨ feat: add user authentication
+0008. 🚀 perf: reduce image load time
