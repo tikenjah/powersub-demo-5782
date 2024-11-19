@@ -8630,3 +8630,4 @@
 0611. ✅ test: test user registration edge cases
 0253. 📚 docs: update README with setup steps
 0795. 📚 docs: update README with setup steps
+0764. ✨ feat: add user authentication
