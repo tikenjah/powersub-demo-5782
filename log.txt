@@ -8629,3 +8629,4 @@
 0101. 📚 docs: clarify environment setup
 0611. ✅ test: test user registration edge cases
 0253. 📚 docs: update README with setup steps
+0795. 📚 docs: update README with setup steps
