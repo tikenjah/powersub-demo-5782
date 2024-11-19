@@ -748,3 +748,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0199. ✨ feat: create admin dashboard
 0380. 🐛 fix: fix null pointer exception on login
+0240. 🔧 refactor: remove redundant code blocks
