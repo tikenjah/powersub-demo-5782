@@ -756,3 +756,4 @@
 0260. ✨ feat: create admin dashboard
 0880. 🐛 fix: fix broken CSS in mobile view
 0503. ♻️ chore: rename env.example
+0049. 🐛 fix: handle 500 error in quiz API
