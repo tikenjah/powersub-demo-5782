@@ -752,3 +752,4 @@
 0848. 📚 docs: update README with setup steps
 0045. 🎨 style: apply consistent indentation
 0604. 📚 docs: add API usage examples
+0542. 🔧 refactor: organize models into subfolders
