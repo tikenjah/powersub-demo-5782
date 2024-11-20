@@ -12,3 +12,4 @@
 0244. ✨ feat: add export to CSV option
 0854. ♻️ chore: rename env.example
 0393. 🚀 perf: lazy-load components
+0759. 🔧 refactor: organize models into subfolders
