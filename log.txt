@@ -7676,3 +7676,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0726. ✨ feat: enable dark mode toggle
 0599. ✅ test: test user registration edge cases
+0923. ✨ feat: support email verification
