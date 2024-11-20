@@ -757,3 +757,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0503. ♻️ chore: rename env.example
 0049. 🐛 fix: handle 500 error in quiz API
+0954. 🚀 perf: cache repeated calculations
