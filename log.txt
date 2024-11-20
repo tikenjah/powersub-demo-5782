@@ -763,3 +763,4 @@
 0547. 📚 docs: write FAQ section
 0804. ♻️ chore: add GitHub actions badge
 0406. ✨ feat: add export to CSV option
+0247. 🎨 style: apply consistent indentation
