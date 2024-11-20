@@ -8633,3 +8633,4 @@
 0764. ✨ feat: add user authentication
 0008. 🚀 perf: reduce image load time
 0580. ♻️ chore: bump dependencies
+0809. ♻️ chore: rename env.example
