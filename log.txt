@@ -8636,3 +8636,4 @@
 0809. ♻️ chore: rename env.example
 0745. ✅ test: add unit test for quiz service
 0265. 🎨 style: reformat files with black
+0826. 📚 docs: clarify environment setup
