@@ -767,3 +767,4 @@
 0280. ✅ test: add integration test for /submit endpoint
 0322. 🔧 refactor: split large controller into smaller functions
 0734. ✨ feat: add export to CSV option
+0786. ✨ feat: enable dark mode toggle
