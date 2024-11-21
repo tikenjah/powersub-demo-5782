@@ -10633,3 +10633,4 @@
 0424. ✨ feat: add user authentication
 0554. 📚 docs: improve code comments in utils
 0606. 📚 docs: improve code comments in utils
+0676. 🐛 fix: prevent crash on empty input
