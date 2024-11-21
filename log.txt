@@ -7679,3 +7679,4 @@
 0923. ✨ feat: support email verification
 0252. 🎨 style: remove trailing whitespace
 0035. ✅ test: increase coverage on auth module
+0463. 🚀 perf: reduce image load time
