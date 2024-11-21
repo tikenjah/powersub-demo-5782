@@ -773,3 +773,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0771. 🚀 perf: cache repeated calculations
 0770. ♻️ chore: rename env.example
+0719. 🎨 style: apply consistent indentation
