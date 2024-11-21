@@ -6652,3 +6652,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0589. 🐛 fix: fix broken CSS in mobile view
 0521. 🎨 style: standardize quote style
+0294. 🐛 fix: prevent crash on empty input
