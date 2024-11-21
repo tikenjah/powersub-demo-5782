@@ -775,3 +775,4 @@
 0770. ♻️ chore: rename env.example
 0719. 🎨 style: apply consistent indentation
 0467. ✅ test: add integration test for /submit endpoint
+0614. 🚀 perf: reduce image load time
