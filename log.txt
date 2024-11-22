@@ -5310,3 +5310,4 @@
 0197. 📚 docs: update README with setup steps
 0224. 🐛 fix: fix broken CSS in mobile view
 0256. ✅ test: mock database connection in test suite
+0544. 🔧 refactor: organize models into subfolders
