@@ -10637,3 +10637,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0840. 🔧 refactor: refactor quiz grading logic
 0524. ♻️ chore: rename env.example
+0929. ✨ feat: support email verification
