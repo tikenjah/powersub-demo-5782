@@ -5308,3 +5308,4 @@
 0461. ✨ feat: add user authentication
 0566. 📚 docs: write FAQ section
 0197. 📚 docs: update README with setup steps
+0224. 🐛 fix: fix broken CSS in mobile view
