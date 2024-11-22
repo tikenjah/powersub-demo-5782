@@ -6306,3 +6306,4 @@
 0916. ♻️ chore: bump dependencies
 0322. 🔧 refactor: split large controller into smaller functions
 0181. ♻️ chore: add GitHub actions badge
+0378. 🐛 fix: prevent crash on empty input
