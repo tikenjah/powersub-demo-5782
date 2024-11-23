@@ -798,3 +798,4 @@
 0024. 📚 docs: write FAQ section
 0388. 🎨 style: reformat files with black
 0965. 🎨 style: reformat files with black
+0308. 🚀 perf: reduce image load time
