@@ -10640,3 +10640,4 @@
 0929. ✨ feat: support email verification
 0171. 🐛 fix: fix broken CSS in mobile view
 0491. 🚀 perf: lazy-load components
+0438. ♻️ chore: bump dependencies
