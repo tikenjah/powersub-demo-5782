@@ -9652,3 +9652,4 @@
 0101. 📚 docs: clarify environment setup
 0535. 📚 docs: write FAQ section
 0044. ✅ test: add unit test for quiz service
+0250. 📚 docs: update README with setup steps
