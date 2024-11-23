@@ -800,3 +800,4 @@
 0965. 🎨 style: reformat files with black
 0308. 🚀 perf: reduce image load time
 0878. 🔧 refactor: split large controller into smaller functions
+0911. ✅ test: increase coverage on auth module
