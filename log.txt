@@ -11670,3 +11670,4 @@
 0677. 📚 docs: add API usage examples
 0834. ✅ test: increase coverage on auth module
 0099. 🚀 perf: reduce image load time
+0624. ✅ test: add unit test for quiz service
