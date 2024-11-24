@@ -9654,3 +9654,4 @@
 0044. ✅ test: add unit test for quiz service
 0250. 📚 docs: update README with setup steps
 0974. ✨ feat: add export to CSV option
+0281. ✨ feat: support email verification
