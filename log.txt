@@ -5311,3 +5311,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0256. ✅ test: mock database connection in test suite
 0544. 🔧 refactor: organize models into subfolders
+0520. 🐛 fix: fix null pointer exception on login
