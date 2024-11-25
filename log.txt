@@ -8648,3 +8648,4 @@
 0252. 🎨 style: remove trailing whitespace
 0003. ✅ test: increase coverage on auth module
 0248. 🐛 fix: handle 500 error in quiz API
+0774. 🔧 refactor: refactor quiz grading logic
