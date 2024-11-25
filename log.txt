@@ -819,3 +819,4 @@
 0245. 🐛 fix: resolve issue with date parsing
 0365. 🚀 perf: reduce image load time
 0231. 🔧 refactor: clean up auth middleware
+0437. 📚 docs: clarify environment setup
