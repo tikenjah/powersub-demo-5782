@@ -5318,3 +5318,4 @@
 0314. ✨ feat: implement quiz timer feature
 0790. 📚 docs: write FAQ section
 0170. ✅ test: increase coverage on auth module
+0474. ✅ test: add unit test for quiz service
