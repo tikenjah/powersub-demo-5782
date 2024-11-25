@@ -8650,3 +8650,4 @@
 0248. 🐛 fix: handle 500 error in quiz API
 0774. 🔧 refactor: refactor quiz grading logic
 0552. 🐛 fix: fix null pointer exception on login
+0699. 🎨 style: standardize quote style
