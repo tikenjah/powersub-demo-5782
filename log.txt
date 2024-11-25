@@ -818,3 +818,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0245. 🐛 fix: resolve issue with date parsing
 0365. 🚀 perf: reduce image load time
+0231. 🔧 refactor: clean up auth middleware
