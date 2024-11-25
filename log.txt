@@ -830,3 +830,4 @@
 0875. ✅ test: increase coverage on auth module
 0831. 📚 docs: clarify environment setup
 0031. 📚 docs: document token refresh logic
+0969. ✨ feat: create admin dashboard
