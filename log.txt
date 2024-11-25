@@ -9655,3 +9655,4 @@
 0250. 📚 docs: update README with setup steps
 0974. ✨ feat: add export to CSV option
 0281. ✨ feat: support email verification
+0901. ✨ feat: add user authentication
