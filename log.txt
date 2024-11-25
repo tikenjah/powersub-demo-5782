@@ -6664,3 +6664,4 @@
 0918. ✨ feat: enable dark mode toggle
 0206. 🐛 fix: handle 500 error in quiz API
 0353. ♻️ chore: rename env.example
+0930. 🎨 style: apply consistent indentation
