@@ -827,3 +827,4 @@
 0995. ✅ test: mock database connection in test suite
 0032. 🎨 style: apply consistent indentation
 0637. 🎨 style: apply consistent indentation
+0875. ✅ test: increase coverage on auth module
