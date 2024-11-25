@@ -829,3 +829,4 @@
 0637. 🎨 style: apply consistent indentation
 0875. ✅ test: increase coverage on auth module
 0831. 📚 docs: clarify environment setup
+0031. 📚 docs: document token refresh logic
