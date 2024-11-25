@@ -832,3 +832,4 @@
 0031. 📚 docs: document token refresh logic
 0969. ✨ feat: create admin dashboard
 0757. 🔧 refactor: remove redundant code blocks
+0574. ✨ feat: enable dark mode toggle
