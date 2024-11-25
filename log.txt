@@ -9657,3 +9657,4 @@
 0281. ✨ feat: support email verification
 0901. ✨ feat: add user authentication
 0640. ♻️ chore: bump dependencies
+0958. 🐛 fix: prevent crash on empty input
