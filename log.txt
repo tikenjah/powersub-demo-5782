@@ -839,3 +839,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0431. 🎨 style: reformat files with black
 0411. ✅ test: add unit test for quiz service
+0133. 🐛 fix: fix null pointer exception on login
