@@ -5322,3 +5322,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0912. 📚 docs: document token refresh logic
 0197. 📚 docs: update README with setup steps
+0849. 🐛 fix: correct typo in registration form
