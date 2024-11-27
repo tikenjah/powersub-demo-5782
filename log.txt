@@ -9660,3 +9660,4 @@
 0958. 🐛 fix: prevent crash on empty input
 0096. 🐛 fix: prevent crash on empty input
 0513. ♻️ chore: bump dependencies
+0522. 🐛 fix: handle 500 error in quiz API
