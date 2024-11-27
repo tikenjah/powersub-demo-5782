@@ -8654,3 +8654,4 @@
 0903. ✅ test: mock database connection in test suite
 0772. 🐛 fix: fix null pointer exception on login
 0339. 📚 docs: update README with setup steps
+0426. ✅ test: add integration test for /submit endpoint
