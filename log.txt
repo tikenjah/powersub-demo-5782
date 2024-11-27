@@ -848,3 +848,4 @@
 0509. ♻️ chore: bump dependencies
 0755. 🚀 perf: cache repeated calculations
 0813. 🔧 refactor: organize models into subfolders
+0329. 📚 docs: update README with setup steps
