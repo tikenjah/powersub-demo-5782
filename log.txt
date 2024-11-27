@@ -11677,3 +11677,4 @@
 0722. 📚 docs: add API usage examples
 0616. 🚀 perf: lazy-load components
 0012. 🚀 perf: cache repeated calculations
+0434. 📚 docs: document token refresh logic
