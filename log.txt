@@ -853,3 +853,4 @@
 0493. ✨ feat: add user authentication
 0036. 🔧 refactor: clean up auth middleware
 0740. 🐛 fix: resolve issue with date parsing
+0524. ♻️ chore: rename env.example
