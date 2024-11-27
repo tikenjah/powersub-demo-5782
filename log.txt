@@ -852,3 +852,4 @@
 0449. ✅ test: add unit test for quiz service
 0493. ✨ feat: add user authentication
 0036. 🔧 refactor: clean up auth middleware
+0740. 🐛 fix: resolve issue with date parsing
