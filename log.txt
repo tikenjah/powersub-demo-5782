@@ -16,3 +16,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0370. 🚀 perf: reduce image load time
 0655. 🚀 perf: cache repeated calculations
+0561. 📚 docs: write FAQ section
