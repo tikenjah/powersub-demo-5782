@@ -850,3 +850,4 @@
 0813. 🔧 refactor: organize models into subfolders
 0329. 📚 docs: update README with setup steps
 0449. ✅ test: add unit test for quiz service
+0493. ✨ feat: add user authentication
