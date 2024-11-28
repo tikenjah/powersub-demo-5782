@@ -9666,3 +9666,4 @@
 0627. 📚 docs: document token refresh logic
 0819. 🚀 perf: reduce image load time
 0085. ✨ feat: support email verification
+0265. 🎨 style: reformat files with black
