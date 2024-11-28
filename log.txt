@@ -8659,3 +8659,4 @@
 0765. ♻️ chore: clean up unused files
 0647. 🐛 fix: prevent crash on empty input
 0196. ♻️ chore: bump dependencies
+0584. 🚀 perf: lazy-load components
