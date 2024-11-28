@@ -6669,3 +6669,4 @@
 0831. 📚 docs: clarify environment setup
 0748. 🚀 perf: optimize database query for quiz results
 0714. 📚 docs: improve code comments in utils
+0979. 🎨 style: standardize quote style
