@@ -10654,3 +10654,4 @@
 0833. ✨ feat: add user authentication
 0040. 🔧 refactor: clean up auth middleware
 0165. 🎨 style: remove trailing whitespace
+0567. 📚 docs: add API usage examples
