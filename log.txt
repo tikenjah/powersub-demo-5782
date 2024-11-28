@@ -861,3 +861,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0599. ✅ test: test user registration edge cases
 0086. 🐛 fix: correct typo in registration form
+0588. 🔧 refactor: organize models into subfolders
