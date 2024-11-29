@@ -11685,3 +11685,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0547. 📚 docs: write FAQ section
 0428. 🐛 fix: fix null pointer exception on login
+0023. 📚 docs: clarify environment setup
