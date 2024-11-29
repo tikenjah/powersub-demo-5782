@@ -5325,3 +5325,4 @@
 0849. 🐛 fix: correct typo in registration form
 0781. 🚀 perf: reduce image load time
 0766. 🎨 style: reformat files with black
+0506. 🐛 fix: handle 500 error in quiz API
