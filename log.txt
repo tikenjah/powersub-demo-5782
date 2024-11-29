@@ -5324,3 +5324,4 @@
 0197. 📚 docs: update README with setup steps
 0849. 🐛 fix: correct typo in registration form
 0781. 🚀 perf: reduce image load time
+0766. 🎨 style: reformat files with black
