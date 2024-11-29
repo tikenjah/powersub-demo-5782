@@ -869,3 +869,4 @@
 0481. ✅ test: add unit test for quiz service
 0884. 📚 docs: clarify environment setup
 0102. ✨ feat: support email verification
+0057. 🚀 perf: optimize database query for quiz results
