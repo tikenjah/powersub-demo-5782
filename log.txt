@@ -878,3 +878,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0392. 🎨 style: remove trailing whitespace
 0796. 🔧 refactor: refactor quiz grading logic
+0919. 🚀 perf: optimize database query for quiz results
