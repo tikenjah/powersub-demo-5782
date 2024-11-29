@@ -877,3 +877,4 @@
 0811. 🎨 style: reformat files with black
 0671. 🐛 fix: fix null pointer exception on login
 0392. 🎨 style: remove trailing whitespace
+0796. 🔧 refactor: refactor quiz grading logic
