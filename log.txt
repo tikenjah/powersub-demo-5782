@@ -9669,3 +9669,4 @@
 0265. 🎨 style: reformat files with black
 0237. 🎨 style: standardize quote style
 0435. ✅ test: add unit test for quiz service
+0531. 🐛 fix: prevent crash on empty input
