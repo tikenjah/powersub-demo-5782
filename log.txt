@@ -873,3 +873,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0869. ♻️ chore: bump dependencies
 0644. 🎨 style: apply consistent indentation
+0140. 🐛 fix: handle 500 error in quiz API
