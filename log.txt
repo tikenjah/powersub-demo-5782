@@ -5327,3 +5327,4 @@
 0766. 🎨 style: reformat files with black
 0506. 🐛 fix: handle 500 error in quiz API
 0087. ✨ feat: add export to CSV option
+0433. 🐛 fix: prevent crash on empty input
