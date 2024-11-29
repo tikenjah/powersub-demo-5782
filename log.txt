@@ -879,3 +879,4 @@
 0392. 🎨 style: remove trailing whitespace
 0796. 🔧 refactor: refactor quiz grading logic
 0919. 🚀 perf: optimize database query for quiz results
+0317. ✅ test: test user registration edge cases
