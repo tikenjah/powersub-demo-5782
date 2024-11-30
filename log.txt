@@ -11689,3 +11689,4 @@
 0325. 🎨 style: rename variables for clarity
 0844. 📚 docs: update README with setup steps
 0822. 🔧 refactor: remove redundant code blocks
+0149. ✨ feat: add export to CSV option
