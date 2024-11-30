@@ -897,3 +897,4 @@
 0455. ♻️ chore: clean up unused files
 0123. ✨ feat: implement quiz timer feature
 0725. 🚀 perf: lazy-load components
+0869. ♻️ chore: bump dependencies
