@@ -886,3 +886,4 @@
 0546. 🐛 fix: fix null pointer exception on login
 0682. ♻️ chore: rename env.example
 0324. 📚 docs: document token refresh logic
+0568. 🐛 fix: handle 500 error in quiz API
