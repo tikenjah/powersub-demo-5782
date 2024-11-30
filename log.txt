@@ -893,3 +893,4 @@
 0870. ♻️ chore: clean up unused files
 0265. 🎨 style: reformat files with black
 0458. ✨ feat: create admin dashboard
+0618. ✨ feat: support email verification
