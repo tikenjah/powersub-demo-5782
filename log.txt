@@ -8662,3 +8662,4 @@
 0584. 🚀 perf: lazy-load components
 0089. 🔧 refactor: remove redundant code blocks
 0020. ✅ test: add integration test for /submit endpoint
+0320. 📚 docs: update README with setup steps
