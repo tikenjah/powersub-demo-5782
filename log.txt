@@ -8665,3 +8665,4 @@
 0320. 📚 docs: update README with setup steps
 0133. 🐛 fix: fix null pointer exception on login
 0371. ✅ test: add integration test for /submit endpoint
+0235. 🐛 fix: fix null pointer exception on login
