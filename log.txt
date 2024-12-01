@@ -903,3 +903,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0244. ✨ feat: add export to CSV option
 0334. 🚀 perf: cache repeated calculations
+0763. 🔧 refactor: organize models into subfolders
