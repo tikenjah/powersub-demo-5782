@@ -907,3 +907,4 @@
 0784. ♻️ chore: clean up unused files
 0316. 🐛 fix: fix broken CSS in mobile view
 0454. ♻️ chore: bump dependencies
+0839. 🎨 style: apply consistent indentation
