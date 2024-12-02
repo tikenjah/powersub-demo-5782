@@ -11691,3 +11691,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0149. ✨ feat: add export to CSV option
 0724. ✅ test: mock database connection in test suite
+0860. 🔧 refactor: organize models into subfolders
