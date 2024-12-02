@@ -6680,3 +6680,4 @@
 0766. 🎨 style: reformat files with black
 0146. 🎨 style: apply consistent indentation
 0410. 🎨 style: reformat files with black
+0174. 📚 docs: clarify environment setup
