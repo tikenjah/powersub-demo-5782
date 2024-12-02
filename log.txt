@@ -916,3 +916,4 @@
 0605. ✨ feat: support email verification
 0780. 📚 docs: add API usage examples
 0858. ♻️ chore: clean up unused files
+0666. 🐛 fix: fix broken CSS in mobile view
