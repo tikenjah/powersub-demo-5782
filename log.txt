@@ -9674,3 +9674,4 @@
 0056. ♻️ chore: rename env.example
 0848. 📚 docs: update README with setup steps
 0161. ✨ feat: create admin dashboard
+0216. 🎨 style: rename variables for clarity
