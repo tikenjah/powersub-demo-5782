@@ -913,3 +913,4 @@
 0582. ✨ feat: add export to CSV option
 0150. 🎨 style: remove trailing whitespace
 0165. 🎨 style: remove trailing whitespace
+0605. ✨ feat: support email verification
