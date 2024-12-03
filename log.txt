@@ -6683,3 +6683,4 @@
 0174. 📚 docs: clarify environment setup
 0822. 🔧 refactor: remove redundant code blocks
 0152. ✨ feat: add user authentication
+0088. 📚 docs: add API usage examples
