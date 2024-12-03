@@ -5336,3 +5336,4 @@
 0663. 🚀 perf: reduce image load time
 0958. 🐛 fix: prevent crash on empty input
 0443. 🎨 style: standardize quote style
+0135. ✅ test: test user registration edge cases
