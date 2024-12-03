@@ -6336,3 +6336,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0613. 🐛 fix: prevent crash on empty input
 0936. 🔧 refactor: organize models into subfolders
+0025. 🚀 perf: optimize database query for quiz results
