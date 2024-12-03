@@ -919,3 +919,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0038. 🎨 style: rename variables for clarity
 0985. 📚 docs: document token refresh logic
+0630. 🚀 perf: lazy-load components
