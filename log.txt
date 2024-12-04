@@ -6686,3 +6686,4 @@
 0088. 📚 docs: add API usage examples
 0968. 🎨 style: standardize quote style
 0749. ✨ feat: support email verification
+0478. 🐛 fix: resolve issue with date parsing
