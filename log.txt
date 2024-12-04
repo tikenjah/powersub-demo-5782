@@ -10666,3 +10666,4 @@
 0266. 🔧 refactor: remove redundant code blocks
 0464. 🎨 style: remove trailing whitespace
 0513. ♻️ chore: bump dependencies
+0636. ✅ test: increase coverage on auth module
