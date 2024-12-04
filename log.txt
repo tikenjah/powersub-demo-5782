@@ -934,3 +934,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0667. ✨ feat: add export to CSV option
 0603. 🐛 fix: fix broken CSS in mobile view
+0667. ✨ feat: add export to CSV option
