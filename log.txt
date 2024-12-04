@@ -941,3 +941,4 @@
 0015. ✨ feat: implement quiz timer feature
 0006. 🐛 fix: prevent crash on empty input
 0017. ✅ test: mock database connection in test suite
+0771. 🚀 perf: cache repeated calculations
