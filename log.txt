@@ -9678,3 +9678,4 @@
 0333. 🚀 perf: cache repeated calculations
 0461. ✨ feat: add user authentication
 0788. 📚 docs: add API usage examples
+0483. 📚 docs: update README with setup steps
