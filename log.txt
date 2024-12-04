@@ -8672,3 +8672,4 @@
 0388. 🎨 style: reformat files with black
 0899. 🚀 perf: cache repeated calculations
 0715. ✨ feat: create admin dashboard
+0609. 🐛 fix: handle 500 error in quiz API
