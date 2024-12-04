@@ -936,3 +936,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0667. ✨ feat: add export to CSV option
 0626. 🎨 style: standardize quote style
+0171. 🐛 fix: fix broken CSS in mobile view
