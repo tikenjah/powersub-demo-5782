@@ -939,3 +939,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0727. ♻️ chore: add GitHub actions badge
 0015. ✨ feat: implement quiz timer feature
+0006. 🐛 fix: prevent crash on empty input
