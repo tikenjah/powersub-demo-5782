@@ -956,3 +956,4 @@
 0028. 🎨 style: standardize quote style
 0377. ✨ feat: add user authentication
 0518. ✨ feat: support email verification
+0468. 📚 docs: update README with setup steps
