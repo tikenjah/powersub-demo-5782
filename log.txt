@@ -955,3 +955,4 @@
 0444. ✅ test: add unit test for quiz service
 0028. 🎨 style: standardize quote style
 0377. ✨ feat: add user authentication
+0518. ✨ feat: support email verification
