@@ -957,3 +957,4 @@
 0377. ✨ feat: add user authentication
 0518. ✨ feat: support email verification
 0468. 📚 docs: update README with setup steps
+0263. 📚 docs: add API usage examples
