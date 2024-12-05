@@ -7712,3 +7712,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0177. 📚 docs: add API usage examples
 0014. 🔧 refactor: remove redundant code blocks
+0621. 🔧 refactor: clean up auth middleware
