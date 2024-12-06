@@ -977,3 +977,4 @@
 0749. ✨ feat: support email verification
 0934. ✨ feat: support email verification
 0910. 🎨 style: remove trailing whitespace
+0492. 🎨 style: remove trailing whitespace
