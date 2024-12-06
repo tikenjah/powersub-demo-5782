@@ -5344,3 +5344,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0479. 🐛 fix: fix null pointer exception on login
 0229. 🚀 perf: optimize database query for quiz results
+0239. 🎨 style: standardize quote style
