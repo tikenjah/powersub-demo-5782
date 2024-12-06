@@ -6342,3 +6342,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0876. ♻️ chore: rename env.example
 0684. 🚀 perf: reduce image load time
+0033. 🎨 style: apply consistent indentation
