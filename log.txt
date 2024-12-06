@@ -965,3 +965,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0110. 🐛 fix: prevent crash on empty input
 0632. 🎨 style: remove trailing whitespace
+0353. ♻️ chore: rename env.example
