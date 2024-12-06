@@ -6693,3 +6693,4 @@
 0088. 📚 docs: add API usage examples
 0050. ✨ feat: enable dark mode toggle
 0667. ✨ feat: add export to CSV option
+0037. 🐛 fix: correct typo in registration form
