@@ -968,3 +968,4 @@
 0353. ♻️ chore: rename env.example
 0749. ✨ feat: support email verification
 0328. 🐛 fix: resolve issue with date parsing
+0885. ♻️ chore: update .gitignore
