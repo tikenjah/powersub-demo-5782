@@ -11699,3 +11699,4 @@
 0993. ✨ feat: implement quiz timer feature
 0992. ♻️ chore: clean up unused files
 0016. 🎨 style: apply consistent indentation
+0860. 🔧 refactor: organize models into subfolders
