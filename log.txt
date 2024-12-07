@@ -8686,3 +8686,4 @@
 0036. 🔧 refactor: clean up auth middleware
 0196. ♻️ chore: bump dependencies
 0710. 🐛 fix: fix broken CSS in mobile view
+0649. 📚 docs: update README with setup steps
