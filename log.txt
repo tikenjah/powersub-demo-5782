@@ -989,3 +989,4 @@
 0561. 📚 docs: write FAQ section
 0777. 📚 docs: document token refresh logic
 0374. 🎨 style: standardize quote style
+0565. ♻️ chore: add GitHub actions badge
