@@ -8685,3 +8685,4 @@
 0102. ✨ feat: support email verification
 0036. 🔧 refactor: clean up auth middleware
 0196. ♻️ chore: bump dependencies
+0710. 🐛 fix: fix broken CSS in mobile view
