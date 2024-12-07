@@ -984,3 +984,4 @@
 0560. 🎨 style: rename variables for clarity
 0722. 📚 docs: add API usage examples
 0524. ♻️ chore: rename env.example
+0022. 📚 docs: document token refresh logic
