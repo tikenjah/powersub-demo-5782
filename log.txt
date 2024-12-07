@@ -8682,3 +8682,4 @@
 0370. 🚀 perf: reduce image load time
 0995. ✅ test: mock database connection in test suite
 0200. 🐛 fix: handle 500 error in quiz API
+0102. ✨ feat: support email verification
