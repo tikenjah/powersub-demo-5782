@@ -1005,3 +1005,4 @@
 0100. ♻️ chore: update .gitignore
 0851. ✅ test: mock database connection in test suite
 0434. 📚 docs: document token refresh logic
+0851. ✅ test: mock database connection in test suite
