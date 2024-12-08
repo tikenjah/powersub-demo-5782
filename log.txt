@@ -1009,3 +1009,4 @@
 0516. ✅ test: add unit test for quiz service
 0876. ♻️ chore: rename env.example
 0610. 🚀 perf: lazy-load components
+0709. ♻️ chore: bump dependencies
