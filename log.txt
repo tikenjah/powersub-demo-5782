@@ -996,3 +996,4 @@
 0393. 🚀 perf: lazy-load components
 0940. 📚 docs: document token refresh logic
 0203. 🚀 perf: lazy-load components
+0122. ✨ feat: support email verification
