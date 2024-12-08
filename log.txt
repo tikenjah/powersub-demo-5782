@@ -8688,3 +8688,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0649. 📚 docs: update README with setup steps
 0890. 🔧 refactor: organize models into subfolders
+0718. 🐛 fix: resolve issue with date parsing
