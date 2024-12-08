@@ -10677,3 +10677,4 @@
 0594. 🎨 style: reformat files with black
 0562. 🔧 refactor: clean up auth middleware
 0763. 🔧 refactor: organize models into subfolders
+0890. 🔧 refactor: organize models into subfolders
