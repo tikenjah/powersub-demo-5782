@@ -23,3 +23,4 @@
 0639. 🐛 fix: correct typo in registration form
 0034. 📚 docs: improve code comments in utils
 0570. 🎨 style: apply consistent indentation
+0386. 🚀 perf: optimize database query for quiz results
