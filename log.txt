@@ -9693,3 +9693,4 @@
 0150. 🎨 style: remove trailing whitespace
 0775. 🐛 fix: fix null pointer exception on login
 0035. ✅ test: increase coverage on auth module
+0402. 🎨 style: reformat files with black
