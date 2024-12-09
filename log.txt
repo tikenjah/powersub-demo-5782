@@ -5353,3 +5353,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0261. 🔧 refactor: refactor quiz grading logic
 0493. ✨ feat: add user authentication
+0979. 🎨 style: standardize quote style
