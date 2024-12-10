@@ -9699,3 +9699,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0007. 🎨 style: rename variables for clarity
 0733. 🐛 fix: fix null pointer exception on login
+0933. 📚 docs: clarify environment setup
