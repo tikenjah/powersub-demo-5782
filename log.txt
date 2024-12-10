@@ -7726,3 +7726,4 @@
 0492. 🎨 style: remove trailing whitespace
 0945. ♻️ chore: add GitHub actions badge
 0936. 🔧 refactor: organize models into subfolders
+0695. ✨ feat: create admin dashboard
