@@ -1027,3 +1027,4 @@
 0752. ✅ test: add integration test for /submit endpoint
 0194. 🎨 style: standardize quote style
 0253. 📚 docs: update README with setup steps
+0770. ♻️ chore: rename env.example
