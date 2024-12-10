@@ -11709,3 +11709,4 @@
 0190. 🎨 style: rename variables for clarity
 0809. ♻️ chore: rename env.example
 0197. 📚 docs: update README with setup steps
+0623. 🎨 style: standardize quote style
