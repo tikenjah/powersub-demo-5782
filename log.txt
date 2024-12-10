@@ -6705,3 +6705,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0480. ♻️ chore: add GitHub actions badge
 0162. ♻️ chore: add GitHub actions badge
+0515. 🚀 perf: optimize database query for quiz results
