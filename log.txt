@@ -9701,3 +9701,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0933. 📚 docs: clarify environment setup
 0760. 🐛 fix: resolve issue with date parsing
+0504. 📚 docs: document token refresh logic
