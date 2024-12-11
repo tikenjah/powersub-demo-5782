@@ -1051,3 +1051,4 @@
 0269. ✅ test: test user registration edge cases
 0705. 🔧 refactor: refactor quiz grading logic
 0033. 🎨 style: apply consistent indentation
+0821. ✅ test: add integration test for /submit endpoint
