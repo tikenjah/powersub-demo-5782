@@ -1042,3 +1042,4 @@
 0471. ✨ feat: support email verification
 0365. 🚀 perf: reduce image load time
 0284. ✨ feat: implement quiz timer feature
+0863. 🐛 fix: correct typo in registration form
