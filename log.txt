@@ -11710,3 +11710,4 @@
 0809. ♻️ chore: rename env.example
 0197. 📚 docs: update README with setup steps
 0623. 🎨 style: standardize quote style
+0856. 🐛 fix: fix null pointer exception on login
