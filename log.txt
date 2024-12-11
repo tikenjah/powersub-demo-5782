@@ -8694,3 +8694,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0325. 🎨 style: rename variables for clarity
 0097. 🐛 fix: handle 500 error in quiz API
+0296. 🔧 refactor: organize models into subfolders
