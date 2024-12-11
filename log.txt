@@ -6358,3 +6358,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0169. 📚 docs: add API usage examples
 0009. ✨ feat: enable dark mode toggle
+0141. 📚 docs: document token refresh logic
