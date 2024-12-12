@@ -5356,3 +5356,4 @@
 0979. 🎨 style: standardize quote style
 0739. 🎨 style: remove trailing whitespace
 0965. 🎨 style: reformat files with black
+0879. 🎨 style: standardize quote style
