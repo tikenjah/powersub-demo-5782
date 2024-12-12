@@ -7731,3 +7731,4 @@
 0407. 🚀 perf: cache repeated calculations
 0883. 📚 docs: improve code comments in utils
 0519. 📚 docs: document token refresh logic
+0113. ✨ feat: add user authentication
