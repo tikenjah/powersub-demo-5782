@@ -10688,3 +10688,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0222. 🐛 fix: handle 500 error in quiz API
 0207. 🐛 fix: prevent crash on empty input
+0373. 📚 docs: document token refresh logic
