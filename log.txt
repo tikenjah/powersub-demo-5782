@@ -6709,3 +6709,4 @@
 0091. ✨ feat: add user authentication
 0165. 🎨 style: remove trailing whitespace
 0022. 📚 docs: document token refresh logic
+0379. ✨ feat: support email verification
