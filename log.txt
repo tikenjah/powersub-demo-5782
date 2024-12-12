@@ -10685,3 +10685,4 @@
 0388. 🎨 style: reformat files with black
 0223. 🔧 refactor: remove redundant code blocks
 0232. 🎨 style: apply consistent indentation
+0258. 🐛 fix: prevent crash on empty input
