@@ -1061,3 +1061,4 @@
 0915. 🚀 perf: cache repeated calculations
 0087. ✨ feat: add export to CSV option
 0850. ♻️ chore: rename env.example
+0813. 🔧 refactor: organize models into subfolders
