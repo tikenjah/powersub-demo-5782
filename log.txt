@@ -11712,3 +11712,4 @@
 0623. 🎨 style: standardize quote style
 0856. 🐛 fix: fix null pointer exception on login
 0101. 📚 docs: clarify environment setup
+0733. 🐛 fix: fix null pointer exception on login
