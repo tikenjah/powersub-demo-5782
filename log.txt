@@ -8698,3 +8698,4 @@
 0059. ♻️ chore: bump dependencies
 0085. ✨ feat: support email verification
 0449. ✅ test: add unit test for quiz service
+0467. ✅ test: add integration test for /submit endpoint
