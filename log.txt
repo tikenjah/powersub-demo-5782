@@ -7734,3 +7734,4 @@
 0113. ✨ feat: add user authentication
 0567. 📚 docs: add API usage examples
 0480. ♻️ chore: add GitHub actions badge
+0887. 📚 docs: add API usage examples
