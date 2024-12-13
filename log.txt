@@ -1069,3 +1069,4 @@
 0100. ♻️ chore: update .gitignore
 0443. 🎨 style: standardize quote style
 0787. ♻️ chore: rename env.example
+0008. 🚀 perf: reduce image load time
