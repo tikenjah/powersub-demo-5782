@@ -11715,3 +11715,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0269. ✅ test: test user registration edge cases
 0083. 🎨 style: reformat files with black
+0783. 🐛 fix: handle 500 error in quiz API
