@@ -1065,3 +1065,4 @@
 0202. 🔧 refactor: refactor quiz grading logic
 0354. 📚 docs: add API usage examples
 0485. 📚 docs: update README with setup steps
+0781. 🚀 perf: reduce image load time
