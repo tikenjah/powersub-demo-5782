@@ -5360,3 +5360,4 @@
 0055. 📚 docs: update README with setup steps
 0065. ✅ test: add integration test for /submit endpoint
 0875. ✅ test: increase coverage on auth module
+0736. 🐛 fix: fix null pointer exception on login
