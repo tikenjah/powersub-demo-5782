@@ -9708,3 +9708,4 @@
 0122. ✨ feat: support email verification
 0304. 🔧 refactor: remove redundant code blocks
 0594. 🎨 style: reformat files with black
+0092. 🚀 perf: reduce image load time
