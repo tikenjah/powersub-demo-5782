@@ -1089,3 +1089,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0895. ✨ feat: support email verification
 0222. 🐛 fix: handle 500 error in quiz API
+0160. ♻️ chore: bump dependencies
