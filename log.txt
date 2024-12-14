@@ -5367,3 +5367,4 @@
 0502. 📚 docs: update README with setup steps
 0222. 🐛 fix: handle 500 error in quiz API
 0719. 🎨 style: apply consistent indentation
+0833. ✨ feat: add user authentication
