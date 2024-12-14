@@ -1078,3 +1078,4 @@
 0196. ♻️ chore: bump dependencies
 0993. ✨ feat: implement quiz timer feature
 0763. 🔧 refactor: organize models into subfolders
+0393. 🚀 perf: lazy-load components
