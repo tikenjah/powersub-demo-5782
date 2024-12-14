@@ -7737,3 +7737,4 @@
 0887. 📚 docs: add API usage examples
 0996. ✅ test: test user registration edge cases
 0592. 📚 docs: add API usage examples
+0114. ♻️ chore: update .gitignore
