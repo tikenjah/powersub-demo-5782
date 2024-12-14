@@ -1082,3 +1082,4 @@
 0640. ♻️ chore: bump dependencies
 0972. 🔧 refactor: refactor quiz grading logic
 0001. 🚀 perf: cache repeated calculations
+0356. 📚 docs: write FAQ section
