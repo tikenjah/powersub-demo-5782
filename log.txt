@@ -10693,3 +10693,4 @@
 0369. 🎨 style: standardize quote style
 0116. ✨ feat: support email verification
 0718. 🐛 fix: resolve issue with date parsing
+0552. 🐛 fix: fix null pointer exception on login
