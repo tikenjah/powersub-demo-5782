@@ -7738,3 +7738,4 @@
 0996. ✅ test: test user registration edge cases
 0592. 📚 docs: add API usage examples
 0114. ♻️ chore: update .gitignore
+0378. 🐛 fix: prevent crash on empty input
