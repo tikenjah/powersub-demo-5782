@@ -6367,3 +6367,4 @@
 0580. ♻️ chore: bump dependencies
 0974. ✨ feat: add export to CSV option
 0016. 🎨 style: apply consistent indentation
+0767. 🔧 refactor: remove redundant code blocks
