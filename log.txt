@@ -1097,3 +1097,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0832. 🔧 refactor: remove redundant code blocks
 0922. 📚 docs: write FAQ section
+0590. 🐛 fix: fix null pointer exception on login
