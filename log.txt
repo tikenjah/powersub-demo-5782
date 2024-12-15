@@ -1099,3 +1099,4 @@
 0922. 📚 docs: write FAQ section
 0590. 🐛 fix: fix null pointer exception on login
 0235. 🐛 fix: fix null pointer exception on login
+0978. 🐛 fix: prevent crash on empty input
