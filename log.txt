@@ -1116,3 +1116,4 @@
 0868. ✅ test: add unit test for quiz service
 0839. 🎨 style: apply consistent indentation
 0805. ♻️ chore: add GitHub actions badge
+0473. 📚 docs: write FAQ section
