@@ -7744,3 +7744,4 @@
 0780. 📚 docs: add API usage examples
 0949. 📚 docs: write FAQ section
 0211. 🔧 refactor: remove redundant code blocks
+0356. 📚 docs: write FAQ section
