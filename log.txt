@@ -1108,3 +1108,4 @@
 0963. 🚀 perf: reduce image load time
 0357. ✅ test: add unit test for quiz service
 0759. 🔧 refactor: organize models into subfolders
+0511. 🐛 fix: fix broken CSS in mobile view
