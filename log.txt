@@ -11724,3 +11724,4 @@
 0573. ✅ test: add integration test for /submit endpoint
 0186. ✅ test: test user registration edge cases
 0662. ♻️ chore: clean up unused files
+0339. 📚 docs: update README with setup steps
