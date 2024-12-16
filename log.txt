@@ -1103,3 +1103,4 @@
 0638. 📚 docs: improve code comments in utils
 0764. ✨ feat: add user authentication
 0225. 🚀 perf: reduce image load time
+0673. 🐛 fix: correct typo in registration form
