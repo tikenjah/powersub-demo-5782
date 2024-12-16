@@ -29,3 +29,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0860. 🔧 refactor: organize models into subfolders
 0067. 🔧 refactor: remove redundant code blocks
+0587. 🔧 refactor: remove redundant code blocks
