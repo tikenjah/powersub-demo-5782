@@ -11727,3 +11727,4 @@
 0339. 📚 docs: update README with setup steps
 0963. 🚀 perf: reduce image load time
 0968. 🎨 style: standardize quote style
+0349. ✅ test: increase coverage on auth module
