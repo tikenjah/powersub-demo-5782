@@ -1104,3 +1104,4 @@
 0764. ✨ feat: add user authentication
 0225. 🚀 perf: reduce image load time
 0673. 🐛 fix: correct typo in registration form
+0040. 🔧 refactor: clean up auth middleware
