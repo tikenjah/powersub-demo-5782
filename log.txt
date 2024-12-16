@@ -1107,3 +1107,4 @@
 0040. 🔧 refactor: clean up auth middleware
 0963. 🚀 perf: reduce image load time
 0357. ✅ test: add unit test for quiz service
+0759. 🔧 refactor: organize models into subfolders
