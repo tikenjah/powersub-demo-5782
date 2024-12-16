@@ -5372,3 +5372,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0820. 📚 docs: add API usage examples
 0784. ♻️ chore: clean up unused files
+0278. 🔧 refactor: clean up auth middleware
