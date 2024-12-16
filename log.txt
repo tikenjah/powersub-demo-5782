@@ -1112,3 +1112,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0581. ✅ test: add integration test for /submit endpoint
 0781. 🚀 perf: reduce image load time
+0816. 🔧 refactor: organize models into subfolders
