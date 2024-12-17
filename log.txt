@@ -1132,3 +1132,4 @@
 0111. 📚 docs: update README with setup steps
 0200. 🐛 fix: handle 500 error in quiz API
 0702. ✨ feat: add user authentication
+0422. 🔧 refactor: organize models into subfolders
