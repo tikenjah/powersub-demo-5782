@@ -1118,3 +1118,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0473. 📚 docs: write FAQ section
 0990. ♻️ chore: rename env.example
+0249. ✅ test: increase coverage on auth module
