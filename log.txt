@@ -6374,3 +6374,4 @@
 0153. ♻️ chore: rename env.example
 0486. ✨ feat: add export to CSV option
 0285. 🐛 fix: resolve issue with date parsing
+0376. 🎨 style: apply consistent indentation
