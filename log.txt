@@ -1122,3 +1122,4 @@
 0859. ✨ feat: create admin dashboard
 0675. 🔧 refactor: organize models into subfolders
 0294. 🐛 fix: prevent crash on empty input
+0997. ✅ test: increase coverage on auth module
