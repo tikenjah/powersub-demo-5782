@@ -8713,3 +8713,4 @@
 0719. 🎨 style: apply consistent indentation
 0859. ✨ feat: create admin dashboard
 0805. ♻️ chore: add GitHub actions badge
+0615. 🐛 fix: correct typo in registration form
