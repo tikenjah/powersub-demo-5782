@@ -1121,3 +1121,4 @@
 0249. ✅ test: increase coverage on auth module
 0859. ✨ feat: create admin dashboard
 0675. 🔧 refactor: organize models into subfolders
+0294. 🐛 fix: prevent crash on empty input
