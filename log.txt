@@ -10702,3 +10702,4 @@
 0734. ✨ feat: add export to CSV option
 0001. 🚀 perf: cache repeated calculations
 0083. 🎨 style: reformat files with black
+0541. 🐛 fix: correct typo in registration form
