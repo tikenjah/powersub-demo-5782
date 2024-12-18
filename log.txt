@@ -1135,3 +1135,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0227. ✅ test: test user registration edge cases
 0415. 🐛 fix: handle 500 error in quiz API
+0461. ✨ feat: add user authentication
