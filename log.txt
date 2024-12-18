@@ -8717,3 +8717,4 @@
 0019. ✨ feat: enable dark mode toggle
 0602. 🔧 refactor: remove redundant code blocks
 0903. ✅ test: mock database connection in test suite
+0250. 📚 docs: update README with setup steps
