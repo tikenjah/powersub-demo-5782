@@ -9724,3 +9724,4 @@
 0575. ✅ test: add unit test for quiz service
 0569. 📚 docs: document token refresh logic
 0265. 🎨 style: reformat files with black
+0848. 📚 docs: update README with setup steps
