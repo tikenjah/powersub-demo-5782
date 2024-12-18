@@ -11731,3 +11731,4 @@
 0839. 🎨 style: apply consistent indentation
 0460. 📚 docs: write FAQ section
 0088. 📚 docs: add API usage examples
+0698. 🐛 fix: handle 500 error in quiz API
