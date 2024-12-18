@@ -7748,3 +7748,4 @@
 0054. ♻️ chore: update .gitignore
 0328. 🐛 fix: resolve issue with date parsing
 0127. 🐛 fix: fix null pointer exception on login
+0257. 📚 docs: clarify environment setup
