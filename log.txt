@@ -6376,3 +6376,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0376. 🎨 style: apply consistent indentation
 0106. 🎨 style: reformat files with black
+0675. 🔧 refactor: organize models into subfolders
