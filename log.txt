@@ -10711,3 +10711,4 @@
 0626. 🎨 style: standardize quote style
 0154. 🐛 fix: prevent crash on empty input
 0064. 📚 docs: clarify environment setup
+0243. 🔧 refactor: clean up auth middleware
