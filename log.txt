@@ -1150,3 +1150,4 @@
 0336. ✨ feat: add export to CSV option
 0140. 🐛 fix: handle 500 error in quiz API
 0021. ✨ feat: support email verification
+0927. ♻️ chore: bump dependencies
