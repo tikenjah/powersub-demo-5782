@@ -1137,3 +1137,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0461. ✨ feat: add user authentication
 0801. ✨ feat: enable dark mode toggle
+0117. ✅ test: increase coverage on auth module
