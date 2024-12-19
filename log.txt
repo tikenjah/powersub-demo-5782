@@ -7751,3 +7751,4 @@
 0257. 📚 docs: clarify environment setup
 0097. 🐛 fix: handle 500 error in quiz API
 0586. 🎨 style: remove trailing whitespace
+0543. ✨ feat: support email verification
