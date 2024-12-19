@@ -6726,3 +6726,4 @@
 0058. ♻️ chore: add GitHub actions badge
 0291. 📚 docs: write FAQ section
 0652. 🔧 refactor: organize models into subfolders
+0544. 🔧 refactor: organize models into subfolders
