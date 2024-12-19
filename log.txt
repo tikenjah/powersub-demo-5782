@@ -6724,3 +6724,4 @@
 0104. 🎨 style: apply consistent indentation
 0818. 🔧 refactor: remove redundant code blocks
 0058. ♻️ chore: add GitHub actions badge
+0291. 📚 docs: write FAQ section
