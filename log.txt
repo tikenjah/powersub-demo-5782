@@ -7754,3 +7754,4 @@
 0543. ✨ feat: support email verification
 0594. 🎨 style: reformat files with black
 0388. 🎨 style: reformat files with black
+0298. ♻️ chore: update .gitignore
