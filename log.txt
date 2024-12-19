@@ -7752,3 +7752,4 @@
 0097. 🐛 fix: handle 500 error in quiz API
 0586. 🎨 style: remove trailing whitespace
 0543. ✨ feat: support email verification
+0594. 🎨 style: reformat files with black
