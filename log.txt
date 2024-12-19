@@ -1164,3 +1164,4 @@
 0849. 🐛 fix: correct typo in registration form
 0758. 🚀 perf: optimize database query for quiz results
 0582. ✨ feat: add export to CSV option
+0580. ♻️ chore: bump dependencies
