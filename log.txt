@@ -1177,3 +1177,4 @@
 0188. 🎨 style: apply consistent indentation
 0588. 🔧 refactor: organize models into subfolders
 0288. 🔧 refactor: refactor quiz grading logic
+0747. 🔧 refactor: clean up auth middleware
