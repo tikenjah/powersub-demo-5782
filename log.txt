@@ -6731,3 +6731,4 @@
 0044. ✅ test: add unit test for quiz service
 0128. ♻️ chore: rename env.example
 0901. ✨ feat: add user authentication
+0462. ♻️ chore: update .gitignore
