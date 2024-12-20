@@ -9732,3 +9732,4 @@
 0226. 🚀 perf: lazy-load components
 0234. ♻️ chore: rename env.example
 0143. ✨ feat: implement quiz timer feature
+0564. 📚 docs: clarify environment setup
