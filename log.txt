@@ -6382,3 +6382,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0181. ♻️ chore: add GitHub actions badge
 0464. 🎨 style: remove trailing whitespace
+0323. 📚 docs: clarify environment setup
