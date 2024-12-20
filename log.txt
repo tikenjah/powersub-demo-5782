@@ -8721,3 +8721,4 @@
 0405. ✅ test: mock database connection in test suite
 1000. ✅ test: increase coverage on auth module
 0678. ✨ feat: add user authentication
+0524. ♻️ chore: rename env.example
