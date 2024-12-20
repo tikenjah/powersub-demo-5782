@@ -8724,3 +8724,4 @@
 0524. ♻️ chore: rename env.example
 0897. 🐛 fix: prevent crash on empty input
 0908. ♻️ chore: bump dependencies
+0394. 🚀 perf: lazy-load components
