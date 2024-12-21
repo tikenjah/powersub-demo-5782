@@ -1193,3 +1193,4 @@
 0121. ✨ feat: support email verification
 0187. ✨ feat: support email verification
 0611. ✅ test: test user registration edge cases
+0379. ✨ feat: support email verification
