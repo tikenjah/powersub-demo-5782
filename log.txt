@@ -1191,3 +1191,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0400. 🐛 fix: fix null pointer exception on login
 0121. ✨ feat: support email verification
+0187. ✨ feat: support email verification
