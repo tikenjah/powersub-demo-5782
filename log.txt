@@ -11741,3 +11741,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0149. ✨ feat: add export to CSV option
 0441. 📚 docs: add API usage examples
+0634. 🎨 style: reformat files with black
