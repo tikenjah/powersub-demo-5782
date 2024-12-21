@@ -7756,3 +7756,4 @@
 0388. 🎨 style: reformat files with black
 0298. ♻️ chore: update .gitignore
 0168. ✅ test: add integration test for /submit endpoint
+0703. 🔧 refactor: clean up auth middleware
