@@ -1189,3 +1189,4 @@
 0683. ✅ test: mock database connection in test suite
 0236. 🔧 refactor: remove redundant code blocks
 0568. 🐛 fix: handle 500 error in quiz API
+0400. 🐛 fix: fix null pointer exception on login
