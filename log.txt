@@ -6383,3 +6383,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0464. 🎨 style: remove trailing whitespace
 0323. 📚 docs: clarify environment setup
+0749. ✨ feat: support email verification
