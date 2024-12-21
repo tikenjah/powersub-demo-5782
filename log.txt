@@ -6733,3 +6733,4 @@
 0901. ✨ feat: add user authentication
 0462. ♻️ chore: update .gitignore
 0526. ✨ feat: add user authentication
+0561. 📚 docs: write FAQ section
