@@ -9739,3 +9739,4 @@
 0384. 📚 docs: clarify environment setup
 0603. 🐛 fix: fix broken CSS in mobile view
 0588. 🔧 refactor: organize models into subfolders
+0868. ✅ test: add unit test for quiz service
