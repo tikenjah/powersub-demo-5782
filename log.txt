@@ -6734,3 +6734,4 @@
 0462. ♻️ chore: update .gitignore
 0526. ✨ feat: add user authentication
 0561. 📚 docs: write FAQ section
+0294. 🐛 fix: prevent crash on empty input
