@@ -1192,3 +1192,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0121. ✨ feat: support email verification
 0187. ✨ feat: support email verification
+0611. ✅ test: test user registration edge cases
