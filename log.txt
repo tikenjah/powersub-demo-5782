@@ -10720,3 +10720,4 @@
 0229. 🚀 perf: optimize database query for quiz results
 0900. 🐛 fix: handle 500 error in quiz API
 0372. ✨ feat: add user authentication
+0745. ✅ test: add unit test for quiz service
