@@ -9734,3 +9734,4 @@
 0143. ✨ feat: implement quiz timer feature
 0564. 📚 docs: clarify environment setup
 0934. ✨ feat: support email verification
+0469. 🚀 perf: lazy-load components
