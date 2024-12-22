@@ -1201,3 +1201,4 @@
 0564. 📚 docs: clarify environment setup
 0787. ♻️ chore: rename env.example
 0461. ✨ feat: add user authentication
+0323. 📚 docs: clarify environment setup
