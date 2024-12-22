@@ -11743,3 +11743,4 @@
 0441. 📚 docs: add API usage examples
 0634. 🎨 style: reformat files with black
 0947. 📚 docs: write FAQ section
+0548. 📚 docs: write FAQ section
