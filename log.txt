@@ -1197,3 +1197,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0899. 🚀 perf: cache repeated calculations
 0114. ♻️ chore: update .gitignore
+0909. 🔧 refactor: organize models into subfolders
