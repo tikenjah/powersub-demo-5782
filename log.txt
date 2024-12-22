@@ -32,3 +32,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0071. 🔧 refactor: refactor quiz grading logic
 0344. ♻️ chore: add GitHub actions badge
+0592. 📚 docs: add API usage examples
