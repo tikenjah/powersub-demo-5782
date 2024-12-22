@@ -9743,3 +9743,4 @@
 0577. ✨ feat: implement quiz timer feature
 0209. ✨ feat: implement quiz timer feature
 0101. 📚 docs: clarify environment setup
+0663. 🚀 perf: reduce image load time
