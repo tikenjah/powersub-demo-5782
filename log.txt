@@ -1203,3 +1203,4 @@
 0461. ✨ feat: add user authentication
 0323. 📚 docs: clarify environment setup
 0902. ✨ feat: enable dark mode toggle
+0235. 🐛 fix: fix null pointer exception on login
