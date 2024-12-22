@@ -7759,3 +7759,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0392. 🎨 style: remove trailing whitespace
 0472. 🐛 fix: fix null pointer exception on login
+0517. ✅ test: mock database connection in test suite
