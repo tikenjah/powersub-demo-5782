@@ -6739,3 +6739,4 @@
 0024. 📚 docs: write FAQ section
 0773. 📚 docs: document token refresh logic
 0495. 🔧 refactor: remove redundant code blocks
+0595. ✨ feat: enable dark mode toggle
