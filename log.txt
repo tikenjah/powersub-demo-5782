@@ -10721,3 +10721,4 @@
 0900. 🐛 fix: handle 500 error in quiz API
 0372. ✨ feat: add user authentication
 0745. ✅ test: add unit test for quiz service
+0158. 📚 docs: clarify environment setup
