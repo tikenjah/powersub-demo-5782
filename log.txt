@@ -5388,3 +5388,4 @@
 0215. 🎨 style: reformat files with black
 0091. ✨ feat: add user authentication
 0335. ♻️ chore: update .gitignore
+0387. ✨ feat: enable dark mode toggle
