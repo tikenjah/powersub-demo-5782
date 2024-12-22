@@ -6737,3 +6737,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0618. ✨ feat: support email verification
 0024. 📚 docs: write FAQ section
+0773. 📚 docs: document token refresh logic
