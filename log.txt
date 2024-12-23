@@ -5389,3 +5389,4 @@
 0091. ✨ feat: add user authentication
 0335. ♻️ chore: update .gitignore
 0387. ✨ feat: enable dark mode toggle
+0660. 🐛 fix: correct typo in registration form
