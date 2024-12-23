@@ -1216,3 +1216,4 @@
 0737. 🐛 fix: handle 500 error in quiz API
 0611. ✅ test: test user registration edge cases
 0501. ✨ feat: add export to CSV option
+0703. 🔧 refactor: clean up auth middleware
