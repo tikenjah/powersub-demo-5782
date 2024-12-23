@@ -10728,3 +10728,4 @@
 0346. ✅ test: mock database connection in test suite
 0816. 🔧 refactor: organize models into subfolders
 0117. ✅ test: increase coverage on auth module
+0049. 🐛 fix: handle 500 error in quiz API
