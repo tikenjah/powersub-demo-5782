@@ -6742,3 +6742,4 @@
 0595. ✨ feat: enable dark mode toggle
 0099. 🚀 perf: reduce image load time
 0340. 🚀 perf: optimize database query for quiz results
+0248. 🐛 fix: handle 500 error in quiz API
