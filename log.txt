@@ -6748,3 +6748,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0380. 🐛 fix: fix null pointer exception on login
 0297. 🎨 style: remove trailing whitespace
+0742. 📚 docs: clarify environment setup
