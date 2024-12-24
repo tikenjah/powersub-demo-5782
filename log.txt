@@ -1228,3 +1228,4 @@
 0241. 📚 docs: add API usage examples
 0510. 🎨 style: rename variables for clarity
 0657. 🎨 style: standardize quote style
+0260. ✨ feat: create admin dashboard
