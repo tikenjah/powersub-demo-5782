@@ -1222,3 +1222,4 @@
 0662. ♻️ chore: clean up unused files
 0289. 🐛 fix: resolve issue with date parsing
 0198. 📚 docs: clarify environment setup
+0312. ✨ feat: add user authentication
