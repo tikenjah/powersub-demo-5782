@@ -6386,3 +6386,4 @@
 0749. ✨ feat: support email verification
 0989. 📚 docs: write FAQ section
 0969. ✨ feat: create admin dashboard
+0953. 🎨 style: remove trailing whitespace
