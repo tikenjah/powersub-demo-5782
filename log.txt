@@ -9749,3 +9749,4 @@
 0166. 🚀 perf: cache repeated calculations
 0887. 📚 docs: add API usage examples
 0221. ✨ feat: add user authentication
+0197. 📚 docs: update README with setup steps
