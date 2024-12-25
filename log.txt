@@ -10729,3 +10729,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0117. ✅ test: increase coverage on auth module
 0049. 🐛 fix: handle 500 error in quiz API
+0485. 📚 docs: update README with setup steps
