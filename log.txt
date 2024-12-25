@@ -6391,3 +6391,4 @@
 0984. ♻️ chore: clean up unused files
 0754. 🐛 fix: handle 500 error in quiz API
 0125. ✅ test: add integration test for /submit endpoint
+0203. 🚀 perf: lazy-load components
