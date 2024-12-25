@@ -1235,3 +1235,4 @@
 0543. ✨ feat: support email verification
 0620. ✨ feat: implement quiz timer feature
 0039. ✅ test: add integration test for /submit endpoint
+0948. 🐛 fix: fix broken CSS in mobile view
