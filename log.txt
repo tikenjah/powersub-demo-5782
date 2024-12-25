@@ -1238,3 +1238,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0895. ✨ feat: support email verification
 0142. ✨ feat: implement quiz timer feature
+0429. ✨ feat: add user authentication
