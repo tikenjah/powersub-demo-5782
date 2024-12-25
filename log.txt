@@ -1232,3 +1232,4 @@
 0253. 📚 docs: update README with setup steps
 0052. 🎨 style: standardize quote style
 0691. 🎨 style: rename variables for clarity
+0543. ✨ feat: support email verification
