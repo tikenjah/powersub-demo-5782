@@ -1243,3 +1243,4 @@
 0297. 🎨 style: remove trailing whitespace
 0959. 🐛 fix: fix null pointer exception on login
 0469. 🚀 perf: lazy-load components
+0252. 🎨 style: remove trailing whitespace
