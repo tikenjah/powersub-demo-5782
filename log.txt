@@ -5392,3 +5392,4 @@
 0660. 🐛 fix: correct typo in registration form
 0100. ♻️ chore: update .gitignore
 0350. 🚀 perf: cache repeated calculations
+0564. 📚 docs: clarify environment setup
