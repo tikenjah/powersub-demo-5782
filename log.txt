@@ -10733,3 +10733,4 @@
 0397. 🐛 fix: handle 500 error in quiz API
 0474. ✅ test: add unit test for quiz service
 0675. 🔧 refactor: organize models into subfolders
+0219. ✅ test: increase coverage on auth module
