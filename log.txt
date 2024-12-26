@@ -9752,3 +9752,4 @@
 0197. 📚 docs: update README with setup steps
 0695. ✨ feat: create admin dashboard
 0828. ♻️ chore: add GitHub actions badge
+0170. ✅ test: increase coverage on auth module
