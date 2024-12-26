@@ -11754,3 +11754,4 @@
 0093. ✅ test: add unit test for quiz service
 0843. 📚 docs: document token refresh logic
 0117. ✅ test: increase coverage on auth module
+0568. 🐛 fix: handle 500 error in quiz API
