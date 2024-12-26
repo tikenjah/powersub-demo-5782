@@ -1247,3 +1247,4 @@
 0989. 📚 docs: write FAQ section
 0189. 📚 docs: clarify environment setup
 0110. 🐛 fix: prevent crash on empty input
+0988. 🐛 fix: fix broken CSS in mobile view
