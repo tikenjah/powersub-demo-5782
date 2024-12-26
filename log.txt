@@ -1250,3 +1250,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0868. ✅ test: add unit test for quiz service
 0862. ♻️ chore: bump dependencies
+0565. ♻️ chore: add GitHub actions badge
