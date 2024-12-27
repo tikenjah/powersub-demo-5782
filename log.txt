@@ -8737,3 +8737,4 @@
 0792. 🎨 style: standardize quote style
 0773. 📚 docs: document token refresh logic
 0342. 🚀 perf: cache repeated calculations
+0981. 🚀 perf: lazy-load components
