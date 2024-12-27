@@ -1256,3 +1256,4 @@
 0094. 📚 docs: document token refresh logic
 0181. ♻️ chore: add GitHub actions badge
 0988. 🐛 fix: fix broken CSS in mobile view
+0590. 🐛 fix: fix null pointer exception on login
