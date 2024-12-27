@@ -9755,3 +9755,4 @@
 0170. ✅ test: increase coverage on auth module
 0491. 🚀 perf: lazy-load components
 0347. ♻️ chore: update .gitignore
+0450. 🐛 fix: fix broken CSS in mobile view
