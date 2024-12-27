@@ -1262,3 +1262,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0901. ✨ feat: add user authentication
 0171. 🐛 fix: fix broken CSS in mobile view
+0562. 🔧 refactor: clean up auth middleware
