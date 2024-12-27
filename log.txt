@@ -1264,3 +1264,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0562. 🔧 refactor: clean up auth middleware
 0074. ♻️ chore: add GitHub actions badge
+0619. ✨ feat: create admin dashboard
