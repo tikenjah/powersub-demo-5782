@@ -7775,3 +7775,4 @@
 0965. 🎨 style: reformat files with black
 0146. 🎨 style: apply consistent indentation
 0857. 🎨 style: rename variables for clarity
+0563. 📚 docs: clarify environment setup
