@@ -6754,3 +6754,4 @@
 0257. 📚 docs: clarify environment setup
 0054. ♻️ chore: update .gitignore
 0888. 🚀 perf: lazy-load components
+0234. ♻️ chore: rename env.example
