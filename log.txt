@@ -9758,3 +9758,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0124. 🎨 style: reformat files with black
 0123. ✨ feat: implement quiz timer feature
+0783. 🐛 fix: handle 500 error in quiz API
