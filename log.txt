@@ -6755,3 +6755,4 @@
 0054. ♻️ chore: update .gitignore
 0888. 🚀 perf: lazy-load components
 0234. ♻️ chore: rename env.example
+0186. ✅ test: test user registration edge cases
