@@ -6394,3 +6394,4 @@
 0203. 🚀 perf: lazy-load components
 0684. 🚀 perf: reduce image load time
 0816. 🔧 refactor: organize models into subfolders
+0085. ✨ feat: support email verification
