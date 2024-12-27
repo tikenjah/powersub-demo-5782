@@ -11755,3 +11755,4 @@
 0843. 📚 docs: document token refresh logic
 0117. ✅ test: increase coverage on auth module
 0568. 🐛 fix: handle 500 error in quiz API
+0621. 🔧 refactor: clean up auth middleware
