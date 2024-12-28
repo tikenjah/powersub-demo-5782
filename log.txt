@@ -9762,3 +9762,4 @@
 0250. 📚 docs: update README with setup steps
 0033. 🎨 style: apply consistent indentation
 0138. 🎨 style: rename variables for clarity
+0829. 🔧 refactor: organize models into subfolders
