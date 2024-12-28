@@ -1270,3 +1270,4 @@
 0443. 🎨 style: standardize quote style
 0573. ✅ test: add integration test for /submit endpoint
 0576. ♻️ chore: update .gitignore
+0584. 🚀 perf: lazy-load components
