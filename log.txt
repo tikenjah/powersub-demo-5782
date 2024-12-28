@@ -1274,3 +1274,4 @@
 0935. 📚 docs: update README with setup steps
 0802. 🔧 refactor: remove redundant code blocks
 0383. 🐛 fix: fix broken CSS in mobile view
+0277. 🎨 style: standardize quote style
