@@ -1280,3 +1280,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0803. ✅ test: mock database connection in test suite
 0723. 🔧 refactor: remove redundant code blocks
+0996. ✅ test: test user registration edge cases
