@@ -6763,3 +6763,4 @@
 0741. 🎨 style: apply consistent indentation
 0681. ✨ feat: create admin dashboard
 0150. 🎨 style: remove trailing whitespace
+0917. ✅ test: add integration test for /submit endpoint
