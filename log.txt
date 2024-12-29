@@ -5397,3 +5397,4 @@
 0483. 📚 docs: update README with setup steps
 0172. 📚 docs: add API usage examples
 0391. 🐛 fix: fix null pointer exception on login
+0283. ♻️ chore: add GitHub actions badge
