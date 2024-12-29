@@ -7777,3 +7777,4 @@
 0857. 🎨 style: rename variables for clarity
 0563. 📚 docs: clarify environment setup
 0971. 🎨 style: standardize quote style
+0758. 🚀 perf: optimize database query for quiz results
