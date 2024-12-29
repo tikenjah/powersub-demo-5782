@@ -6398,3 +6398,4 @@
 0142. ✨ feat: implement quiz timer feature
 0054. ♻️ chore: update .gitignore
 0662. ♻️ chore: clean up unused files
+0692. ✅ test: add integration test for /submit endpoint
