@@ -10742,3 +10742,4 @@
 0661. ✅ test: add integration test for /submit endpoint
 0843. 📚 docs: document token refresh logic
 0960. ✅ test: increase coverage on auth module
+0980. 🎨 style: reformat files with black
