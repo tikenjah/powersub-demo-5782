@@ -37,3 +37,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0023. 📚 docs: clarify environment setup
 0928. 🎨 style: apply consistent indentation
+0013. ✅ test: increase coverage on auth module
