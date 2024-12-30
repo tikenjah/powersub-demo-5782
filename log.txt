@@ -8746,3 +8746,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0695. ✨ feat: create admin dashboard
 0804. ♻️ chore: add GitHub actions badge
+0805. ♻️ chore: add GitHub actions badge
