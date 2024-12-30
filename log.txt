@@ -1290,3 +1290,4 @@
 0138. 🎨 style: rename variables for clarity
 0036. 🔧 refactor: clean up auth middleware
 0920. 🔧 refactor: organize models into subfolders
+0981. 🚀 perf: lazy-load components
