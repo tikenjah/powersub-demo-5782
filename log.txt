@@ -7783,3 +7783,4 @@
 0987. ✨ feat: create admin dashboard
 0454. ♻️ chore: bump dependencies
 0724. ✅ test: mock database connection in test suite
+0466. 🚀 perf: optimize database query for quiz results
