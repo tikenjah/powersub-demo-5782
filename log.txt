@@ -1308,3 +1308,4 @@
 0205. 📚 docs: update README with setup steps
 0973. 🔧 refactor: organize models into subfolders
 0812. 🔧 refactor: refactor quiz grading logic
+0448. 🐛 fix: correct typo in registration form
