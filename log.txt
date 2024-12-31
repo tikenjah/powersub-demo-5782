@@ -8748,3 +8748,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0805. ♻️ chore: add GitHub actions badge
 0602. 🔧 refactor: remove redundant code blocks
+0395. 📚 docs: write FAQ section
