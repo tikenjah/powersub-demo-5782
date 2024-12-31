@@ -8747,3 +8747,4 @@
 0695. ✨ feat: create admin dashboard
 0804. ♻️ chore: add GitHub actions badge
 0805. ♻️ chore: add GitHub actions badge
+0602. 🔧 refactor: remove redundant code blocks
