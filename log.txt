@@ -6769,3 +6769,4 @@
 0185. 📚 docs: write FAQ section
 0086. 🐛 fix: correct typo in registration form
 0627. 📚 docs: document token refresh logic
+0855. 🎨 style: reformat files with black
