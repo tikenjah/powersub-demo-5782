@@ -1316,3 +1316,4 @@
 0897. 🐛 fix: prevent crash on empty input
 0214. 📚 docs: improve code comments in utils
 0981. 🚀 perf: lazy-load components
+0084. 🐛 fix: handle 500 error in quiz API
