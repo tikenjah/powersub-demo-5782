@@ -1320,3 +1320,4 @@
 0170. ✅ test: increase coverage on auth module
 0471. ✨ feat: support email verification
 0545. 🎨 style: standardize quote style
+0504. 📚 docs: document token refresh logic
