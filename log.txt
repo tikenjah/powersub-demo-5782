@@ -11767,3 +11767,4 @@
 0113. ✨ feat: add user authentication
 0976. ✨ feat: implement quiz timer feature
 0868. ✅ test: add unit test for quiz service
+0735. ♻️ chore: add GitHub actions badge
