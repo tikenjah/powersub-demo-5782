@@ -1321,3 +1321,4 @@
 0471. ✨ feat: support email verification
 0545. 🎨 style: standardize quote style
 0504. 📚 docs: document token refresh logic
+0626. 🎨 style: standardize quote style
