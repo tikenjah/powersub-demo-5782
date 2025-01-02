@@ -1336,3 +1336,4 @@
 0693. 📚 docs: add API usage examples
 0135. ✅ test: test user registration edge cases
 0348. ✅ test: test user registration edge cases
+0585. 🚀 perf: lazy-load components
