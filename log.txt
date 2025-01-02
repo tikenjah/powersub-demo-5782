@@ -1329,3 +1329,4 @@
 0368. 🚀 perf: lazy-load components
 0739. 🎨 style: remove trailing whitespace
 0290. ✅ test: test user registration edge cases
+0412. ✅ test: increase coverage on auth module
