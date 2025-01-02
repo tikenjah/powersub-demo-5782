@@ -7792,3 +7792,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0845. 🚀 perf: cache repeated calculations
 0979. 🎨 style: standardize quote style
+0294. 🐛 fix: prevent crash on empty input
