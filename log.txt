@@ -1324,3 +1324,4 @@
 0626. 🎨 style: standardize quote style
 0274. 🔧 refactor: refactor quiz grading logic
 0971. 🎨 style: standardize quote style
+0936. 🔧 refactor: organize models into subfolders
