@@ -1338,3 +1338,4 @@
 0348. ✅ test: test user registration edge cases
 0585. 🚀 perf: lazy-load components
 0155. ✨ feat: create admin dashboard
+0918. ✨ feat: enable dark mode toggle
