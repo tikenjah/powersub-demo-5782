@@ -8756,3 +8756,4 @@
 0128. ♻️ chore: rename env.example
 0711. 🐛 fix: fix broken CSS in mobile view
 0716. ✨ feat: implement quiz timer feature
+0299. 🐛 fix: resolve issue with date parsing
