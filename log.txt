@@ -1344,3 +1344,4 @@
 0481. ✅ test: add unit test for quiz service
 0140. 🐛 fix: handle 500 error in quiz API
 0559. 🔧 refactor: split large controller into smaller functions
+0889. 🚀 perf: lazy-load components
