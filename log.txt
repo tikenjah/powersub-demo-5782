@@ -1342,3 +1342,4 @@
 0310. 🔧 refactor: refactor quiz grading logic
 0669. ✨ feat: enable dark mode toggle
 0481. ✅ test: add unit test for quiz service
+0140. 🐛 fix: handle 500 error in quiz API
