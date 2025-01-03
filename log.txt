@@ -8757,3 +8757,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0716. ✨ feat: implement quiz timer feature
 0299. 🐛 fix: resolve issue with date parsing
+0553. 🐛 fix: correct typo in registration form
