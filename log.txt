@@ -9773,3 +9773,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0982. 🚀 perf: lazy-load components
 0555. ✨ feat: create admin dashboard
+0380. 🐛 fix: fix null pointer exception on login
