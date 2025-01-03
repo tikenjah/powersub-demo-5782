@@ -6407,3 +6407,4 @@
 0864. 🐛 fix: correct typo in registration form
 0686. 🎨 style: standardize quote style
 0743. 🎨 style: apply consistent indentation
+0594. 🎨 style: reformat files with black
