@@ -6408,3 +6408,4 @@
 0686. 🎨 style: standardize quote style
 0743. 🎨 style: apply consistent indentation
 0594. 🎨 style: reformat files with black
+0231. 🔧 refactor: clean up auth middleware
