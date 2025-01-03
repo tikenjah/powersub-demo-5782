@@ -1340,3 +1340,4 @@
 0155. ✨ feat: create admin dashboard
 0918. ✨ feat: enable dark mode toggle
 0310. 🔧 refactor: refactor quiz grading logic
+0669. ✨ feat: enable dark mode toggle
