@@ -10759,3 +10759,4 @@
 0374. 🎨 style: standardize quote style
 0959. 🐛 fix: fix null pointer exception on login
 0596. ♻️ chore: update .gitignore
+0088. 📚 docs: add API usage examples
