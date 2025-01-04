@@ -1366,3 +1366,4 @@
 0793. 📚 docs: clarify environment setup
 0441. 📚 docs: add API usage examples
 0593. 🐛 fix: correct typo in registration form
+0031. 📚 docs: document token refresh logic
