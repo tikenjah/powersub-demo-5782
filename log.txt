@@ -1360,3 +1360,4 @@
 0508. ✅ test: add unit test for quiz service
 0410. 🎨 style: reformat files with black
 0921. 🐛 fix: correct typo in registration form
+0809. ♻️ chore: rename env.example
