@@ -9778,3 +9778,4 @@
 0334. 🚀 perf: cache repeated calculations
 0587. 🔧 refactor: remove redundant code blocks
 0850. ♻️ chore: rename env.example
+0612. ✅ test: test user registration edge cases
