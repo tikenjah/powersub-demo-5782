@@ -7794,3 +7794,4 @@
 0979. 🎨 style: standardize quote style
 0294. 🐛 fix: prevent crash on empty input
 0033. 🎨 style: apply consistent indentation
+0088. 📚 docs: add API usage examples
