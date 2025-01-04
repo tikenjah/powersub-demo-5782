@@ -5410,3 +5410,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0152. ✨ feat: add user authentication
 0149. ✨ feat: add export to CSV option
+0326. 🚀 perf: cache repeated calculations
