@@ -9777,3 +9777,4 @@
 0706. ✨ feat: support email verification
 0334. 🚀 perf: cache repeated calculations
 0587. 🔧 refactor: remove redundant code blocks
+0850. ♻️ chore: rename env.example
