@@ -9781,3 +9781,4 @@
 0612. ✅ test: test user registration edge cases
 0460. 📚 docs: write FAQ section
 0845. 🚀 perf: cache repeated calculations
+0728. 🔧 refactor: split large controller into smaller functions
