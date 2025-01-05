@@ -6782,3 +6782,4 @@
 0182. 🔧 refactor: remove redundant code blocks
 0273. 🚀 perf: reduce image load time
 0307. ✨ feat: support email verification
+0222. 🐛 fix: handle 500 error in quiz API
