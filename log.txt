@@ -6785,3 +6785,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0330. ✅ test: test user registration edge cases
 0366. 🔧 refactor: remove redundant code blocks
+0864. 🐛 fix: correct typo in registration form
