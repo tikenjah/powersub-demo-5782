@@ -1392,3 +1392,4 @@
 0381. ♻️ chore: clean up unused files
 0978. 🐛 fix: prevent crash on empty input
 0891. ✨ feat: create admin dashboard
+1000. ✅ test: increase coverage on auth module
