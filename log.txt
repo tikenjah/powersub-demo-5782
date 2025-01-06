@@ -41,3 +41,4 @@
 0830. 🎨 style: apply consistent indentation
 0261. 🔧 refactor: refactor quiz grading logic
 0519. 📚 docs: document token refresh logic
+0520. 🐛 fix: fix null pointer exception on login
