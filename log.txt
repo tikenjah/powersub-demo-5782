@@ -6418,3 +6418,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0411. ✅ test: add unit test for quiz service
 0310. 🔧 refactor: refactor quiz grading logic
+0008. 🚀 perf: reduce image load time
