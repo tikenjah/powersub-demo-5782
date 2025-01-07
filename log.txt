@@ -5419,3 +5419,4 @@
 0860. 🔧 refactor: organize models into subfolders
 0473. 📚 docs: write FAQ section
 0346. ✅ test: mock database connection in test suite
+0961. 📚 docs: add API usage examples
