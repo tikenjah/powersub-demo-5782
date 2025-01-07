@@ -11783,3 +11783,4 @@
 0247. 🎨 style: apply consistent indentation
 0885. ♻️ chore: update .gitignore
 0136. 🚀 perf: lazy-load components
+0008. 🚀 perf: reduce image load time
