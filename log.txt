@@ -9787,3 +9787,4 @@
 0965. 🎨 style: reformat files with black
 0957. 🐛 fix: fix null pointer exception on login
 0899. 🚀 perf: cache repeated calculations
+0949. 📚 docs: write FAQ section
