@@ -1399,3 +1399,4 @@
 0178. ✨ feat: support email verification
 0906. 📚 docs: add API usage examples
 0626. 🎨 style: standardize quote style
+0193. 🚀 perf: optimize database query for quiz results
