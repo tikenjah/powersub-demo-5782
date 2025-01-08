@@ -5423,3 +5423,4 @@
 0727. ♻️ chore: add GitHub actions badge
 0073. 🔧 refactor: split large controller into smaller functions
 0357. ✅ test: add unit test for quiz service
+0136. 🚀 perf: lazy-load components
