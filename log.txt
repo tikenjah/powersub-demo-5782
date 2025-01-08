@@ -1418,3 +1418,4 @@
 0492. 🎨 style: remove trailing whitespace
 0244. ✨ feat: add export to CSV option
 0842. 🎨 style: remove trailing whitespace
+0621. 🔧 refactor: clean up auth middleware
