@@ -6429,3 +6429,4 @@
 0199. ✨ feat: create admin dashboard
 0962. ✨ feat: create admin dashboard
 0665. ♻️ chore: update .gitignore
+0850. ♻️ chore: rename env.example
