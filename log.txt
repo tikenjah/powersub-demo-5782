@@ -6794,3 +6794,4 @@
 0764. ✨ feat: add user authentication
 0591. ♻️ chore: clean up unused files
 0807. 🔧 refactor: remove redundant code blocks
+0332. 🎨 style: standardize quote style
