@@ -10773,3 +10773,4 @@
 0700. 🎨 style: rename variables for clarity
 0399. ✅ test: mock database connection in test suite
 0157. ✅ test: mock database connection in test suite
+0361. ✨ feat: support email verification
