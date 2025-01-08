@@ -1405,3 +1405,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0519. 📚 docs: document token refresh logic
 0271. ✅ test: add unit test for quiz service
+0312. ✨ feat: add user authentication
