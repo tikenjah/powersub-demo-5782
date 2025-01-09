@@ -7799,3 +7799,4 @@
 0472. 🐛 fix: fix null pointer exception on login
 0427. ✅ test: mock database connection in test suite
 0194. 🎨 style: standardize quote style
+0697. ♻️ chore: bump dependencies
