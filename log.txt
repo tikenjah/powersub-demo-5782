@@ -5425,3 +5425,4 @@
 0357. ✅ test: add unit test for quiz service
 0136. 🚀 perf: lazy-load components
 0082. 🔧 refactor: refactor quiz grading logic
+0121. ✨ feat: support email verification
