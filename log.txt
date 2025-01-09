@@ -1434,3 +1434,4 @@
 0565. ♻️ chore: add GitHub actions badge
 0681. ✨ feat: create admin dashboard
 0263. 📚 docs: add API usage examples
+0793. 📚 docs: clarify environment setup
