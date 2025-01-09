@@ -1431,3 +1431,4 @@
 0363. 📚 docs: clarify environment setup
 0643. 🎨 style: apply consistent indentation
 0882. 🚀 perf: optimize database query for quiz results
+0565. ♻️ chore: add GitHub actions badge
