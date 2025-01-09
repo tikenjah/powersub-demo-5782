@@ -6798,3 +6798,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0153. ♻️ chore: rename env.example
 0397. 🐛 fix: handle 500 error in quiz API
+0280. ✅ test: add integration test for /submit endpoint
