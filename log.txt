@@ -10779,3 +10779,4 @@
 0286. ✅ test: mock database connection in test suite
 0792. 🎨 style: standardize quote style
 0478. 🐛 fix: resolve issue with date parsing
+0096. 🐛 fix: prevent crash on empty input
