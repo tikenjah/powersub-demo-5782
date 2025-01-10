@@ -11789,3 +11789,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0586. 🎨 style: remove trailing whitespace
 0400. 🐛 fix: fix null pointer exception on login
+0338. ♻️ chore: add GitHub actions badge
