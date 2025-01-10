@@ -6439,3 +6439,4 @@
 0130. 🔧 refactor: split large controller into smaller functions
 0432. 🎨 style: apply consistent indentation
 0961. 📚 docs: add API usage examples
+0703. 🔧 refactor: clean up auth middleware
