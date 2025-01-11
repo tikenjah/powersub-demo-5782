@@ -9795,3 +9795,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0440. 📚 docs: update README with setup steps
 0823. ✨ feat: add user authentication
+0234. ♻️ chore: rename env.example
