@@ -1450,3 +1450,4 @@
 0689. 🎨 style: reformat files with black
 0180. ✨ feat: add export to CSV option
 0102. ✨ feat: support email verification
+0167. 🚀 perf: reduce image load time
