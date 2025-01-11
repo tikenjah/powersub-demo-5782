@@ -1452,3 +1452,4 @@
 0102. ✨ feat: support email verification
 0167. 🚀 perf: reduce image load time
 0610. 🚀 perf: lazy-load components
+0837. 🚀 perf: cache repeated calculations
