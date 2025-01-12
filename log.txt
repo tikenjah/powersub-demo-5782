@@ -1470,3 +1470,4 @@
 0092. 🚀 perf: reduce image load time
 0788. 📚 docs: add API usage examples
 0079. 🐛 fix: correct typo in registration form
+0970. ♻️ chore: update .gitignore
