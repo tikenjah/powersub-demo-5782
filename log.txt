@@ -1478,3 +1478,4 @@
 0655. 🚀 perf: cache repeated calculations
 0363. 📚 docs: clarify environment setup
 0247. 🎨 style: apply consistent indentation
+0578. ✅ test: add integration test for /submit endpoint
