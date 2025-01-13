@@ -8784,3 +8784,4 @@
 0633. ✨ feat: add user authentication
 0044. ✅ test: add unit test for quiz service
 0600. 🐛 fix: prevent crash on empty input
+0075. ✅ test: mock database connection in test suite
