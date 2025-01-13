@@ -11796,3 +11796,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0872. 🎨 style: rename variables for clarity
 0991. ♻️ chore: clean up unused files
+0074. ♻️ chore: add GitHub actions badge
