@@ -5435,3 +5435,4 @@
 0974. ✨ feat: add export to CSV option
 0512. 🚀 perf: reduce image load time
 0796. 🔧 refactor: refactor quiz grading logic
+0885. ♻️ chore: update .gitignore
