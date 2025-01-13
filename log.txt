@@ -9801,3 +9801,4 @@
 0638. 📚 docs: improve code comments in utils
 0226. 🚀 perf: lazy-load components
 0482. ✨ feat: add export to CSV option
+0739. 🎨 style: remove trailing whitespace
