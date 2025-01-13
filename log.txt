@@ -10782,3 +10782,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0209. ✨ feat: implement quiz timer feature
 0540. ♻️ chore: add GitHub actions badge
+0026. 🔧 refactor: clean up auth middleware
