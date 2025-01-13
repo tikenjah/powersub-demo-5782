@@ -7813,3 +7813,4 @@
 0451. ✨ feat: support email verification
 0156. 🎨 style: rename variables for clarity
 0900. 🐛 fix: handle 500 error in quiz API
+0804. ♻️ chore: add GitHub actions badge
