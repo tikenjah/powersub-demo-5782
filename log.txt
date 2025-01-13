@@ -5438,3 +5438,4 @@
 0885. ♻️ chore: update .gitignore
 0701. 🔧 refactor: clean up auth middleware
 0712. 🎨 style: apply consistent indentation
+0804. ♻️ chore: add GitHub actions badge
