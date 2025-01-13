@@ -6446,3 +6446,4 @@
 0368. 🚀 perf: lazy-load components
 0087. ✨ feat: add export to CSV option
 0963. 🚀 perf: reduce image load time
+0433. 🐛 fix: prevent crash on empty input
