@@ -9802,3 +9802,4 @@
 0226. 🚀 perf: lazy-load components
 0482. ✨ feat: add export to CSV option
 0739. 🎨 style: remove trailing whitespace
+0124. 🎨 style: reformat files with black
