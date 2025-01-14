@@ -6807,3 +6807,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0557. 🔧 refactor: clean up auth middleware
 0146. 🎨 style: apply consistent indentation
+0066. 🔧 refactor: clean up auth middleware
