@@ -45,3 +45,4 @@
 0325. 🎨 style: rename variables for clarity
 0305. ✨ feat: enable dark mode toggle
 0602. 🔧 refactor: remove redundant code blocks
+0621. 🔧 refactor: clean up auth middleware
