@@ -10787,3 +10787,4 @@
 0652. 🔧 refactor: organize models into subfolders
 0652. 🔧 refactor: organize models into subfolders
 0528. ♻️ chore: clean up unused files
+0017. ✅ test: mock database connection in test suite
