@@ -6449,3 +6449,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0672. 🐛 fix: fix broken CSS in mobile view
 0895. ✨ feat: support email verification
+0751. 🐛 fix: handle 500 error in quiz API
