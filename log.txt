@@ -5439,3 +5439,4 @@
 0701. 🔧 refactor: clean up auth middleware
 0712. 🎨 style: apply consistent indentation
 0804. ♻️ chore: add GitHub actions badge
+0121. ✨ feat: support email verification
