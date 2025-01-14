@@ -1485,3 +1485,4 @@
 0618. ✨ feat: support email verification
 0918. ✨ feat: enable dark mode toggle
 0991. ♻️ chore: clean up unused files
+0125. ✅ test: add integration test for /submit endpoint
