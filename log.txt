@@ -6451,3 +6451,4 @@
 0895. ✨ feat: support email verification
 0751. 🐛 fix: handle 500 error in quiz API
 0463. 🚀 perf: reduce image load time
+0610. 🚀 perf: lazy-load components
