@@ -5442,3 +5442,4 @@
 0121. ✨ feat: support email verification
 0674. 🔧 refactor: split large controller into smaller functions
 0537. 🔧 refactor: remove redundant code blocks
+0078. ♻️ chore: update .gitignore
