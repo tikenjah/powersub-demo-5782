@@ -6453,3 +6453,4 @@
 0463. 🚀 perf: reduce image load time
 0610. 🚀 perf: lazy-load components
 0249. ✅ test: increase coverage on auth module
+0487. 🎨 style: reformat files with black
