@@ -10792,3 +10792,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0937. 🐛 fix: handle 500 error in quiz API
 0090. ✅ test: increase coverage on auth module
+0106. 🎨 style: reformat files with black
