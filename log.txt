@@ -10790,3 +10790,4 @@
 0017. ✅ test: mock database connection in test suite
 0305. ✨ feat: enable dark mode toggle
 0607. 🐛 fix: prevent crash on empty input
+0937. 🐛 fix: handle 500 error in quiz API
