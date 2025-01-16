@@ -8794,3 +8794,4 @@
 0697. ♻️ chore: bump dependencies
 0777. 📚 docs: document token refresh logic
 0563. 📚 docs: clarify environment setup
+0710. 🐛 fix: fix broken CSS in mobile view
