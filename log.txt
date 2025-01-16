@@ -6454,3 +6454,4 @@
 0610. 🚀 perf: lazy-load components
 0249. ✅ test: increase coverage on auth module
 0487. 🎨 style: reformat files with black
+0703. 🔧 refactor: clean up auth middleware
