@@ -1507,3 +1507,4 @@
 0850. ♻️ chore: rename env.example
 0695. ✨ feat: create admin dashboard
 0300. ✨ feat: add export to CSV option
+0520. 🐛 fix: fix null pointer exception on login
