@@ -1506,3 +1506,4 @@
 0336. ✨ feat: add export to CSV option
 0850. ♻️ chore: rename env.example
 0695. ✨ feat: create admin dashboard
+0300. ✨ feat: add export to CSV option
