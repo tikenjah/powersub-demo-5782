@@ -9814,3 +9814,4 @@
 0879. 🎨 style: standardize quote style
 0016. 🎨 style: apply consistent indentation
 0491. 🚀 perf: lazy-load components
+0621. 🔧 refactor: clean up auth middleware
