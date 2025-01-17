@@ -7820,3 +7820,4 @@
 0385. ♻️ chore: clean up unused files
 0799. ♻️ chore: clean up unused files
 0627. 📚 docs: document token refresh logic
+0218. 🔧 refactor: clean up auth middleware
