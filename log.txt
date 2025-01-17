@@ -1514,3 +1514,4 @@
 0949. 📚 docs: write FAQ section
 0373. 📚 docs: document token refresh logic
 0538. 🐛 fix: fix broken CSS in mobile view
+0039. ✅ test: add integration test for /submit endpoint
