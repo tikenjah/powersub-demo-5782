@@ -10799,3 +10799,4 @@
 0088. 📚 docs: add API usage examples
 0705. 🔧 refactor: refactor quiz grading logic
 0651. ✨ feat: enable dark mode toggle
+0676. 🐛 fix: prevent crash on empty input
