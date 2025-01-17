@@ -1518,3 +1518,4 @@
 0302. ✨ feat: implement quiz timer feature
 0684. 🚀 perf: reduce image load time
 0531. 🐛 fix: prevent crash on empty input
+0731. 🎨 style: standardize quote style
