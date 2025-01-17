@@ -1515,3 +1515,4 @@
 0373. 📚 docs: document token refresh logic
 0538. 🐛 fix: fix broken CSS in mobile view
 0039. ✅ test: add integration test for /submit endpoint
+0302. ✨ feat: implement quiz timer feature
