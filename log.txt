@@ -1528,3 +1528,4 @@
 0304. 🔧 refactor: remove redundant code blocks
 0180. ✨ feat: add export to CSV option
 0744. 🔧 refactor: remove redundant code blocks
+0370. 🚀 perf: reduce image load time
