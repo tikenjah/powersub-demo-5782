@@ -7827,3 +7827,4 @@
 0462. ♻️ chore: update .gitignore
 0600. 🐛 fix: prevent crash on empty input
 0988. 🐛 fix: fix broken CSS in mobile view
+0865. ♻️ chore: add GitHub actions badge
