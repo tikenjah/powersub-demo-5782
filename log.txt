@@ -1531,3 +1531,4 @@
 0370. 🚀 perf: reduce image load time
 0109. 🚀 perf: lazy-load components
 0204. 🎨 style: standardize quote style
+1000. ✅ test: increase coverage on auth module
