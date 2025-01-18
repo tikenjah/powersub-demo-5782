@@ -1534,3 +1534,4 @@
 1000. ✅ test: increase coverage on auth module
 0946. ✅ test: add unit test for quiz service
 0472. 🐛 fix: fix null pointer exception on login
+0372. ✨ feat: add user authentication
