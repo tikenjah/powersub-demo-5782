@@ -1550,3 +1550,4 @@
 0393. 🚀 perf: lazy-load components
 0407. 🚀 perf: cache repeated calculations
 0592. 📚 docs: add API usage examples
+0358. 🚀 perf: reduce image load time
