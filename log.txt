@@ -11809,3 +11809,4 @@
 0081. 🐛 fix: fix null pointer exception on login
 0906. 📚 docs: add API usage examples
 0687. 🎨 style: remove trailing whitespace
+0978. 🐛 fix: prevent crash on empty input
