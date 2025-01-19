@@ -6816,3 +6816,4 @@
 0954. 🚀 perf: cache repeated calculations
 0943. 🎨 style: rename variables for clarity
 0948. 🐛 fix: fix broken CSS in mobile view
+0263. 📚 docs: add API usage examples
