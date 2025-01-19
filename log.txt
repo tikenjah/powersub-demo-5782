@@ -6460,3 +6460,4 @@
 0149. ✨ feat: add export to CSV option
 0751. 🐛 fix: handle 500 error in quiz API
 0104. 🎨 style: apply consistent indentation
+0484. 🐛 fix: handle 500 error in quiz API
