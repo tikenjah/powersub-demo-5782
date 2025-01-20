@@ -5450,3 +5450,4 @@
 0168. ✅ test: add integration test for /submit endpoint
 0023. 📚 docs: clarify environment setup
 0810. 🔧 refactor: refactor quiz grading logic
+0154. 🐛 fix: prevent crash on empty input
