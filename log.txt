@@ -7829,3 +7829,4 @@
 0988. 🐛 fix: fix broken CSS in mobile view
 0865. ♻️ chore: add GitHub actions badge
 0324. 📚 docs: document token refresh logic
+0850. ♻️ chore: rename env.example
