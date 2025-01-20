@@ -9823,3 +9823,4 @@
 0383. 🐛 fix: fix broken CSS in mobile view
 0475. 🔧 refactor: clean up auth middleware
 0958. 🐛 fix: prevent crash on empty input
+0777. 📚 docs: document token refresh logic
