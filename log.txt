@@ -1576,3 +1576,4 @@
 0457. 🐛 fix: handle 500 error in quiz API
 0721. 🚀 perf: optimize database query for quiz results
 0805. ♻️ chore: add GitHub actions badge
+0231. 🔧 refactor: clean up auth middleware
