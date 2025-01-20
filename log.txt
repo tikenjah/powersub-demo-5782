@@ -1562,3 +1562,4 @@
 0856. 🐛 fix: fix null pointer exception on login
 0273. 🚀 perf: reduce image load time
 0184. 📚 docs: improve code comments in utils
+0615. 🐛 fix: correct typo in registration form
