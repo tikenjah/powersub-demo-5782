@@ -6822,3 +6822,4 @@
 0864. 🐛 fix: correct typo in registration form
 0131. 📚 docs: write FAQ section
 0184. 📚 docs: improve code comments in utils
+0569. 📚 docs: document token refresh logic
