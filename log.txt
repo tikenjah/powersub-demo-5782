@@ -1586,3 +1586,4 @@
 0395. 📚 docs: write FAQ section
 0316. 🐛 fix: fix broken CSS in mobile view
 0020. ✅ test: add integration test for /submit endpoint
+0423. ✅ test: mock database connection in test suite
