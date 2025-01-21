@@ -1582,3 +1582,4 @@
 0152. ✨ feat: add user authentication
 0647. 🐛 fix: prevent crash on empty input
 0142. ✨ feat: implement quiz timer feature
+0663. 🚀 perf: reduce image load time
