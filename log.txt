@@ -6821,3 +6821,4 @@
 0693. 📚 docs: add API usage examples
 0864. 🐛 fix: correct typo in registration form
 0131. 📚 docs: write FAQ section
+0184. 📚 docs: improve code comments in utils
