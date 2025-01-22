@@ -1597,3 +1597,4 @@
 0228. 🔧 refactor: remove redundant code blocks
 0832. 🔧 refactor: remove redundant code blocks
 0550. 🔧 refactor: split large controller into smaller functions
+0772. 🐛 fix: fix null pointer exception on login
