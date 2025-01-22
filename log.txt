@@ -6469,3 +6469,4 @@
 0005. ✅ test: add unit test for quiz service
 0900. 🐛 fix: handle 500 error in quiz API
 0716. ✨ feat: implement quiz timer feature
+0603. 🐛 fix: fix broken CSS in mobile view
