@@ -5456,3 +5456,4 @@
 0985. 📚 docs: document token refresh logic
 0674. 🔧 refactor: split large controller into smaller functions
 0015. ✨ feat: implement quiz timer feature
+0010. ✨ feat: add user authentication
