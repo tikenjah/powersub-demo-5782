@@ -8817,3 +8817,4 @@
 0956. 📚 docs: clarify environment setup
 0851. ✅ test: mock database connection in test suite
 0763. 🔧 refactor: organize models into subfolders
+0503. ♻️ chore: rename env.example
