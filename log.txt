@@ -1606,3 +1606,4 @@
 0061. ✨ feat: create admin dashboard
 0456. 🚀 perf: optimize database query for quiz results
 0161. ✨ feat: create admin dashboard
+0097. 🐛 fix: handle 500 error in quiz API
