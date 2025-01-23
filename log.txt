@@ -1615,3 +1615,4 @@
 0184. 📚 docs: improve code comments in utils
 0604. 📚 docs: add API usage examples
 0954. 🚀 perf: cache repeated calculations
+0567. 📚 docs: add API usage examples
