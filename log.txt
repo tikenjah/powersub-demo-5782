@@ -1616,3 +1616,4 @@
 0604. 📚 docs: add API usage examples
 0954. 🚀 perf: cache repeated calculations
 0567. 📚 docs: add API usage examples
+0154. 🐛 fix: prevent crash on empty input
