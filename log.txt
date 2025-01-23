@@ -9835,3 +9835,4 @@
 0300. ✨ feat: add export to CSV option
 0420. 🚀 perf: reduce image load time
 0445. 📚 docs: improve code comments in utils
+0475. 🔧 refactor: clean up auth middleware
