@@ -1632,3 +1632,4 @@
 0275. 🎨 style: standardize quote style
 0087. ✨ feat: add export to CSV option
 0056. ♻️ chore: rename env.example
+0186. ✅ test: test user registration edge cases
