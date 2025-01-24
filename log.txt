@@ -1627,3 +1627,4 @@
 0116. ✨ feat: support email verification
 0774. 🔧 refactor: refactor quiz grading logic
 0054. ♻️ chore: update .gitignore
+0573. ✅ test: add integration test for /submit endpoint
