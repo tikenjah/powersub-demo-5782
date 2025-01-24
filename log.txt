@@ -11821,3 +11821,4 @@
 0734. ✨ feat: add export to CSV option
 0192. ✨ feat: enable dark mode toggle
 0758. 🚀 perf: optimize database query for quiz results
+0862. ♻️ chore: bump dependencies
