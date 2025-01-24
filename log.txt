@@ -6830,3 +6830,4 @@
 0688. 🚀 perf: reduce image load time
 0676. 🐛 fix: prevent crash on empty input
 0090. ✅ test: increase coverage on auth module
+0898. 🐛 fix: fix broken CSS in mobile view
