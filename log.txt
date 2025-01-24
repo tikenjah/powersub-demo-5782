@@ -1626,3 +1626,4 @@
 0582. ✨ feat: add export to CSV option
 0116. ✨ feat: support email verification
 0774. 🔧 refactor: refactor quiz grading logic
+0054. ♻️ chore: update .gitignore
