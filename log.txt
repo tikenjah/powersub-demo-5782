@@ -1642,3 +1642,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0704. 🚀 perf: cache repeated calculations
 0249. ✅ test: increase coverage on auth module
+0022. 📚 docs: document token refresh logic
