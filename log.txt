@@ -1651,3 +1651,4 @@
 0022. 📚 docs: document token refresh logic
 0356. 📚 docs: write FAQ section
 0326. 🚀 perf: cache repeated calculations
+0914. ✅ test: test user registration edge cases
