@@ -11824,3 +11824,4 @@
 0862. ♻️ chore: bump dependencies
 0418. ✅ test: mock database connection in test suite
 0474. ✅ test: add unit test for quiz service
+0540. ♻️ chore: add GitHub actions badge
