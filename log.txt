@@ -8828,3 +8828,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0957. 🐛 fix: fix null pointer exception on login
 0358. 🚀 perf: reduce image load time
+0204. 🎨 style: standardize quote style
