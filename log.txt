@@ -6475,3 +6475,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0365. 🚀 perf: reduce image load time
 0382. 📚 docs: improve code comments in utils
+0092. 🚀 perf: reduce image load time
