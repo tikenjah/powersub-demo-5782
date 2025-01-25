@@ -5462,3 +5462,4 @@
 0160. ♻️ chore: bump dependencies
 0478. 🐛 fix: resolve issue with date parsing
 0309. 🔧 refactor: refactor quiz grading logic
+0786. ✨ feat: enable dark mode toggle
