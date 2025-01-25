@@ -51,3 +51,4 @@
 0802. 🔧 refactor: remove redundant code blocks
 0363. 📚 docs: clarify environment setup
 0303. 🎨 style: rename variables for clarity
+0756. ✨ feat: support email verification
