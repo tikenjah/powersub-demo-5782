@@ -6479,3 +6479,4 @@
 0659. 📚 docs: add API usage examples
 0384. 📚 docs: clarify environment setup
 0763. 🔧 refactor: organize models into subfolders
+0234. ♻️ chore: rename env.example
