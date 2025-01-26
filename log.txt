@@ -1655,3 +1655,4 @@
 0424. ✨ feat: add user authentication
 0128. ♻️ chore: rename env.example
 0635. 🎨 style: apply consistent indentation
+0790. 📚 docs: write FAQ section
