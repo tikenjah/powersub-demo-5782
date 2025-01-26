@@ -11827,3 +11827,4 @@
 0540. ♻️ chore: add GitHub actions badge
 0915. 🚀 perf: cache repeated calculations
 0215. 🎨 style: reformat files with black
+0800. 🚀 perf: optimize database query for quiz results
