@@ -1657,3 +1657,4 @@
 0635. 🎨 style: apply consistent indentation
 0790. 📚 docs: write FAQ section
 0067. 🔧 refactor: remove redundant code blocks
+0722. 📚 docs: add API usage examples
