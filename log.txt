@@ -10828,3 +10828,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0149. ✨ feat: add export to CSV option
 0256. ✅ test: mock database connection in test suite
+0027. 📚 docs: clarify environment setup
