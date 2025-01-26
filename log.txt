@@ -5464,3 +5464,4 @@
 0309. 🔧 refactor: refactor quiz grading logic
 0786. ✨ feat: enable dark mode toggle
 0715. ✨ feat: create admin dashboard
+0672. 🐛 fix: fix broken CSS in mobile view
