@@ -1664,3 +1664,4 @@
 0014. 🔧 refactor: remove redundant code blocks
 0658. 🎨 style: rename variables for clarity
 0250. 📚 docs: update README with setup steps
+0197. 📚 docs: update README with setup steps
