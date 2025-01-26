@@ -6481,3 +6481,4 @@
 0763. 🔧 refactor: organize models into subfolders
 0234. ♻️ chore: rename env.example
 0767. 🔧 refactor: remove redundant code blocks
+0951. 🎨 style: rename variables for clarity
