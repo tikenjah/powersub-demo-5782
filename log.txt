@@ -1667,3 +1667,4 @@
 0197. 📚 docs: update README with setup steps
 0984. ♻️ chore: clean up unused files
 0063. 🐛 fix: handle 500 error in quiz API
+0613. 🐛 fix: prevent crash on empty input
