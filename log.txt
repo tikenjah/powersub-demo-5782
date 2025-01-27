@@ -1673,3 +1673,4 @@
 0636. ✅ test: increase coverage on auth module
 0252. 🎨 style: remove trailing whitespace
 0473. 📚 docs: write FAQ section
+0387. ✨ feat: enable dark mode toggle
