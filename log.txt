@@ -7847,3 +7847,4 @@
 0290. ✅ test: test user registration edge cases
 0021. ✨ feat: support email verification
 0054. ♻️ chore: update .gitignore
+0426. ✅ test: add integration test for /submit endpoint
