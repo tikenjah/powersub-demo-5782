@@ -1679,3 +1679,4 @@
 0631. ✨ feat: create admin dashboard
 0908. ♻️ chore: bump dependencies
 0340. 🚀 perf: optimize database query for quiz results
+0276. ✅ test: add integration test for /submit endpoint
