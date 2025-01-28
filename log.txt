@@ -8832,3 +8832,4 @@
 0184. 📚 docs: improve code comments in utils
 0968. 🎨 style: standardize quote style
 0650. ✅ test: add unit test for quiz service
+0749. ✨ feat: support email verification
