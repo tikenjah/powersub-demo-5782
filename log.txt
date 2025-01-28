@@ -7849,3 +7849,4 @@
 0054. ♻️ chore: update .gitignore
 0426. ✅ test: add integration test for /submit endpoint
 0259. 🚀 perf: lazy-load components
+0600. 🐛 fix: prevent crash on empty input
