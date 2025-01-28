@@ -11831,3 +11831,4 @@
 0122. ✨ feat: support email verification
 0411. ✅ test: add unit test for quiz service
 0364. 🐛 fix: resolve issue with date parsing
+0418. ✅ test: mock database connection in test suite
