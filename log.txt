@@ -1690,3 +1690,4 @@
 0707. 🎨 style: apply consistent indentation
 0351. ✨ feat: add export to CSV option
 0764. ✨ feat: add user authentication
+0945. ♻️ chore: add GitHub actions badge
