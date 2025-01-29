@@ -11836,3 +11836,4 @@
 0677. 📚 docs: add API usage examples
 0853. 🔧 refactor: refactor quiz grading logic
 0891. ✨ feat: create admin dashboard
+0719. 🎨 style: apply consistent indentation
