@@ -6839,3 +6839,4 @@
 0406. ✨ feat: add export to CSV option
 0718. 🐛 fix: resolve issue with date parsing
 0249. ✅ test: increase coverage on auth module
+0041. 🐛 fix: fix broken CSS in mobile view
