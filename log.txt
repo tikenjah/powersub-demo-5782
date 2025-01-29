@@ -11839,3 +11839,4 @@
 0719. 🎨 style: apply consistent indentation
 0218. 🔧 refactor: clean up auth middleware
 0786. ✨ feat: enable dark mode toggle
+0344. ♻️ chore: add GitHub actions badge
