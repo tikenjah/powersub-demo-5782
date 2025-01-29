@@ -8835,3 +8835,4 @@
 0749. ✨ feat: support email verification
 0252. 🎨 style: remove trailing whitespace
 0339. 📚 docs: update README with setup steps
+0394. 🚀 perf: lazy-load components
