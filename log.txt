@@ -11837,3 +11837,4 @@
 0853. 🔧 refactor: refactor quiz grading logic
 0891. ✨ feat: create admin dashboard
 0719. 🎨 style: apply consistent indentation
+0218. 🔧 refactor: clean up auth middleware
