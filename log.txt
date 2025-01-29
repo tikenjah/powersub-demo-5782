@@ -10834,3 +10834,4 @@
 0454. ♻️ chore: bump dependencies
 0777. 📚 docs: document token refresh logic
 0961. 📚 docs: add API usage examples
+0281. ✨ feat: support email verification
