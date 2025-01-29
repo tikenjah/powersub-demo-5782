@@ -1699,3 +1699,4 @@
 0931. 🚀 perf: reduce image load time
 0337. 📚 docs: document token refresh logic
 0715. ✨ feat: create admin dashboard
+0551. 📚 docs: write FAQ section
