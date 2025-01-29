@@ -54,3 +54,4 @@
 0756. ✨ feat: support email verification
 0551. 📚 docs: write FAQ section
 0245. 🐛 fix: resolve issue with date parsing
+0361. ✨ feat: support email verification
