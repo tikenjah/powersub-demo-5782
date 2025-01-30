@@ -1708,3 +1708,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0956. 📚 docs: clarify environment setup
 0678. ✨ feat: add user authentication
+0094. 📚 docs: document token refresh logic
