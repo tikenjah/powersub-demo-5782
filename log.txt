@@ -1710,3 +1710,4 @@
 0678. ✨ feat: add user authentication
 0094. 📚 docs: document token refresh logic
 0487. 🎨 style: reformat files with black
+0503. ♻️ chore: rename env.example
