@@ -10837,3 +10837,4 @@
 0281. ✨ feat: support email verification
 0715. ✨ feat: create admin dashboard
 0255. 🔧 refactor: refactor quiz grading logic
+0010. ✨ feat: add user authentication
