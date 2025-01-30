@@ -1709,3 +1709,4 @@
 0956. 📚 docs: clarify environment setup
 0678. ✨ feat: add user authentication
 0094. 📚 docs: document token refresh logic
+0487. 🎨 style: reformat files with black
