@@ -1714,3 +1714,4 @@
 0339. 📚 docs: update README with setup steps
 0344. ♻️ chore: add GitHub actions badge
 0275. 🎨 style: standardize quote style
+0563. 📚 docs: clarify environment setup
