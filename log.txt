@@ -1713,3 +1713,4 @@
 0503. ♻️ chore: rename env.example
 0339. 📚 docs: update README with setup steps
 0344. ♻️ chore: add GitHub actions badge
+0275. 🎨 style: standardize quote style
