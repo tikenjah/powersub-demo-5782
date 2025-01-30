@@ -6840,3 +6840,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0249. ✅ test: increase coverage on auth module
 0041. 🐛 fix: fix broken CSS in mobile view
+0391. 🐛 fix: fix null pointer exception on login
