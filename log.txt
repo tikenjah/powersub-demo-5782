@@ -1728,3 +1728,4 @@
 0930. 🎨 style: apply consistent indentation
 0149. ✨ feat: add export to CSV option
 0275. 🎨 style: standardize quote style
+0478. 🐛 fix: resolve issue with date parsing
