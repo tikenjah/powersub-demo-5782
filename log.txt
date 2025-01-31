@@ -1723,3 +1723,4 @@
 0254. 🚀 perf: reduce image load time
 0172. 📚 docs: add API usage examples
 0369. 🎨 style: standardize quote style
+0311. 🎨 style: apply consistent indentation
