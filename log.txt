@@ -1729,3 +1729,4 @@
 0149. ✨ feat: add export to CSV option
 0275. 🎨 style: standardize quote style
 0478. 🐛 fix: resolve issue with date parsing
+0911. ✅ test: increase coverage on auth module
