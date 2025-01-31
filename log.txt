@@ -6499,3 +6499,4 @@
 0671. 🐛 fix: fix null pointer exception on login
 0965. 🎨 style: reformat files with black
 0736. 🐛 fix: fix null pointer exception on login
+0090. ✅ test: increase coverage on auth module
