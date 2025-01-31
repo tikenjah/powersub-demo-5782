@@ -9858,3 +9858,4 @@
 0449. ✅ test: add unit test for quiz service
 0857. 🎨 style: rename variables for clarity
 0478. 🐛 fix: resolve issue with date parsing
+0286. ✅ test: mock database connection in test suite
