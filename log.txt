@@ -1731,3 +1731,4 @@
 0478. 🐛 fix: resolve issue with date parsing
 0911. ✅ test: increase coverage on auth module
 0723. 🔧 refactor: remove redundant code blocks
+0901. ✨ feat: add user authentication
