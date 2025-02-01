@@ -7862,3 +7862,4 @@
 0410. 🎨 style: reformat files with black
 0968. 🎨 style: standardize quote style
 0981. 🚀 perf: lazy-load components
+0387. ✨ feat: enable dark mode toggle
