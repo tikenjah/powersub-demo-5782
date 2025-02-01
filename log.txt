@@ -11851,3 +11851,4 @@
 0158. 📚 docs: clarify environment setup
 0873. 🚀 perf: cache repeated calculations
 0370. 🚀 perf: reduce image load time
+0081. 🐛 fix: fix null pointer exception on login
