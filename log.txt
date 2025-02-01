@@ -5482,3 +5482,4 @@
 0854. ♻️ chore: rename env.example
 0330. ✅ test: test user registration edge cases
 0438. ♻️ chore: bump dependencies
+0224. 🐛 fix: fix broken CSS in mobile view
