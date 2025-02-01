@@ -11848,3 +11848,4 @@
 0377. ✨ feat: add user authentication
 0611. ✅ test: test user registration edge cases
 0172. 📚 docs: add API usage examples
+0158. 📚 docs: clarify environment setup
