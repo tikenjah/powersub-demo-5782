@@ -6502,3 +6502,4 @@
 0090. ✅ test: increase coverage on auth module
 0261. 🔧 refactor: refactor quiz grading logic
 0340. 🚀 perf: optimize database query for quiz results
+0195. 📚 docs: clarify environment setup
