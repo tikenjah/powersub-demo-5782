@@ -11852,3 +11852,4 @@
 0873. 🚀 perf: cache repeated calculations
 0370. 🚀 perf: reduce image load time
 0081. 🐛 fix: fix null pointer exception on login
+0035. ✅ test: increase coverage on auth module
