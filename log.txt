@@ -1749,3 +1749,4 @@
 0817. 🔧 refactor: remove redundant code blocks
 0419. 🎨 style: remove trailing whitespace
 0504. 📚 docs: document token refresh logic
+0348. ✅ test: test user registration edge cases
