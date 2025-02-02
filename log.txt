@@ -6508,3 +6508,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0599. ✅ test: test user registration edge cases
 0606. 📚 docs: improve code comments in utils
+0487. 🎨 style: reformat files with black
