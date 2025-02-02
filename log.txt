@@ -7863,3 +7863,4 @@
 0968. 🎨 style: standardize quote style
 0981. 🚀 perf: lazy-load components
 0387. ✨ feat: enable dark mode toggle
+0521. 🎨 style: standardize quote style
