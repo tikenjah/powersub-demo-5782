@@ -5489,3 +5489,4 @@
 0627. 📚 docs: document token refresh logic
 0010. ✨ feat: add user authentication
 0604. 📚 docs: add API usage examples
+0116. ✨ feat: support email verification
