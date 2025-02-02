@@ -6505,3 +6505,4 @@
 0195. 📚 docs: clarify environment setup
 0880. 🐛 fix: fix broken CSS in mobile view
 0460. 📚 docs: write FAQ section
+0733. 🐛 fix: fix null pointer exception on login
