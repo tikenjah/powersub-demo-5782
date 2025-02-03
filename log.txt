@@ -5491,3 +5491,4 @@
 0604. 📚 docs: add API usage examples
 0116. ✨ feat: support email verification
 0489. 🔧 refactor: organize models into subfolders
+0297. 🎨 style: remove trailing whitespace
