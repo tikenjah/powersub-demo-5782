@@ -1769,3 +1769,4 @@
 0060. ♻️ chore: clean up unused files
 0826. 📚 docs: clarify environment setup
 0106. 🎨 style: reformat files with black
+0040. 🔧 refactor: clean up auth middleware
