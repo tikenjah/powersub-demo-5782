@@ -6509,3 +6509,4 @@
 0599. ✅ test: test user registration edge cases
 0606. 📚 docs: improve code comments in utils
 0487. 🎨 style: reformat files with black
+0144. ✅ test: increase coverage on auth module
