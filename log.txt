@@ -11861,3 +11861,4 @@
 0648. ♻️ chore: bump dependencies
 0659. 📚 docs: add API usage examples
 0102. ✨ feat: support email verification
+0535. 📚 docs: write FAQ section
