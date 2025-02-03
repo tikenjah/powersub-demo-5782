@@ -5490,3 +5490,4 @@
 0010. ✨ feat: add user authentication
 0604. 📚 docs: add API usage examples
 0116. ✨ feat: support email verification
+0489. 🔧 refactor: organize models into subfolders
