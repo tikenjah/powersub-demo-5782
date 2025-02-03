@@ -11857,3 +11857,4 @@
 0136. 🚀 perf: lazy-load components
 0164. 📚 docs: document token refresh logic
 0693. 📚 docs: add API usage examples
+0646. ✅ test: test user registration edge cases
