@@ -10852,3 +10852,4 @@
 0002. 🚀 perf: cache repeated calculations
 0156. 🎨 style: rename variables for clarity
 0930. 🎨 style: apply consistent indentation
+0085. ✨ feat: support email verification
