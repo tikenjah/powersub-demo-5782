@@ -8849,3 +8849,4 @@
 0849. 🐛 fix: correct typo in registration form
 0522. 🐛 fix: handle 500 error in quiz API
 0142. ✨ feat: implement quiz timer feature
+0752. ✅ test: add integration test for /submit endpoint
