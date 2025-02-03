@@ -11860,3 +11860,4 @@
 0646. ✅ test: test user registration edge cases
 0648. ♻️ chore: bump dependencies
 0659. 📚 docs: add API usage examples
+0102. ✨ feat: support email verification
