@@ -9866,3 +9866,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0480. ♻️ chore: add GitHub actions badge
 0199. ✨ feat: create admin dashboard
+0057. 🚀 perf: optimize database query for quiz results
