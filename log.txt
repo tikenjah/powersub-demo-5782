@@ -11865,3 +11865,4 @@
 0874. 🔧 refactor: split large controller into smaller functions
 0911. ✅ test: increase coverage on auth module
 0084. 🐛 fix: handle 500 error in quiz API
+0003. ✅ test: increase coverage on auth module
