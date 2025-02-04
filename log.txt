@@ -9870,3 +9870,4 @@
 0918. ✨ feat: enable dark mode toggle
 0234. ♻️ chore: rename env.example
 0851. ✅ test: mock database connection in test suite
+0703. 🔧 refactor: clean up auth middleware
