@@ -7872,3 +7872,4 @@
 0330. ✅ test: test user registration edge cases
 0889. 🚀 perf: lazy-load components
 0602. 🔧 refactor: remove redundant code blocks
+0571. 🔧 refactor: clean up auth middleware
