@@ -1780,3 +1780,4 @@
 0920. 🔧 refactor: organize models into subfolders
 0478. 🐛 fix: resolve issue with date parsing
 0331. 🐛 fix: fix broken CSS in mobile view
+0281. ✨ feat: support email verification
