@@ -5494,3 +5494,4 @@
 0297. 🎨 style: remove trailing whitespace
 0980. 🎨 style: reformat files with black
 0242. ♻️ chore: clean up unused files
+0371. ✅ test: add integration test for /submit endpoint
