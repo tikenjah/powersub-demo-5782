@@ -1779,3 +1779,4 @@
 0352. ✨ feat: add export to CSV option
 0920. 🔧 refactor: organize models into subfolders
 0478. 🐛 fix: resolve issue with date parsing
+0331. 🐛 fix: fix broken CSS in mobile view
