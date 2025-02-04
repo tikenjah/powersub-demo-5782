@@ -10857,3 +10857,4 @@
 0490. ✨ feat: create admin dashboard
 0217. 🚀 perf: reduce image load time
 0924. ✅ test: mock database connection in test suite
+0747. 🔧 refactor: clean up auth middleware
