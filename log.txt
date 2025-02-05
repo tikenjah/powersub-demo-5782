@@ -1783,3 +1783,4 @@
 0281. ✨ feat: support email verification
 0990. ♻️ chore: rename env.example
 0854. ♻️ chore: rename env.example
+0144. ✅ test: increase coverage on auth module
