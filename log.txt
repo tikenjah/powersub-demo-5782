@@ -1787,3 +1787,4 @@
 0730. ✅ test: test user registration edge cases
 0512. 🚀 perf: reduce image load time
 0270. ♻️ chore: rename env.example
+0871. ✅ test: add integration test for /submit endpoint
