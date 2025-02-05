@@ -1788,3 +1788,4 @@
 0512. 🚀 perf: reduce image load time
 0270. ♻️ chore: rename env.example
 0871. ✅ test: add integration test for /submit endpoint
+0292. 📚 docs: clarify environment setup
