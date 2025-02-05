@@ -6857,3 +6857,4 @@
 0433. 🐛 fix: prevent crash on empty input
 0715. ✨ feat: create admin dashboard
 0786. ✨ feat: enable dark mode toggle
+0332. 🎨 style: standardize quote style
