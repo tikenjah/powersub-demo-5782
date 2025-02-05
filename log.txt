@@ -1785,3 +1785,4 @@
 0854. ♻️ chore: rename env.example
 0144. ✅ test: increase coverage on auth module
 0730. ✅ test: test user registration edge cases
+0512. 🚀 perf: reduce image load time
