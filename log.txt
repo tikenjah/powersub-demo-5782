@@ -6514,3 +6514,4 @@
 0067. 🔧 refactor: remove redundant code blocks
 0111. 📚 docs: update README with setup steps
 0319. 🐛 fix: handle 500 error in quiz API
+0933. 📚 docs: clarify environment setup
