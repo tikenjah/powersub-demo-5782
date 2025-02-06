@@ -1797,3 +1797,4 @@
 0215. 🎨 style: reformat files with black
 0684. 🚀 perf: reduce image load time
 0765. ♻️ chore: clean up unused files
+0469. 🚀 perf: lazy-load components
