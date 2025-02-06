@@ -10865,3 +10865,4 @@
 0301. 🎨 style: apply consistent indentation
 0962. ✨ feat: create admin dashboard
 0628. ♻️ chore: add GitHub actions badge
+0696. 🔧 refactor: clean up auth middleware
