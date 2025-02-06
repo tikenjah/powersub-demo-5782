@@ -6858,3 +6858,4 @@
 0715. ✨ feat: create admin dashboard
 0786. ✨ feat: enable dark mode toggle
 0332. 🎨 style: standardize quote style
+0226. 🚀 perf: lazy-load components
