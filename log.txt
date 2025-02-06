@@ -5499,3 +5499,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0629. 🔧 refactor: organize models into subfolders
 0949. 📚 docs: write FAQ section
+0037. 🐛 fix: correct typo in registration form
