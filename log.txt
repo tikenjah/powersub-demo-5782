@@ -1807,3 +1807,4 @@
 0178. ✨ feat: support email verification
 0916. ♻️ chore: bump dependencies
 0152. ✨ feat: add user authentication
+0108. 🎨 style: remove trailing whitespace
