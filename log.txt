@@ -1809,3 +1809,4 @@
 0152. ✨ feat: add user authentication
 0108. 🎨 style: remove trailing whitespace
 0036. 🔧 refactor: clean up auth middleware
+0974. ✨ feat: add export to CSV option
