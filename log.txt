@@ -7880,3 +7880,4 @@
 0083. 🎨 style: reformat files with black
 0796. 🔧 refactor: refactor quiz grading logic
 0875. ✅ test: increase coverage on auth module
+0150. 🎨 style: remove trailing whitespace
