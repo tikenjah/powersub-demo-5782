@@ -11883,3 +11883,4 @@
 0308. 🚀 perf: reduce image load time
 0180. ✨ feat: add export to CSV option
 0656. 🎨 style: apply consistent indentation
+0771. 🚀 perf: cache repeated calculations
