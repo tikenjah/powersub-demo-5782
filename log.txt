@@ -9881,3 +9881,4 @@
 0177. 📚 docs: add API usage examples
 0528. ♻️ chore: clean up unused files
 0986. 📚 docs: document token refresh logic
+0649. 📚 docs: update README with setup steps
