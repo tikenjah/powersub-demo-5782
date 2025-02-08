@@ -7882,3 +7882,4 @@
 0875. ✅ test: increase coverage on auth module
 0150. 🎨 style: remove trailing whitespace
 0550. 🔧 refactor: split large controller into smaller functions
+0923. ✨ feat: support email verification
