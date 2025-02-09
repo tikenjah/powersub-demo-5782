@@ -1831,3 +1831,4 @@
 0731. 🎨 style: standardize quote style
 0852. ✨ feat: enable dark mode toggle
 0437. 📚 docs: clarify environment setup
+0084. 🐛 fix: handle 500 error in quiz API
