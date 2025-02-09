@@ -1822,3 +1822,4 @@
 0618. ✨ feat: support email verification
 0091. ✨ feat: add user authentication
 0666. 🐛 fix: fix broken CSS in mobile view
+0376. 🎨 style: apply consistent indentation
