@@ -6526,3 +6526,4 @@
 0734. ✨ feat: add export to CSV option
 0298. ♻️ chore: update .gitignore
 0806. 📚 docs: improve code comments in utils
+0447. ♻️ chore: bump dependencies
