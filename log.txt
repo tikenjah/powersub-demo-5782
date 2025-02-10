@@ -8873,3 +8873,4 @@
 0896. 🚀 perf: reduce image load time
 0991. ♻️ chore: clean up unused files
 0516. ✅ test: add unit test for quiz service
+0948. 🐛 fix: fix broken CSS in mobile view
