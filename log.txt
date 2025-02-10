@@ -6868,3 +6868,4 @@
 0930. 🎨 style: apply consistent indentation
 0705. 🔧 refactor: refactor quiz grading logic
 0989. 📚 docs: write FAQ section
+0885. ♻️ chore: update .gitignore
