@@ -1836,3 +1836,4 @@
 0257. 📚 docs: clarify environment setup
 0442. 🎨 style: standardize quote style
 0134. ✨ feat: implement quiz timer feature
+0710. 🐛 fix: fix broken CSS in mobile view
