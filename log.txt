@@ -10874,3 +10874,4 @@
 0473. 📚 docs: write FAQ section
 0122. ✨ feat: support email verification
 0545. 🎨 style: standardize quote style
+0020. ✅ test: add integration test for /submit endpoint
