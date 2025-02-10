@@ -1843,3 +1843,4 @@
 0334. 🚀 perf: cache repeated calculations
 0399. ✅ test: mock database connection in test suite
 0434. 📚 docs: document token refresh logic
+0027. 📚 docs: clarify environment setup
