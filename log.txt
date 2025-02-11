@@ -11892,3 +11892,4 @@
 0455. ♻️ chore: clean up unused files
 0482. ✨ feat: add export to CSV option
 0073. 🔧 refactor: split large controller into smaller functions
+0394. 🚀 perf: lazy-load components
