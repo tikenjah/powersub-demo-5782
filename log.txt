@@ -9891,3 +9891,4 @@
 0545. 🎨 style: standardize quote style
 0262. 🎨 style: remove trailing whitespace
 0544. 🔧 refactor: organize models into subfolders
+0335. ♻️ chore: update .gitignore
