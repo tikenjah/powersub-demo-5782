@@ -6533,3 +6533,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0514. 🐛 fix: fix broken CSS in mobile view
 0679. ♻️ chore: bump dependencies
+0250. 📚 docs: update README with setup steps
