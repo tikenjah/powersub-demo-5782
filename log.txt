@@ -1853,3 +1853,4 @@
 0235. 🐛 fix: fix null pointer exception on login
 0118. 🚀 perf: reduce image load time
 0106. 🎨 style: reformat files with black
+0789. ✨ feat: create admin dashboard
