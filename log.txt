@@ -5513,3 +5513,4 @@
 0445. 📚 docs: improve code comments in utils
 0663. 🚀 perf: reduce image load time
 0681. ✨ feat: create admin dashboard
+0839. 🎨 style: apply consistent indentation
