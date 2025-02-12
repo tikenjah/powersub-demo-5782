@@ -1870,3 +1870,4 @@
 0764. ✨ feat: add user authentication
 0183. 🔧 refactor: split large controller into smaller functions
 0685. ✅ test: test user registration edge cases
+0009. ✨ feat: enable dark mode toggle
