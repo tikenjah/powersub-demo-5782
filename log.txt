@@ -1886,3 +1886,4 @@
 0315. ✅ test: add integration test for /submit endpoint
 0968. 🎨 style: standardize quote style
 0538. 🐛 fix: fix broken CSS in mobile view
+0617. ✨ feat: support email verification
