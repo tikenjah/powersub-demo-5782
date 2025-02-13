@@ -11898,3 +11898,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0778. 📚 docs: write FAQ section
 0707. 🎨 style: apply consistent indentation
+0023. 📚 docs: clarify environment setup
