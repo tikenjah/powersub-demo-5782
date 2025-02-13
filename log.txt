@@ -1880,3 +1880,4 @@
 0129. 🔧 refactor: organize models into subfolders
 0424. ✨ feat: add user authentication
 0393. 🚀 perf: lazy-load components
+0661. ✅ test: add integration test for /submit endpoint
