@@ -9895,3 +9895,4 @@
 0721. 🚀 perf: optimize database query for quiz results
 0530. 🔧 refactor: refactor quiz grading logic
 0809. ♻️ chore: rename env.example
+0590. 🐛 fix: fix null pointer exception on login
