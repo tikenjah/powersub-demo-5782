@@ -1891,3 +1891,4 @@
 0388. 🎨 style: reformat files with black
 0925. ✨ feat: add export to CSV option
 0830. 🎨 style: apply consistent indentation
+0724. ✅ test: mock database connection in test suite
