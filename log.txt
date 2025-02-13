@@ -1889,3 +1889,4 @@
 0617. ✨ feat: support email verification
 0621. 🔧 refactor: clean up auth middleware
 0388. 🎨 style: reformat files with black
+0925. ✨ feat: add export to CSV option
