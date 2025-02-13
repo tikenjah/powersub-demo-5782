@@ -9897,3 +9897,4 @@
 0809. ♻️ chore: rename env.example
 0590. 🐛 fix: fix null pointer exception on login
 0269. ✅ test: test user registration edge cases
+0074. ♻️ chore: add GitHub actions badge
