@@ -1887,3 +1887,4 @@
 0968. 🎨 style: standardize quote style
 0538. 🐛 fix: fix broken CSS in mobile view
 0617. ✨ feat: support email verification
+0621. 🔧 refactor: clean up auth middleware
