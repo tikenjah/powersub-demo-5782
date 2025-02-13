@@ -5517,3 +5517,4 @@
 0305. ✨ feat: enable dark mode toggle
 0611. ✅ test: test user registration edge cases
 0929. ✨ feat: support email verification
+0593. 🐛 fix: correct typo in registration form
