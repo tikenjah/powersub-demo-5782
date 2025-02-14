@@ -8879,3 +8879,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0080. ✨ feat: support email verification
 0908. ♻️ chore: bump dependencies
+0485. 📚 docs: update README with setup steps
