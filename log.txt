@@ -1896,3 +1896,4 @@
 0603. 🐛 fix: fix broken CSS in mobile view
 0073. 🔧 refactor: split large controller into smaller functions
 0430. 🐛 fix: fix null pointer exception on login
+0511. 🐛 fix: fix broken CSS in mobile view
