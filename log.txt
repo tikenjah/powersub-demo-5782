@@ -10883,3 +10883,4 @@
 0448. 🐛 fix: correct typo in registration form
 0256. ✅ test: mock database connection in test suite
 0310. 🔧 refactor: refactor quiz grading logic
+0101. 📚 docs: clarify environment setup
