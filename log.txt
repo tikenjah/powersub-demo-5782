@@ -1921,3 +1921,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0549. ✨ feat: enable dark mode toggle
 0488. ♻️ chore: add GitHub actions badge
+0081. 🐛 fix: fix null pointer exception on login
