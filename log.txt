@@ -8881,3 +8881,4 @@
 0908. ♻️ chore: bump dependencies
 0485. 📚 docs: update README with setup steps
 0861. ♻️ chore: clean up unused files
+0433. 🐛 fix: prevent crash on empty input
