@@ -8882,3 +8882,4 @@
 0485. 📚 docs: update README with setup steps
 0861. ♻️ chore: clean up unused files
 0433. 🐛 fix: prevent crash on empty input
+0326. 🚀 perf: cache repeated calculations
