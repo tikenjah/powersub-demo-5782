@@ -1917,3 +1917,4 @@
 0295. 🎨 style: remove trailing whitespace
 0615. 🐛 fix: correct typo in registration form
 0612. ✅ test: test user registration edge cases
+0576. ♻️ chore: update .gitignore
