@@ -9900,3 +9900,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0639. 🐛 fix: correct typo in registration form
 0720. ✨ feat: add export to CSV option
+0359. 🔧 refactor: clean up auth middleware
