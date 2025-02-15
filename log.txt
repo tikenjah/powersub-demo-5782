@@ -11900,3 +11900,4 @@
 0707. 🎨 style: apply consistent indentation
 0023. 📚 docs: clarify environment setup
 0338. ♻️ chore: add GitHub actions badge
+0352. ✨ feat: add export to CSV option
