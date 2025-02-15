@@ -1915,3 +1915,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0392. 🎨 style: remove trailing whitespace
 0295. 🎨 style: remove trailing whitespace
+0615. 🐛 fix: correct typo in registration form
