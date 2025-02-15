@@ -11903,3 +11903,4 @@
 0352. ✨ feat: add export to CSV option
 0016. 🎨 style: apply consistent indentation
 0854. ♻️ chore: rename env.example
+0297. 🎨 style: remove trailing whitespace
