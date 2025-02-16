@@ -1940,3 +1940,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0602. 🔧 refactor: remove redundant code blocks
 0319. 🐛 fix: handle 500 error in quiz API
+0433. 🐛 fix: prevent crash on empty input
