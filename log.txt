@@ -1925,3 +1925,4 @@
 0855. 🎨 style: reformat files with black
 0332. 🎨 style: standardize quote style
 0323. 📚 docs: clarify environment setup
+0535. 📚 docs: write FAQ section
