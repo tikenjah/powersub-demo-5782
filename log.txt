@@ -1939,3 +1939,4 @@
 0091. ✨ feat: add user authentication
 0176. 🔧 refactor: remove redundant code blocks
 0602. 🔧 refactor: remove redundant code blocks
+0319. 🐛 fix: handle 500 error in quiz API
