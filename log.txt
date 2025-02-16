@@ -11905,3 +11905,4 @@
 0854. ♻️ chore: rename env.example
 0297. 🎨 style: remove trailing whitespace
 0370. 🚀 perf: reduce image load time
+0325. 🎨 style: rename variables for clarity
