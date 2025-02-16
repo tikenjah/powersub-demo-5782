@@ -1935,3 +1935,4 @@
 0888. 🚀 perf: lazy-load components
 0326. 🚀 perf: cache repeated calculations
 0187. ✨ feat: support email verification
+0252. 🎨 style: remove trailing whitespace
