@@ -1926,3 +1926,4 @@
 0332. 🎨 style: standardize quote style
 0323. 📚 docs: clarify environment setup
 0535. 📚 docs: write FAQ section
+0994. 🚀 perf: reduce image load time
