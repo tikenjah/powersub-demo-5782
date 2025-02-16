@@ -1936,3 +1936,4 @@
 0326. 🚀 perf: cache repeated calculations
 0187. ✨ feat: support email verification
 0252. 🎨 style: remove trailing whitespace
+0091. ✨ feat: add user authentication
