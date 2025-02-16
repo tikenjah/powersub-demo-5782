@@ -11908,3 +11908,4 @@
 0325. 🎨 style: rename variables for clarity
 0341. 🚀 perf: lazy-load components
 0075. ✅ test: mock database connection in test suite
+0040. 🔧 refactor: clean up auth middleware
