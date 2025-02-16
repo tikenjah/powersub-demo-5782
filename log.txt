@@ -6882,3 +6882,4 @@
 0481. ✅ test: add unit test for quiz service
 0564. 📚 docs: clarify environment setup
 0564. 📚 docs: clarify environment setup
+0785. ✨ feat: enable dark mode toggle
