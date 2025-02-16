@@ -6880,3 +6880,4 @@
 0412. ✅ test: increase coverage on auth module
 0053. ✅ test: increase coverage on auth module
 0481. ✅ test: add unit test for quiz service
+0564. 📚 docs: clarify environment setup
