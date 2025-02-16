@@ -6540,3 +6540,4 @@
 0779. 🔧 refactor: organize models into subfolders
 0798. 🚀 perf: reduce image load time
 0671. 🐛 fix: fix null pointer exception on login
+0234. ♻️ chore: rename env.example
