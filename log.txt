@@ -1932,3 +1932,4 @@
 0027. 📚 docs: clarify environment setup
 0888. 🚀 perf: lazy-load components
 0160. ♻️ chore: bump dependencies
+0888. 🚀 perf: lazy-load components
