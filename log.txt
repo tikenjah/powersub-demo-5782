@@ -1930,3 +1930,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0067. 🔧 refactor: remove redundant code blocks
 0027. 📚 docs: clarify environment setup
+0888. 🚀 perf: lazy-load components
