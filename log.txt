@@ -5527,3 +5527,4 @@
 0845. 🚀 perf: cache repeated calculations
 0777. 📚 docs: document token refresh logic
 0444. ✅ test: add unit test for quiz service
+0397. 🐛 fix: handle 500 error in quiz API
