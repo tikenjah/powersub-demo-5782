@@ -5526,3 +5526,4 @@
 0112. ✨ feat: enable dark mode toggle
 0845. 🚀 perf: cache repeated calculations
 0777. 📚 docs: document token refresh logic
+0444. ✅ test: add unit test for quiz service
