@@ -1954,3 +1954,4 @@
 0841. 🚀 perf: optimize database query for quiz results
 0735. ♻️ chore: add GitHub actions badge
 0970. ♻️ chore: update .gitignore
+0105. 🐛 fix: correct typo in registration form
