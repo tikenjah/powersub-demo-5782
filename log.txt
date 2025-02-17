@@ -6884,3 +6884,4 @@
 0564. 📚 docs: clarify environment setup
 0785. ✨ feat: enable dark mode toggle
 0166. 🚀 perf: cache repeated calculations
+0985. 📚 docs: document token refresh logic
