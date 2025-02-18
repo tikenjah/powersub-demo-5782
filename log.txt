@@ -10894,3 +10894,4 @@
 0112. ✨ feat: enable dark mode toggle
 0188. 🎨 style: apply consistent indentation
 0975. 🎨 style: apply consistent indentation
+0187. ✨ feat: support email verification
