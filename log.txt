@@ -74,3 +74,4 @@
 0606. 📚 docs: improve code comments in utils
 0704. 🚀 perf: cache repeated calculations
 0267. 📚 docs: improve code comments in utils
+0738. 🐛 fix: prevent crash on empty input
