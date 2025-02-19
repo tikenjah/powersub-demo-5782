@@ -1983,3 +1983,4 @@
 0572. ✨ feat: add user authentication
 0135. ✅ test: test user registration edge cases
 0129. 🔧 refactor: organize models into subfolders
+0734. ✨ feat: add export to CSV option
