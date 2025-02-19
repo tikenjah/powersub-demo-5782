@@ -8891,3 +8891,4 @@
 0254. 🚀 perf: reduce image load time
 0167. 🚀 perf: reduce image load time
 0863. 🐛 fix: correct typo in registration form
+0703. 🔧 refactor: clean up auth middleware
