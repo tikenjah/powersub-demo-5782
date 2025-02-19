@@ -1986,3 +1986,4 @@
 0734. ✨ feat: add export to CSV option
 0810. 🔧 refactor: refactor quiz grading logic
 0422. 🔧 refactor: organize models into subfolders
+0502. 📚 docs: update README with setup steps
