@@ -1980,3 +1980,4 @@
 0155. ✨ feat: create admin dashboard
 0823. ✨ feat: add user authentication
 0384. 📚 docs: clarify environment setup
+0572. ✨ feat: add user authentication
