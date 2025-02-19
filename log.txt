@@ -1981,3 +1981,4 @@
 0823. ✨ feat: add user authentication
 0384. 📚 docs: clarify environment setup
 0572. ✨ feat: add user authentication
+0135. ✅ test: test user registration edge cases
