@@ -9911,3 +9911,4 @@
 0080. ✨ feat: support email verification
 0673. 🐛 fix: correct typo in registration form
 0331. 🐛 fix: fix broken CSS in mobile view
+0828. ♻️ chore: add GitHub actions badge
