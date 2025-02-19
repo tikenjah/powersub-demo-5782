@@ -11913,3 +11913,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0719. 🎨 style: apply consistent indentation
 0623. 🎨 style: standardize quote style
+0661. ✅ test: add integration test for /submit endpoint
