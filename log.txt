@@ -9912,3 +9912,4 @@
 0673. 🐛 fix: correct typo in registration form
 0331. 🐛 fix: fix broken CSS in mobile view
 0828. ♻️ chore: add GitHub actions badge
+0188. 🎨 style: apply consistent indentation
