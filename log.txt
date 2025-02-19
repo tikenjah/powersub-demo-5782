@@ -8890,3 +8890,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0254. 🚀 perf: reduce image load time
 0167. 🚀 perf: reduce image load time
+0863. 🐛 fix: correct typo in registration form
