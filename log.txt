@@ -1979,3 +1979,4 @@
 0606. 📚 docs: improve code comments in utils
 0155. ✨ feat: create admin dashboard
 0823. ✨ feat: add user authentication
+0384. 📚 docs: clarify environment setup
