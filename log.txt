@@ -10897,3 +10897,4 @@
 0187. ✨ feat: support email verification
 0339. 📚 docs: update README with setup steps
 0893. 🐛 fix: handle 500 error in quiz API
+0026. 🔧 refactor: clean up auth middleware
