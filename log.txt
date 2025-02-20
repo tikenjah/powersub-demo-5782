@@ -2010,3 +2010,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0515. 🚀 perf: optimize database query for quiz results
 0518. ✨ feat: support email verification
+0997. ✅ test: increase coverage on auth module
