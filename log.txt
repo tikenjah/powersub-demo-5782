@@ -1987,3 +1987,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0422. 🔧 refactor: organize models into subfolders
 0502. 📚 docs: update README with setup steps
+0390. 🎨 style: standardize quote style
