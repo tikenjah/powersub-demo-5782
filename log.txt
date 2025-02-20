@@ -5537,3 +5537,4 @@
 0903. ✅ test: mock database connection in test suite
 0661. ✅ test: add integration test for /submit endpoint
 0963. 🚀 perf: reduce image load time
+0584. 🚀 perf: lazy-load components
