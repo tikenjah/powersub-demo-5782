@@ -1992,3 +1992,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0310. 🔧 refactor: refactor quiz grading logic
 0526. ✨ feat: add user authentication
+0880. 🐛 fix: fix broken CSS in mobile view
