@@ -1988,3 +1988,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0502. 📚 docs: update README with setup steps
 0390. 🎨 style: standardize quote style
+0747. 🔧 refactor: clean up auth middleware
