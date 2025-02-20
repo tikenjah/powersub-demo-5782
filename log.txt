@@ -1997,3 +1997,4 @@
 0458. ✨ feat: create admin dashboard
 0544. 🔧 refactor: organize models into subfolders
 0018. 🔧 refactor: organize models into subfolders
+0668. 🚀 perf: optimize database query for quiz results
