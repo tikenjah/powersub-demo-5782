@@ -2011,3 +2011,4 @@
 0515. 🚀 perf: optimize database query for quiz results
 0518. ✨ feat: support email verification
 0997. ✅ test: increase coverage on auth module
+0556. ✨ feat: support email verification
