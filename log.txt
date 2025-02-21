@@ -2012,3 +2012,4 @@
 0518. ✨ feat: support email verification
 0997. ✅ test: increase coverage on auth module
 0556. ✨ feat: support email verification
+0210. 🎨 style: apply consistent indentation
