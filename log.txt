@@ -10901,3 +10901,4 @@
 0108. 🎨 style: remove trailing whitespace
 0352. ✨ feat: add export to CSV option
 0806. 📚 docs: improve code comments in utils
+0356. 📚 docs: write FAQ section
