@@ -6905,3 +6905,4 @@
 0535. 📚 docs: write FAQ section
 0118. 🚀 perf: reduce image load time
 0813. 🔧 refactor: organize models into subfolders
+0865. ♻️ chore: add GitHub actions badge
