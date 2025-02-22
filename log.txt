@@ -2037,3 +2037,4 @@
 0667. ✨ feat: add export to CSV option
 0756. ✨ feat: support email verification
 0505. ♻️ chore: add GitHub actions badge
+0858. ♻️ chore: clean up unused files
