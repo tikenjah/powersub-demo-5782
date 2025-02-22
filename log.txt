@@ -8898,3 +8898,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0684. 🚀 perf: reduce image load time
 0603. 🐛 fix: fix broken CSS in mobile view
+0424. ✨ feat: add user authentication
