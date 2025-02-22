@@ -8899,3 +8899,4 @@
 0684. 🚀 perf: reduce image load time
 0603. 🐛 fix: fix broken CSS in mobile view
 0424. ✨ feat: add user authentication
+0200. 🐛 fix: handle 500 error in quiz API
