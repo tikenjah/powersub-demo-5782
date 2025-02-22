@@ -2031,3 +2031,4 @@
 0370. 🚀 perf: reduce image load time
 0404. 📚 docs: improve code comments in utils
 0227. ✅ test: test user registration edge cases
+0099. 🚀 perf: reduce image load time
