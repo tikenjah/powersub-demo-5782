@@ -6913,3 +6913,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0551. 📚 docs: write FAQ section
 0199. ✨ feat: create admin dashboard
+0267. 📚 docs: improve code comments in utils
