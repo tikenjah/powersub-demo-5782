@@ -6908,3 +6908,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0042. 📚 docs: document token refresh logic
 0160. ♻️ chore: bump dependencies
+0549. ✨ feat: enable dark mode toggle
