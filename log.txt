@@ -5547,3 +5547,4 @@
 0699. 🎨 style: standardize quote style
 0706. ✨ feat: support email verification
 0628. ♻️ chore: add GitHub actions badge
+0033. 🎨 style: apply consistent indentation
