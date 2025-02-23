@@ -9924,3 +9924,4 @@
 0273. 🚀 perf: reduce image load time
 0979. 🎨 style: standardize quote style
 0186. ✅ test: test user registration edge cases
+0546. 🐛 fix: fix null pointer exception on login
