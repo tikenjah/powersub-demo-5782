@@ -11920,3 +11920,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0146. 🎨 style: apply consistent indentation
 0636. ✅ test: increase coverage on auth module
+0542. 🔧 refactor: organize models into subfolders
