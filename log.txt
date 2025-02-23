@@ -6912,3 +6912,4 @@
 0348. ✅ test: test user registration edge cases
 0957. 🐛 fix: fix null pointer exception on login
 0551. 📚 docs: write FAQ section
+0199. ✨ feat: create admin dashboard
