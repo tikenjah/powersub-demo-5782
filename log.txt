@@ -2038,3 +2038,4 @@
 0756. ✨ feat: support email verification
 0505. ♻️ chore: add GitHub actions badge
 0858. ♻️ chore: clean up unused files
+0330. ✅ test: test user registration edge cases
