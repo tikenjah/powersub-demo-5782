@@ -11926,3 +11926,4 @@
 0563. 📚 docs: clarify environment setup
 0975. 🎨 style: apply consistent indentation
 0277. 🎨 style: standardize quote style
+0062. ♻️ chore: update .gitignore
