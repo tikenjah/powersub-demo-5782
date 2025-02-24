@@ -6919,3 +6919,4 @@
 0448. 🐛 fix: correct typo in registration form
 0924. ✅ test: mock database connection in test suite
 0636. ✅ test: increase coverage on auth module
+0850. ♻️ chore: rename env.example
