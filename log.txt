@@ -9925,3 +9925,4 @@
 0979. 🎨 style: standardize quote style
 0186. ✅ test: test user registration edge cases
 0546. 🐛 fix: fix null pointer exception on login
+0737. 🐛 fix: handle 500 error in quiz API
