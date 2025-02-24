@@ -8906,3 +8906,4 @@
 0241. 📚 docs: add API usage examples
 0735. ♻️ chore: add GitHub actions badge
 0424. ✨ feat: add user authentication
+0231. 🔧 refactor: clean up auth middleware
