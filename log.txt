@@ -7912,3 +7912,4 @@
 0196. ♻️ chore: bump dependencies
 0167. 🚀 perf: reduce image load time
 0175. 📚 docs: add API usage examples
+0969. ✨ feat: create admin dashboard
