@@ -2057,3 +2057,4 @@
 0686. 🎨 style: standardize quote style
 0836. 🚀 perf: optimize database query for quiz results
 0386. 🚀 perf: optimize database query for quiz results
+0258. 🐛 fix: prevent crash on empty input
