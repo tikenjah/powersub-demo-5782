@@ -2059,3 +2059,4 @@
 0386. 🚀 perf: optimize database query for quiz results
 0258. 🐛 fix: prevent crash on empty input
 0613. 🐛 fix: prevent crash on empty input
+0678. ✨ feat: add user authentication
