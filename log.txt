@@ -5555,3 +5555,4 @@
 0174. 📚 docs: clarify environment setup
 0517. ✅ test: mock database connection in test suite
 0323. 📚 docs: clarify environment setup
+0654. ✨ feat: create admin dashboard
