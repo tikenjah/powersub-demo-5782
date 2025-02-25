@@ -6922,3 +6922,4 @@
 0850. ♻️ chore: rename env.example
 0637. 🎨 style: apply consistent indentation
 0479. 🐛 fix: fix null pointer exception on login
+0067. 🔧 refactor: remove redundant code blocks
