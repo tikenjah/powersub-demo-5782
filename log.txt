@@ -8907,3 +8907,4 @@
 0735. ♻️ chore: add GitHub actions badge
 0424. ✨ feat: add user authentication
 0231. 🔧 refactor: clean up auth middleware
+0795. 📚 docs: update README with setup steps
