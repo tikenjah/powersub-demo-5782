@@ -6924,3 +6924,4 @@
 0479. 🐛 fix: fix null pointer exception on login
 0067. 🔧 refactor: remove redundant code blocks
 0377. ✨ feat: add user authentication
+0053. ✅ test: increase coverage on auth module
