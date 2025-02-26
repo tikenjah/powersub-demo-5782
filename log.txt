@@ -2088,3 +2088,4 @@
 0260. ✨ feat: create admin dashboard
 0296. 🔧 refactor: organize models into subfolders
 0388. 🎨 style: reformat files with black
+0960. ✅ test: increase coverage on auth module
