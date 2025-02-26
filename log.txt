@@ -5558,3 +5558,4 @@
 0654. ✨ feat: create admin dashboard
 0898. 🐛 fix: fix broken CSS in mobile view
 0484. 🐛 fix: handle 500 error in quiz API
+0525. ✅ test: mock database connection in test suite
