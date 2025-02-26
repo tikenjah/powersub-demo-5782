@@ -5557,3 +5557,4 @@
 0323. 📚 docs: clarify environment setup
 0654. ✨ feat: create admin dashboard
 0898. 🐛 fix: fix broken CSS in mobile view
+0484. 🐛 fix: handle 500 error in quiz API
