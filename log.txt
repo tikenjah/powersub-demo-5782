@@ -9932,3 +9932,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0717. 🔧 refactor: refactor quiz grading logic
 0087. ✨ feat: add export to CSV option
+0507. 🔧 refactor: clean up auth middleware
