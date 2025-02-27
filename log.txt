@@ -2091,3 +2091,4 @@
 0960. ✅ test: increase coverage on auth module
 0431. 🎨 style: reformat files with black
 0176. 🔧 refactor: remove redundant code blocks
+0824. 🚀 perf: lazy-load components
