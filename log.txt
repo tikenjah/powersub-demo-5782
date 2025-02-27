@@ -10916,3 +10916,4 @@
 0670. ✨ feat: add export to CSV option
 0659. 📚 docs: add API usage examples
 0792. 🎨 style: standardize quote style
+0394. 🚀 perf: lazy-load components
