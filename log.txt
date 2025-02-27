@@ -2096,3 +2096,4 @@
 0112. ✨ feat: enable dark mode toggle
 0266. 🔧 refactor: remove redundant code blocks
 0103. 🔧 refactor: remove redundant code blocks
+0738. 🐛 fix: prevent crash on empty input
