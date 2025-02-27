@@ -2105,3 +2105,4 @@
 0143. ✨ feat: implement quiz timer feature
 0880. 🐛 fix: fix broken CSS in mobile view
 0892. ✅ test: add unit test for quiz service
+0832. 🔧 refactor: remove redundant code blocks
