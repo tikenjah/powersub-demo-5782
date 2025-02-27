@@ -6926,3 +6926,4 @@
 0377. ✨ feat: add user authentication
 0053. ✅ test: increase coverage on auth module
 0473. 📚 docs: write FAQ section
+0226. 🚀 perf: lazy-load components
