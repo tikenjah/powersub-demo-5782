@@ -7924,3 +7924,4 @@
 0980. 🎨 style: reformat files with black
 0875. ✅ test: increase coverage on auth module
 0512. 🚀 perf: reduce image load time
+0544. 🔧 refactor: organize models into subfolders
