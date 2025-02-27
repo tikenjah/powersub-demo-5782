@@ -2106,3 +2106,4 @@
 0880. 🐛 fix: fix broken CSS in mobile view
 0892. ✅ test: add unit test for quiz service
 0832. 🔧 refactor: remove redundant code blocks
+0359. 🔧 refactor: clean up auth middleware
