@@ -2117,3 +2117,4 @@
 0575. ✅ test: add unit test for quiz service
 0312. ✨ feat: add user authentication
 0648. ♻️ chore: bump dependencies
+0135. ✅ test: test user registration edge cases
