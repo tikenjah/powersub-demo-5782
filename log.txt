@@ -2115,3 +2115,4 @@
 0821. ✅ test: add integration test for /submit endpoint
 0548. 📚 docs: write FAQ section
 0575. ✅ test: add unit test for quiz service
+0312. ✨ feat: add user authentication
