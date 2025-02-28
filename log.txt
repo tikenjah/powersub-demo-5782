@@ -6928,3 +6928,4 @@
 0473. 📚 docs: write FAQ section
 0226. 🚀 perf: lazy-load components
 0553. 🐛 fix: correct typo in registration form
+0937. 🐛 fix: handle 500 error in quiz API
