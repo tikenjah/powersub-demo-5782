@@ -6932,3 +6932,4 @@
 0650. ✅ test: add unit test for quiz service
 0558. ✨ feat: enable dark mode toggle
 0810. 🔧 refactor: refactor quiz grading logic
+0358. 🚀 perf: reduce image load time
