@@ -2120,3 +2120,4 @@
 0135. ✅ test: test user registration edge cases
 0154. 🐛 fix: prevent crash on empty input
 0536. ✨ feat: add user authentication
+0457. 🐛 fix: handle 500 error in quiz API
