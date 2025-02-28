@@ -8917,3 +8917,4 @@
 0814. 🔧 refactor: remove redundant code blocks
 0100. ♻️ chore: update .gitignore
 0259. 🚀 perf: lazy-load components
+0617. ✨ feat: support email verification
