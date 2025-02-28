@@ -6929,3 +6929,4 @@
 0226. 🚀 perf: lazy-load components
 0553. 🐛 fix: correct typo in registration form
 0937. 🐛 fix: handle 500 error in quiz API
+0650. ✅ test: add unit test for quiz service
