@@ -2121,3 +2121,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0536. ✨ feat: add user authentication
 0457. 🐛 fix: handle 500 error in quiz API
+0684. 🚀 perf: reduce image load time
