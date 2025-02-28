@@ -10918,3 +10918,4 @@
 0792. 🎨 style: standardize quote style
 0394. 🚀 perf: lazy-load components
 0872. 🎨 style: rename variables for clarity
+0783. 🐛 fix: handle 500 error in quiz API
