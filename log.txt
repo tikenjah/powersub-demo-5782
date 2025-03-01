@@ -7931,3 +7931,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0852. ✨ feat: enable dark mode toggle
 0568. 🐛 fix: handle 500 error in quiz API
+0893. 🐛 fix: handle 500 error in quiz API
