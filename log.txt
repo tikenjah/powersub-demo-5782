@@ -10922,3 +10922,4 @@
 0091. ✨ feat: add user authentication
 0482. ✨ feat: add export to CSV option
 0456. 🚀 perf: optimize database query for quiz results
+0500. ✅ test: add integration test for /submit endpoint
