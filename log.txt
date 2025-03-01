@@ -11941,3 +11941,4 @@
 0290. ✅ test: test user registration edge cases
 0997. ✅ test: increase coverage on auth module
 0219. ✅ test: increase coverage on auth module
+0534. 🔧 refactor: split large controller into smaller functions
