@@ -11939,3 +11939,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0235. 🐛 fix: fix null pointer exception on login
 0290. ✅ test: test user registration edge cases
+0997. ✅ test: increase coverage on auth module
