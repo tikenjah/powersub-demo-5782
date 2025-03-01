@@ -8918,3 +8918,4 @@
 0100. ♻️ chore: update .gitignore
 0259. 🚀 perf: lazy-load components
 0617. ✨ feat: support email verification
+0420. 🚀 perf: reduce image load time
