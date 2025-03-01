@@ -5562,3 +5562,4 @@
 0772. 🐛 fix: fix null pointer exception on login
 0401. 🚀 perf: reduce image load time
 0608. 🔧 refactor: remove redundant code blocks
+0278. 🔧 refactor: clean up auth middleware
