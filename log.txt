@@ -6939,3 +6939,4 @@
 0895. ✨ feat: support email verification
 0189. 📚 docs: clarify environment setup
 0542. 🔧 refactor: organize models into subfolders
+0724. ✅ test: mock database connection in test suite
