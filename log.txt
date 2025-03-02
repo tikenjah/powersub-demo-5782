@@ -5568,3 +5568,4 @@
 0584. 🚀 perf: lazy-load components
 0791. 🔧 refactor: clean up auth middleware
 0982. 🚀 perf: lazy-load components
+0707. 🎨 style: apply consistent indentation
