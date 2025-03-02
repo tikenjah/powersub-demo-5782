@@ -5566,3 +5566,4 @@
 0662. ♻️ chore: clean up unused files
 0009. ✨ feat: enable dark mode toggle
 0584. 🚀 perf: lazy-load components
+0791. 🔧 refactor: clean up auth middleware
