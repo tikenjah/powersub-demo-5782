@@ -7935,3 +7935,4 @@
 0098. 🎨 style: rename variables for clarity
 0046. 🎨 style: rename variables for clarity
 0982. 🚀 perf: lazy-load components
+0518. ✨ feat: support email verification
