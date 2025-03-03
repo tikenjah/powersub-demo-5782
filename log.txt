@@ -2147,3 +2147,4 @@
 0871. ✅ test: add integration test for /submit endpoint
 0299. 🐛 fix: resolve issue with date parsing
 0986. 📚 docs: document token refresh logic
+0066. 🔧 refactor: clean up auth middleware
