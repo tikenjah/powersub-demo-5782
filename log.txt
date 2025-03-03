@@ -5574,3 +5574,4 @@
 0643. 🎨 style: apply consistent indentation
 0825. 🔧 refactor: split large controller into smaller functions
 0608. 🔧 refactor: remove redundant code blocks
+0258. 🐛 fix: prevent crash on empty input
