@@ -10927,3 +10927,4 @@
 0044. ✅ test: add unit test for quiz service
 0784. ♻️ chore: clean up unused files
 0383. 🐛 fix: fix broken CSS in mobile view
+0051. ✨ feat: enable dark mode toggle
