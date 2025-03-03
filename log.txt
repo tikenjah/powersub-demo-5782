@@ -9939,3 +9939,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0357. ✅ test: add unit test for quiz service
 0326. 🚀 perf: cache repeated calculations
+0628. ♻️ chore: add GitHub actions badge
