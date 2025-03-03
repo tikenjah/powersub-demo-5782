@@ -2144,3 +2144,4 @@
 0219. ✅ test: increase coverage on auth module
 0927. ♻️ chore: bump dependencies
 0706. ✨ feat: support email verification
+0871. ✅ test: add integration test for /submit endpoint
