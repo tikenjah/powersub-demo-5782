@@ -11948,3 +11948,4 @@
 0090. ✅ test: increase coverage on auth module
 0817. 🔧 refactor: remove redundant code blocks
 0589. 🐛 fix: fix broken CSS in mobile view
+0998. 🐛 fix: fix null pointer exception on login
