@@ -8925,3 +8925,4 @@
 0720. ✨ feat: add export to CSV option
 0817. 🔧 refactor: remove redundant code blocks
 0338. ♻️ chore: add GitHub actions badge
+0835. 🐛 fix: prevent crash on empty input
