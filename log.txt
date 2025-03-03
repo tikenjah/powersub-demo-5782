@@ -2143,3 +2143,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0219. ✅ test: increase coverage on auth module
 0927. ♻️ chore: bump dependencies
+0706. ✨ feat: support email verification
