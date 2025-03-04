@@ -2155,3 +2155,4 @@
 0660. 🐛 fix: correct typo in registration form
 0679. ♻️ chore: bump dependencies
 0162. ♻️ chore: add GitHub actions badge
+0681. ✨ feat: create admin dashboard
