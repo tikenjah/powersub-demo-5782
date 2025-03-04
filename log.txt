@@ -7938,3 +7938,4 @@
 0518. ✨ feat: support email verification
 0722. 📚 docs: add API usage examples
 0984. ♻️ chore: clean up unused files
+0429. ✨ feat: add user authentication
