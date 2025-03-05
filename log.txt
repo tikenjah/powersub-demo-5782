@@ -11954,3 +11954,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0727. ♻️ chore: add GitHub actions badge
 0382. 📚 docs: improve code comments in utils
+0451. ✨ feat: support email verification
