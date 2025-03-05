@@ -6945,3 +6945,4 @@
 0777. 📚 docs: document token refresh logic
 0217. 🚀 perf: reduce image load time
 0238. 🎨 style: apply consistent indentation
+0848. 📚 docs: update README with setup steps
