@@ -9945,3 +9945,4 @@
 0889. 🚀 perf: lazy-load components
 0858. ♻️ chore: clean up unused files
 0087. ✨ feat: add export to CSV option
+0678. ✨ feat: add user authentication
