@@ -9947,3 +9947,4 @@
 0087. ✨ feat: add export to CSV option
 0678. ✨ feat: add user authentication
 0641. 📚 docs: write FAQ section
+0287. 📚 docs: write FAQ section
