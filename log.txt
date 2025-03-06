@@ -7950,3 +7950,4 @@
 0901. ✨ feat: add user authentication
 0764. ✨ feat: add user authentication
 0751. 🐛 fix: handle 500 error in quiz API
+0195. 📚 docs: clarify environment setup
