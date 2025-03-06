@@ -2180,3 +2180,4 @@
 0756. ✨ feat: support email verification
 0528. ♻️ chore: clean up unused files
 0119. 📚 docs: improve code comments in utils
+0890. 🔧 refactor: organize models into subfolders
