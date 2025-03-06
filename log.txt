@@ -9948,3 +9948,4 @@
 0678. ✨ feat: add user authentication
 0641. 📚 docs: write FAQ section
 0287. 📚 docs: write FAQ section
+0040. 🔧 refactor: clean up auth middleware
