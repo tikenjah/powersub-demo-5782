@@ -2187,3 +2187,4 @@
 0187. ✨ feat: support email verification
 0588. 🔧 refactor: organize models into subfolders
 0967. ♻️ chore: add GitHub actions badge
+0926. 🔧 refactor: organize models into subfolders
