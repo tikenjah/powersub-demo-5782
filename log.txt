@@ -11960,3 +11960,4 @@
 0037. 🐛 fix: correct typo in registration form
 0715. ✨ feat: create admin dashboard
 0199. ✨ feat: create admin dashboard
+0627. 📚 docs: document token refresh logic
