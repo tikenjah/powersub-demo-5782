@@ -2198,3 +2198,4 @@
 0101. 📚 docs: clarify environment setup
 0367. 🐛 fix: fix null pointer exception on login
 0236. 🔧 refactor: remove redundant code blocks
+0003. ✅ test: increase coverage on auth module
