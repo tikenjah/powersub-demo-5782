@@ -2201,3 +2201,4 @@
 0003. ✅ test: increase coverage on auth module
 0636. ✅ test: increase coverage on auth module
 0056. ♻️ chore: rename env.example
+0605. ✨ feat: support email verification
