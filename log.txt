@@ -5591,3 +5591,4 @@
 0009. ✨ feat: enable dark mode toggle
 0465. 🎨 style: rename variables for clarity
 0880. 🐛 fix: fix broken CSS in mobile view
+0725. 🚀 perf: lazy-load components
