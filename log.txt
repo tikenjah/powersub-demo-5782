@@ -2200,3 +2200,4 @@
 0236. 🔧 refactor: remove redundant code blocks
 0003. ✅ test: increase coverage on auth module
 0636. ✅ test: increase coverage on auth module
+0056. ♻️ chore: rename env.example
