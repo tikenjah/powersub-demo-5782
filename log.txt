@@ -2209,3 +2209,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0373. 📚 docs: document token refresh logic
 0491. 🚀 perf: lazy-load components
+0448. 🐛 fix: correct typo in registration form
