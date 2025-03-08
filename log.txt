@@ -2204,3 +2204,4 @@
 0605. ✨ feat: support email verification
 0557. 🔧 refactor: clean up auth middleware
 0090. ✅ test: increase coverage on auth module
+0566. 📚 docs: write FAQ section
