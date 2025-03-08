@@ -9949,3 +9949,4 @@
 0641. 📚 docs: write FAQ section
 0287. 📚 docs: write FAQ section
 0040. 🔧 refactor: clean up auth middleware
+0831. 📚 docs: clarify environment setup
