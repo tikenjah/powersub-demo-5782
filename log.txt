@@ -2213,3 +2213,4 @@
 0600. 🐛 fix: prevent crash on empty input
 0739. 🎨 style: remove trailing whitespace
 0048. 📚 docs: update README with setup steps
+0102. ✨ feat: support email verification
