@@ -2207,3 +2207,4 @@
 0566. 📚 docs: write FAQ section
 0933. 📚 docs: clarify environment setup
 0533. ♻️ chore: add GitHub actions badge
+0373. 📚 docs: document token refresh logic
