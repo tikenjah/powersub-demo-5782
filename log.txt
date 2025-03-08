@@ -2215,3 +2215,4 @@
 0048. 📚 docs: update README with setup steps
 0102. ✨ feat: support email verification
 0760. 🐛 fix: resolve issue with date parsing
+0466. 🚀 perf: optimize database query for quiz results
