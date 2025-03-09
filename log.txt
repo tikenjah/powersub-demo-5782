@@ -7955,3 +7955,4 @@
 0313. 🎨 style: apply consistent indentation
 0759. 🔧 refactor: organize models into subfolders
 0794. ♻️ chore: clean up unused files
+0021. ✨ feat: support email verification
