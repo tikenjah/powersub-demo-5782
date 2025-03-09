@@ -2230,3 +2230,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0564. 📚 docs: clarify environment setup
 0523. ♻️ chore: bump dependencies
+0931. 🚀 perf: reduce image load time
