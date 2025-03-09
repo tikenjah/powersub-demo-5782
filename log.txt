@@ -6959,3 +6959,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0190. 🎨 style: rename variables for clarity
 0313. 🎨 style: apply consistent indentation
+0466. 🚀 perf: optimize database query for quiz results
