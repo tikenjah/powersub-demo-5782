@@ -6962,3 +6962,4 @@
 0466. 🚀 perf: optimize database query for quiz results
 0181. ♻️ chore: add GitHub actions badge
 0033. 🎨 style: apply consistent indentation
+0367. 🐛 fix: fix null pointer exception on login
