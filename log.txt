@@ -2242,3 +2242,4 @@
 0847. ♻️ chore: clean up unused files
 0652. 🔧 refactor: organize models into subfolders
 0045. 🎨 style: apply consistent indentation
+0961. 📚 docs: add API usage examples
