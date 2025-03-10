@@ -2239,3 +2239,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0863. 🐛 fix: correct typo in registration form
 0164. 📚 docs: document token refresh logic
+0847. ♻️ chore: clean up unused files
