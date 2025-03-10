@@ -7958,3 +7958,4 @@
 0021. ✨ feat: support email verification
 0265. 🎨 style: reformat files with black
 0272. 🔧 refactor: remove redundant code blocks
+0358. 🚀 perf: reduce image load time
