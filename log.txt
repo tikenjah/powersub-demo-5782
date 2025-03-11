@@ -8947,3 +8947,4 @@
 0669. ✨ feat: enable dark mode toggle
 0518. ✨ feat: support email verification
 0185. 📚 docs: write FAQ section
+0541. 🐛 fix: correct typo in registration form
