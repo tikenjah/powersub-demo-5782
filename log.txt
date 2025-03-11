@@ -2250,3 +2250,4 @@
 0950. 🎨 style: reformat files with black
 0633. ✨ feat: add user authentication
 0395. 📚 docs: write FAQ section
+0764. ✨ feat: add user authentication
