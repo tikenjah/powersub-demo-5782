@@ -2257,3 +2257,4 @@
 0495. 🔧 refactor: remove redundant code blocks
 0191. 🔧 refactor: refactor quiz grading logic
 0760. 🐛 fix: resolve issue with date parsing
+0107. 🐛 fix: prevent crash on empty input
