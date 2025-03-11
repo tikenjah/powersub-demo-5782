@@ -6964,3 +6964,4 @@
 0033. 🎨 style: apply consistent indentation
 0367. 🐛 fix: fix null pointer exception on login
 0556. ✨ feat: support email verification
+0893. 🐛 fix: handle 500 error in quiz API
