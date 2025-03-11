@@ -2248,3 +2248,4 @@
 0116. ✨ feat: support email verification
 0085. ✨ feat: support email verification
 0950. 🎨 style: reformat files with black
+0633. ✨ feat: add user authentication
