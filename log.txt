@@ -2245,3 +2245,4 @@
 0961. 📚 docs: add API usage examples
 0792. 🎨 style: standardize quote style
 0640. ♻️ chore: bump dependencies
+0116. ✨ feat: support email verification
