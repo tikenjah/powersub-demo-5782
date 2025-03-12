@@ -11971,3 +11971,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0925. ✨ feat: add export to CSV option
 0784. ♻️ chore: clean up unused files
+0283. ♻️ chore: add GitHub actions badge
