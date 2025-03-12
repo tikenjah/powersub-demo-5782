@@ -2263,3 +2263,4 @@
 0819. 🚀 perf: reduce image load time
 0608. 🔧 refactor: remove redundant code blocks
 0926. 🔧 refactor: organize models into subfolders
+0259. 🚀 perf: lazy-load components
