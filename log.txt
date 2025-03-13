@@ -2274,3 +2274,4 @@
 0655. 🚀 perf: cache repeated calculations
 0665. ♻️ chore: update .gitignore
 0277. 🎨 style: standardize quote style
+0307. ✨ feat: support email verification
