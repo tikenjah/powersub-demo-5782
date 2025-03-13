@@ -2266,3 +2266,4 @@
 0259. 🚀 perf: lazy-load components
 0992. ♻️ chore: clean up unused files
 0909. 🔧 refactor: organize models into subfolders
+0466. 🚀 perf: optimize database query for quiz results
