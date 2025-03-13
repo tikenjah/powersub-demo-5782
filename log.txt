@@ -11975,3 +11975,4 @@
 0421. 🔧 refactor: split large controller into smaller functions
 0980. 🎨 style: reformat files with black
 0498. ✅ test: mock database connection in test suite
+0556. ✨ feat: support email verification
