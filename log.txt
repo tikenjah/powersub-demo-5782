@@ -5608,3 +5608,4 @@
 0251. ♻️ chore: update .gitignore
 0048. 📚 docs: update README with setup steps
 0061. ✨ feat: create admin dashboard
+0201. 🔧 refactor: clean up auth middleware
