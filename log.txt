@@ -8952,3 +8952,4 @@
 0837. 🚀 perf: cache repeated calculations
 0317. ✅ test: test user registration edge cases
 0975. 🎨 style: apply consistent indentation
+0022. 📚 docs: document token refresh logic
