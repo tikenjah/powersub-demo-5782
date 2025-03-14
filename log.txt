@@ -2286,3 +2286,4 @@
 0615. 🐛 fix: correct typo in registration form
 0671. 🐛 fix: fix null pointer exception on login
 0012. 🚀 perf: cache repeated calculations
+0975. 🎨 style: apply consistent indentation
