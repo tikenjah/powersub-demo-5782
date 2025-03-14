@@ -5610,3 +5610,4 @@
 0061. ✨ feat: create admin dashboard
 0201. 🔧 refactor: clean up auth middleware
 0453. 🎨 style: standardize quote style
+0758. 🚀 perf: optimize database query for quiz results
