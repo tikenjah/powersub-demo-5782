@@ -2301,3 +2301,4 @@
 0384. 📚 docs: clarify environment setup
 0161. ✨ feat: create admin dashboard
 0196. ♻️ chore: bump dependencies
+0944. ✨ feat: add user authentication
