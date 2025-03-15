@@ -2291,3 +2291,4 @@
 0541. 🐛 fix: correct typo in registration form
 0437. 📚 docs: clarify environment setup
 0662. ♻️ chore: clean up unused files
+0930. 🎨 style: apply consistent indentation
