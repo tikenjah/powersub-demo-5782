@@ -2298,3 +2298,4 @@
 0678. ✨ feat: add user authentication
 0414. 🔧 refactor: remove redundant code blocks
 0511. 🐛 fix: fix broken CSS in mobile view
+0384. 📚 docs: clarify environment setup
