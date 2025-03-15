@@ -2297,3 +2297,4 @@
 0636. ✅ test: increase coverage on auth module
 0678. ✨ feat: add user authentication
 0414. 🔧 refactor: remove redundant code blocks
+0511. 🐛 fix: fix broken CSS in mobile view
