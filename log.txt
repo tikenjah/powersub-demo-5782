@@ -11978,3 +11978,4 @@
 0556. ✨ feat: support email verification
 0998. 🐛 fix: fix null pointer exception on login
 0688. 🚀 perf: reduce image load time
+0116. ✨ feat: support email verification
