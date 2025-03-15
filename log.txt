@@ -6972,3 +6972,4 @@
 0509. ♻️ chore: bump dependencies
 0959. 🐛 fix: fix null pointer exception on login
 0298. ♻️ chore: update .gitignore
+0125. ✅ test: add integration test for /submit endpoint
