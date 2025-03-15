@@ -2304,3 +2304,4 @@
 0944. ✨ feat: add user authentication
 0612. ✅ test: test user registration edge cases
 0569. 📚 docs: document token refresh logic
+0970. ♻️ chore: update .gitignore
