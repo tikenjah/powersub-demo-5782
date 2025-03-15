@@ -2290,3 +2290,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0541. 🐛 fix: correct typo in registration form
 0437. 📚 docs: clarify environment setup
+0662. ♻️ chore: clean up unused files
