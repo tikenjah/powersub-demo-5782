@@ -5619,3 +5619,4 @@
 0633. ✨ feat: add user authentication
 0433. 🐛 fix: prevent crash on empty input
 0289. 🐛 fix: resolve issue with date parsing
+0102. ✨ feat: support email verification
