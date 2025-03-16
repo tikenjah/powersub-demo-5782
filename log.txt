@@ -2313,3 +2313,4 @@
 0188. 🎨 style: apply consistent indentation
 0441. 📚 docs: add API usage examples
 0522. 🐛 fix: handle 500 error in quiz API
+0507. 🔧 refactor: clean up auth middleware
