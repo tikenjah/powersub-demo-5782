@@ -2321,3 +2321,4 @@
 0691. 🎨 style: rename variables for clarity
 0960. ✅ test: increase coverage on auth module
 0574. ✨ feat: enable dark mode toggle
+0831. 📚 docs: clarify environment setup
