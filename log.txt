@@ -2319,3 +2319,4 @@
 0065. ✅ test: add integration test for /submit endpoint
 0988. 🐛 fix: fix broken CSS in mobile view
 0691. 🎨 style: rename variables for clarity
+0960. ✅ test: increase coverage on auth module
