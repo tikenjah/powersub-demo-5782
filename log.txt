@@ -5622,3 +5622,4 @@
 0102. ✨ feat: support email verification
 0358. 🚀 perf: reduce image load time
 0099. 🚀 perf: reduce image load time
+0147. ♻️ chore: bump dependencies
