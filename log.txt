@@ -2311,3 +2311,4 @@
 0295. 🎨 style: remove trailing whitespace
 0108. 🎨 style: remove trailing whitespace
 0188. 🎨 style: apply consistent indentation
+0441. 📚 docs: add API usage examples
