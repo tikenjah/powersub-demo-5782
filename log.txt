@@ -8957,3 +8957,4 @@
 0362. 📚 docs: add API usage examples
 0906. 📚 docs: add API usage examples
 0716. ✨ feat: implement quiz timer feature
+0361. ✨ feat: support email verification
