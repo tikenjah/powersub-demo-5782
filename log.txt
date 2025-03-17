@@ -10966,3 +10966,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0441. 📚 docs: add API usage examples
 0069. 🎨 style: rename variables for clarity
+0027. 📚 docs: clarify environment setup
