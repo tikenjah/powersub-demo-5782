@@ -8960,3 +8960,4 @@
 0361. ✨ feat: support email verification
 0900. 🐛 fix: handle 500 error in quiz API
 0248. 🐛 fix: handle 500 error in quiz API
+0434. 📚 docs: document token refresh logic
