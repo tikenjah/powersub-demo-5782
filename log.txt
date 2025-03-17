@@ -8958,3 +8958,4 @@
 0906. 📚 docs: add API usage examples
 0716. ✨ feat: implement quiz timer feature
 0361. ✨ feat: support email verification
+0900. 🐛 fix: handle 500 error in quiz API
