@@ -6980,3 +6980,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0728. 🔧 refactor: split large controller into smaller functions
 0244. ✨ feat: add export to CSV option
+0235. 🐛 fix: fix null pointer exception on login
