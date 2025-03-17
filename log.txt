@@ -2335,3 +2335,4 @@
 0620. ✨ feat: implement quiz timer feature
 0463. 🚀 perf: reduce image load time
 0702. ✨ feat: add user authentication
+0076. 🎨 style: reformat files with black
