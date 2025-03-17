@@ -2336,3 +2336,4 @@
 0463. 🚀 perf: reduce image load time
 0702. ✨ feat: add user authentication
 0076. 🎨 style: reformat files with black
+0981. 🚀 perf: lazy-load components
