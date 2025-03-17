@@ -7968,3 +7968,4 @@
 0234. ♻️ chore: rename env.example
 0892. ✅ test: add unit test for quiz service
 0579. 📚 docs: clarify environment setup
+0676. 🐛 fix: prevent crash on empty input
