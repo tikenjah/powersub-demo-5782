@@ -9974,3 +9974,4 @@
 0324. 📚 docs: document token refresh logic
 0870. ♻️ chore: clean up unused files
 0179. 🔧 refactor: split large controller into smaller functions
+0566. 📚 docs: write FAQ section
