@@ -2345,3 +2345,4 @@
 0356. 📚 docs: write FAQ section
 0158. 📚 docs: clarify environment setup
 0704. 🚀 perf: cache repeated calculations
+0254. 🚀 perf: reduce image load time
