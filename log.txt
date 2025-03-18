@@ -2342,3 +2342,4 @@
 0074. ♻️ chore: add GitHub actions badge
 0528. ♻️ chore: clean up unused files
 0202. 🔧 refactor: refactor quiz grading logic
+0356. 📚 docs: write FAQ section
