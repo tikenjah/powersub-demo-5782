@@ -6982,3 +6982,4 @@
 0244. ✨ feat: add export to CSV option
 0235. 🐛 fix: fix null pointer exception on login
 0080. ✨ feat: support email verification
+0716. ✨ feat: implement quiz timer feature
