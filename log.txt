@@ -6990,3 +6990,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0865. ♻️ chore: add GitHub actions badge
 0457. 🐛 fix: handle 500 error in quiz API
+0432. 🎨 style: apply consistent indentation
