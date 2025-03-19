@@ -2367,3 +2367,4 @@
 0789. ✨ feat: create admin dashboard
 0597. 🚀 perf: cache repeated calculations
 0063. 🐛 fix: handle 500 error in quiz API
+0403. ✅ test: mock database connection in test suite
