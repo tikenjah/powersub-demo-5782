@@ -2359,3 +2359,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0839. 🎨 style: apply consistent indentation
 0883. 📚 docs: improve code comments in utils
+0150. 🎨 style: remove trailing whitespace
