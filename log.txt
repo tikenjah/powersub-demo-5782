@@ -2363,3 +2363,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0951. 🎨 style: rename variables for clarity
 0948. 🐛 fix: fix broken CSS in mobile view
+0285. 🐛 fix: resolve issue with date parsing
