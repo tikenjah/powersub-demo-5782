@@ -2372,3 +2372,4 @@
 0997. ✅ test: increase coverage on auth module
 0950. 🎨 style: reformat files with black
 0994. 🚀 perf: reduce image load time
+0589. 🐛 fix: fix broken CSS in mobile view
