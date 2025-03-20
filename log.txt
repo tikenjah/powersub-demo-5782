@@ -2385,3 +2385,4 @@
 0172. 📚 docs: add API usage examples
 0754. 🐛 fix: handle 500 error in quiz API
 0572. ✨ feat: add user authentication
+0703. 🔧 refactor: clean up auth middleware
