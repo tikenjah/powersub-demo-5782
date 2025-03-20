@@ -8968,3 +8968,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0602. 🔧 refactor: remove redundant code blocks
 0609. 🐛 fix: handle 500 error in quiz API
+0296. 🔧 refactor: organize models into subfolders
