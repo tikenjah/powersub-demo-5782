@@ -9981,3 +9981,4 @@
 0125. ✅ test: add integration test for /submit endpoint
 0282. 🔧 refactor: remove redundant code blocks
 0332. 🎨 style: standardize quote style
+0828. ♻️ chore: add GitHub actions badge
