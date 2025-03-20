@@ -2376,3 +2376,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0619. ✨ feat: create admin dashboard
 0009. ✨ feat: enable dark mode toggle
+0956. 📚 docs: clarify environment setup
