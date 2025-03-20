@@ -2378,3 +2378,4 @@
 0009. ✨ feat: enable dark mode toggle
 0956. 📚 docs: clarify environment setup
 0081. 🐛 fix: fix null pointer exception on login
+0820. 📚 docs: add API usage examples
