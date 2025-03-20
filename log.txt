@@ -11995,3 +11995,4 @@
 0643. 🎨 style: apply consistent indentation
 0079. 🐛 fix: correct typo in registration form
 0429. ✨ feat: add user authentication
+0363. 📚 docs: clarify environment setup
