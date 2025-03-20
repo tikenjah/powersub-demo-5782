@@ -2388,3 +2388,4 @@
 0703. 🔧 refactor: clean up auth middleware
 0910. 🎨 style: remove trailing whitespace
 0209. ✨ feat: implement quiz timer feature
+0688. 🚀 perf: reduce image load time
