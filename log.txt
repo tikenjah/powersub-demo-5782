@@ -10980,3 +10980,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0043. ✅ test: add integration test for /submit endpoint
 0051. ✨ feat: enable dark mode toggle
+0259. 🚀 perf: lazy-load components
