@@ -10978,3 +10978,4 @@
 0284. ✨ feat: implement quiz timer feature
 0640. ♻️ chore: bump dependencies
 0084. 🐛 fix: handle 500 error in quiz API
+0043. ✅ test: add integration test for /submit endpoint
