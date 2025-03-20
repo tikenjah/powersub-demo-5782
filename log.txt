@@ -2375,3 +2375,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0805. ♻️ chore: add GitHub actions badge
 0619. ✨ feat: create admin dashboard
+0009. ✨ feat: enable dark mode toggle
