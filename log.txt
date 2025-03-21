@@ -2394,3 +2394,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0121. ✨ feat: support email verification
 0743. 🎨 style: apply consistent indentation
+0181. ♻️ chore: add GitHub actions badge
