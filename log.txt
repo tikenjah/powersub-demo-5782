@@ -2397,3 +2397,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0047. 🎨 style: rename variables for clarity
 0537. 🔧 refactor: remove redundant code blocks
+0583. ✅ test: increase coverage on auth module
