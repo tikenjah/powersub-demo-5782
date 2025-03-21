@@ -5635,3 +5635,4 @@
 0987. ✨ feat: create admin dashboard
 0275. 🎨 style: standardize quote style
 0926. 🔧 refactor: organize models into subfolders
+1000. ✅ test: increase coverage on auth module
