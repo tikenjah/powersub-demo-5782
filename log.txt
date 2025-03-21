@@ -8969,3 +8969,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0609. 🐛 fix: handle 500 error in quiz API
 0296. 🔧 refactor: organize models into subfolders
+0218. 🔧 refactor: clean up auth middleware
