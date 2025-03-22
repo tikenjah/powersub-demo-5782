@@ -2405,3 +2405,4 @@
 0043. ✅ test: add integration test for /submit endpoint
 0031. 📚 docs: document token refresh logic
 0866. 📚 docs: add API usage examples
+0395. 📚 docs: write FAQ section
