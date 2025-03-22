@@ -2400,3 +2400,4 @@
 0583. ✅ test: increase coverage on auth module
 0193. 🚀 perf: optimize database query for quiz results
 0750. 🎨 style: apply consistent indentation
+0068. 🐛 fix: fix null pointer exception on login
