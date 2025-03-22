@@ -6997,3 +6997,4 @@
 0601. ✨ feat: implement quiz timer feature
 0821. ✅ test: add integration test for /submit endpoint
 0317. ✅ test: test user registration edge cases
+0820. 📚 docs: add API usage examples
