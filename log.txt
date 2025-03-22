@@ -2408,3 +2408,4 @@
 0395. 📚 docs: write FAQ section
 0301. 🎨 style: apply consistent indentation
 0262. 🎨 style: remove trailing whitespace
+0516. ✅ test: add unit test for quiz service
