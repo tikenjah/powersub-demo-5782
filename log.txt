@@ -12005,3 +12005,4 @@
 0242. ♻️ chore: clean up unused files
 0806. 📚 docs: improve code comments in utils
 0542. 🔧 refactor: organize models into subfolders
+0736. 🐛 fix: fix null pointer exception on login
