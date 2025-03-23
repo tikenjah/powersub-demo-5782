@@ -7979,3 +7979,4 @@
 0976. ✨ feat: implement quiz timer feature
 0251. ♻️ chore: update .gitignore
 0525. ✅ test: mock database connection in test suite
+0003. ✅ test: increase coverage on auth module
