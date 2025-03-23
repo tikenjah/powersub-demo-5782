@@ -7978,3 +7978,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0976. ✨ feat: implement quiz timer feature
 0251. ♻️ chore: update .gitignore
+0525. ✅ test: mock database connection in test suite
