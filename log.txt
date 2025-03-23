@@ -2420,3 +2420,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0080. ✨ feat: support email verification
 0075. ✅ test: mock database connection in test suite
+0708. ✅ test: add integration test for /submit endpoint
