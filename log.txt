@@ -2423,3 +2423,4 @@
 0708. ✅ test: add integration test for /submit endpoint
 0111. 📚 docs: update README with setup steps
 0055. 📚 docs: update README with setup steps
+0749. ✨ feat: support email verification
