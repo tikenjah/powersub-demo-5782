@@ -5642,3 +5642,4 @@
 0563. 📚 docs: clarify environment setup
 0425. 🔧 refactor: refactor quiz grading logic
 0644. 🎨 style: apply consistent indentation
+0680. ♻️ chore: add GitHub actions badge
