@@ -7984,3 +7984,4 @@
 0159. 🚀 perf: lazy-load components
 0879. 🎨 style: standardize quote style
 0735. ♻️ chore: add GitHub actions badge
+0885. ♻️ chore: update .gitignore
