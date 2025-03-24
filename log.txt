@@ -2424,3 +2424,4 @@
 0111. 📚 docs: update README with setup steps
 0055. 📚 docs: update README with setup steps
 0749. ✨ feat: support email verification
+0077. ♻️ chore: rename env.example
