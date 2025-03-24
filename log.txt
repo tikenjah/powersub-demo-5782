@@ -2435,3 +2435,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0964. ♻️ chore: clean up unused files
 0657. 🎨 style: standardize quote style
+0090. ✅ test: increase coverage on auth module
