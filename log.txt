@@ -5645,3 +5645,4 @@
 0680. ♻️ chore: add GitHub actions badge
 0080. ✨ feat: support email verification
 0855. 🎨 style: reformat files with black
+0165. 🎨 style: remove trailing whitespace
