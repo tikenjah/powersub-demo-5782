@@ -12008,3 +12008,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0837. 🚀 perf: cache repeated calculations
 0739. 🎨 style: remove trailing whitespace
+0249. ✅ test: increase coverage on auth module
