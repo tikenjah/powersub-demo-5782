@@ -2444,3 +2444,4 @@
 0594. 🎨 style: reformat files with black
 0284. ✨ feat: implement quiz timer feature
 0158. 📚 docs: clarify environment setup
+0989. 📚 docs: write FAQ section
