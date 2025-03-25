@@ -2445,3 +2445,4 @@
 0284. ✨ feat: implement quiz timer feature
 0158. 📚 docs: clarify environment setup
 0989. 📚 docs: write FAQ section
+0468. 📚 docs: update README with setup steps
