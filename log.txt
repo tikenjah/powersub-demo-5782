@@ -9996,3 +9996,4 @@
 0956. 📚 docs: clarify environment setup
 0128. ♻️ chore: rename env.example
 0381. ♻️ chore: clean up unused files
+0609. 🐛 fix: handle 500 error in quiz API
