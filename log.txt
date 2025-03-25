@@ -2450,3 +2450,4 @@
 0196. ♻️ chore: bump dependencies
 0902. ✨ feat: enable dark mode toggle
 0239. 🎨 style: standardize quote style
+0859. ✨ feat: create admin dashboard
