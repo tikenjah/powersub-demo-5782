@@ -2448,3 +2448,4 @@
 0468. 📚 docs: update README with setup steps
 0212. 🎨 style: standardize quote style
 0196. ♻️ chore: bump dependencies
+0902. ✨ feat: enable dark mode toggle
