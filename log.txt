@@ -2436,3 +2436,4 @@
 0964. ♻️ chore: clean up unused files
 0657. 🎨 style: standardize quote style
 0090. ✅ test: increase coverage on auth module
+0535. 📚 docs: write FAQ section
