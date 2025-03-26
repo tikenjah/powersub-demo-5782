@@ -2452,3 +2452,4 @@
 0239. 🎨 style: standardize quote style
 0859. ✨ feat: create admin dashboard
 0064. 📚 docs: clarify environment setup
+0512. 🚀 perf: reduce image load time
