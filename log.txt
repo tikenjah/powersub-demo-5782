@@ -2459,3 +2459,4 @@
 0313. 🎨 style: apply consistent indentation
 0153. ♻️ chore: rename env.example
 0822. 🔧 refactor: remove redundant code blocks
+0391. 🐛 fix: fix null pointer exception on login
