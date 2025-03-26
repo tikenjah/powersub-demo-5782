@@ -9997,3 +9997,4 @@
 0128. ♻️ chore: rename env.example
 0381. ♻️ chore: clean up unused files
 0609. 🐛 fix: handle 500 error in quiz API
+0269. ✅ test: test user registration edge cases
