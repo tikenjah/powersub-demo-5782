@@ -12014,3 +12014,4 @@
 0937. 🐛 fix: handle 500 error in quiz API
 0336. ✨ feat: add export to CSV option
 0982. 🚀 perf: lazy-load components
+0875. ✅ test: increase coverage on auth module
