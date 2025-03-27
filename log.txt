@@ -2471,3 +2471,4 @@
 0637. 🎨 style: apply consistent indentation
 0335. ♻️ chore: update .gitignore
 0584. 🚀 perf: lazy-load components
+0944. ✨ feat: add user authentication
