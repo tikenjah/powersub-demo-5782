@@ -2465,3 +2465,4 @@
 0165. 🎨 style: remove trailing whitespace
 0560. 🎨 style: rename variables for clarity
 0108. 🎨 style: remove trailing whitespace
+0475. 🔧 refactor: clean up auth middleware
