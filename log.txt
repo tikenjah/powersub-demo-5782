@@ -7993,3 +7993,4 @@
 0329. 📚 docs: update README with setup steps
 0158. 📚 docs: clarify environment setup
 0938. 🎨 style: rename variables for clarity
+0850. ♻️ chore: rename env.example
