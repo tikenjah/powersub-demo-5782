@@ -2469,3 +2469,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0780. 📚 docs: add API usage examples
 0637. 🎨 style: apply consistent indentation
+0335. ♻️ chore: update .gitignore
