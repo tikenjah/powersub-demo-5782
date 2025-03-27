@@ -2473,3 +2473,4 @@
 0584. 🚀 perf: lazy-load components
 0944. ✨ feat: add user authentication
 0043. ✅ test: add integration test for /submit endpoint
+0958. 🐛 fix: prevent crash on empty input
