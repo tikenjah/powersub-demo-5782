@@ -2462,3 +2462,4 @@
 0391. 🐛 fix: fix null pointer exception on login
 0266. 🔧 refactor: remove redundant code blocks
 0185. 📚 docs: write FAQ section
+0165. 🎨 style: remove trailing whitespace
