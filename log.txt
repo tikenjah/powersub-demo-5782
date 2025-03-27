@@ -10008,3 +10008,4 @@
 0521. 🎨 style: standardize quote style
 0623. 🎨 style: standardize quote style
 0642. 🚀 perf: optimize database query for quiz results
+0273. 🚀 perf: reduce image load time
