@@ -11003,3 +11003,4 @@
 0093. ✅ test: add unit test for quiz service
 0412. ✅ test: increase coverage on auth module
 0711. 🐛 fix: fix broken CSS in mobile view
+0368. 🚀 perf: lazy-load components
