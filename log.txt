@@ -98,3 +98,4 @@
 0766. 🎨 style: reformat files with black
 0814. 🔧 refactor: remove redundant code blocks
 0208. 🔧 refactor: clean up auth middleware
+0217. 🚀 perf: reduce image load time
