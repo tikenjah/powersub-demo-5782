@@ -7010,3 +7010,4 @@
 0233. 🚀 perf: lazy-load components
 0335. ♻️ chore: update .gitignore
 0767. 🔧 refactor: remove redundant code blocks
+0994. 🚀 perf: reduce image load time
