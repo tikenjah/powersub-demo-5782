@@ -100,3 +100,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0217. 🚀 perf: reduce image load time
 0760. 🐛 fix: resolve issue with date parsing
+0181. ♻️ chore: add GitHub actions badge
