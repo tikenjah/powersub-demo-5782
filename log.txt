@@ -10013,3 +10013,4 @@
 0392. 🎨 style: remove trailing whitespace
 0592. 📚 docs: add API usage examples
 0668. 🚀 perf: optimize database query for quiz results
+0518. ✨ feat: support email verification
