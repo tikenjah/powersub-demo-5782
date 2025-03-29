@@ -12018,3 +12018,4 @@
 0460. 📚 docs: write FAQ section
 0866. 📚 docs: add API usage examples
 0916. ♻️ chore: bump dependencies
+0790. 📚 docs: write FAQ section
