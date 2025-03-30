@@ -5654,3 +5654,4 @@
 0455. ♻️ chore: clean up unused files
 0716. ✨ feat: implement quiz timer feature
 0717. 🔧 refactor: refactor quiz grading logic
+0819. 🚀 perf: reduce image load time
