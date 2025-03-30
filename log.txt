@@ -12019,3 +12019,4 @@
 0866. 📚 docs: add API usage examples
 0916. ♻️ chore: bump dependencies
 0790. 📚 docs: write FAQ section
+0346. ✅ test: mock database connection in test suite
