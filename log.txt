@@ -10020,3 +10020,4 @@
 0262. 🎨 style: remove trailing whitespace
 0364. 🐛 fix: resolve issue with date parsing
 0869. ♻️ chore: bump dependencies
+0121. ✨ feat: support email verification
