@@ -2510,3 +2510,4 @@
 0100. ♻️ chore: update .gitignore
 0904. ✨ feat: implement quiz timer feature
 0678. ✨ feat: add user authentication
+0477. 🐛 fix: fix broken CSS in mobile view
