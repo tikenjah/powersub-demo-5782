@@ -10023,3 +10023,4 @@
 0121. ✨ feat: support email verification
 0144. ✅ test: increase coverage on auth module
 0850. ♻️ chore: rename env.example
+0326. 🚀 perf: cache repeated calculations
