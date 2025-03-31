@@ -8003,3 +8003,4 @@
 0574. ✨ feat: enable dark mode toggle
 0199. ✨ feat: create admin dashboard
 0692. ✅ test: add integration test for /submit endpoint
+0797. 📚 docs: add API usage examples
