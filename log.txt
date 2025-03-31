@@ -2518,3 +2518,4 @@
 0564. 📚 docs: clarify environment setup
 0783. 🐛 fix: handle 500 error in quiz API
 0320. 📚 docs: update README with setup steps
+0665. ♻️ chore: update .gitignore
