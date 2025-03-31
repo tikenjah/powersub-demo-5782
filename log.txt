@@ -10021,3 +10021,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0869. ♻️ chore: bump dependencies
 0121. ✨ feat: support email verification
+0144. ✅ test: increase coverage on auth module
