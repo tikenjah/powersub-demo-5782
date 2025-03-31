@@ -12022,3 +12022,4 @@
 0346. ✅ test: mock database connection in test suite
 0914. ✅ test: test user registration edge cases
 0039. ✅ test: add integration test for /submit endpoint
+0298. ♻️ chore: update .gitignore
