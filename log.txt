@@ -2523,3 +2523,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0228. 🔧 refactor: remove redundant code blocks
 0669. ✨ feat: enable dark mode toggle
+0791. 🔧 refactor: clean up auth middleware
