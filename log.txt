@@ -2536,3 +2536,4 @@
 0552. 🐛 fix: fix null pointer exception on login
 0083. 🎨 style: reformat files with black
 0061. ✨ feat: create admin dashboard
+0996. ✅ test: test user registration edge cases
