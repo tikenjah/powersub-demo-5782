@@ -5662,3 +5662,4 @@
 0679. ♻️ chore: bump dependencies
 0616. 🚀 perf: lazy-load components
 0850. ♻️ chore: rename env.example
+0885. ♻️ chore: update .gitignore
