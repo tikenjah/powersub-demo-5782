@@ -8997,3 +8997,4 @@
 0244. ✨ feat: add export to CSV option
 0521. 🎨 style: standardize quote style
 0755. 🚀 perf: cache repeated calculations
+0688. 🚀 perf: reduce image load time
