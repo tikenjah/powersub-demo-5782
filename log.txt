@@ -2538,3 +2538,4 @@
 0061. ✨ feat: create admin dashboard
 0996. ✅ test: test user registration edge cases
 0607. 🐛 fix: prevent crash on empty input
+0594. 🎨 style: reformat files with black
