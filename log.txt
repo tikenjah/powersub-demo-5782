@@ -12025,3 +12025,4 @@
 0298. ♻️ chore: update .gitignore
 0963. 🚀 perf: reduce image load time
 0665. ♻️ chore: update .gitignore
+0121. ✨ feat: support email verification
