@@ -8998,3 +8998,4 @@
 0521. 🎨 style: standardize quote style
 0755. 🚀 perf: cache repeated calculations
 0688. 🚀 perf: reduce image load time
+0887. 📚 docs: add API usage examples
