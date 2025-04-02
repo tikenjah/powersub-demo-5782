@@ -9000,3 +9000,4 @@
 0688. 🚀 perf: reduce image load time
 0887. 📚 docs: add API usage examples
 0963. 🚀 perf: reduce image load time
+0971. 🎨 style: standardize quote style
