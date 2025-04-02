@@ -2549,3 +2549,4 @@
 0508. ✅ test: add unit test for quiz service
 0556. ✨ feat: support email verification
 0252. 🎨 style: remove trailing whitespace
+0589. 🐛 fix: fix broken CSS in mobile view
