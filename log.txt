@@ -5666,3 +5666,4 @@
 0734. ✨ feat: add export to CSV option
 0378. 🐛 fix: prevent crash on empty input
 0223. 🔧 refactor: remove redundant code blocks
+0499. 🎨 style: reformat files with black
