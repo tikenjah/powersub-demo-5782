@@ -2548,3 +2548,4 @@
 0016. 🎨 style: apply consistent indentation
 0508. ✅ test: add unit test for quiz service
 0556. ✨ feat: support email verification
+0252. 🎨 style: remove trailing whitespace
