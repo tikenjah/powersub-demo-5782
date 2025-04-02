@@ -2541,3 +2541,4 @@
 0594. 🎨 style: reformat files with black
 0795. 📚 docs: update README with setup steps
 0470. 🎨 style: remove trailing whitespace
+0507. 🔧 refactor: clean up auth middleware
