@@ -8009,3 +8009,4 @@
 0624. ✅ test: add unit test for quiz service
 0461. ✨ feat: add user authentication
 0609. 🐛 fix: handle 500 error in quiz API
+0502. 📚 docs: update README with setup steps
