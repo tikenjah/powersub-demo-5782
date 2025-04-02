@@ -8010,3 +8010,4 @@
 0461. ✨ feat: add user authentication
 0609. 🐛 fix: handle 500 error in quiz API
 0502. 📚 docs: update README with setup steps
+0456. 🚀 perf: optimize database query for quiz results
