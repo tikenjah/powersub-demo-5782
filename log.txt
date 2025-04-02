@@ -9002,3 +9002,4 @@
 0963. 🚀 perf: reduce image load time
 0971. 🎨 style: standardize quote style
 0070. ✨ feat: implement quiz timer feature
+0564. 📚 docs: clarify environment setup
