@@ -2562,3 +2562,4 @@
 0901. ✨ feat: add user authentication
 0364. 🐛 fix: resolve issue with date parsing
 0976. ✨ feat: implement quiz timer feature
+0348. ✅ test: test user registration edge cases
