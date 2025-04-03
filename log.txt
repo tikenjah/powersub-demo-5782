@@ -10031,3 +10031,4 @@
 0786. ✨ feat: enable dark mode toggle
 0105. 🐛 fix: correct typo in registration form
 0022. 📚 docs: document token refresh logic
+0831. 📚 docs: clarify environment setup
