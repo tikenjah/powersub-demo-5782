@@ -12032,3 +12032,4 @@
 0480. ♻️ chore: add GitHub actions badge
 0670. ✨ feat: add export to CSV option
 0364. 🐛 fix: resolve issue with date parsing
+0699. 🎨 style: standardize quote style
