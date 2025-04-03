@@ -2554,3 +2554,4 @@
 0980. 🎨 style: reformat files with black
 0632. 🎨 style: remove trailing whitespace
 0777. 📚 docs: document token refresh logic
+0800. 🚀 perf: optimize database query for quiz results
