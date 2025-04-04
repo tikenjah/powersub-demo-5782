@@ -11026,3 +11026,4 @@
 0362. 📚 docs: add API usage examples
 0318. 🔧 refactor: refactor quiz grading logic
 0529. 📚 docs: write FAQ section
+0543. ✨ feat: support email verification
