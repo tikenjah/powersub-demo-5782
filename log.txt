@@ -11027,3 +11027,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0529. 📚 docs: write FAQ section
 0543. ✨ feat: support email verification
+0536. ✨ feat: add user authentication
