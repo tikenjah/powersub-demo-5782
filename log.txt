@@ -12034,3 +12034,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0699. 🎨 style: standardize quote style
 0561. 📚 docs: write FAQ section
+0504. 📚 docs: document token refresh logic
