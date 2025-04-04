@@ -11028,3 +11028,4 @@
 0529. 📚 docs: write FAQ section
 0543. ✨ feat: support email verification
 0536. ✨ feat: add user authentication
+0908. ♻️ chore: bump dependencies
