@@ -11025,3 +11025,4 @@
 0418. ✅ test: mock database connection in test suite
 0362. 📚 docs: add API usage examples
 0318. 🔧 refactor: refactor quiz grading logic
+0529. 📚 docs: write FAQ section
