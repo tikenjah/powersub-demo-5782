@@ -2564,3 +2564,4 @@
 0976. ✨ feat: implement quiz timer feature
 0348. ✅ test: test user registration edge cases
 0011. ✅ test: add unit test for quiz service
+0441. 📚 docs: add API usage examples
