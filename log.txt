@@ -2567,3 +2567,4 @@
 0441. 📚 docs: add API usage examples
 0887. 📚 docs: add API usage examples
 0064. 📚 docs: clarify environment setup
+0775. 🐛 fix: fix null pointer exception on login
