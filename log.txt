@@ -7021,3 +7021,4 @@
 0819. 🚀 perf: reduce image load time
 0593. 🐛 fix: correct typo in registration form
 0441. 📚 docs: add API usage examples
+0068. 🐛 fix: fix null pointer exception on login
