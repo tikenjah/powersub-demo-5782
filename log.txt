@@ -9015,3 +9015,4 @@
 0609. 🐛 fix: handle 500 error in quiz API
 0906. 📚 docs: add API usage examples
 0664. ✅ test: add unit test for quiz service
+0498. ✅ test: mock database connection in test suite
