@@ -11031,3 +11031,4 @@
 0908. ♻️ chore: bump dependencies
 0959. 🐛 fix: fix null pointer exception on login
 0078. ♻️ chore: update .gitignore
+0524. ♻️ chore: rename env.example
