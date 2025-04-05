@@ -5673,3 +5673,4 @@
 0995. ✅ test: mock database connection in test suite
 0379. ✨ feat: support email verification
 0831. 📚 docs: clarify environment setup
+0874. 🔧 refactor: split large controller into smaller functions
