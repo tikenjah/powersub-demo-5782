@@ -8016,3 +8016,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0064. 📚 docs: clarify environment setup
 0666. 🐛 fix: fix broken CSS in mobile view
+0175. 📚 docs: add API usage examples
