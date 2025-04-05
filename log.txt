@@ -9012,3 +9012,4 @@
 0839. 🎨 style: apply consistent indentation
 0284. ✨ feat: implement quiz timer feature
 0115. 🚀 perf: reduce image load time
+0609. 🐛 fix: handle 500 error in quiz API
