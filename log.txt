@@ -2581,3 +2581,4 @@
 0558. ✨ feat: enable dark mode toggle
 0687. 🎨 style: remove trailing whitespace
 0120. ✅ test: add integration test for /submit endpoint
+0079. 🐛 fix: correct typo in registration form
