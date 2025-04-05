@@ -10036,3 +10036,4 @@
 0664. ✅ test: add unit test for quiz service
 0308. 🚀 perf: reduce image load time
 0626. 🎨 style: standardize quote style
+0463. 🚀 perf: reduce image load time
