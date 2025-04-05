@@ -7023,3 +7023,4 @@
 0441. 📚 docs: add API usage examples
 0068. 🐛 fix: fix null pointer exception on login
 0750. 🎨 style: apply consistent indentation
+0185. 📚 docs: write FAQ section
