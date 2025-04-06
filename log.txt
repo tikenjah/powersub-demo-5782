@@ -11033,3 +11033,4 @@
 0078. ♻️ chore: update .gitignore
 0524. ♻️ chore: rename env.example
 0612. ✅ test: test user registration edge cases
+0391. 🐛 fix: fix null pointer exception on login
