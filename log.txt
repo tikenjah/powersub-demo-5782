@@ -8020,3 +8020,4 @@
 0035. ✅ test: increase coverage on auth module
 0753. 🔧 refactor: remove redundant code blocks
 0031. 📚 docs: document token refresh logic
+0250. 📚 docs: update README with setup steps
