@@ -2596,3 +2596,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0954. 🚀 perf: cache repeated calculations
 0890. 🔧 refactor: organize models into subfolders
+0830. 🎨 style: apply consistent indentation
