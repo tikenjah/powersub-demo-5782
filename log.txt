@@ -8019,3 +8019,4 @@
 0175. 📚 docs: add API usage examples
 0035. ✅ test: increase coverage on auth module
 0753. 🔧 refactor: remove redundant code blocks
+0031. 📚 docs: document token refresh logic
