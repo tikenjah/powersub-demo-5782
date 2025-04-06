@@ -11034,3 +11034,4 @@
 0524. ♻️ chore: rename env.example
 0612. ✅ test: test user registration edge cases
 0391. 🐛 fix: fix null pointer exception on login
+0603. 🐛 fix: fix broken CSS in mobile view
