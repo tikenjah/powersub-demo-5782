@@ -2588,3 +2588,4 @@
 0787. ♻️ chore: rename env.example
 0429. ✨ feat: add user authentication
 0729. 🔧 refactor: refactor quiz grading logic
+0506. 🐛 fix: handle 500 error in quiz API
