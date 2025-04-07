@@ -8024,3 +8024,4 @@
 0797. 📚 docs: add API usage examples
 0169. 📚 docs: add API usage examples
 0701. 🔧 refactor: clean up auth middleware
+0835. 🐛 fix: prevent crash on empty input
