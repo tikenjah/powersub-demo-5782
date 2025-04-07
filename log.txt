@@ -8023,3 +8023,4 @@
 0250. 📚 docs: update README with setup steps
 0797. 📚 docs: add API usage examples
 0169. 📚 docs: add API usage examples
+0701. 🔧 refactor: clean up auth middleware
