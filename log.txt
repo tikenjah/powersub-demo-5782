@@ -2601,3 +2601,4 @@
 0470. 🎨 style: remove trailing whitespace
 0875. ✅ test: increase coverage on auth module
 0406. ✨ feat: add export to CSV option
+0926. 🔧 refactor: organize models into subfolders
