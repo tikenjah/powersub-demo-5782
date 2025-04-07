@@ -2602,3 +2602,4 @@
 0875. ✅ test: increase coverage on auth module
 0406. ✨ feat: add export to CSV option
 0926. 🔧 refactor: organize models into subfolders
+0649. 📚 docs: update README with setup steps
