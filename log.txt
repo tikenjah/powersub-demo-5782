@@ -2608,3 +2608,4 @@
 0080. ✨ feat: support email verification
 0221. ✨ feat: add user authentication
 0551. 📚 docs: write FAQ section
+0010. ✨ feat: add user authentication
