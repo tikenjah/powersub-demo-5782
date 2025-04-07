@@ -2606,3 +2606,4 @@
 0893. 🐛 fix: handle 500 error in quiz API
 0184. 📚 docs: improve code comments in utils
 0080. ✨ feat: support email verification
+0221. ✨ feat: add user authentication
