@@ -2628,3 +2628,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0273. 🚀 perf: reduce image load time
 0677. 📚 docs: add API usage examples
+0583. ✅ test: increase coverage on auth module
