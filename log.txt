@@ -12040,3 +12040,4 @@
 0002. 🚀 perf: cache repeated calculations
 0686. 🎨 style: standardize quote style
 0645. 🐛 fix: resolve issue with date parsing
+0749. ✨ feat: support email verification
