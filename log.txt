@@ -8027,3 +8027,4 @@
 0835. 🐛 fix: prevent crash on empty input
 0579. 📚 docs: clarify environment setup
 0448. 🐛 fix: correct typo in registration form
+0828. ♻️ chore: add GitHub actions badge
