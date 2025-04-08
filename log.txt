@@ -5686,3 +5686,4 @@
 0770. ♻️ chore: rename env.example
 0099. 🚀 perf: reduce image load time
 0711. 🐛 fix: fix broken CSS in mobile view
+0227. ✅ test: test user registration edge cases
