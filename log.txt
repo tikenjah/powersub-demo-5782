@@ -10049,3 +10049,4 @@
 0123. ✨ feat: implement quiz timer feature
 0215. 🎨 style: reformat files with black
 0356. 📚 docs: write FAQ section
+0078. ♻️ chore: update .gitignore
