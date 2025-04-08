@@ -2615,3 +2615,4 @@
 0930. 🎨 style: apply consistent indentation
 0048. 📚 docs: update README with setup steps
 0528. ♻️ chore: clean up unused files
+0112. ✨ feat: enable dark mode toggle
