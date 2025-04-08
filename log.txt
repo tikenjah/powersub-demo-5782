@@ -2617,3 +2617,4 @@
 0528. ♻️ chore: clean up unused files
 0112. ✨ feat: enable dark mode toggle
 0994. 🚀 perf: reduce image load time
+0399. ✅ test: mock database connection in test suite
