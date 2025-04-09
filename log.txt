@@ -10051,3 +10051,4 @@
 0356. 📚 docs: write FAQ section
 0078. ♻️ chore: update .gitignore
 0998. 🐛 fix: fix null pointer exception on login
+0917. ✅ test: add integration test for /submit endpoint
