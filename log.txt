@@ -2635,3 +2635,4 @@
 0563. 📚 docs: clarify environment setup
 0431. 🎨 style: reformat files with black
 0195. 📚 docs: clarify environment setup
+0241. 📚 docs: add API usage examples
