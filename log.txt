@@ -12041,3 +12041,4 @@
 0686. 🎨 style: standardize quote style
 0645. 🐛 fix: resolve issue with date parsing
 0749. ✨ feat: support email verification
+0798. 🚀 perf: reduce image load time
