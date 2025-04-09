@@ -2638,3 +2638,4 @@
 0241. 📚 docs: add API usage examples
 0360. ✨ feat: add export to CSV option
 0447. ♻️ chore: bump dependencies
+0084. 🐛 fix: handle 500 error in quiz API
