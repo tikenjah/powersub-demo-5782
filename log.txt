@@ -2637,3 +2637,4 @@
 0195. 📚 docs: clarify environment setup
 0241. 📚 docs: add API usage examples
 0360. ✨ feat: add export to CSV option
+0447. ♻️ chore: bump dependencies
