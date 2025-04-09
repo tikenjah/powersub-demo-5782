@@ -11041,3 +11041,4 @@
 0866. 📚 docs: add API usage examples
 0677. 📚 docs: add API usage examples
 0694. 🎨 style: rename variables for clarity
+0109. 🚀 perf: lazy-load components
