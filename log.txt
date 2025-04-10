@@ -8029,3 +8029,4 @@
 0448. 🐛 fix: correct typo in registration form
 0828. ♻️ chore: add GitHub actions badge
 0464. 🎨 style: remove trailing whitespace
+0194. 🎨 style: standardize quote style
