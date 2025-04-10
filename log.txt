@@ -2646,3 +2646,4 @@
 0250. 📚 docs: update README with setup steps
 0807. 🔧 refactor: remove redundant code blocks
 0188. 🎨 style: apply consistent indentation
+0754. 🐛 fix: handle 500 error in quiz API
