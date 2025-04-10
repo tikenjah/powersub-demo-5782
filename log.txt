@@ -11044,3 +11044,4 @@
 0109. 🚀 perf: lazy-load components
 0092. 🚀 perf: reduce image load time
 0307. ✨ feat: support email verification
+0030. 🐛 fix: fix null pointer exception on login
