@@ -7041,3 +7041,4 @@
 0582. ✨ feat: add export to CSV option
 0447. ♻️ chore: bump dependencies
 0422. 🔧 refactor: organize models into subfolders
+0998. 🐛 fix: fix null pointer exception on login
