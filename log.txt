@@ -7037,3 +7037,4 @@
 0415. 🐛 fix: handle 500 error in quiz API
 0838. 🎨 style: standardize quote style
 0042. 📚 docs: document token refresh logic
+0473. 📚 docs: write FAQ section
