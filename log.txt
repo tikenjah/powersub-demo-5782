@@ -7038,3 +7038,4 @@
 0838. 🎨 style: standardize quote style
 0042. 📚 docs: document token refresh logic
 0473. 📚 docs: write FAQ section
+0582. ✨ feat: add export to CSV option
