@@ -7042,3 +7042,4 @@
 0447. ♻️ chore: bump dependencies
 0422. 🔧 refactor: organize models into subfolders
 0998. 🐛 fix: fix null pointer exception on login
+0647. 🐛 fix: prevent crash on empty input
