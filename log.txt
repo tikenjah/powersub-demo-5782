@@ -108,3 +108,4 @@
 0351. ✨ feat: add export to CSV option
 0955. 🔧 refactor: remove redundant code blocks
 0903. ✅ test: mock database connection in test suite
+0792. 🎨 style: standardize quote style
