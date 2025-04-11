@@ -11047,3 +11047,4 @@
 0030. 🐛 fix: fix null pointer exception on login
 0342. 🚀 perf: cache repeated calculations
 0667. ✨ feat: add export to CSV option
+0348. ✅ test: test user registration edge cases
