@@ -8034,3 +8034,4 @@
 0596. ♻️ chore: update .gitignore
 0530. 🔧 refactor: refactor quiz grading logic
 0525. ✅ test: mock database connection in test suite
+0526. ✨ feat: add user authentication
