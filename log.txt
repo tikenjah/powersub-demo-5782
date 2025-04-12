@@ -2665,3 +2665,4 @@
 0518. ✨ feat: support email verification
 0398. 🚀 perf: cache repeated calculations
 0818. 🔧 refactor: remove redundant code blocks
+0259. 🚀 perf: lazy-load components
