@@ -12054,3 +12054,4 @@
 0754. 🐛 fix: handle 500 error in quiz API
 0117. ✅ test: increase coverage on auth module
 0147. ♻️ chore: bump dependencies
+0804. ♻️ chore: add GitHub actions badge
