@@ -7045,3 +7045,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0170. ✅ test: increase coverage on auth module
 0176. 🔧 refactor: remove redundant code blocks
+0546. 🐛 fix: fix null pointer exception on login
