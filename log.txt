@@ -7046,3 +7046,4 @@
 0170. ✅ test: increase coverage on auth module
 0176. 🔧 refactor: remove redundant code blocks
 0546. 🐛 fix: fix null pointer exception on login
+0877. 🚀 perf: optimize database query for quiz results
