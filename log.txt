@@ -5696,3 +5696,4 @@
 0285. 🐛 fix: resolve issue with date parsing
 0757. 🔧 refactor: remove redundant code blocks
 0115. 🚀 perf: reduce image load time
+0816. 🔧 refactor: organize models into subfolders
