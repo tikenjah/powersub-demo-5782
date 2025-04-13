@@ -8036,3 +8036,4 @@
 0525. ✅ test: mock database connection in test suite
 0526. ✨ feat: add user authentication
 0062. ♻️ chore: update .gitignore
+0783. 🐛 fix: handle 500 error in quiz API
