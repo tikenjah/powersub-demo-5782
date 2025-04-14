@@ -8040,3 +8040,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0516. ✅ test: add unit test for quiz service
 0372. ✨ feat: add user authentication
+0473. 📚 docs: write FAQ section
