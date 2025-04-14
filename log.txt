@@ -8041,3 +8041,4 @@
 0516. ✅ test: add unit test for quiz service
 0372. ✨ feat: add user authentication
 0473. 📚 docs: write FAQ section
+0543. ✨ feat: support email verification
