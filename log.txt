@@ -11055,3 +11055,4 @@
 0847. ♻️ chore: clean up unused files
 0722. 📚 docs: add API usage examples
 0225. 🚀 perf: reduce image load time
+0816. 🔧 refactor: organize models into subfolders
