@@ -7051,3 +7051,4 @@
 0250. 📚 docs: update README with setup steps
 0482. ✨ feat: add export to CSV option
 0838. 🎨 style: standardize quote style
+0085. ✨ feat: support email verification
