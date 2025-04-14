@@ -2696,3 +2696,4 @@
 0815. 🔧 refactor: split large controller into smaller functions
 0625. 🐛 fix: handle 500 error in quiz API
 0973. 🔧 refactor: organize models into subfolders
+0466. 🚀 perf: optimize database query for quiz results
