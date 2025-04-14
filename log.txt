@@ -2688,3 +2688,4 @@
 0596. ♻️ chore: update .gitignore
 0860. 🔧 refactor: organize models into subfolders
 0192. ✨ feat: enable dark mode toggle
+0157. ✅ test: mock database connection in test suite
