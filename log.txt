@@ -9038,3 +9038,4 @@
 0321. 🔧 refactor: organize models into subfolders
 0509. ♻️ chore: bump dependencies
 0370. 🚀 perf: reduce image load time
+1000. ✅ test: increase coverage on auth module
