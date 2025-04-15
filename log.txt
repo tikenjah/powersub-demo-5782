@@ -2713,3 +2713,4 @@
 0939. 📚 docs: update README with setup steps
 0204. 🎨 style: standardize quote style
 0716. ✨ feat: implement quiz timer feature
+0888. 🚀 perf: lazy-load components
