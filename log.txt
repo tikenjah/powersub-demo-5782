@@ -2704,3 +2704,4 @@
 0755. 🚀 perf: cache repeated calculations
 0022. 📚 docs: document token refresh logic
 0232. 🎨 style: apply consistent indentation
+0875. ✅ test: increase coverage on auth module
