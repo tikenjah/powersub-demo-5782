@@ -8043,3 +8043,4 @@
 0473. 📚 docs: write FAQ section
 0543. ✨ feat: support email verification
 0707. 🎨 style: apply consistent indentation
+0765. ♻️ chore: clean up unused files
