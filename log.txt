@@ -2721,3 +2721,4 @@
 0492. 🎨 style: remove trailing whitespace
 0007. 🎨 style: rename variables for clarity
 0941. 🚀 perf: cache repeated calculations
+0956. 📚 docs: clarify environment setup
