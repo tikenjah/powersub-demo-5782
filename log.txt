@@ -7059,3 +7059,4 @@
 0134. ✨ feat: implement quiz timer feature
 0744. 🔧 refactor: remove redundant code blocks
 0625. 🐛 fix: handle 500 error in quiz API
+0678. ✨ feat: add user authentication
