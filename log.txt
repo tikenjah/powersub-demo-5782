@@ -12061,3 +12061,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0745. ✅ test: add unit test for quiz service
 0104. 🎨 style: apply consistent indentation
+0040. 🔧 refactor: clean up auth middleware
