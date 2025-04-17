@@ -10075,3 +10075,4 @@
 0843. 📚 docs: document token refresh logic
 0062. ♻️ chore: update .gitignore
 0390. 🎨 style: standardize quote style
+0841. 🚀 perf: optimize database query for quiz results
