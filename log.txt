@@ -7062,3 +7062,4 @@
 0678. ✨ feat: add user authentication
 0514. 🐛 fix: fix broken CSS in mobile view
 0346. ✅ test: mock database connection in test suite
+0542. 🔧 refactor: organize models into subfolders
