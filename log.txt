@@ -12066,3 +12066,4 @@
 0713. 🐛 fix: handle 500 error in quiz API
 0512. 🚀 perf: reduce image load time
 0224. 🐛 fix: fix broken CSS in mobile view
+0793. 📚 docs: clarify environment setup
