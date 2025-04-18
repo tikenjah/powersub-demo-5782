@@ -5711,3 +5711,4 @@
 0305. ✨ feat: enable dark mode toggle
 0896. 🚀 perf: reduce image load time
 0846. ✨ feat: implement quiz timer feature
+0873. 🚀 perf: cache repeated calculations
