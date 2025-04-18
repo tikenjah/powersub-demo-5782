@@ -2742,3 +2742,4 @@
 0198. 📚 docs: clarify environment setup
 0089. 🔧 refactor: remove redundant code blocks
 0483. 📚 docs: update README with setup steps
+0488. ♻️ chore: add GitHub actions badge
