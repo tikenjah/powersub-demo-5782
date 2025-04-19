@@ -11074,3 +11074,4 @@
 0637. 🎨 style: apply consistent indentation
 0505. ♻️ chore: add GitHub actions badge
 0895. ✨ feat: support email verification
+0668. 🚀 perf: optimize database query for quiz results
