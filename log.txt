@@ -2748,3 +2748,4 @@
 0928. 🎨 style: apply consistent indentation
 0204. 🎨 style: standardize quote style
 0185. 📚 docs: write FAQ section
+0369. 🎨 style: standardize quote style
