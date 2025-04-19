@@ -2757,3 +2757,4 @@
 0152. ✨ feat: add user authentication
 0729. 🔧 refactor: refactor quiz grading logic
 0675. 🔧 refactor: organize models into subfolders
+0376. 🎨 style: apply consistent indentation
