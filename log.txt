@@ -2763,3 +2763,4 @@
 0461. ✨ feat: add user authentication
 0657. 🎨 style: standardize quote style
 0131. 📚 docs: write FAQ section
+0096. 🐛 fix: prevent crash on empty input
