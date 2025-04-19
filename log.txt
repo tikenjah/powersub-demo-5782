@@ -2761,3 +2761,4 @@
 0178. ✨ feat: support email verification
 0906. 📚 docs: add API usage examples
 0461. ✨ feat: add user authentication
+0657. 🎨 style: standardize quote style
