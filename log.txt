@@ -2752,3 +2752,4 @@
 0903. ✅ test: mock database connection in test suite
 0402. 🎨 style: reformat files with black
 0685. ✅ test: test user registration edge cases
+0779. 🔧 refactor: organize models into subfolders
