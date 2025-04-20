@@ -2772,3 +2772,4 @@
 0059. ♻️ chore: bump dependencies
 0051. ✨ feat: enable dark mode toggle
 0923. ✨ feat: support email verification
+0553. 🐛 fix: correct typo in registration form
