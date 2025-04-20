@@ -2781,3 +2781,4 @@
 0765. ♻️ chore: clean up unused files
 0042. 📚 docs: document token refresh logic
 0434. 📚 docs: document token refresh logic
+0349. ✅ test: increase coverage on auth module
