@@ -10081,3 +10081,4 @@
 0206. 🐛 fix: handle 500 error in quiz API
 0317. ✅ test: test user registration edge cases
 0538. 🐛 fix: fix broken CSS in mobile view
+0132. ✅ test: add unit test for quiz service
