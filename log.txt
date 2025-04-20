@@ -2770,3 +2770,4 @@
 0361. ✨ feat: support email verification
 0140. 🐛 fix: handle 500 error in quiz API
 0059. ♻️ chore: bump dependencies
+0051. ✨ feat: enable dark mode toggle
