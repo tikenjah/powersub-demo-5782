@@ -8061,3 +8061,4 @@
 0210. 🎨 style: apply consistent indentation
 0052. 🎨 style: standardize quote style
 0496. ✅ test: add integration test for /submit endpoint
+0627. 📚 docs: document token refresh logic
