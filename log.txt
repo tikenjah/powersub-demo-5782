@@ -2783,3 +2783,4 @@
 0434. 📚 docs: document token refresh logic
 0349. ✅ test: increase coverage on auth module
 0523. ♻️ chore: bump dependencies
+0710. 🐛 fix: fix broken CSS in mobile view
