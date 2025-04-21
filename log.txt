@@ -12075,3 +12075,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0355. 🚀 perf: optimize database query for quiz results
 0526. ✨ feat: add user authentication
+0652. 🔧 refactor: organize models into subfolders
