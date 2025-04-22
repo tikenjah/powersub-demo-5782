@@ -7072,3 +7072,4 @@
 0670. ✨ feat: add export to CSV option
 0835. 🐛 fix: prevent crash on empty input
 0178. ✨ feat: support email verification
+0227. ✅ test: test user registration edge cases
