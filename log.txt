@@ -8067,3 +8067,4 @@
 0529. 📚 docs: write FAQ section
 0226. 🚀 perf: lazy-load components
 0798. 🚀 perf: reduce image load time
+0233. 🚀 perf: lazy-load components
