@@ -2798,3 +2798,4 @@
 0209. ✨ feat: implement quiz timer feature
 0341. 🚀 perf: lazy-load components
 0527. 🎨 style: remove trailing whitespace
+0876. ♻️ chore: rename env.example
