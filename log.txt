@@ -8066,3 +8066,4 @@
 0132. ✅ test: add unit test for quiz service
 0529. 📚 docs: write FAQ section
 0226. 🚀 perf: lazy-load components
+0798. 🚀 perf: reduce image load time
