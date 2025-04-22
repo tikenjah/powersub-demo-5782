@@ -11079,3 +11079,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0059. ♻️ chore: bump dependencies
 0489. 🔧 refactor: organize models into subfolders
+0085. ✨ feat: support email verification
