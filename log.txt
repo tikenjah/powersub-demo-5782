@@ -2808,3 +2808,4 @@
 0155. ✨ feat: create admin dashboard
 0298. ♻️ chore: update .gitignore
 0269. ✅ test: test user registration edge cases
+0797. 📚 docs: add API usage examples
