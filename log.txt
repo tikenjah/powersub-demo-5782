@@ -7076,3 +7076,4 @@
 0547. 📚 docs: write FAQ section
 0738. 🐛 fix: prevent crash on empty input
 0167. 🚀 perf: reduce image load time
+0569. 📚 docs: document token refresh logic
