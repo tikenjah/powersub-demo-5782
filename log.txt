@@ -2806,3 +2806,4 @@
 0528. ♻️ chore: clean up unused files
 0438. ♻️ chore: bump dependencies
 0155. ✨ feat: create admin dashboard
+0298. ♻️ chore: update .gitignore
