@@ -2814,3 +2814,4 @@
 0204. 🎨 style: standardize quote style
 0457. 🐛 fix: handle 500 error in quiz API
 0462. ♻️ chore: update .gitignore
+0791. 🔧 refactor: clean up auth middleware
