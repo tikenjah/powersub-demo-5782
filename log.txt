@@ -9061,3 +9061,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0414. 🔧 refactor: remove redundant code blocks
 0501. ✨ feat: add export to CSV option
+0136. 🚀 perf: lazy-load components
