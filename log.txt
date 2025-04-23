@@ -7074,3 +7074,4 @@
 0178. ✨ feat: support email verification
 0227. ✅ test: test user registration edge cases
 0547. 📚 docs: write FAQ section
+0738. 🐛 fix: prevent crash on empty input
