@@ -5725,3 +5725,4 @@
 0086. 🐛 fix: correct typo in registration form
 0801. ✨ feat: enable dark mode toggle
 0446. 🎨 style: apply consistent indentation
+0805. ♻️ chore: add GitHub actions badge
