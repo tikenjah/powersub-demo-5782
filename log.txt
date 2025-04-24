@@ -8076,3 +8076,4 @@
 0498. ✅ test: mock database connection in test suite
 0242. ♻️ chore: clean up unused files
 0771. 🚀 perf: cache repeated calculations
+0958. 🐛 fix: prevent crash on empty input
