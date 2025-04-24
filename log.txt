@@ -2823,3 +2823,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0884. 📚 docs: clarify environment setup
 0715. ✨ feat: create admin dashboard
+0271. ✅ test: add unit test for quiz service
