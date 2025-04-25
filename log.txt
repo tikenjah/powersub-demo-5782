@@ -8083,3 +8083,4 @@
 0972. 🔧 refactor: refactor quiz grading logic
 0767. 🔧 refactor: remove redundant code blocks
 0291. 📚 docs: write FAQ section
+0218. 🔧 refactor: clean up auth middleware
