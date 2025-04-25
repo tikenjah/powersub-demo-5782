@@ -5728,3 +5728,4 @@
 0805. ♻️ chore: add GitHub actions badge
 0237. 🎨 style: standardize quote style
 0479. 🐛 fix: fix null pointer exception on login
+0918. ✨ feat: enable dark mode toggle
