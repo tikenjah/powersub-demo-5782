@@ -12082,3 +12082,4 @@
 0494. 🎨 style: rename variables for clarity
 0753. 🔧 refactor: remove redundant code blocks
 0898. 🐛 fix: fix broken CSS in mobile view
+0275. 🎨 style: standardize quote style
