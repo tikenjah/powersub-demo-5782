@@ -10096,3 +10096,4 @@
 0992. ♻️ chore: clean up unused files
 0577. ✨ feat: implement quiz timer feature
 0362. 📚 docs: add API usage examples
+0889. 🚀 perf: lazy-load components
