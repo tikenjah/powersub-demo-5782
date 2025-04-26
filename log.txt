@@ -11092,3 +11092,4 @@
 0070. ✨ feat: implement quiz timer feature
 0513. ♻️ chore: bump dependencies
 0845. 🚀 perf: cache repeated calculations
+0827. 🚀 perf: optimize database query for quiz results
