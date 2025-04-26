@@ -10099,3 +10099,4 @@
 0889. 🚀 perf: lazy-load components
 0963. 🚀 perf: reduce image load time
 0125. ✅ test: add integration test for /submit endpoint
+0275. 🎨 style: standardize quote style
