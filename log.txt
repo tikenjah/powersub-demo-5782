@@ -9069,3 +9069,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0061. ✨ feat: create admin dashboard
 0213. ✅ test: add integration test for /submit endpoint
+0600. 🐛 fix: prevent crash on empty input
