@@ -8089,3 +8089,4 @@
 0469. 🚀 perf: lazy-load components
 0187. ✨ feat: support email verification
 0703. 🔧 refactor: clean up auth middleware
+0234. ♻️ chore: rename env.example
