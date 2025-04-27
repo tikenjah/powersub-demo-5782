@@ -2844,3 +2844,4 @@
 0191. 🔧 refactor: refactor quiz grading logic
 0860. 🔧 refactor: organize models into subfolders
 0535. 📚 docs: write FAQ section
+0511. 🐛 fix: fix broken CSS in mobile view
