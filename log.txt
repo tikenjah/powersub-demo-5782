@@ -2857,3 +2857,4 @@
 0517. ✅ test: mock database connection in test suite
 0909. 🔧 refactor: organize models into subfolders
 0032. 🎨 style: apply consistent indentation
+0568. 🐛 fix: handle 500 error in quiz API
