@@ -5736,3 +5736,4 @@
 0374. 🎨 style: standardize quote style
 0301. 🎨 style: apply consistent indentation
 0384. 📚 docs: clarify environment setup
+0036. 🔧 refactor: clean up auth middleware
