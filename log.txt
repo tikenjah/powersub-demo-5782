@@ -2847,3 +2847,4 @@
 0511. 🐛 fix: fix broken CSS in mobile view
 0236. 🔧 refactor: remove redundant code blocks
 0794. ♻️ chore: clean up unused files
+0433. 🐛 fix: prevent crash on empty input
