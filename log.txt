@@ -2861,3 +2861,4 @@
 0836. 🚀 perf: optimize database query for quiz results
 0627. 📚 docs: document token refresh logic
 0923. ✨ feat: support email verification
+0595. ✨ feat: enable dark mode toggle
