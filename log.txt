@@ -2858,3 +2858,4 @@
 0909. 🔧 refactor: organize models into subfolders
 0032. 🎨 style: apply consistent indentation
 0568. 🐛 fix: handle 500 error in quiz API
+0836. 🚀 perf: optimize database query for quiz results
