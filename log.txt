@@ -9075,3 +9075,4 @@
 0312. ✨ feat: add user authentication
 0295. 🎨 style: remove trailing whitespace
 0836. 🚀 perf: optimize database query for quiz results
+0477. 🐛 fix: fix broken CSS in mobile view
