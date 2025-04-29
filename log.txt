@@ -2872,3 +2872,4 @@
 0212. 🎨 style: standardize quote style
 0077. ♻️ chore: rename env.example
 0982. 🚀 perf: lazy-load components
+0832. 🔧 refactor: remove redundant code blocks
