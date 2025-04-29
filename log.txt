@@ -2868,3 +2868,4 @@
 0042. 📚 docs: document token refresh logic
 0967. ♻️ chore: add GitHub actions badge
 0249. ✅ test: increase coverage on auth module
+0559. 🔧 refactor: split large controller into smaller functions
