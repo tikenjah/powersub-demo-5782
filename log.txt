@@ -7093,3 +7093,4 @@
 0654. ✨ feat: create admin dashboard
 0677. 📚 docs: add API usage examples
 0450. 🐛 fix: fix broken CSS in mobile view
+0978. 🐛 fix: prevent crash on empty input
