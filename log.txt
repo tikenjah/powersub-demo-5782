@@ -10108,3 +10108,4 @@
 0426. ✅ test: add integration test for /submit endpoint
 0551. 📚 docs: write FAQ section
 0418. ✅ test: mock database connection in test suite
+0079. 🐛 fix: correct typo in registration form
