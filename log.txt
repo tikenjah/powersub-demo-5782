@@ -8097,3 +8097,4 @@
 0203. 🚀 perf: lazy-load components
 0217. 🚀 perf: reduce image load time
 0329. 📚 docs: update README with setup steps
+0678. ✨ feat: add user authentication
