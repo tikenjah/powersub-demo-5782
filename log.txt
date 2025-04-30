@@ -2889,3 +2889,4 @@
 0258. 🐛 fix: prevent crash on empty input
 0537. 🔧 refactor: remove redundant code blocks
 0985. 📚 docs: document token refresh logic
+0319. 🐛 fix: handle 500 error in quiz API
