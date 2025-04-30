@@ -113,3 +113,4 @@
 0020. ✅ test: add integration test for /submit endpoint
 0220. 🐛 fix: fix null pointer exception on login
 0342. 🚀 perf: cache repeated calculations
+0950. 🎨 style: reformat files with black
