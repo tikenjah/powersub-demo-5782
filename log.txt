@@ -2890,3 +2890,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0985. 📚 docs: document token refresh logic
 0319. 🐛 fix: handle 500 error in quiz API
+0562. 🔧 refactor: clean up auth middleware
