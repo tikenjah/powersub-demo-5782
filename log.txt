@@ -11107,3 +11107,4 @@
 0551. 📚 docs: write FAQ section
 0709. ♻️ chore: bump dependencies
 0133. 🐛 fix: fix null pointer exception on login
+0429. ✨ feat: add user authentication
