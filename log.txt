@@ -5748,3 +5748,4 @@
 0977. 🔧 refactor: organize models into subfolders
 0585. 🚀 perf: lazy-load components
 0673. 🐛 fix: correct typo in registration form
+0896. 🚀 perf: reduce image load time
