@@ -7097,3 +7097,4 @@
 0154. 🐛 fix: prevent crash on empty input
 0933. 📚 docs: clarify environment setup
 0664. ✅ test: add unit test for quiz service
+0418. ✅ test: mock database connection in test suite
