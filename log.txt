@@ -12095,3 +12095,4 @@
 0585. 🚀 perf: lazy-load components
 0370. 🚀 perf: reduce image load time
 0811. 🎨 style: reformat files with black
+0086. 🐛 fix: correct typo in registration form
