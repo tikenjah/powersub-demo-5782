@@ -5747,3 +5747,4 @@
 0218. 🔧 refactor: clean up auth middleware
 0977. 🔧 refactor: organize models into subfolders
 0585. 🚀 perf: lazy-load components
+0673. 🐛 fix: correct typo in registration form
