@@ -2898,3 +2898,4 @@
 0425. 🔧 refactor: refactor quiz grading logic
 0905. ♻️ chore: bump dependencies
 0623. 🎨 style: standardize quote style
+0712. 🎨 style: apply consistent indentation
