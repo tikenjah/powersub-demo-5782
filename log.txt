@@ -2897,3 +2897,4 @@
 0330. ✅ test: test user registration edge cases
 0425. 🔧 refactor: refactor quiz grading logic
 0905. ♻️ chore: bump dependencies
+0623. 🎨 style: standardize quote style
