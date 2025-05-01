@@ -2899,3 +2899,4 @@
 0905. ♻️ chore: bump dependencies
 0623. 🎨 style: standardize quote style
 0712. 🎨 style: apply consistent indentation
+0834. ✅ test: increase coverage on auth module
