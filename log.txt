@@ -5752,3 +5752,4 @@
 0929. ✨ feat: support email verification
 0291. 📚 docs: write FAQ section
 0596. ♻️ chore: update .gitignore
+0803. ✅ test: mock database connection in test suite
