@@ -2912,3 +2912,4 @@
 0940. 📚 docs: document token refresh logic
 0688. 🚀 perf: reduce image load time
 0395. 📚 docs: write FAQ section
+0995. ✅ test: mock database connection in test suite
