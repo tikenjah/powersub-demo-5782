@@ -2905,3 +2905,4 @@
 0364. 🐛 fix: resolve issue with date parsing
 0843. 📚 docs: document token refresh logic
 0542. 🔧 refactor: organize models into subfolders
+0998. 🐛 fix: fix null pointer exception on login
