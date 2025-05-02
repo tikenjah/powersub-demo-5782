@@ -2903,3 +2903,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0292. 📚 docs: clarify environment setup
 0364. 🐛 fix: resolve issue with date parsing
+0843. 📚 docs: document token refresh logic
