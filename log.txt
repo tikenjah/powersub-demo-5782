@@ -2908,3 +2908,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0171. 🐛 fix: fix broken CSS in mobile view
 0405. ✅ test: mock database connection in test suite
+0037. 🐛 fix: correct typo in registration form
