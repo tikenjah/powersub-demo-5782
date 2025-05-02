@@ -2911,3 +2911,4 @@
 0037. 🐛 fix: correct typo in registration form
 0940. 📚 docs: document token refresh logic
 0688. 🚀 perf: reduce image load time
+0395. 📚 docs: write FAQ section
