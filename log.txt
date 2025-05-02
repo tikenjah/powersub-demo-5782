@@ -5753,3 +5753,4 @@
 0291. 📚 docs: write FAQ section
 0596. ♻️ chore: update .gitignore
 0803. ✅ test: mock database connection in test suite
+0018. 🔧 refactor: organize models into subfolders
