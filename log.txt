@@ -5750,3 +5750,4 @@
 0673. 🐛 fix: correct typo in registration form
 0896. 🚀 perf: reduce image load time
 0929. ✨ feat: support email verification
+0291. 📚 docs: write FAQ section
