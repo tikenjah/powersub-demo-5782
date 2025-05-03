@@ -2923,3 +2923,4 @@
 0686. 🎨 style: standardize quote style
 0749. ✨ feat: support email verification
 0677. 📚 docs: add API usage examples
+0270. ♻️ chore: rename env.example
