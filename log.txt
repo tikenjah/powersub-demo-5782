@@ -8110,3 +8110,4 @@
 0773. 📚 docs: document token refresh logic
 0028. 🎨 style: standardize quote style
 0986. 📚 docs: document token refresh logic
+0514. 🐛 fix: fix broken CSS in mobile view
