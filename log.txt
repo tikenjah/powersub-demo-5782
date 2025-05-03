@@ -7102,3 +7102,4 @@
 0576. ♻️ chore: update .gitignore
 0151. ✅ test: add unit test for quiz service
 0658. 🎨 style: rename variables for clarity
+0901. ✨ feat: add user authentication
