@@ -12100,3 +12100,4 @@
 0281. ✨ feat: support email verification
 0750. 🎨 style: apply consistent indentation
 0572. ✨ feat: add user authentication
+0865. ♻️ chore: add GitHub actions badge
