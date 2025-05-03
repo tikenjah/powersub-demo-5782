@@ -2922,3 +2922,4 @@
 0284. ✨ feat: implement quiz timer feature
 0686. 🎨 style: standardize quote style
 0749. ✨ feat: support email verification
+0677. 📚 docs: add API usage examples
