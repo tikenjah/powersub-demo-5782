@@ -12101,3 +12101,4 @@
 0750. 🎨 style: apply consistent indentation
 0572. ✨ feat: add user authentication
 0865. ♻️ chore: add GitHub actions badge
+0458. ✨ feat: create admin dashboard
