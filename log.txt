@@ -9089,3 +9089,4 @@
 0716. ✨ feat: implement quiz timer feature
 0681. ✨ feat: create admin dashboard
 0207. 🐛 fix: prevent crash on empty input
+0279. ✨ feat: support email verification
