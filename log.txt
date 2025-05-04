@@ -2926,3 +2926,4 @@
 0270. ♻️ chore: rename env.example
 0408. ♻️ chore: add GitHub actions badge
 0356. 📚 docs: write FAQ section
+0392. 🎨 style: remove trailing whitespace
