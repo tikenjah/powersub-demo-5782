@@ -2929,3 +2929,4 @@
 0392. 🎨 style: remove trailing whitespace
 0097. 🐛 fix: handle 500 error in quiz API
 0342. 🚀 perf: cache repeated calculations
+0122. ✨ feat: support email verification
