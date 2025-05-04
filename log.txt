@@ -2924,3 +2924,4 @@
 0749. ✨ feat: support email verification
 0677. 📚 docs: add API usage examples
 0270. ♻️ chore: rename env.example
+0408. ♻️ chore: add GitHub actions badge
