@@ -10117,3 +10117,4 @@
 0916. ♻️ chore: bump dependencies
 0828. ♻️ chore: add GitHub actions badge
 0492. 🎨 style: remove trailing whitespace
+0929. ✨ feat: support email verification
