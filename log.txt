@@ -2931,3 +2931,4 @@
 0342. 🚀 perf: cache repeated calculations
 0122. ✨ feat: support email verification
 0696. 🔧 refactor: clean up auth middleware
+0336. ✨ feat: add export to CSV option
