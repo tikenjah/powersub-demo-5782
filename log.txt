@@ -10118,3 +10118,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0492. 🎨 style: remove trailing whitespace
 0929. ✨ feat: support email verification
+0688. 🚀 perf: reduce image load time
