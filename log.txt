@@ -2945,3 +2945,4 @@
 0087. ✨ feat: add export to CSV option
 0592. 📚 docs: add API usage examples
 0670. ✨ feat: add export to CSV option
+0248. 🐛 fix: handle 500 error in quiz API
