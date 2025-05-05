@@ -2946,3 +2946,4 @@
 0592. 📚 docs: add API usage examples
 0670. ✨ feat: add export to CSV option
 0248. 🐛 fix: handle 500 error in quiz API
+0844. 📚 docs: update README with setup steps
