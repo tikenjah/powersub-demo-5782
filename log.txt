@@ -11115,3 +11115,4 @@
 0367. 🐛 fix: fix null pointer exception on login
 0058. ♻️ chore: add GitHub actions badge
 0637. 🎨 style: apply consistent indentation
+0052. 🎨 style: standardize quote style
