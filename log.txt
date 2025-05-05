@@ -7105,3 +7105,4 @@
 0901. ✨ feat: add user authentication
 0755. 🚀 perf: cache repeated calculations
 0495. 🔧 refactor: remove redundant code blocks
+0241. 📚 docs: add API usage examples
