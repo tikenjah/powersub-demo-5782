@@ -2938,3 +2938,4 @@
 0582. ✨ feat: add export to CSV option
 0906. 📚 docs: add API usage examples
 0882. 🚀 perf: optimize database query for quiz results
+0196. ♻️ chore: bump dependencies
