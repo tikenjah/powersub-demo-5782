@@ -2941,3 +2941,4 @@
 0196. ♻️ chore: bump dependencies
 0855. 🎨 style: reformat files with black
 0889. 🚀 perf: lazy-load components
+0982. 🚀 perf: lazy-load components
