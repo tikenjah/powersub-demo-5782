@@ -117,3 +117,4 @@
 0918. ✨ feat: enable dark mode toggle
 0453. 🎨 style: standardize quote style
 0390. 🎨 style: standardize quote style
+0579. 📚 docs: clarify environment setup
