@@ -12108,3 +12108,4 @@
 0362. 📚 docs: add API usage examples
 0001. 🚀 perf: cache repeated calculations
 0647. 🐛 fix: prevent crash on empty input
+0919. 🚀 perf: optimize database query for quiz results
