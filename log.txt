@@ -2953,3 +2953,4 @@
 0037. 🐛 fix: correct typo in registration form
 0478. 🐛 fix: resolve issue with date parsing
 0989. 📚 docs: write FAQ section
+0254. 🚀 perf: reduce image load time
