@@ -11119,3 +11119,4 @@
 0695. ✨ feat: create admin dashboard
 0529. 📚 docs: write FAQ section
 0533. ♻️ chore: add GitHub actions badge
+0415. 🐛 fix: handle 500 error in quiz API
