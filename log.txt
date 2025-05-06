@@ -11120,3 +11120,4 @@
 0529. 📚 docs: write FAQ section
 0533. ♻️ chore: add GitHub actions badge
 0415. 🐛 fix: handle 500 error in quiz API
+0003. ✅ test: increase coverage on auth module
