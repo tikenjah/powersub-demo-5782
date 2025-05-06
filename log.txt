@@ -2961,3 +2961,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0625. 🐛 fix: handle 500 error in quiz API
 0274. 🔧 refactor: refactor quiz grading logic
+0344. ♻️ chore: add GitHub actions badge
