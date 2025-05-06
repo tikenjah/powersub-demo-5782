@@ -2963,3 +2963,4 @@
 0274. 🔧 refactor: refactor quiz grading logic
 0344. ♻️ chore: add GitHub actions badge
 0548. 📚 docs: write FAQ section
+0290. ✅ test: test user registration edge cases
