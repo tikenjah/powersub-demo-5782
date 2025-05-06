@@ -10124,3 +10124,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0981. 🚀 perf: lazy-load components
 0427. ✅ test: mock database connection in test suite
+0336. ✨ feat: add export to CSV option
