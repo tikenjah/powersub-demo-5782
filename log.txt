@@ -10125,3 +10125,4 @@
 0981. 🚀 perf: lazy-load components
 0427. ✅ test: mock database connection in test suite
 0336. ✨ feat: add export to CSV option
+0676. 🐛 fix: prevent crash on empty input
