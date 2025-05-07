@@ -2973,3 +2973,4 @@
 0288. 🔧 refactor: refactor quiz grading logic
 0066. 🔧 refactor: clean up auth middleware
 0272. 🔧 refactor: remove redundant code blocks
+0279. ✨ feat: support email verification
