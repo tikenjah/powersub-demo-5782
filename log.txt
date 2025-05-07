@@ -119,3 +119,4 @@
 0390. 🎨 style: standardize quote style
 0579. 📚 docs: clarify environment setup
 0198. 📚 docs: clarify environment setup
+0308. 🚀 perf: reduce image load time
