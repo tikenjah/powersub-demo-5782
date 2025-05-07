@@ -120,3 +120,4 @@
 0579. 📚 docs: clarify environment setup
 0198. 📚 docs: clarify environment setup
 0308. 🚀 perf: reduce image load time
+0784. ♻️ chore: clean up unused files
