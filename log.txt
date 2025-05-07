@@ -2975,3 +2975,4 @@
 0272. 🔧 refactor: remove redundant code blocks
 0279. ✨ feat: support email verification
 0884. 📚 docs: clarify environment setup
+0571. 🔧 refactor: clean up auth middleware
