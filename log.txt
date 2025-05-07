@@ -2978,3 +2978,4 @@
 0571. 🔧 refactor: clean up auth middleware
 0464. 🎨 style: remove trailing whitespace
 0395. 📚 docs: write FAQ section
+0650. ✅ test: add unit test for quiz service
