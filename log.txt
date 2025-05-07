@@ -12115,3 +12115,4 @@
 0284. ✨ feat: implement quiz timer feature
 0553. 🐛 fix: correct typo in registration form
 0351. ✨ feat: add export to CSV option
+0682. ♻️ chore: rename env.example
