@@ -10128,3 +10128,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0685. ✅ test: test user registration edge cases
 0470. 🎨 style: remove trailing whitespace
+0990. ♻️ chore: rename env.example
