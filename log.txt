@@ -9105,3 +9105,4 @@
 0270. ♻️ chore: rename env.example
 0797. 📚 docs: add API usage examples
 0268. 🐛 fix: prevent crash on empty input
+0276. ✅ test: add integration test for /submit endpoint
