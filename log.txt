@@ -2971,3 +2971,4 @@
 0188. 🎨 style: apply consistent indentation
 0574. ✨ feat: enable dark mode toggle
 0288. 🔧 refactor: refactor quiz grading logic
+0066. 🔧 refactor: clean up auth middleware
