@@ -2977,3 +2977,4 @@
 0884. 📚 docs: clarify environment setup
 0571. 🔧 refactor: clean up auth middleware
 0464. 🎨 style: remove trailing whitespace
+0395. 📚 docs: write FAQ section
