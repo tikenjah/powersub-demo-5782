@@ -12116,3 +12116,4 @@
 0553. 🐛 fix: correct typo in registration form
 0351. ✨ feat: add export to CSV option
 0682. ♻️ chore: rename env.example
+0520. 🐛 fix: fix null pointer exception on login
