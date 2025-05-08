@@ -8127,3 +8127,4 @@
 0291. 📚 docs: write FAQ section
 0355. 🚀 perf: optimize database query for quiz results
 0375. 🐛 fix: handle 500 error in quiz API
+0348. ✅ test: test user registration edge cases
