@@ -9109,3 +9109,4 @@
 0718. 🐛 fix: resolve issue with date parsing
 0874. 🔧 refactor: split large controller into smaller functions
 0958. 🐛 fix: prevent crash on empty input
+0514. 🐛 fix: fix broken CSS in mobile view
