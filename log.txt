@@ -2990,3 +2990,4 @@
 0927. ♻️ chore: bump dependencies
 0597. 🚀 perf: cache repeated calculations
 0803. ✅ test: mock database connection in test suite
+0898. 🐛 fix: fix broken CSS in mobile view
