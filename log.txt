@@ -2993,3 +2993,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0412. ✅ test: increase coverage on auth module
 0847. ♻️ chore: clean up unused files
+0872. 🎨 style: rename variables for clarity
