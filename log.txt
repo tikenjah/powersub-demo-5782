@@ -2995,3 +2995,4 @@
 0847. ♻️ chore: clean up unused files
 0872. 🎨 style: rename variables for clarity
 0504. 📚 docs: document token refresh logic
+0672. 🐛 fix: fix broken CSS in mobile view
