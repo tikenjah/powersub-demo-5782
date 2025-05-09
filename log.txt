@@ -7116,3 +7116,4 @@
 0221. ✨ feat: add user authentication
 0450. 🐛 fix: fix broken CSS in mobile view
 0488. ♻️ chore: add GitHub actions badge
+0776. ✅ test: add integration test for /submit endpoint
