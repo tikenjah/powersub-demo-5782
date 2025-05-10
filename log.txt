@@ -8131,3 +8131,4 @@
 0037. 🐛 fix: correct typo in registration form
 0649. 📚 docs: update README with setup steps
 0563. 📚 docs: clarify environment setup
+0553. 🐛 fix: correct typo in registration form
