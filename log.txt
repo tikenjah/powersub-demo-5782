@@ -9113,3 +9113,4 @@
 0526. ✨ feat: add user authentication
 0499. 🎨 style: reformat files with black
 0002. 🚀 perf: cache repeated calculations
+0200. 🐛 fix: handle 500 error in quiz API
