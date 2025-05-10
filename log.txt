@@ -11127,3 +11127,4 @@
 0019. ✨ feat: enable dark mode toggle
 0066. 🔧 refactor: clean up auth middleware
 0185. 📚 docs: write FAQ section
+0858. ♻️ chore: clean up unused files
