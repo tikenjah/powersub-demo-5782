@@ -3007,3 +3007,4 @@
 0124. 🎨 style: reformat files with black
 0910. 🎨 style: remove trailing whitespace
 0464. 🎨 style: remove trailing whitespace
+0813. 🔧 refactor: organize models into subfolders
