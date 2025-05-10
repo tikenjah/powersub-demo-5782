@@ -3022,3 +3022,4 @@
 0257. 📚 docs: clarify environment setup
 0617. ✨ feat: support email verification
 0471. ✨ feat: support email verification
+0788. 📚 docs: add API usage examples
