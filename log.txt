@@ -3021,3 +3021,4 @@
 0232. 🎨 style: apply consistent indentation
 0257. 📚 docs: clarify environment setup
 0617. ✨ feat: support email verification
+0471. ✨ feat: support email verification
