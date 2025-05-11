@@ -7122,3 +7122,4 @@
 0108. 🎨 style: remove trailing whitespace
 0142. ✨ feat: implement quiz timer feature
 0512. 🚀 perf: reduce image load time
+0799. ♻️ chore: clean up unused files
