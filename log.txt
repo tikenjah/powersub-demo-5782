@@ -9118,3 +9118,4 @@
 0524. ♻️ chore: rename env.example
 0137. 🎨 style: rename variables for clarity
 0793. 📚 docs: clarify environment setup
+0963. 🚀 perf: reduce image load time
