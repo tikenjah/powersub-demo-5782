@@ -3031,3 +3031,4 @@
 0974. ✨ feat: add export to CSV option
 0198. 📚 docs: clarify environment setup
 0802. 🔧 refactor: remove redundant code blocks
+0731. 🎨 style: standardize quote style
