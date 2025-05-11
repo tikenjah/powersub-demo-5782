@@ -5773,3 +5773,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0261. 🔧 refactor: refactor quiz grading logic
 0588. 🔧 refactor: organize models into subfolders
+0622. 🎨 style: apply consistent indentation
