@@ -3034,3 +3034,4 @@
 0731. 🎨 style: standardize quote style
 0589. 🐛 fix: fix broken CSS in mobile view
 0653. 🐛 fix: prevent crash on empty input
+0294. 🐛 fix: prevent crash on empty input
