@@ -11128,3 +11128,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0185. 📚 docs: write FAQ section
 0858. ♻️ chore: clean up unused files
+0813. 🔧 refactor: organize models into subfolders
