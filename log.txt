@@ -3058,3 +3058,4 @@
 0798. 🚀 perf: reduce image load time
 0730. ✅ test: test user registration edge cases
 0629. 🔧 refactor: organize models into subfolders
+0698. 🐛 fix: handle 500 error in quiz API
