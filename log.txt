@@ -3048,3 +3048,4 @@
 0111. 📚 docs: update README with setup steps
 0967. ♻️ chore: add GitHub actions badge
 0766. 🎨 style: reformat files with black
+0563. 📚 docs: clarify environment setup
