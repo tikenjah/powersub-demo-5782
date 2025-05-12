@@ -3055,3 +3055,4 @@
 0482. ✨ feat: add export to CSV option
 0035. ✅ test: increase coverage on auth module
 0519. 📚 docs: document token refresh logic
+0798. 🚀 perf: reduce image load time
