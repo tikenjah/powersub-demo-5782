@@ -3043,3 +3043,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0426. ✅ test: add integration test for /submit endpoint
 0838. 🎨 style: standardize quote style
+0085. ✨ feat: support email verification
