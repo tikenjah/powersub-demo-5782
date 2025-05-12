@@ -3049,3 +3049,4 @@
 0967. ♻️ chore: add GitHub actions badge
 0766. 🎨 style: reformat files with black
 0563. 📚 docs: clarify environment setup
+0994. 🚀 perf: reduce image load time
