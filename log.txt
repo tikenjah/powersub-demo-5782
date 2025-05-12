@@ -3041,3 +3041,4 @@
 0086. 🐛 fix: correct typo in registration form
 0397. 🐛 fix: handle 500 error in quiz API
 0532. 🔧 refactor: split large controller into smaller functions
+0426. ✅ test: add integration test for /submit endpoint
