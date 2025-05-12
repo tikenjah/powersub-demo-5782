@@ -8137,3 +8137,4 @@
 0224. 🐛 fix: fix broken CSS in mobile view
 0067. 🔧 refactor: remove redundant code blocks
 0152. ✨ feat: add user authentication
+0101. 📚 docs: clarify environment setup
