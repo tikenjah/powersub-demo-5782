@@ -12133,3 +12133,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0654. ✨ feat: create admin dashboard
 0267. 📚 docs: improve code comments in utils
+0233. 🚀 perf: lazy-load components
