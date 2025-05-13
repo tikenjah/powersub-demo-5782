@@ -3066,3 +3066,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0785. ✨ feat: enable dark mode toggle
 0959. 🐛 fix: fix null pointer exception on login
+0748. 🚀 perf: optimize database query for quiz results
