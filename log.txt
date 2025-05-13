@@ -3073,3 +3073,4 @@
 0753. 🔧 refactor: remove redundant code blocks
 0370. 🚀 perf: reduce image load time
 0713. 🐛 fix: handle 500 error in quiz API
+0961. 📚 docs: add API usage examples
