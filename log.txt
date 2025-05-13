@@ -10140,3 +10140,4 @@
 0906. 📚 docs: add API usage examples
 0249. ✅ test: increase coverage on auth module
 0764. ✨ feat: add user authentication
+0698. 🐛 fix: handle 500 error in quiz API
