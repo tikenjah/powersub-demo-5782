@@ -11135,3 +11135,4 @@
 0137. 🎨 style: rename variables for clarity
 0084. 🐛 fix: handle 500 error in quiz API
 0356. 📚 docs: write FAQ section
+0029. 🚀 perf: lazy-load components
