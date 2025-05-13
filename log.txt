@@ -125,3 +125,4 @@
 0870. ♻️ chore: clean up unused files
 0898. 🐛 fix: fix broken CSS in mobile view
 0535. 📚 docs: write FAQ section
+0699. 🎨 style: standardize quote style
