@@ -10141,3 +10141,4 @@
 0249. ✅ test: increase coverage on auth module
 0764. ✨ feat: add user authentication
 0698. 🐛 fix: handle 500 error in quiz API
+0786. ✨ feat: enable dark mode toggle
