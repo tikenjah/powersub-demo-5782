@@ -3079,3 +3079,4 @@
 0545. 🎨 style: standardize quote style
 0824. 🚀 perf: lazy-load components
 0151. ✅ test: add unit test for quiz service
+0055. 📚 docs: update README with setup steps
