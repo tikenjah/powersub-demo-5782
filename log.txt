@@ -12136,3 +12136,4 @@
 0233. 🚀 perf: lazy-load components
 0185. 📚 docs: write FAQ section
 0502. 📚 docs: update README with setup steps
+0548. 📚 docs: write FAQ section
