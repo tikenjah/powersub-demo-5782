@@ -7134,3 +7134,4 @@
 0039. ✅ test: add integration test for /submit endpoint
 0124. 🎨 style: reformat files with black
 0102. ✨ feat: support email verification
+0900. 🐛 fix: handle 500 error in quiz API
