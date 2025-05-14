@@ -12135,3 +12135,4 @@
 0267. 📚 docs: improve code comments in utils
 0233. 🚀 perf: lazy-load components
 0185. 📚 docs: write FAQ section
+0502. 📚 docs: update README with setup steps
