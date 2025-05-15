@@ -3090,3 +3090,4 @@
 0082. 🔧 refactor: refactor quiz grading logic
 0485. 📚 docs: update README with setup steps
 0487. 🎨 style: reformat files with black
+0558. ✨ feat: enable dark mode toggle
