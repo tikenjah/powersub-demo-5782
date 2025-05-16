@@ -3097,3 +3097,4 @@
 0854. ♻️ chore: rename env.example
 0581. ✅ test: add integration test for /submit endpoint
 0261. 🔧 refactor: refactor quiz grading logic
+0514. 🐛 fix: fix broken CSS in mobile view
