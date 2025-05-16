@@ -10144,3 +10144,4 @@
 0786. ✨ feat: enable dark mode toggle
 0958. 🐛 fix: prevent crash on empty input
 0242. ♻️ chore: clean up unused files
+0948. 🐛 fix: fix broken CSS in mobile view
