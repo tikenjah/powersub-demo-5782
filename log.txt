@@ -8149,3 +8149,4 @@
 0131. 📚 docs: write FAQ section
 0645. 🐛 fix: resolve issue with date parsing
 0852. ✨ feat: enable dark mode toggle
+0299. 🐛 fix: resolve issue with date parsing
