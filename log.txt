@@ -8146,3 +8146,4 @@
 0550. 🔧 refactor: split large controller into smaller functions
 0717. 🔧 refactor: refactor quiz grading logic
 0953. 🎨 style: remove trailing whitespace
+0131. 📚 docs: write FAQ section
