@@ -11146,3 +11146,4 @@
 0757. 🔧 refactor: remove redundant code blocks
 0910. 🎨 style: remove trailing whitespace
 0597. 🚀 perf: cache repeated calculations
+0793. 📚 docs: clarify environment setup
