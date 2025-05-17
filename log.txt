@@ -5792,3 +5792,4 @@
 0764. ✨ feat: add user authentication
 0451. ✨ feat: support email verification
 0036. 🔧 refactor: clean up auth middleware
+0446. 🎨 style: apply consistent indentation
