@@ -10146,3 +10146,4 @@
 0242. ♻️ chore: clean up unused files
 0948. 🐛 fix: fix broken CSS in mobile view
 0833. ✨ feat: add user authentication
+0254. 🚀 perf: reduce image load time
