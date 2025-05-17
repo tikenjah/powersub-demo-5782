@@ -5790,3 +5790,4 @@
 0189. 📚 docs: clarify environment setup
 0764. ✨ feat: add user authentication
 0764. ✨ feat: add user authentication
+0451. ✨ feat: support email verification
