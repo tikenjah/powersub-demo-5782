@@ -11147,3 +11147,4 @@
 0910. 🎨 style: remove trailing whitespace
 0597. 🚀 perf: cache repeated calculations
 0793. 📚 docs: clarify environment setup
+0880. 🐛 fix: fix broken CSS in mobile view
