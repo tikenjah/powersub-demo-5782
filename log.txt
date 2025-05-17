@@ -9134,3 +9134,4 @@
 0448. 🐛 fix: correct typo in registration form
 0768. 🎨 style: remove trailing whitespace
 0659. 📚 docs: add API usage examples
+0375. 🐛 fix: handle 500 error in quiz API
