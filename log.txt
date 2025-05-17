@@ -8150,3 +8150,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0852. ✨ feat: enable dark mode toggle
 0299. 🐛 fix: resolve issue with date parsing
+0994. 🚀 perf: reduce image load time
