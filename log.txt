@@ -10148,3 +10148,4 @@
 0833. ✨ feat: add user authentication
 0254. 🚀 perf: reduce image load time
 0854. ♻️ chore: rename env.example
+1000. ✅ test: increase coverage on auth module
