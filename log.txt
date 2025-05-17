@@ -3120,3 +3120,4 @@
 0513. ♻️ chore: bump dependencies
 0381. ♻️ chore: clean up unused files
 0411. ✅ test: add unit test for quiz service
+0567. 📚 docs: add API usage examples
