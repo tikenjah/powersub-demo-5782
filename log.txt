@@ -3127,3 +3127,4 @@
 0631. ✨ feat: create admin dashboard
 0479. 🐛 fix: fix null pointer exception on login
 0597. 🚀 perf: cache repeated calculations
+0737. 🐛 fix: handle 500 error in quiz API
