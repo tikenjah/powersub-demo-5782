@@ -12142,3 +12142,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0907. 🔧 refactor: split large controller into smaller functions
 0131. 📚 docs: write FAQ section
+0539. 🔧 refactor: organize models into subfolders
