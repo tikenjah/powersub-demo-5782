@@ -3135,3 +3135,4 @@
 0023. 📚 docs: clarify environment setup
 0304. 🔧 refactor: remove redundant code blocks
 0286. ✅ test: mock database connection in test suite
+0378. 🐛 fix: prevent crash on empty input
