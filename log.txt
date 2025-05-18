@@ -5795,3 +5795,4 @@
 0446. 🎨 style: apply consistent indentation
 0773. 📚 docs: document token refresh logic
 0106. 🎨 style: reformat files with black
+0460. 📚 docs: write FAQ section
