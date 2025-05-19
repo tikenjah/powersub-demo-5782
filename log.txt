@@ -3157,3 +3157,4 @@
 0287. 📚 docs: write FAQ section
 0274. 🔧 refactor: refactor quiz grading logic
 0363. 📚 docs: clarify environment setup
+0894. ✅ test: add integration test for /submit endpoint
