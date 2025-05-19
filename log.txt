@@ -3154,3 +3154,4 @@
 0497. 🔧 refactor: refactor quiz grading logic
 0653. 🐛 fix: prevent crash on empty input
 0701. 🔧 refactor: clean up auth middleware
+0287. 📚 docs: write FAQ section
