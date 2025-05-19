@@ -3162,3 +3162,4 @@
 0012. 🚀 perf: cache repeated calculations
 0148. 🔧 refactor: organize models into subfolders
 0368. 🚀 perf: lazy-load components
+0585. 🚀 perf: lazy-load components
