@@ -3152,3 +3152,4 @@
 0123. ✨ feat: implement quiz timer feature
 0928. 🎨 style: apply consistent indentation
 0497. 🔧 refactor: refactor quiz grading logic
+0653. 🐛 fix: prevent crash on empty input
