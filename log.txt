@@ -8152,3 +8152,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0994. 🚀 perf: reduce image load time
 0394. 🚀 perf: lazy-load components
+0335. ♻️ chore: update .gitignore
