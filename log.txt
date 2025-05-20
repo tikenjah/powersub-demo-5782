@@ -9144,3 +9144,4 @@
 0682. ♻️ chore: rename env.example
 0437. 📚 docs: clarify environment setup
 0775. 🐛 fix: fix null pointer exception on login
+0391. 🐛 fix: fix null pointer exception on login
