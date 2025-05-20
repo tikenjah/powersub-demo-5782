@@ -8156,3 +8156,4 @@
 0886. ♻️ chore: clean up unused files
 0961. 📚 docs: add API usage examples
 0218. 🔧 refactor: clean up auth middleware
+0828. ♻️ chore: add GitHub actions badge
