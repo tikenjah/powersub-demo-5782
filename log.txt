@@ -3168,3 +3168,4 @@
 0222. 🐛 fix: handle 500 error in quiz API
 0797. 📚 docs: add API usage examples
 0045. 🎨 style: apply consistent indentation
+0451. ✨ feat: support email verification
