@@ -10157,3 +10157,4 @@
 0965. 🎨 style: reformat files with black
 0893. 🐛 fix: handle 500 error in quiz API
 0896. 🚀 perf: reduce image load time
+0072. 🚀 perf: optimize database query for quiz results
