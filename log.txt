@@ -3169,3 +3169,4 @@
 0797. 📚 docs: add API usage examples
 0045. 🎨 style: apply consistent indentation
 0451. ✨ feat: support email verification
+0040. 🔧 refactor: clean up auth middleware
