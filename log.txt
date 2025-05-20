@@ -7153,3 +7153,4 @@
 0290. ✅ test: test user registration edge cases
 0656. 🎨 style: apply consistent indentation
 0588. 🔧 refactor: organize models into subfolders
+0714. 📚 docs: improve code comments in utils
