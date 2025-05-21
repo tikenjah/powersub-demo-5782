@@ -3173,3 +3173,4 @@
 0229. 🚀 perf: optimize database query for quiz results
 0807. 🔧 refactor: remove redundant code blocks
 0853. 🔧 refactor: refactor quiz grading logic
+0489. 🔧 refactor: organize models into subfolders
