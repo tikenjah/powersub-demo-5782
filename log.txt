@@ -126,3 +126,4 @@
 0898. 🐛 fix: fix broken CSS in mobile view
 0535. 📚 docs: write FAQ section
 0699. 🎨 style: standardize quote style
+0613. 🐛 fix: prevent crash on empty input
