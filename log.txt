@@ -3188,3 +3188,4 @@
 0241. 📚 docs: add API usage examples
 0410. 🎨 style: reformat files with black
 0373. 📚 docs: document token refresh logic
+0603. 🐛 fix: fix broken CSS in mobile view
