@@ -3195,3 +3195,4 @@
 0323. 📚 docs: clarify environment setup
 0920. 🔧 refactor: organize models into subfolders
 0408. ♻️ chore: add GitHub actions badge
+0795. 📚 docs: update README with setup steps
