@@ -3190,3 +3190,4 @@
 0373. 📚 docs: document token refresh logic
 0603. 🐛 fix: fix broken CSS in mobile view
 0174. 📚 docs: clarify environment setup
+0809. ♻️ chore: rename env.example
