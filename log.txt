@@ -3189,3 +3189,4 @@
 0410. 🎨 style: reformat files with black
 0373. 📚 docs: document token refresh logic
 0603. 🐛 fix: fix broken CSS in mobile view
+0174. 📚 docs: clarify environment setup
