@@ -11160,3 +11160,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0542. 🔧 refactor: organize models into subfolders
 0097. 🐛 fix: handle 500 error in quiz API
+0091. ✨ feat: add user authentication
