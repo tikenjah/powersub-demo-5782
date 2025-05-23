@@ -11163,3 +11163,4 @@
 0091. ✨ feat: add user authentication
 0683. ✅ test: mock database connection in test suite
 0106. 🎨 style: reformat files with black
+0395. 📚 docs: write FAQ section
