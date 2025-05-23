@@ -11165,3 +11165,4 @@
 0106. 🎨 style: reformat files with black
 0395. 📚 docs: write FAQ section
 0127. 🐛 fix: fix null pointer exception on login
+0651. ✨ feat: enable dark mode toggle
