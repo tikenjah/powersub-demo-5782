@@ -3200,3 +3200,4 @@
 0912. 📚 docs: document token refresh logic
 0763. 🔧 refactor: organize models into subfolders
 0916. ♻️ chore: bump dependencies
+0865. ♻️ chore: add GitHub actions badge
