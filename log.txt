@@ -3219,3 +3219,4 @@
 0150. 🎨 style: remove trailing whitespace
 0064. 📚 docs: clarify environment setup
 0347. ♻️ chore: update .gitignore
+0301. 🎨 style: apply consistent indentation
