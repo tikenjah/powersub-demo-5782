@@ -3226,3 +3226,4 @@
 0591. ♻️ chore: clean up unused files
 0323. 📚 docs: clarify environment setup
 0149. ✨ feat: add export to CSV option
+0527. 🎨 style: remove trailing whitespace
