@@ -12159,3 +12159,4 @@
 0434. 📚 docs: document token refresh logic
 0016. 🎨 style: apply consistent indentation
 0146. 🎨 style: apply consistent indentation
+0568. 🐛 fix: handle 500 error in quiz API
