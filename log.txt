@@ -8166,3 +8166,4 @@
 0628. ♻️ chore: add GitHub actions badge
 0151. ✅ test: add unit test for quiz service
 0982. 🚀 perf: lazy-load components
+0402. 🎨 style: reformat files with black
