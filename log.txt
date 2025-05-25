@@ -3235,3 +3235,4 @@
 0685. ✅ test: test user registration edge cases
 0816. 🔧 refactor: organize models into subfolders
 0891. ✨ feat: create admin dashboard
+0231. 🔧 refactor: clean up auth middleware
