@@ -9153,3 +9153,4 @@
 0536. ✨ feat: add user authentication
 0194. 🎨 style: standardize quote style
 0490. ✨ feat: create admin dashboard
+0939. 📚 docs: update README with setup steps
