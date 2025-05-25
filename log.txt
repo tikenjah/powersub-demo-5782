@@ -11172,3 +11172,4 @@
 0075. ✅ test: mock database connection in test suite
 0182. 🔧 refactor: remove redundant code blocks
 0203. 🚀 perf: lazy-load components
+0936. 🔧 refactor: organize models into subfolders
