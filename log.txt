@@ -3241,3 +3241,4 @@
 0335. ♻️ chore: update .gitignore
 0526. ✨ feat: add user authentication
 0215. 🎨 style: reformat files with black
+0029. 🚀 perf: lazy-load components
