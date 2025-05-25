@@ -3238,3 +3238,4 @@
 0231. 🔧 refactor: clean up auth middleware
 0062. ♻️ chore: update .gitignore
 0993. ✨ feat: implement quiz timer feature
+0335. ♻️ chore: update .gitignore
