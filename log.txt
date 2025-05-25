@@ -3244,3 +3244,4 @@
 0029. 🚀 perf: lazy-load components
 0609. 🐛 fix: handle 500 error in quiz API
 0561. 📚 docs: write FAQ section
+0698. 🐛 fix: handle 500 error in quiz API
