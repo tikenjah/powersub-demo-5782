@@ -8169,3 +8169,4 @@
 0402. 🎨 style: reformat files with black
 0215. 🎨 style: reformat files with black
 0336. ✨ feat: add export to CSV option
+0691. 🎨 style: rename variables for clarity
