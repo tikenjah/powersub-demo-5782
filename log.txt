@@ -12166,3 +12166,4 @@
 0205. 📚 docs: update README with setup steps
 0138. 🎨 style: rename variables for clarity
 0207. 🐛 fix: prevent crash on empty input
+0244. ✨ feat: add export to CSV option
