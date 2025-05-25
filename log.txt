@@ -3240,3 +3240,4 @@
 0993. ✨ feat: implement quiz timer feature
 0335. ♻️ chore: update .gitignore
 0526. ✨ feat: add user authentication
+0215. 🎨 style: reformat files with black
