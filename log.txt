@@ -8173,3 +8173,4 @@
 0896. 🚀 perf: reduce image load time
 0873. 🚀 perf: cache repeated calculations
 0093. ✅ test: add unit test for quiz service
+0344. ♻️ chore: add GitHub actions badge
