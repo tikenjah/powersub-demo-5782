@@ -12173,3 +12173,4 @@
 0293. ✅ test: add integration test for /submit endpoint
 0424. ✨ feat: add user authentication
 0269. ✅ test: test user registration edge cases
+0053. ✅ test: increase coverage on auth module
