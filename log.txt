@@ -12170,3 +12170,4 @@
 0437. 📚 docs: clarify environment setup
 0898. 🐛 fix: fix broken CSS in mobile view
 0647. 🐛 fix: prevent crash on empty input
+0293. ✅ test: add integration test for /submit endpoint
