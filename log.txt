@@ -3248,3 +3248,4 @@
 0083. 🎨 style: reformat files with black
 0551. 📚 docs: write FAQ section
 0113. ✨ feat: add user authentication
+0934. ✨ feat: support email verification
