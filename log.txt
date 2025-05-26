@@ -12174,3 +12174,4 @@
 0424. ✨ feat: add user authentication
 0269. ✅ test: test user registration edge cases
 0053. ✅ test: increase coverage on auth module
+0527. 🎨 style: remove trailing whitespace
