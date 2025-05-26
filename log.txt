@@ -3257,3 +3257,4 @@
 0879. 🎨 style: standardize quote style
 0517. ✅ test: mock database connection in test suite
 0380. 🐛 fix: fix null pointer exception on login
+0080. ✨ feat: support email verification
