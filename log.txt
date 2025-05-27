@@ -10176,3 +10176,4 @@
 0886. ♻️ chore: clean up unused files
 0862. ♻️ chore: bump dependencies
 0302. ✨ feat: implement quiz timer feature
+0090. ✅ test: increase coverage on auth module
