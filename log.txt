@@ -9163,3 +9163,4 @@
 0564. 📚 docs: clarify environment setup
 0607. 🐛 fix: prevent crash on empty input
 0917. ✅ test: add integration test for /submit endpoint
+0499. 🎨 style: reformat files with black
