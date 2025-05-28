@@ -3280,3 +3280,4 @@
 0406. ✨ feat: add export to CSV option
 0630. 🚀 perf: lazy-load components
 0374. 🎨 style: standardize quote style
+0040. 🔧 refactor: clean up auth middleware
