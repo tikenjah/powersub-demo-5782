@@ -8177,3 +8177,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0472. 🐛 fix: fix null pointer exception on login
 0073. 🔧 refactor: split large controller into smaller functions
+0665. ♻️ chore: update .gitignore
