@@ -3278,3 +3278,4 @@
 0011. ✅ test: add unit test for quiz service
 0700. 🎨 style: rename variables for clarity
 0406. ✨ feat: add export to CSV option
+0630. 🚀 perf: lazy-load components
