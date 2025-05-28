@@ -3273,3 +3273,4 @@
 0579. 📚 docs: clarify environment setup
 0982. 🚀 perf: lazy-load components
 0987. ✨ feat: create admin dashboard
+0303. 🎨 style: rename variables for clarity
