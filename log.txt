@@ -9166,3 +9166,4 @@
 0499. 🎨 style: reformat files with black
 0561. 📚 docs: write FAQ section
 0514. 🐛 fix: fix broken CSS in mobile view
+0840. 🔧 refactor: refactor quiz grading logic
