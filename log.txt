@@ -8181,3 +8181,4 @@
 0151. ✅ test: add unit test for quiz service
 0249. ✅ test: increase coverage on auth module
 0779. 🔧 refactor: organize models into subfolders
+0178. ✨ feat: support email verification
