@@ -7177,3 +7177,4 @@
 0354. 📚 docs: add API usage examples
 0189. 📚 docs: clarify environment setup
 0309. 🔧 refactor: refactor quiz grading logic
+0605. ✨ feat: support email verification
