@@ -3288,3 +3288,4 @@
 0964. ♻️ chore: clean up unused files
 0515. 🚀 perf: optimize database query for quiz results
 0608. 🔧 refactor: remove redundant code blocks
+0397. 🐛 fix: handle 500 error in quiz API
