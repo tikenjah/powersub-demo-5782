@@ -3285,3 +3285,4 @@
 0641. 📚 docs: write FAQ section
 0579. 📚 docs: clarify environment setup
 0893. 🐛 fix: handle 500 error in quiz API
+0964. ♻️ chore: clean up unused files
