@@ -7181,3 +7181,4 @@
 0279. ✨ feat: support email verification
 0655. 🚀 perf: cache repeated calculations
 0041. 🐛 fix: fix broken CSS in mobile view
+0929. ✨ feat: support email verification
