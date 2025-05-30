@@ -7178,3 +7178,4 @@
 0189. 📚 docs: clarify environment setup
 0309. 🔧 refactor: refactor quiz grading logic
 0605. ✨ feat: support email verification
+0279. ✨ feat: support email verification
