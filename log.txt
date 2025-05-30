@@ -8186,3 +8186,4 @@
 0075. ✅ test: mock database connection in test suite
 0709. ♻️ chore: bump dependencies
 0108. 🎨 style: remove trailing whitespace
+0459. 🔧 refactor: organize models into subfolders
