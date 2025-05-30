@@ -10184,3 +10184,4 @@
 0462. ♻️ chore: update .gitignore
 0351. ✨ feat: add export to CSV option
 0187. ✨ feat: support email verification
+0879. 🎨 style: standardize quote style
