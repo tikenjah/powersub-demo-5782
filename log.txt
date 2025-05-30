@@ -12181,3 +12181,4 @@
 0765. ♻️ chore: clean up unused files
 0327. 🔧 refactor: split large controller into smaller functions
 0641. 📚 docs: write FAQ section
+0721. 🚀 perf: optimize database query for quiz results
