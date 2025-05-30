@@ -10183,3 +10183,4 @@
 0008. 🚀 perf: reduce image load time
 0462. ♻️ chore: update .gitignore
 0351. ✨ feat: add export to CSV option
+0187. ✨ feat: support email verification
