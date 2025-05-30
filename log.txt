@@ -3301,3 +3301,4 @@
 0826. 📚 docs: clarify environment setup
 0527. 🎨 style: remove trailing whitespace
 0809. ♻️ chore: rename env.example
+0586. 🎨 style: remove trailing whitespace
