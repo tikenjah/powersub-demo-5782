@@ -7184,3 +7184,4 @@
 0929. ✨ feat: support email verification
 0178. ✨ feat: support email verification
 0288. 🔧 refactor: refactor quiz grading logic
+0536. ✨ feat: add user authentication
