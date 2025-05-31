@@ -3308,3 +3308,4 @@
 0809. ♻️ chore: rename env.example
 0523. ♻️ chore: bump dependencies
 0638. 📚 docs: improve code comments in utils
+0081. 🐛 fix: fix null pointer exception on login
