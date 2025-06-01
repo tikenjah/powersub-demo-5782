@@ -3325,3 +3325,4 @@
 0419. 🎨 style: remove trailing whitespace
 0770. ♻️ chore: rename env.example
 0833. ✨ feat: add user authentication
+0406. ✨ feat: add export to CSV option
