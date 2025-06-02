@@ -3331,3 +3331,4 @@
 0363. 📚 docs: clarify environment setup
 0502. 📚 docs: update README with setup steps
 0330. ✅ test: test user registration edge cases
+0741. 🎨 style: apply consistent indentation
