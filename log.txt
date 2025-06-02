@@ -7191,3 +7191,4 @@
 0858. ♻️ chore: clean up unused files
 0842. 🎨 style: remove trailing whitespace
 0469. 🚀 perf: lazy-load components
+0514. 🐛 fix: fix broken CSS in mobile view
