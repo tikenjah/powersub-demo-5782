@@ -3335,3 +3335,4 @@
 0631. ✨ feat: create admin dashboard
 0194. 🎨 style: standardize quote style
 0621. 🔧 refactor: clean up auth middleware
+0803. ✅ test: mock database connection in test suite
