@@ -5834,3 +5834,4 @@
 0361. ✨ feat: support email verification
 0173. 🚀 perf: cache repeated calculations
 0366. 🔧 refactor: remove redundant code blocks
+0207. 🐛 fix: prevent crash on empty input
