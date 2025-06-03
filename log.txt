@@ -7192,3 +7192,4 @@
 0842. 🎨 style: remove trailing whitespace
 0469. 🚀 perf: lazy-load components
 0514. 🐛 fix: fix broken CSS in mobile view
+0725. 🚀 perf: lazy-load components
