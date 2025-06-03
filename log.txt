@@ -11200,3 +11200,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0225. 🚀 perf: reduce image load time
 0192. ✨ feat: enable dark mode toggle
+0824. 🚀 perf: lazy-load components
