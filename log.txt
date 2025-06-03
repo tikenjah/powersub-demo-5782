@@ -3348,3 +3348,4 @@
 0346. ✅ test: mock database connection in test suite
 0783. 🐛 fix: handle 500 error in quiz API
 0345. 📚 docs: document token refresh logic
+0268. 🐛 fix: prevent crash on empty input
