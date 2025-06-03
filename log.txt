@@ -5838,3 +5838,4 @@
 0444. ✅ test: add unit test for quiz service
 0044. ✅ test: add unit test for quiz service
 0333. 🚀 perf: cache repeated calculations
+0756. ✨ feat: support email verification
