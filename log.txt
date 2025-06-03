@@ -3350,3 +3350,4 @@
 0345. 📚 docs: document token refresh logic
 0268. 🐛 fix: prevent crash on empty input
 0161. ✨ feat: create admin dashboard
+0321. 🔧 refactor: organize models into subfolders
