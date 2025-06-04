@@ -5841,3 +5841,4 @@
 0756. ✨ feat: support email verification
 0653. 🐛 fix: prevent crash on empty input
 0761. ✅ test: add unit test for quiz service
+0113. ✨ feat: add user authentication
