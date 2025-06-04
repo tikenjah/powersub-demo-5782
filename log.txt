@@ -3364,3 +3364,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0437. 📚 docs: clarify environment setup
 0635. 🎨 style: apply consistent indentation
+0900. 🐛 fix: handle 500 error in quiz API
