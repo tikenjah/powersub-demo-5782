@@ -5839,3 +5839,4 @@
 0044. ✅ test: add unit test for quiz service
 0333. 🚀 perf: cache repeated calculations
 0756. ✨ feat: support email verification
+0653. 🐛 fix: prevent crash on empty input
