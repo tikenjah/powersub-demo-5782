@@ -8199,3 +8199,4 @@
 0960. ✅ test: increase coverage on auth module
 0483. 📚 docs: update README with setup steps
 0353. ♻️ chore: rename env.example
+0999. 🔧 refactor: split large controller into smaller functions
