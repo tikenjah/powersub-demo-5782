@@ -7199,3 +7199,4 @@
 0912. 📚 docs: document token refresh logic
 0299. 🐛 fix: resolve issue with date parsing
 0131. 📚 docs: write FAQ section
+0568. 🐛 fix: handle 500 error in quiz API
