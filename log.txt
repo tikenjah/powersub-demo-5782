@@ -5847,3 +5847,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0344. ♻️ chore: add GitHub actions badge
 0237. 🎨 style: standardize quote style
+0671. 🐛 fix: fix null pointer exception on login
