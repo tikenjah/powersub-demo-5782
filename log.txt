@@ -3386,3 +3386,4 @@
 0518. ✨ feat: support email verification
 0565. ♻️ chore: add GitHub actions badge
 0260. ✨ feat: create admin dashboard
+0178. ✨ feat: support email verification
