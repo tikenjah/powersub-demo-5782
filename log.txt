@@ -11209,3 +11209,4 @@
 0230. ✨ feat: create admin dashboard
 0177. 📚 docs: add API usage examples
 0225. 🚀 perf: reduce image load time
+0221. ✨ feat: add user authentication
