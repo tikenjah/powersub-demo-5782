@@ -3384,3 +3384,4 @@
 0574. ✨ feat: enable dark mode toggle
 0451. ✨ feat: support email verification
 0518. ✨ feat: support email verification
+0565. ♻️ chore: add GitHub actions badge
