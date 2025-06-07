@@ -8203,3 +8203,4 @@
 0060. ♻️ chore: clean up unused files
 0771. 🚀 perf: cache repeated calculations
 0706. ✨ feat: support email verification
+0471. ✨ feat: support email verification
