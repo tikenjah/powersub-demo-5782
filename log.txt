@@ -9189,3 +9189,4 @@
 0948. 🐛 fix: fix broken CSS in mobile view
 0144. ✅ test: increase coverage on auth module
 0358. 🚀 perf: reduce image load time
+0652. 🔧 refactor: organize models into subfolders
