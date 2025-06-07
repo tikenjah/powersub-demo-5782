@@ -7204,3 +7204,4 @@
 0653. 🐛 fix: prevent crash on empty input
 0650. ✅ test: add unit test for quiz service
 0933. 📚 docs: clarify environment setup
+0646. ✅ test: test user registration edge cases
