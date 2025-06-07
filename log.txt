@@ -3404,3 +3404,4 @@
 0085. ✨ feat: support email verification
 0899. 🚀 perf: cache repeated calculations
 0095. ✅ test: mock database connection in test suite
+0185. 📚 docs: write FAQ section
