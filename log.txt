@@ -136,3 +136,4 @@
 0028. 🎨 style: standardize quote style
 0650. ✅ test: add unit test for quiz service
 0470. 🎨 style: remove trailing whitespace
+0177. 📚 docs: add API usage examples
