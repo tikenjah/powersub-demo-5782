@@ -8204,3 +8204,4 @@
 0771. 🚀 perf: cache repeated calculations
 0706. ✨ feat: support email verification
 0471. ✨ feat: support email verification
+0914. ✅ test: test user registration edge cases
