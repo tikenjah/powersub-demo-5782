@@ -3399,3 +3399,4 @@
 0471. ✨ feat: support email verification
 0715. ✨ feat: create admin dashboard
 0829. 🔧 refactor: organize models into subfolders
+0934. ✨ feat: support email verification
