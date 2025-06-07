@@ -3396,3 +3396,4 @@
 0629. 🔧 refactor: organize models into subfolders
 0352. ✨ feat: add export to CSV option
 0748. 🚀 perf: optimize database query for quiz results
+0471. ✨ feat: support email verification
