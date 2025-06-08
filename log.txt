@@ -3417,3 +3417,4 @@
 0305. ✨ feat: enable dark mode toggle
 0409. 🚀 perf: lazy-load components
 0745. ✅ test: add unit test for quiz service
+0026. 🔧 refactor: clean up auth middleware
