@@ -3415,3 +3415,4 @@
 0163. ✨ feat: implement quiz timer feature
 0682. ♻️ chore: rename env.example
 0305. ✨ feat: enable dark mode toggle
+0409. 🚀 perf: lazy-load components
