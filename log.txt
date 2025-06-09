@@ -3421,3 +3421,4 @@
 0473. 📚 docs: write FAQ section
 0106. 🎨 style: reformat files with black
 0845. 🚀 perf: cache repeated calculations
+0848. 📚 docs: update README with setup steps
