@@ -7206,3 +7206,4 @@
 0933. 📚 docs: clarify environment setup
 0646. ✅ test: test user registration edge cases
 0899. 🚀 perf: cache repeated calculations
+0647. 🐛 fix: prevent crash on empty input
