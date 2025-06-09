@@ -138,3 +138,4 @@
 0470. 🎨 style: remove trailing whitespace
 0177. 📚 docs: add API usage examples
 0598. 🔧 refactor: remove redundant code blocks
+0796. 🔧 refactor: refactor quiz grading logic
