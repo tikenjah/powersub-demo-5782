@@ -5854,3 +5854,4 @@
 0388. 🎨 style: reformat files with black
 0991. ♻️ chore: clean up unused files
 0619. ✨ feat: create admin dashboard
+0193. 🚀 perf: optimize database query for quiz results
