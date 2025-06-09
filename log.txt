@@ -3428,3 +3428,4 @@
 0255. 🔧 refactor: refactor quiz grading logic
 0738. 🐛 fix: prevent crash on empty input
 0462. ♻️ chore: update .gitignore
+0918. ✨ feat: enable dark mode toggle
