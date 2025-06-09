@@ -3426,3 +3426,4 @@
 0570. 🎨 style: apply consistent indentation
 0780. 📚 docs: add API usage examples
 0255. 🔧 refactor: refactor quiz grading logic
+0738. 🐛 fix: prevent crash on empty input
