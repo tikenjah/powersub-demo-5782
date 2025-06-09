@@ -3430,3 +3430,4 @@
 0462. ♻️ chore: update .gitignore
 0918. ✨ feat: enable dark mode toggle
 0276. ✅ test: add integration test for /submit endpoint
+0201. 🔧 refactor: clean up auth middleware
