@@ -11214,3 +11214,4 @@
 0925. ✨ feat: add export to CSV option
 0477. 🐛 fix: fix broken CSS in mobile view
 0984. ♻️ chore: clean up unused files
+0331. 🐛 fix: fix broken CSS in mobile view
