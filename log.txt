@@ -8212,3 +8212,4 @@
 0241. 📚 docs: add API usage examples
 0714. 📚 docs: improve code comments in utils
 0838. 🎨 style: standardize quote style
+0939. 📚 docs: update README with setup steps
