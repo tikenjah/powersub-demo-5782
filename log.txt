@@ -3437,3 +3437,4 @@
 0003. ✅ test: increase coverage on auth module
 0388. 🎨 style: reformat files with black
 0335. ♻️ chore: update .gitignore
+0595. ✨ feat: enable dark mode toggle
