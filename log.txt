@@ -3443,3 +3443,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0895. ✨ feat: support email verification
 0452. ✨ feat: implement quiz timer feature
+0101. 📚 docs: clarify environment setup
