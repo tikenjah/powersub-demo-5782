@@ -11220,3 +11220,4 @@
 0514. 🐛 fix: fix broken CSS in mobile view
 0665. ♻️ chore: update .gitignore
 0228. 🔧 refactor: remove redundant code blocks
+0023. 📚 docs: clarify environment setup
