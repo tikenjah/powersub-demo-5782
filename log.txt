@@ -5863,3 +5863,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0105. 🐛 fix: correct typo in registration form
 0233. 🚀 perf: lazy-load components
+0997. ✅ test: increase coverage on auth module
