@@ -139,3 +139,4 @@
 0177. 📚 docs: add API usage examples
 0598. 🔧 refactor: remove redundant code blocks
 0796. 🔧 refactor: refactor quiz grading logic
+0711. 🐛 fix: fix broken CSS in mobile view
