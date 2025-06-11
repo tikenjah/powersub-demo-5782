@@ -3458,3 +3458,4 @@
 0141. 📚 docs: document token refresh logic
 0625. 🐛 fix: handle 500 error in quiz API
 0837. 🚀 perf: cache repeated calculations
+0003. ✅ test: increase coverage on auth module
