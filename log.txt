@@ -3475,3 +3475,4 @@
 0151. ✅ test: add unit test for quiz service
 0805. ♻️ chore: add GitHub actions badge
 0009. ✨ feat: enable dark mode toggle
+0493. ✨ feat: add user authentication
