@@ -3469,3 +3469,4 @@
 0473. 📚 docs: write FAQ section
 0975. 🎨 style: apply consistent indentation
 0174. 📚 docs: clarify environment setup
+0681. ✨ feat: create admin dashboard
