@@ -3482,3 +3482,4 @@
 0993. ✨ feat: implement quiz timer feature
 0597. 🚀 perf: cache repeated calculations
 0962. ✨ feat: create admin dashboard
+0539. 🔧 refactor: organize models into subfolders
