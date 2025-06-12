@@ -3467,3 +3467,4 @@
 0854. ♻️ chore: rename env.example
 0418. ✅ test: mock database connection in test suite
 0473. 📚 docs: write FAQ section
+0975. 🎨 style: apply consistent indentation
