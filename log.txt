@@ -3470,3 +3470,4 @@
 0975. 🎨 style: apply consistent indentation
 0174. 📚 docs: clarify environment setup
 0681. ✨ feat: create admin dashboard
+0343. 🚀 perf: optimize database query for quiz results
