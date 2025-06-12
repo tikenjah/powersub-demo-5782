@@ -8215,3 +8215,4 @@
 0939. 📚 docs: update README with setup steps
 0713. 🐛 fix: handle 500 error in quiz API
 0690. 🚀 perf: lazy-load components
+0453. 🎨 style: standardize quote style
