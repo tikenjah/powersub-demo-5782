@@ -11223,3 +11223,4 @@
 0023. 📚 docs: clarify environment setup
 0697. ♻️ chore: bump dependencies
 0988. 🐛 fix: fix broken CSS in mobile view
+0779. 🔧 refactor: organize models into subfolders
