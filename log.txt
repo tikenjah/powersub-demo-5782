@@ -12211,3 +12211,4 @@
 0487. 🎨 style: reformat files with black
 0204. 🎨 style: standardize quote style
 0118. 🚀 perf: reduce image load time
+0036. 🔧 refactor: clean up auth middleware
