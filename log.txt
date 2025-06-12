@@ -10215,3 +10215,4 @@
 0925. ✨ feat: add export to CSV option
 0793. 📚 docs: clarify environment setup
 0608. 🔧 refactor: remove redundant code blocks
+0251. ♻️ chore: update .gitignore
