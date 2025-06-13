@@ -3496,3 +3496,4 @@
 0337. 📚 docs: document token refresh logic
 0038. 🎨 style: rename variables for clarity
 0501. ✨ feat: add export to CSV option
+0001. 🚀 perf: cache repeated calculations
