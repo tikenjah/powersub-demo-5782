@@ -9211,3 +9211,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0923. ✨ feat: support email verification
 0535. 📚 docs: write FAQ section
+0157. ✅ test: mock database connection in test suite
