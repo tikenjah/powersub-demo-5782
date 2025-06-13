@@ -5872,3 +5872,4 @@
 0631. ✨ feat: create admin dashboard
 0768. 🎨 style: remove trailing whitespace
 0668. 🚀 perf: optimize database query for quiz results
+0545. 🎨 style: standardize quote style
