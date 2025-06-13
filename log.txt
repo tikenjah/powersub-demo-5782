@@ -10221,3 +10221,4 @@
 0662. ♻️ chore: clean up unused files
 0252. 🎨 style: remove trailing whitespace
 0955. 🔧 refactor: remove redundant code blocks
+0361. ✨ feat: support email verification
