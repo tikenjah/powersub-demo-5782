@@ -3490,3 +3490,4 @@
 0453. 🎨 style: standardize quote style
 0152. ✨ feat: add user authentication
 0768. 🎨 style: remove trailing whitespace
+0736. 🐛 fix: fix null pointer exception on login
