@@ -9209,3 +9209,4 @@
 0580. ♻️ chore: bump dependencies
 0325. 🎨 style: rename variables for clarity
 0400. 🐛 fix: fix null pointer exception on login
+0923. ✨ feat: support email verification
