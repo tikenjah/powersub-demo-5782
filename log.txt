@@ -3500,3 +3500,4 @@
 0241. 📚 docs: add API usage examples
 0599. ✅ test: test user registration edge cases
 0944. ✨ feat: add user authentication
+0539. 🔧 refactor: organize models into subfolders
