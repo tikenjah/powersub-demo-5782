@@ -9217,3 +9217,4 @@
 0592. 📚 docs: add API usage examples
 0551. 📚 docs: write FAQ section
 0929. ✨ feat: support email verification
+0017. ✅ test: mock database connection in test suite
