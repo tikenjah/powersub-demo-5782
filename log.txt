@@ -3516,3 +3516,4 @@
 0390. 🎨 style: standardize quote style
 0298. ♻️ chore: update .gitignore
 0051. ✨ feat: enable dark mode toggle
+0539. 🔧 refactor: organize models into subfolders
