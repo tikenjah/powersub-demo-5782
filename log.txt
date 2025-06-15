@@ -9221,3 +9221,4 @@
 0602. 🔧 refactor: remove redundant code blocks
 0059. ♻️ chore: bump dependencies
 0412. ✅ test: increase coverage on auth module
+0377. ✨ feat: add user authentication
