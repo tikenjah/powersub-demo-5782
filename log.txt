@@ -5880,3 +5880,4 @@
 0392. 🎨 style: remove trailing whitespace
 0246. ✅ test: add integration test for /submit endpoint
 0553. 🐛 fix: correct typo in registration form
+0613. 🐛 fix: prevent crash on empty input
