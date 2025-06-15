@@ -3521,3 +3521,4 @@
 0598. 🔧 refactor: remove redundant code blocks
 0820. 📚 docs: add API usage examples
 0720. ✨ feat: add export to CSV option
+0710. 🐛 fix: fix broken CSS in mobile view
