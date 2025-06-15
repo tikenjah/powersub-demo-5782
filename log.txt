@@ -8222,3 +8222,4 @@
 0577. ✨ feat: implement quiz timer feature
 0251. ♻️ chore: update .gitignore
 0146. 🎨 style: apply consistent indentation
+0685. ✅ test: test user registration edge cases
