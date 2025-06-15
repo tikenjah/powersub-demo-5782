@@ -7219,3 +7219,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0692. ✅ test: add integration test for /submit endpoint
 0108. 🎨 style: remove trailing whitespace
+0036. 🔧 refactor: clean up auth middleware
