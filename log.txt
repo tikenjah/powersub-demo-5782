@@ -3527,3 +3527,4 @@
 0405. ✅ test: mock database connection in test suite
 0001. 🚀 perf: cache repeated calculations
 0161. ✨ feat: create admin dashboard
+0436. ✅ test: add integration test for /submit endpoint
