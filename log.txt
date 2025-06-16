@@ -11235,3 +11235,4 @@
 0929. ✨ feat: support email verification
 0093. ✅ test: add unit test for quiz service
 0875. ✅ test: increase coverage on auth module
+0725. 🚀 perf: lazy-load components
