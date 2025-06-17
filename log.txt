@@ -3551,3 +3551,4 @@
 0250. 📚 docs: update README with setup steps
 0082. 🔧 refactor: refactor quiz grading logic
 0633. ✨ feat: add user authentication
+0293. ✅ test: add integration test for /submit endpoint
