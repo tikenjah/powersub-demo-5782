@@ -3553,3 +3553,4 @@
 0633. ✨ feat: add user authentication
 0293. ✅ test: add integration test for /submit endpoint
 0291. 📚 docs: write FAQ section
+0375. 🐛 fix: handle 500 error in quiz API
