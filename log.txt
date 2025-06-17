@@ -8226,3 +8226,4 @@
 0343. 🚀 perf: optimize database query for quiz results
 0462. ♻️ chore: update .gitignore
 0823. ✨ feat: add user authentication
+0243. 🔧 refactor: clean up auth middleware
