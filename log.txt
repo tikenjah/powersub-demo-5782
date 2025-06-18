@@ -9229,3 +9229,4 @@
 0441. 📚 docs: add API usage examples
 0570. 🎨 style: apply consistent indentation
 0459. 🔧 refactor: organize models into subfolders
+0563. 📚 docs: clarify environment setup
