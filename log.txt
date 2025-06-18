@@ -3563,3 +3563,4 @@
 0387. ✨ feat: enable dark mode toggle
 0635. 🎨 style: apply consistent indentation
 0753. 🔧 refactor: remove redundant code blocks
+0935. 📚 docs: update README with setup steps
