@@ -9236,3 +9236,4 @@
 0887. 📚 docs: add API usage examples
 0440. 📚 docs: update README with setup steps
 0032. 🎨 style: apply consistent indentation
+0107. 🐛 fix: prevent crash on empty input
