@@ -8232,3 +8232,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0870. ♻️ chore: clean up unused files
 0616. 🚀 perf: lazy-load components
+0557. 🔧 refactor: clean up auth middleware
