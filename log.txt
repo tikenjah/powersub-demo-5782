@@ -12236,3 +12236,4 @@
 0300. ✨ feat: add export to CSV option
 0202. 🔧 refactor: refactor quiz grading logic
 0434. 📚 docs: document token refresh logic
+0632. 🎨 style: remove trailing whitespace
