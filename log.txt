@@ -11241,3 +11241,4 @@
 0666. 🐛 fix: fix broken CSS in mobile view
 0526. ✨ feat: add user authentication
 0713. 🐛 fix: handle 500 error in quiz API
+0020. ✅ test: add integration test for /submit endpoint
