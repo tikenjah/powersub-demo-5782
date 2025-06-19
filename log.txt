@@ -9234,3 +9234,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0591. ♻️ chore: clean up unused files
 0887. 📚 docs: add API usage examples
+0440. 📚 docs: update README with setup steps
