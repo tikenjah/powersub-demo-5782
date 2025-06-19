@@ -12231,3 +12231,4 @@
 0133. 🐛 fix: fix null pointer exception on login
 0593. 🐛 fix: correct typo in registration form
 0203. 🚀 perf: lazy-load components
+0072. 🚀 perf: optimize database query for quiz results
