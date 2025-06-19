@@ -3568,3 +3568,4 @@
 0619. ✨ feat: create admin dashboard
 0584. 🚀 perf: lazy-load components
 0751. 🐛 fix: handle 500 error in quiz API
+0335. ♻️ chore: update .gitignore
