@@ -5886,3 +5886,4 @@
 0225. 🚀 perf: reduce image load time
 0188. 🎨 style: apply consistent indentation
 0051. ✨ feat: enable dark mode toggle
+0921. 🐛 fix: correct typo in registration form
