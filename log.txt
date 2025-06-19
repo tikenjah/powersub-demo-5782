@@ -3570,3 +3570,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0335. ♻️ chore: update .gitignore
 0822. 🔧 refactor: remove redundant code blocks
+0467. ✅ test: add integration test for /submit endpoint
