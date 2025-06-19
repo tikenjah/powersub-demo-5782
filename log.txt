@@ -3577,3 +3577,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0971. 🎨 style: standardize quote style
 0101. 📚 docs: clarify environment setup
+0320. 📚 docs: update README with setup steps
