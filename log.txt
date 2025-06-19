@@ -5889,3 +5889,4 @@
 0921. 🐛 fix: correct typo in registration form
 0299. 🐛 fix: resolve issue with date parsing
 0329. 📚 docs: update README with setup steps
+0859. ✨ feat: create admin dashboard
