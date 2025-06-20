@@ -5892,3 +5892,4 @@
 0859. ✨ feat: create admin dashboard
 0202. 🔧 refactor: refactor quiz grading logic
 0586. 🎨 style: remove trailing whitespace
+0507. 🔧 refactor: clean up auth middleware
