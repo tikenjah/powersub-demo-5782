@@ -3591,3 +3591,4 @@
 0553. 🐛 fix: correct typo in registration form
 0328. 🐛 fix: resolve issue with date parsing
 0016. 🎨 style: apply consistent indentation
+0226. 🚀 perf: lazy-load components
