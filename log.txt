@@ -9241,3 +9241,4 @@
 0638. 📚 docs: improve code comments in utils
 0607. 🐛 fix: prevent crash on empty input
 0270. ♻️ chore: rename env.example
+0371. ✅ test: add integration test for /submit endpoint
