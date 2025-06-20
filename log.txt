@@ -5891,3 +5891,4 @@
 0329. 📚 docs: update README with setup steps
 0859. ✨ feat: create admin dashboard
 0202. 🔧 refactor: refactor quiz grading logic
+0586. 🎨 style: remove trailing whitespace
