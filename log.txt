@@ -7232,3 +7232,4 @@
 0823. ✨ feat: add user authentication
 0041. 🐛 fix: fix broken CSS in mobile view
 0646. ✅ test: test user registration edge cases
+0508. ✅ test: add unit test for quiz service
