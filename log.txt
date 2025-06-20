@@ -8236,3 +8236,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0685. ✅ test: test user registration edge cases
 0507. 🔧 refactor: clean up auth middleware
+0992. ♻️ chore: clean up unused files
