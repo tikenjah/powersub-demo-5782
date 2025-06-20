@@ -3589,3 +3589,4 @@
 0929. ✨ feat: support email verification
 0532. 🔧 refactor: split large controller into smaller functions
 0553. 🐛 fix: correct typo in registration form
+0328. 🐛 fix: resolve issue with date parsing
