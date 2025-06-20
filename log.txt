@@ -7231,3 +7231,4 @@
 0361. ✨ feat: support email verification
 0823. ✨ feat: add user authentication
 0041. 🐛 fix: fix broken CSS in mobile view
+0646. ✅ test: test user registration edge cases
