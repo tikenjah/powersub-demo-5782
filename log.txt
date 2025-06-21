@@ -8239,3 +8239,4 @@
 0992. ♻️ chore: clean up unused files
 0101. 📚 docs: clarify environment setup
 0137. 🎨 style: rename variables for clarity
+0488. ♻️ chore: add GitHub actions badge
