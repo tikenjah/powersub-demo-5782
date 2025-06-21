@@ -8237,3 +8237,4 @@
 0685. ✅ test: test user registration edge cases
 0507. 🔧 refactor: clean up auth middleware
 0992. ♻️ chore: clean up unused files
+0101. 📚 docs: clarify environment setup
