@@ -3599,3 +3599,4 @@
 0966. 📚 docs: improve code comments in utils
 0979. 🎨 style: standardize quote style
 0491. 🚀 perf: lazy-load components
+0636. ✅ test: increase coverage on auth module
