@@ -3609,3 +3609,4 @@
 0470. 🎨 style: remove trailing whitespace
 0262. 🎨 style: remove trailing whitespace
 0050. ✨ feat: enable dark mode toggle
+0231. 🔧 refactor: clean up auth middleware
