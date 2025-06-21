@@ -3607,3 +3607,4 @@
 0639. 🐛 fix: correct typo in registration form
 0155. ✨ feat: create admin dashboard
 0470. 🎨 style: remove trailing whitespace
+0262. 🎨 style: remove trailing whitespace
