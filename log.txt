@@ -3601,3 +3601,4 @@
 0491. 🚀 perf: lazy-load components
 0636. ✅ test: increase coverage on auth module
 0710. 🐛 fix: fix broken CSS in mobile view
+0150. 🎨 style: remove trailing whitespace
