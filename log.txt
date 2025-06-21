@@ -7237,3 +7237,4 @@
 0365. 🚀 perf: reduce image load time
 0067. 🔧 refactor: remove redundant code blocks
 0081. 🐛 fix: fix null pointer exception on login
+0702. ✨ feat: add user authentication
