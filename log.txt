@@ -3620,3 +3620,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0865. ♻️ chore: add GitHub actions badge
 0007. 🎨 style: rename variables for clarity
+0457. 🐛 fix: handle 500 error in quiz API
