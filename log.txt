@@ -3624,3 +3624,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0309. 🔧 refactor: refactor quiz grading logic
 0834. ✅ test: increase coverage on auth module
+0054. ♻️ chore: update .gitignore
