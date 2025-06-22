@@ -11249,3 +11249,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0084. 🐛 fix: handle 500 error in quiz API
 0076. 🎨 style: reformat files with black
+0919. 🚀 perf: optimize database query for quiz results
