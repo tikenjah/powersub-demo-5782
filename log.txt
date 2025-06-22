@@ -8240,3 +8240,4 @@
 0101. 📚 docs: clarify environment setup
 0137. 🎨 style: rename variables for clarity
 0488. ♻️ chore: add GitHub actions badge
+0393. 🚀 perf: lazy-load components
