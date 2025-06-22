@@ -10242,3 +10242,4 @@
 0982. 🚀 perf: lazy-load components
 0764. ✨ feat: add user authentication
 0169. 📚 docs: add API usage examples
+0978. 🐛 fix: prevent crash on empty input
