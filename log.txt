@@ -3630,3 +3630,4 @@
 0555. ✨ feat: create admin dashboard
 0935. 📚 docs: update README with setup steps
 0879. 🎨 style: standardize quote style
+0947. 📚 docs: write FAQ section
