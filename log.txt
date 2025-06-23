@@ -3638,3 +3638,4 @@
 0313. 🎨 style: apply consistent indentation
 0418. ✅ test: mock database connection in test suite
 0688. 🚀 perf: reduce image load time
+0747. 🔧 refactor: clean up auth middleware
