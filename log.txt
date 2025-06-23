@@ -9246,3 +9246,4 @@
 0372. ✨ feat: add user authentication
 0434. 📚 docs: document token refresh logic
 0182. 🔧 refactor: remove redundant code blocks
+0596. ♻️ chore: update .gitignore
