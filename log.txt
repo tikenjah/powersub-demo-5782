@@ -3629,3 +3629,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0555. ✨ feat: create admin dashboard
 0935. 📚 docs: update README with setup steps
+0879. 🎨 style: standardize quote style
