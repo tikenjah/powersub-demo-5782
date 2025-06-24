@@ -10252,3 +10252,4 @@
 0106. 🎨 style: reformat files with black
 0139. 📚 docs: document token refresh logic
 0507. 🔧 refactor: clean up auth middleware
+0711. 🐛 fix: fix broken CSS in mobile view
