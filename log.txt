@@ -3651,3 +3651,4 @@
 0013. ✅ test: increase coverage on auth module
 0015. ✨ feat: implement quiz timer feature
 0766. 🎨 style: reformat files with black
+0776. ✅ test: add integration test for /submit endpoint
