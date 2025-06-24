@@ -8250,3 +8250,4 @@
 0096. 🐛 fix: prevent crash on empty input
 0235. 🐛 fix: fix null pointer exception on login
 0287. 📚 docs: write FAQ section
+0573. ✅ test: add integration test for /submit endpoint
