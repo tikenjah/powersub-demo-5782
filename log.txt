@@ -11259,3 +11259,4 @@
 0675. 🔧 refactor: organize models into subfolders
 0741. 🎨 style: apply consistent indentation
 0253. 📚 docs: update README with setup steps
+0080. ✨ feat: support email verification
