@@ -10251,3 +10251,4 @@
 0018. 🔧 refactor: organize models into subfolders
 0106. 🎨 style: reformat files with black
 0139. 📚 docs: document token refresh logic
+0507. 🔧 refactor: clean up auth middleware
