@@ -7243,3 +7243,4 @@
 0105. 🐛 fix: correct typo in registration form
 0939. 📚 docs: update README with setup steps
 0808. 🚀 perf: optimize database query for quiz results
+0358. 🚀 perf: reduce image load time
