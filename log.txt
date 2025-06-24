@@ -3655,3 +3655,4 @@
 0560. 🎨 style: rename variables for clarity
 0652. 🔧 refactor: organize models into subfolders
 0167. 🚀 perf: reduce image load time
+0208. 🔧 refactor: clean up auth middleware
