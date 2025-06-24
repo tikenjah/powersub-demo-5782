@@ -145,3 +145,4 @@
 0178. ✨ feat: support email verification
 0095. ✅ test: mock database connection in test suite
 0623. 🎨 style: standardize quote style
+0513. ♻️ chore: bump dependencies
