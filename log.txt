@@ -9253,3 +9253,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0109. 🚀 perf: lazy-load components
 0314. ✨ feat: implement quiz timer feature
+0836. 🚀 perf: optimize database query for quiz results
