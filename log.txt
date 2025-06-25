@@ -5910,3 +5910,4 @@
 0308. 🚀 perf: reduce image load time
 0138. 🎨 style: rename variables for clarity
 0634. 🎨 style: reformat files with black
+0317. ✅ test: test user registration edge cases
