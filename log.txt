@@ -3663,3 +3663,4 @@
 0634. 🎨 style: reformat files with black
 0905. ♻️ chore: bump dependencies
 0801. ✨ feat: enable dark mode toggle
+0761. ✅ test: add unit test for quiz service
