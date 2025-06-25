@@ -10256,3 +10256,4 @@
 0624. ✅ test: add unit test for quiz service
 0061. ✨ feat: create admin dashboard
 0058. ♻️ chore: add GitHub actions badge
+0170. ✅ test: increase coverage on auth module
