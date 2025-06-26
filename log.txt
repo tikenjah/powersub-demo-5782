@@ -3676,3 +3676,4 @@
 0012. 🚀 perf: cache repeated calculations
 0208. 🔧 refactor: clean up auth middleware
 0273. 🚀 perf: reduce image load time
+0449. ✅ test: add unit test for quiz service
