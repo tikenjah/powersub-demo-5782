@@ -3672,3 +3672,4 @@
 0639. 🐛 fix: correct typo in registration form
 0771. 🚀 perf: cache repeated calculations
 0787. ♻️ chore: rename env.example
+0969. ✨ feat: create admin dashboard
