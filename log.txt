@@ -5915,3 +5915,4 @@
 0726. ✨ feat: enable dark mode toggle
 0230. ✨ feat: create admin dashboard
 0221. ✨ feat: add user authentication
+0192. ✨ feat: enable dark mode toggle
