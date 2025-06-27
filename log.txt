@@ -11268,3 +11268,4 @@
 0563. 📚 docs: clarify environment setup
 0596. ♻️ chore: update .gitignore
 0945. ♻️ chore: add GitHub actions badge
+0256. ✅ test: mock database connection in test suite
