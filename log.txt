@@ -3689,3 +3689,4 @@
 0010. ✨ feat: add user authentication
 0142. ✨ feat: implement quiz timer feature
 0351. ✨ feat: add export to CSV option
+0375. 🐛 fix: handle 500 error in quiz API
