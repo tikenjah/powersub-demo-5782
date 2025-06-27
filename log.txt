@@ -8260,3 +8260,4 @@
 0674. 🔧 refactor: split large controller into smaller functions
 0765. ♻️ chore: clean up unused files
 0293. ✅ test: add integration test for /submit endpoint
+0848. 📚 docs: update README with setup steps
