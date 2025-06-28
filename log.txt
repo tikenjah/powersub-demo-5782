@@ -3698,3 +3698,4 @@
 0120. ✅ test: add integration test for /submit endpoint
 0426. ✅ test: add integration test for /submit endpoint
 0728. 🔧 refactor: split large controller into smaller functions
+0563. 📚 docs: clarify environment setup
