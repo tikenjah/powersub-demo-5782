@@ -11272,3 +11272,4 @@
 0227. ✅ test: test user registration edge cases
 0003. ✅ test: increase coverage on auth module
 0223. 🔧 refactor: remove redundant code blocks
+0335. ♻️ chore: update .gitignore
