@@ -7249,3 +7249,4 @@
 0595. ✨ feat: enable dark mode toggle
 0549. ✨ feat: enable dark mode toggle
 0898. 🐛 fix: fix broken CSS in mobile view
+0890. 🔧 refactor: organize models into subfolders
