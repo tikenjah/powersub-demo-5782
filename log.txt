@@ -7248,3 +7248,4 @@
 0137. 🎨 style: rename variables for clarity
 0595. ✨ feat: enable dark mode toggle
 0549. ✨ feat: enable dark mode toggle
+0898. 🐛 fix: fix broken CSS in mobile view
