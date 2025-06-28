@@ -10262,3 +10262,4 @@
 0725. 🚀 perf: lazy-load components
 0512. 🚀 perf: reduce image load time
 0726. ✨ feat: enable dark mode toggle
+0931. 🚀 perf: reduce image load time
