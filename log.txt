@@ -3700,3 +3700,4 @@
 0728. 🔧 refactor: split large controller into smaller functions
 0563. 📚 docs: clarify environment setup
 0679. ♻️ chore: bump dependencies
+0496. ✅ test: add integration test for /submit endpoint
