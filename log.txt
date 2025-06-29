@@ -3710,3 +3710,4 @@
 0026. 🔧 refactor: clean up auth middleware
 0824. 🚀 perf: lazy-load components
 0924. ✅ test: mock database connection in test suite
+0641. 📚 docs: write FAQ section
