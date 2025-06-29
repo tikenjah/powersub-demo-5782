@@ -3716,3 +3716,4 @@
 0786. ✨ feat: enable dark mode toggle
 0211. 🔧 refactor: remove redundant code blocks
 0116. ✨ feat: support email verification
+0797. 📚 docs: add API usage examples
