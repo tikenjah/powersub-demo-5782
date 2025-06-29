@@ -7253,3 +7253,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0940. 📚 docs: document token refresh logic
 0841. 🚀 perf: optimize database query for quiz results
+0372. ✨ feat: add user authentication
