@@ -8266,3 +8266,4 @@
 0108. 🎨 style: remove trailing whitespace
 0862. ♻️ chore: bump dependencies
 0511. 🐛 fix: fix broken CSS in mobile view
+0080. ✨ feat: support email verification
