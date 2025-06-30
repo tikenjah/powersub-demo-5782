@@ -5922,3 +5922,4 @@
 0960. ✅ test: increase coverage on auth module
 0417. 🎨 style: rename variables for clarity
 0330. ✅ test: test user registration edge cases
+0855. 🎨 style: reformat files with black
