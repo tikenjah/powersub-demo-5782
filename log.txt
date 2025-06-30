@@ -3725,3 +3725,4 @@
 0936. 🔧 refactor: organize models into subfolders
 0175. 📚 docs: add API usage examples
 0817. 🔧 refactor: remove redundant code blocks
+0699. 🎨 style: standardize quote style
