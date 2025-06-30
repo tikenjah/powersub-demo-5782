@@ -9266,3 +9266,4 @@
 0543. ✨ feat: support email verification
 0103. 🔧 refactor: remove redundant code blocks
 0747. 🔧 refactor: clean up auth middleware
+0056. ♻️ chore: rename env.example
