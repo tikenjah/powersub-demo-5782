@@ -3731,3 +3731,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0503. ♻️ chore: rename env.example
 0812. 🔧 refactor: refactor quiz grading logic
+0072. 🚀 perf: optimize database query for quiz results
