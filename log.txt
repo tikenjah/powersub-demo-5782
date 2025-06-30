@@ -147,3 +147,4 @@
 0623. 🎨 style: standardize quote style
 0513. ♻️ chore: bump dependencies
 0019. ✨ feat: enable dark mode toggle
+0973. 🔧 refactor: organize models into subfolders
