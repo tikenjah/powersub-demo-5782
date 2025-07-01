@@ -12271,3 +12271,4 @@
 0318. 🔧 refactor: refactor quiz grading logic
 0690. 🚀 perf: lazy-load components
 0496. ✅ test: add integration test for /submit endpoint
+0479. 🐛 fix: fix null pointer exception on login
