@@ -3751,3 +3751,4 @@
 0828. ♻️ chore: add GitHub actions badge
 0552. 🐛 fix: fix null pointer exception on login
 0599. ✅ test: test user registration edge cases
+0067. 🔧 refactor: remove redundant code blocks
