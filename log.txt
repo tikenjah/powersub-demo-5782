@@ -7260,3 +7260,4 @@
 0755. 🚀 perf: cache repeated calculations
 0995. ✅ test: mock database connection in test suite
 0948. 🐛 fix: fix broken CSS in mobile view
+0816. 🔧 refactor: organize models into subfolders
