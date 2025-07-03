@@ -3763,3 +3763,4 @@
 0575. ✅ test: add unit test for quiz service
 0146. 🎨 style: apply consistent indentation
 0992. ♻️ chore: clean up unused files
+0852. ✨ feat: enable dark mode toggle
