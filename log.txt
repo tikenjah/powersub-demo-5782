@@ -7261,3 +7261,4 @@
 0995. ✅ test: mock database connection in test suite
 0948. 🐛 fix: fix broken CSS in mobile view
 0816. 🔧 refactor: organize models into subfolders
+0895. ✨ feat: support email verification
