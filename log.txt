@@ -3770,3 +3770,4 @@
 0247. 🎨 style: apply consistent indentation
 0339. 📚 docs: update README with setup steps
 0459. 🔧 refactor: organize models into subfolders
+0769. ✨ feat: create admin dashboard
