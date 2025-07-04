@@ -12280,3 +12280,4 @@
 0327. 🔧 refactor: split large controller into smaller functions
 0779. 🔧 refactor: organize models into subfolders
 0076. 🎨 style: reformat files with black
+0756. ✨ feat: support email verification
