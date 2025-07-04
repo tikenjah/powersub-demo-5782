@@ -8276,3 +8276,4 @@
 0471. ✨ feat: support email verification
 0963. 🚀 perf: reduce image load time
 0272. 🔧 refactor: remove redundant code blocks
+0265. 🎨 style: reformat files with black
