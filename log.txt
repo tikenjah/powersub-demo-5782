@@ -3775,3 +3775,4 @@
 0053. ✅ test: increase coverage on auth module
 0481. ✅ test: add unit test for quiz service
 0074. ♻️ chore: add GitHub actions badge
+0963. 🚀 perf: reduce image load time
