@@ -8283,3 +8283,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0936. 🔧 refactor: organize models into subfolders
 0543. ✨ feat: support email verification
+0913. 🚀 perf: optimize database query for quiz results
