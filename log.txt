@@ -3796,3 +3796,4 @@
 0233. 🚀 perf: lazy-load components
 0249. ✅ test: increase coverage on auth module
 0820. 📚 docs: add API usage examples
+0690. 🚀 perf: lazy-load components
