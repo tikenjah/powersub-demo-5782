@@ -12282,3 +12282,4 @@
 0076. 🎨 style: reformat files with black
 0756. ✨ feat: support email verification
 0337. 📚 docs: document token refresh logic
+0185. 📚 docs: write FAQ section
