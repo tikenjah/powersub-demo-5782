@@ -10284,3 +10284,4 @@
 0299. 🐛 fix: resolve issue with date parsing
 0266. 🔧 refactor: remove redundant code blocks
 0361. ✨ feat: support email verification
+0348. ✅ test: test user registration edge cases
