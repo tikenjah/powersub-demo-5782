@@ -12283,3 +12283,4 @@
 0756. ✨ feat: support email verification
 0337. 📚 docs: document token refresh logic
 0185. 📚 docs: write FAQ section
+0004. 🚀 perf: optimize database query for quiz results
