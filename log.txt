@@ -3801,3 +3801,4 @@
 0646. ✅ test: test user registration edge cases
 0669. ✨ feat: enable dark mode toggle
 0537. 🔧 refactor: remove redundant code blocks
+0731. 🎨 style: standardize quote style
