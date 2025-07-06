@@ -7265,3 +7265,4 @@
 0635. 🎨 style: apply consistent indentation
 0119. 📚 docs: improve code comments in utils
 0685. ✅ test: test user registration edge cases
+0799. ♻️ chore: clean up unused files
