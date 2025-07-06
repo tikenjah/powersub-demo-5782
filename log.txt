@@ -3805,3 +3805,4 @@
 0759. 🔧 refactor: organize models into subfolders
 0791. 🔧 refactor: clean up auth middleware
 0617. ✨ feat: support email verification
+0006. 🐛 fix: prevent crash on empty input
