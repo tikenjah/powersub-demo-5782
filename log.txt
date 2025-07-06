@@ -12287,3 +12287,4 @@
 0780. 📚 docs: add API usage examples
 0400. 🐛 fix: fix null pointer exception on login
 0505. ♻️ chore: add GitHub actions badge
+0847. ♻️ chore: clean up unused files
