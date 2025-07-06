@@ -3804,3 +3804,4 @@
 0731. 🎨 style: standardize quote style
 0759. 🔧 refactor: organize models into subfolders
 0791. 🔧 refactor: clean up auth middleware
+0617. ✨ feat: support email verification
