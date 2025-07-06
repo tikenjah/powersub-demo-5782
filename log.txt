@@ -3811,3 +3811,4 @@
 0534. 🔧 refactor: split large controller into smaller functions
 0339. 📚 docs: update README with setup steps
 0353. ♻️ chore: rename env.example
+0911. ✅ test: increase coverage on auth module
