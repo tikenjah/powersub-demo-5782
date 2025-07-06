@@ -9281,3 +9281,4 @@
 0372. ✨ feat: add user authentication
 0554. 📚 docs: improve code comments in utils
 0053. ✅ test: increase coverage on auth module
+0516. ✅ test: add unit test for quiz service
