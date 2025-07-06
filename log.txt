@@ -5938,3 +5938,4 @@
 0485. 📚 docs: update README with setup steps
 0627. 📚 docs: document token refresh logic
 0372. ✨ feat: add user authentication
+0556. ✨ feat: support email verification
