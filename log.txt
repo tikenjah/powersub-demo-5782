@@ -3803,3 +3803,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0731. 🎨 style: standardize quote style
 0759. 🔧 refactor: organize models into subfolders
+0791. 🔧 refactor: clean up auth middleware
