@@ -3815,3 +3815,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0052. 🎨 style: standardize quote style
 0982. 🚀 perf: lazy-load components
+0399. ✅ test: mock database connection in test suite
