@@ -11295,3 +11295,4 @@
 0399. ✅ test: mock database connection in test suite
 0192. ✨ feat: enable dark mode toggle
 0740. 🐛 fix: resolve issue with date parsing
+0780. 📚 docs: add API usage examples
