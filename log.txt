@@ -7267,3 +7267,4 @@
 0685. ✅ test: test user registration edge cases
 0799. ♻️ chore: clean up unused files
 0669. ✨ feat: enable dark mode toggle
+0377. ✨ feat: add user authentication
