@@ -12289,3 +12289,4 @@
 0505. ♻️ chore: add GitHub actions badge
 0847. ♻️ chore: clean up unused files
 0022. 📚 docs: document token refresh logic
+0252. 🎨 style: remove trailing whitespace
