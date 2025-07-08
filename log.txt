@@ -3826,3 +3826,4 @@
 0024. 📚 docs: write FAQ section
 0005. ✅ test: add unit test for quiz service
 0628. ♻️ chore: add GitHub actions badge
+0674. 🔧 refactor: split large controller into smaller functions
