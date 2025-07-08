@@ -12290,3 +12290,4 @@
 0847. ♻️ chore: clean up unused files
 0022. 📚 docs: document token refresh logic
 0252. 🎨 style: remove trailing whitespace
+0704. 🚀 perf: cache repeated calculations
