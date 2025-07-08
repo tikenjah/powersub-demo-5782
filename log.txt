@@ -3831,3 +3831,4 @@
 0305. ✨ feat: enable dark mode toggle
 0780. 📚 docs: add API usage examples
 0107. 🐛 fix: prevent crash on empty input
+0370. 🚀 perf: reduce image load time
