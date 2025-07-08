@@ -10292,3 +10292,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0904. ✨ feat: implement quiz timer feature
 0397. 🐛 fix: handle 500 error in quiz API
+0747. 🔧 refactor: clean up auth middleware
