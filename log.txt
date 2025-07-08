@@ -3835,3 +3835,4 @@
 0244. ✨ feat: add export to CSV option
 0572. ✨ feat: add user authentication
 0191. 🔧 refactor: refactor quiz grading logic
+0725. 🚀 perf: lazy-load components
