@@ -9296,3 +9296,4 @@
 0687. 🎨 style: remove trailing whitespace
 0037. 🐛 fix: correct typo in registration form
 0598. 🔧 refactor: remove redundant code blocks
+0460. 📚 docs: write FAQ section
