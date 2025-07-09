@@ -5952,3 +5952,4 @@
 0834. ✅ test: increase coverage on auth module
 0503. ♻️ chore: rename env.example
 0756. ✨ feat: support email verification
+0614. 🚀 perf: reduce image load time
