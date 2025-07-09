@@ -8289,3 +8289,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0200. 🐛 fix: handle 500 error in quiz API
 0118. 🚀 perf: reduce image load time
+0834. ✅ test: increase coverage on auth module
