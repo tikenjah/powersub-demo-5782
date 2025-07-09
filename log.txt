@@ -5950,3 +5950,4 @@
 0412. ✅ test: increase coverage on auth module
 0048. 📚 docs: update README with setup steps
 0834. ✅ test: increase coverage on auth module
+0503. ♻️ chore: rename env.example
