@@ -3842,3 +3842,4 @@
 0420. 🚀 perf: reduce image load time
 0061. ✨ feat: create admin dashboard
 0711. 🐛 fix: fix broken CSS in mobile view
+0945. ♻️ chore: add GitHub actions badge
