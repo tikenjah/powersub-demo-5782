@@ -12297,3 +12297,4 @@
 0660. 🐛 fix: correct typo in registration form
 0232. 🎨 style: apply consistent indentation
 0171. 🐛 fix: fix broken CSS in mobile view
+0816. 🔧 refactor: organize models into subfolders
