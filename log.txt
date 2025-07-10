@@ -3850,3 +3850,4 @@
 0866. 📚 docs: add API usage examples
 0663. 🚀 perf: reduce image load time
 0294. 🐛 fix: prevent crash on empty input
+0514. 🐛 fix: fix broken CSS in mobile view
