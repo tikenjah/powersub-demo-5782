@@ -3852,3 +3852,4 @@
 0294. 🐛 fix: prevent crash on empty input
 0514. 🐛 fix: fix broken CSS in mobile view
 0340. 🚀 perf: optimize database query for quiz results
+0151. ✅ test: add unit test for quiz service
