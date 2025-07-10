@@ -7277,3 +7277,4 @@
 0839. 🎨 style: apply consistent indentation
 0287. 📚 docs: write FAQ section
 0328. 🐛 fix: resolve issue with date parsing
+0571. 🔧 refactor: clean up auth middleware
