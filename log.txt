@@ -8290,3 +8290,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0118. 🚀 perf: reduce image load time
 0834. ✅ test: increase coverage on auth module
+0903. ✅ test: mock database connection in test suite
