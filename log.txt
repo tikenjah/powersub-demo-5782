@@ -5953,3 +5953,4 @@
 0503. ♻️ chore: rename env.example
 0756. ✨ feat: support email verification
 0614. 🚀 perf: reduce image load time
+0270. ♻️ chore: rename env.example
