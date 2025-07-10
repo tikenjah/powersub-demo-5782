@@ -10297,3 +10297,4 @@
 0091. ✨ feat: add user authentication
 0495. 🔧 refactor: remove redundant code blocks
 0009. ✨ feat: enable dark mode toggle
+0936. 🔧 refactor: organize models into subfolders
