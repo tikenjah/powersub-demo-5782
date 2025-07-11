@@ -3866,3 +3866,4 @@
 0361. ✨ feat: support email verification
 0270. ♻️ chore: rename env.example
 0561. 📚 docs: write FAQ section
+0331. 🐛 fix: fix broken CSS in mobile view
