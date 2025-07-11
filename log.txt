@@ -3863,3 +3863,4 @@
 0344. ♻️ chore: add GitHub actions badge
 0028. 🎨 style: standardize quote style
 0825. 🔧 refactor: split large controller into smaller functions
+0361. ✨ feat: support email verification
