@@ -11300,3 +11300,4 @@
 0521. 🎨 style: standardize quote style
 0849. 🐛 fix: correct typo in registration form
 0457. 🐛 fix: handle 500 error in quiz API
+0359. 🔧 refactor: clean up auth middleware
