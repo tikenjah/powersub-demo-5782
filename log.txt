@@ -3861,3 +3861,4 @@
 0607. 🐛 fix: prevent crash on empty input
 0015. ✨ feat: implement quiz timer feature
 0344. ♻️ chore: add GitHub actions badge
+0028. 🎨 style: standardize quote style
