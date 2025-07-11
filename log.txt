@@ -5958,3 +5958,4 @@
 0539. 🔧 refactor: organize models into subfolders
 0462. ♻️ chore: update .gitignore
 0146. 🎨 style: apply consistent indentation
+0025. 🚀 perf: optimize database query for quiz results
