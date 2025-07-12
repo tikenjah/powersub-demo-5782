@@ -3881,3 +3881,4 @@
 0683. ✅ test: mock database connection in test suite
 0027. 📚 docs: clarify environment setup
 0365. 🚀 perf: reduce image load time
+0883. 📚 docs: improve code comments in utils
