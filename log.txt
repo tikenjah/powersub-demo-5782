@@ -8297,3 +8297,4 @@
 0995. ✅ test: mock database connection in test suite
 0143. ✨ feat: implement quiz timer feature
 0158. 📚 docs: clarify environment setup
+0726. ✨ feat: enable dark mode toggle
