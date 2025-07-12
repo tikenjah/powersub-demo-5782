@@ -3876,3 +3876,4 @@
 0962. ✨ feat: create admin dashboard
 0942. ✅ test: increase coverage on auth module
 0904. ✨ feat: implement quiz timer feature
+0102. ✨ feat: support email verification
