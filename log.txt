@@ -5966,3 +5966,4 @@
 0689. 🎨 style: reformat files with black
 0978. 🐛 fix: prevent crash on empty input
 0248. 🐛 fix: handle 500 error in quiz API
+0979. 🎨 style: standardize quote style
