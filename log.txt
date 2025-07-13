@@ -3894,3 +3894,4 @@
 0362. 📚 docs: add API usage examples
 0317. ✅ test: test user registration edge cases
 0489. 🔧 refactor: organize models into subfolders
+0538. 🐛 fix: fix broken CSS in mobile view
