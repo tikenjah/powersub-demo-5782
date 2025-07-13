@@ -8301,3 +8301,4 @@
 0649. 📚 docs: update README with setup steps
 0616. 🚀 perf: lazy-load components
 0530. 🔧 refactor: refactor quiz grading logic
+0895. ✨ feat: support email verification
