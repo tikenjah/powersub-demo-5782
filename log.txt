@@ -3897,3 +3897,4 @@
 0538. 🐛 fix: fix broken CSS in mobile view
 0654. ✨ feat: create admin dashboard
 0396. 🔧 refactor: split large controller into smaller functions
+0349. ✅ test: increase coverage on auth module
