@@ -3899,3 +3899,4 @@
 0396. 🔧 refactor: split large controller into smaller functions
 0349. ✅ test: increase coverage on auth module
 0918. ✨ feat: enable dark mode toggle
+0201. 🔧 refactor: clean up auth middleware
