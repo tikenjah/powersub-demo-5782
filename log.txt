@@ -10303,3 +10303,4 @@
 0635. 🎨 style: apply consistent indentation
 0116. ✨ feat: support email verification
 0876. ♻️ chore: rename env.example
+0767. 🔧 refactor: remove redundant code blocks
