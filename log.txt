@@ -8303,3 +8303,4 @@
 0530. 🔧 refactor: refactor quiz grading logic
 0895. ✨ feat: support email verification
 0390. 🎨 style: standardize quote style
+0131. 📚 docs: write FAQ section
