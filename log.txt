@@ -8305,3 +8305,4 @@
 0390. 🎨 style: standardize quote style
 0131. 📚 docs: write FAQ section
 0446. 🎨 style: apply consistent indentation
+0400. 🐛 fix: fix null pointer exception on login
