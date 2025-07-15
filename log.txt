@@ -3914,3 +3914,4 @@
 0362. 📚 docs: add API usage examples
 0517. ✅ test: mock database connection in test suite
 0381. ♻️ chore: clean up unused files
+0636. ✅ test: increase coverage on auth module
