@@ -10306,3 +10306,4 @@
 0767. 🔧 refactor: remove redundant code blocks
 0700. 🎨 style: rename variables for clarity
 0113. ✨ feat: add user authentication
+0588. 🔧 refactor: organize models into subfolders
