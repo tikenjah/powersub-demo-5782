@@ -7296,3 +7296,4 @@
 0169. 📚 docs: add API usage examples
 0971. 🎨 style: standardize quote style
 0738. 🐛 fix: prevent crash on empty input
+0841. 🚀 perf: optimize database query for quiz results
