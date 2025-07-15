@@ -9313,3 +9313,4 @@
 0964. ♻️ chore: clean up unused files
 0962. ✨ feat: create admin dashboard
 0764. ✨ feat: add user authentication
+0072. 🚀 perf: optimize database query for quiz results
