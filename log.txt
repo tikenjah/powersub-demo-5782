@@ -8308,3 +8308,4 @@
 0400. 🐛 fix: fix null pointer exception on login
 0775. 🐛 fix: fix null pointer exception on login
 0895. ✨ feat: support email verification
+0706. ✨ feat: support email verification
