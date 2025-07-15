@@ -8306,3 +8306,4 @@
 0131. 📚 docs: write FAQ section
 0446. 🎨 style: apply consistent indentation
 0400. 🐛 fix: fix null pointer exception on login
+0775. 🐛 fix: fix null pointer exception on login
