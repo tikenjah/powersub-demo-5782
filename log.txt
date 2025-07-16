@@ -5972,3 +5972,4 @@
 0468. 📚 docs: update README with setup steps
 0491. 🚀 perf: lazy-load components
 0307. ✨ feat: support email verification
+0623. 🎨 style: standardize quote style
