@@ -3933,3 +3933,4 @@
 0287. 📚 docs: write FAQ section
 0352. ✨ feat: add export to CSV option
 0676. 🐛 fix: prevent crash on empty input
+0479. 🐛 fix: fix null pointer exception on login
