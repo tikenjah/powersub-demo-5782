@@ -3926,3 +3926,4 @@
 0537. 🔧 refactor: remove redundant code blocks
 0779. 🔧 refactor: organize models into subfolders
 0308. 🚀 perf: reduce image load time
+0248. 🐛 fix: handle 500 error in quiz API
