@@ -7300,3 +7300,4 @@
 0053. ✅ test: increase coverage on auth module
 0103. 🔧 refactor: remove redundant code blocks
 0098. 🎨 style: rename variables for clarity
+0449. ✅ test: add unit test for quiz service
