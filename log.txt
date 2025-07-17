@@ -3944,3 +3944,4 @@
 0933. 📚 docs: clarify environment setup
 0105. 🐛 fix: correct typo in registration form
 0402. 🎨 style: reformat files with black
+0506. 🐛 fix: handle 500 error in quiz API
