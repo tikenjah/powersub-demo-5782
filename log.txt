@@ -3949,3 +3949,4 @@
 0706. ✨ feat: support email verification
 0874. 🔧 refactor: split large controller into smaller functions
 0729. 🔧 refactor: refactor quiz grading logic
+0877. 🚀 perf: optimize database query for quiz results
