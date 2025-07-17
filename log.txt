@@ -7304,3 +7304,4 @@
 0102. ✨ feat: support email verification
 0819. 🚀 perf: reduce image load time
 0639. 🐛 fix: correct typo in registration form
+0368. 🚀 perf: lazy-load components
