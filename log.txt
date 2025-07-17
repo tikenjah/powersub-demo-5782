@@ -8315,3 +8315,4 @@
 0077. ♻️ chore: rename env.example
 0320. 📚 docs: update README with setup steps
 0061. ✨ feat: create admin dashboard
+0033. 🎨 style: apply consistent indentation
