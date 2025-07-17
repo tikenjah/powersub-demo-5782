@@ -10309,3 +10309,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0164. 📚 docs: document token refresh logic
 0429. ✨ feat: add user authentication
+0677. 📚 docs: add API usage examples
