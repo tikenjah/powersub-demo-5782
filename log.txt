@@ -3960,3 +3960,4 @@
 0655. 🚀 perf: cache repeated calculations
 0295. 🎨 style: remove trailing whitespace
 0872. 🎨 style: rename variables for clarity
+0203. 🚀 perf: lazy-load components
