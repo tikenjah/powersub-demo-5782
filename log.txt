@@ -7307,3 +7307,4 @@
 0368. 🚀 perf: lazy-load components
 0974. ✨ feat: add export to CSV option
 0780. 📚 docs: add API usage examples
+0560. 🎨 style: rename variables for clarity
