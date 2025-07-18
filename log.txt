@@ -7306,3 +7306,4 @@
 0639. 🐛 fix: correct typo in registration form
 0368. 🚀 perf: lazy-load components
 0974. ✨ feat: add export to CSV option
+0780. 📚 docs: add API usage examples
