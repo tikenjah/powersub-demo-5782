@@ -5976,3 +5976,4 @@
 0164. 📚 docs: document token refresh logic
 0927. ♻️ chore: bump dependencies
 0992. ♻️ chore: clean up unused files
+0159. 🚀 perf: lazy-load components
