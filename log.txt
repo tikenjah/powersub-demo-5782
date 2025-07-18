@@ -9319,3 +9319,4 @@
 0384. 📚 docs: clarify environment setup
 0926. 🔧 refactor: organize models into subfolders
 0547. 📚 docs: write FAQ section
+0135. ✅ test: test user registration edge cases
