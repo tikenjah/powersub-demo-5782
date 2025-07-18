@@ -153,3 +153,4 @@
 0161. ✨ feat: create admin dashboard
 0375. 🐛 fix: handle 500 error in quiz API
 0843. 📚 docs: document token refresh logic
+0063. 🐛 fix: handle 500 error in quiz API
