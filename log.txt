@@ -3968,3 +3968,4 @@
 0960. ✅ test: increase coverage on auth module
 0861. ♻️ chore: clean up unused files
 0665. ♻️ chore: update .gitignore
+0361. ✨ feat: support email verification
