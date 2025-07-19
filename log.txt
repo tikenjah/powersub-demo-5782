@@ -9328,3 +9328,4 @@
 0386. 🚀 perf: optimize database query for quiz results
 0158. 📚 docs: clarify environment setup
 0424. ✨ feat: add user authentication
+0220. 🐛 fix: fix null pointer exception on login
