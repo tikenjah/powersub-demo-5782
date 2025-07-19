@@ -7309,3 +7309,4 @@
 0780. 📚 docs: add API usage examples
 0560. 🎨 style: rename variables for clarity
 0204. 🎨 style: standardize quote style
+0994. 🚀 perf: reduce image load time
