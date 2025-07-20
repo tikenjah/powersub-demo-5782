@@ -3979,3 +3979,4 @@
 0151. ✅ test: add unit test for quiz service
 0040. 🔧 refactor: clean up auth middleware
 0111. 📚 docs: update README with setup steps
+0498. ✅ test: mock database connection in test suite
