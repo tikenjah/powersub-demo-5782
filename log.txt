@@ -5984,3 +5984,4 @@
 0111. 📚 docs: update README with setup steps
 0969. ✨ feat: create admin dashboard
 0869. ♻️ chore: bump dependencies
+0222. 🐛 fix: handle 500 error in quiz API
