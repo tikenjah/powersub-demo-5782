@@ -5985,3 +5985,4 @@
 0969. ✨ feat: create admin dashboard
 0869. ♻️ chore: bump dependencies
 0222. 🐛 fix: handle 500 error in quiz API
+0959. 🐛 fix: fix null pointer exception on login
