@@ -3984,3 +3984,4 @@
 0176. 🔧 refactor: remove redundant code blocks
 0778. 📚 docs: write FAQ section
 0705. 🔧 refactor: refactor quiz grading logic
+0609. 🐛 fix: handle 500 error in quiz API
