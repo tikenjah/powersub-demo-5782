@@ -9329,3 +9329,4 @@
 0158. 📚 docs: clarify environment setup
 0424. ✨ feat: add user authentication
 0220. 🐛 fix: fix null pointer exception on login
+0660. 🐛 fix: correct typo in registration form
