@@ -8330,3 +8330,4 @@
 0132. ✅ test: add unit test for quiz service
 0087. ✨ feat: add export to CSV option
 0322. 🔧 refactor: split large controller into smaller functions
+0319. 🐛 fix: handle 500 error in quiz API
