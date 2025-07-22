@@ -3994,3 +3994,4 @@
 0085. ✨ feat: support email verification
 0024. 📚 docs: write FAQ section
 0350. 🚀 perf: cache repeated calculations
+0825. 🔧 refactor: split large controller into smaller functions
