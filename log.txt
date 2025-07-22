@@ -3998,3 +3998,4 @@
 0855. 🎨 style: reformat files with black
 0202. 🔧 refactor: refactor quiz grading logic
 0698. 🐛 fix: handle 500 error in quiz API
+0423. ✅ test: mock database connection in test suite
