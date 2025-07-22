@@ -9335,3 +9335,4 @@
 0085. ✨ feat: support email verification
 0643. 🎨 style: apply consistent indentation
 0987. ✨ feat: create admin dashboard
+0506. 🐛 fix: handle 500 error in quiz API
