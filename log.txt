@@ -7318,3 +7318,4 @@
 0482. ✨ feat: add export to CSV option
 0055. 📚 docs: update README with setup steps
 0809. ♻️ chore: rename env.example
+0864. 🐛 fix: correct typo in registration form
