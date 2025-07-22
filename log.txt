@@ -4000,3 +4000,4 @@
 0698. 🐛 fix: handle 500 error in quiz API
 0423. ✅ test: mock database connection in test suite
 0675. 🔧 refactor: organize models into subfolders
+0065. ✅ test: add integration test for /submit endpoint
