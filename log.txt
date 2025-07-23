@@ -5994,3 +5994,4 @@
 0093. ✅ test: add unit test for quiz service
 0783. 🐛 fix: handle 500 error in quiz API
 0048. 📚 docs: update README with setup steps
+0270. ♻️ chore: rename env.example
