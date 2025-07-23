@@ -8337,3 +8337,4 @@
 0582. ✨ feat: add export to CSV option
 0013. ✅ test: increase coverage on auth module
 0477. 🐛 fix: fix broken CSS in mobile view
+0957. 🐛 fix: fix null pointer exception on login
