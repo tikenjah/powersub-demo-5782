@@ -11325,3 +11325,4 @@
 0376. 🎨 style: apply consistent indentation
 0226. 🚀 perf: lazy-load components
 0939. 📚 docs: update README with setup steps
+0260. ✨ feat: create admin dashboard
