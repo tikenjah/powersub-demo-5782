@@ -7321,3 +7321,4 @@
 0864. 🐛 fix: correct typo in registration form
 0663. 🚀 perf: reduce image load time
 0059. ♻️ chore: bump dependencies
+0516. ✅ test: add unit test for quiz service
