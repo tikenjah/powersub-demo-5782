@@ -156,3 +156,4 @@
 0063. 🐛 fix: handle 500 error in quiz API
 0859. ✨ feat: create admin dashboard
 0678. ✨ feat: add user authentication
+0651. ✨ feat: enable dark mode toggle
