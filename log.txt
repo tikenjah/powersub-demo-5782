@@ -10321,3 +10321,4 @@
 0201. 🔧 refactor: clean up auth middleware
 0366. 🔧 refactor: remove redundant code blocks
 0700. 🎨 style: rename variables for clarity
+0296. 🔧 refactor: organize models into subfolders
