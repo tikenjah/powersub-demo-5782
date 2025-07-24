@@ -5996,3 +5996,4 @@
 0048. 📚 docs: update README with setup steps
 0270. ♻️ chore: rename env.example
 0442. 🎨 style: standardize quote style
+0167. 🚀 perf: reduce image load time
