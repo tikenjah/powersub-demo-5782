@@ -11329,3 +11329,4 @@
 0462. ♻️ chore: update .gitignore
 0493. ✨ feat: add user authentication
 0906. 📚 docs: add API usage examples
+0066. 🔧 refactor: clean up auth middleware
