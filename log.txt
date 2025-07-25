@@ -8342,3 +8342,4 @@
 0951. 🎨 style: rename variables for clarity
 0399. ✅ test: mock database connection in test suite
 0331. 🐛 fix: fix broken CSS in mobile view
+0339. 📚 docs: update README with setup steps
