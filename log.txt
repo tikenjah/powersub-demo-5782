@@ -4036,3 +4036,4 @@
 0439. 🐛 fix: correct typo in registration form
 0535. 📚 docs: write FAQ section
 0380. 🐛 fix: fix null pointer exception on login
+0595. ✨ feat: enable dark mode toggle
