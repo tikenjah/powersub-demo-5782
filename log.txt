@@ -4038,3 +4038,4 @@
 0380. 🐛 fix: fix null pointer exception on login
 0595. ✨ feat: enable dark mode toggle
 0041. 🐛 fix: fix broken CSS in mobile view
+0484. 🐛 fix: handle 500 error in quiz API
