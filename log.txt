@@ -4049,3 +4049,4 @@
 0220. 🐛 fix: fix null pointer exception on login
 0507. 🔧 refactor: clean up auth middleware
 0471. ✨ feat: support email verification
+0544. 🔧 refactor: organize models into subfolders
