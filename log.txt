@@ -8344,3 +8344,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0339. 📚 docs: update README with setup steps
 0824. 🚀 perf: lazy-load components
+0748. 🚀 perf: optimize database query for quiz results
