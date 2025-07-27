@@ -4068,3 +4068,4 @@
 0142. ✨ feat: implement quiz timer feature
 0697. ♻️ chore: bump dependencies
 0999. 🔧 refactor: split large controller into smaller functions
+0225. 🚀 perf: reduce image load time
