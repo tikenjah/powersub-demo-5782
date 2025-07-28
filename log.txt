@@ -4082,3 +4082,4 @@
 0052. 🎨 style: standardize quote style
 0962. ✨ feat: create admin dashboard
 0016. 🎨 style: apply consistent indentation
+0387. ✨ feat: enable dark mode toggle
