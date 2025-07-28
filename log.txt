@@ -4071,3 +4071,4 @@
 0225. 🚀 perf: reduce image load time
 0562. 🔧 refactor: clean up auth middleware
 0589. 🐛 fix: fix broken CSS in mobile view
+0526. ✨ feat: add user authentication
