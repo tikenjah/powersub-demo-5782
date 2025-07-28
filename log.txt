@@ -9349,3 +9349,4 @@
 0518. ✨ feat: support email verification
 0480. ♻️ chore: add GitHub actions badge
 0870. ♻️ chore: clean up unused files
+0170. ✅ test: increase coverage on auth module
