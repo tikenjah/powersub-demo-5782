@@ -4076,3 +4076,4 @@
 0865. ♻️ chore: add GitHub actions badge
 0187. ✨ feat: support email verification
 0736. 🐛 fix: fix null pointer exception on login
+0447. ♻️ chore: bump dependencies
