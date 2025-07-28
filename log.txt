@@ -11339,3 +11339,4 @@
 0196. ♻️ chore: bump dependencies
 0368. 🚀 perf: lazy-load components
 0251. ♻️ chore: update .gitignore
+0819. 🚀 perf: reduce image load time
