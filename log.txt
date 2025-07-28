@@ -4092,3 +4092,4 @@
 0956. 📚 docs: clarify environment setup
 0521. 🎨 style: standardize quote style
 0586. 🎨 style: remove trailing whitespace
+0391. 🐛 fix: fix null pointer exception on login
