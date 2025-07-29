@@ -9356,3 +9356,4 @@
 0093. ✅ test: add unit test for quiz service
 0388. 🎨 style: reformat files with black
 0443. 🎨 style: standardize quote style
+0049. 🐛 fix: handle 500 error in quiz API
