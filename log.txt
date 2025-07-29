@@ -10334,3 +10334,4 @@
 0264. 🚀 perf: optimize database query for quiz results
 0927. ♻️ chore: bump dependencies
 0693. 📚 docs: add API usage examples
+0893. 🐛 fix: handle 500 error in quiz API
