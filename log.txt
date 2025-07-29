@@ -158,3 +158,4 @@
 0678. ✨ feat: add user authentication
 0651. ✨ feat: enable dark mode toggle
 0559. 🔧 refactor: split large controller into smaller functions
+0906. 📚 docs: add API usage examples
