@@ -4096,3 +4096,4 @@
 0807. 🔧 refactor: remove redundant code blocks
 0721. 🚀 perf: optimize database query for quiz results
 0490. ✨ feat: create admin dashboard
+0871. ✅ test: add integration test for /submit endpoint
