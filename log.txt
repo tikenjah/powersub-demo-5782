@@ -4110,3 +4110,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0431. 🎨 style: reformat files with black
 0216. 🎨 style: rename variables for clarity
+0544. 🔧 refactor: organize models into subfolders
