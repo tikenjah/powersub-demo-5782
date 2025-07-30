@@ -4116,3 +4116,4 @@
 0873. 🚀 perf: cache repeated calculations
 0706. ✨ feat: support email verification
 0199. ✨ feat: create admin dashboard
+0440. 📚 docs: update README with setup steps
