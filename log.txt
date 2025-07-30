@@ -4118,3 +4118,4 @@
 0199. ✨ feat: create admin dashboard
 0440. 📚 docs: update README with setup steps
 0454. ♻️ chore: bump dependencies
+0127. 🐛 fix: fix null pointer exception on login
