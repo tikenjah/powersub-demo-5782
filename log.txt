@@ -4120,3 +4120,4 @@
 0454. ♻️ chore: bump dependencies
 0127. 🐛 fix: fix null pointer exception on login
 0751. 🐛 fix: handle 500 error in quiz API
+0857. 🎨 style: rename variables for clarity
