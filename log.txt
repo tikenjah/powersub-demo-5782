@@ -4107,3 +4107,4 @@
 0153. ♻️ chore: rename env.example
 0853. 🔧 refactor: refactor quiz grading logic
 0642. 🚀 perf: optimize database query for quiz results
+0359. 🔧 refactor: clean up auth middleware
