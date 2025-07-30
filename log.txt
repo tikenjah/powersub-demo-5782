@@ -9357,3 +9357,4 @@
 0388. 🎨 style: reformat files with black
 0443. 🎨 style: standardize quote style
 0049. 🐛 fix: handle 500 error in quiz API
+0947. 📚 docs: write FAQ section
