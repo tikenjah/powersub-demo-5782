@@ -11355,3 +11355,4 @@
 0429. ✨ feat: add user authentication
 0199. ✨ feat: create admin dashboard
 0010. ✨ feat: add user authentication
+0507. 🔧 refactor: clean up auth middleware
