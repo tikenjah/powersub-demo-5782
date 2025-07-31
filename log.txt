@@ -6012,3 +6012,4 @@
 0867. 🔧 refactor: refactor quiz grading logic
 0430. 🐛 fix: fix null pointer exception on login
 0146. 🎨 style: apply consistent indentation
+0004. 🚀 perf: optimize database query for quiz results
