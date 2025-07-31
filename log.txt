@@ -10338,3 +10338,4 @@
 0762. 🚀 perf: lazy-load components
 0081. 🐛 fix: fix null pointer exception on login
 0197. 📚 docs: update README with setup steps
+0079. 🐛 fix: correct typo in registration form
