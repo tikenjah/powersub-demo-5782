@@ -10340,3 +10340,4 @@
 0197. 📚 docs: update README with setup steps
 0079. 🐛 fix: correct typo in registration form
 0099. 🚀 perf: reduce image load time
+0337. 📚 docs: document token refresh logic
