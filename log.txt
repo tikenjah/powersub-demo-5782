@@ -10341,3 +10341,4 @@
 0079. 🐛 fix: correct typo in registration form
 0099. 🚀 perf: reduce image load time
 0337. 📚 docs: document token refresh logic
+0383. 🐛 fix: fix broken CSS in mobile view
