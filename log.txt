@@ -9361,3 +9361,4 @@
 0840. 🔧 refactor: refactor quiz grading logic
 0733. 🐛 fix: fix null pointer exception on login
 0144. ✅ test: increase coverage on auth module
+0549. ✨ feat: enable dark mode toggle
