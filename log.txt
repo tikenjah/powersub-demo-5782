@@ -8351,3 +8351,4 @@
 0024. 📚 docs: write FAQ section
 0289. 🐛 fix: resolve issue with date parsing
 0751. 🐛 fix: handle 500 error in quiz API
+0866. 📚 docs: add API usage examples
