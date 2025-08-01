@@ -7350,3 +7350,4 @@
 0361. ✨ feat: support email verification
 0314. ✨ feat: implement quiz timer feature
 0632. 🎨 style: remove trailing whitespace
+0225. 🚀 perf: reduce image load time
