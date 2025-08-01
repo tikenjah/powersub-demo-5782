@@ -4148,3 +4148,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0031. 📚 docs: document token refresh logic
 0961. 📚 docs: add API usage examples
+0379. ✨ feat: support email verification
