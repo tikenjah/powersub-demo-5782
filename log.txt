@@ -4145,3 +4145,4 @@
 0944. ✨ feat: add user authentication
 0558. ✨ feat: enable dark mode toggle
 0153. ♻️ chore: rename env.example
+0107. 🐛 fix: prevent crash on empty input
