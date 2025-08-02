@@ -4169,3 +4169,4 @@
 0422. 🔧 refactor: organize models into subfolders
 0530. 🔧 refactor: refactor quiz grading logic
 1000. ✅ test: increase coverage on auth module
+0579. 📚 docs: clarify environment setup
