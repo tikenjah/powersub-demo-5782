@@ -6016,3 +6016,4 @@
 0726. ✨ feat: enable dark mode toggle
 0402. 🎨 style: reformat files with black
 0905. ♻️ chore: bump dependencies
+0672. 🐛 fix: fix broken CSS in mobile view
