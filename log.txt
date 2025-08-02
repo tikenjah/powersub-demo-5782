@@ -7352,3 +7352,4 @@
 0632. 🎨 style: remove trailing whitespace
 0225. 🚀 perf: reduce image load time
 0023. 📚 docs: clarify environment setup
+0987. ✨ feat: create admin dashboard
