@@ -9367,3 +9367,4 @@
 0838. 🎨 style: standardize quote style
 0965. 🎨 style: reformat files with black
 0686. 🎨 style: standardize quote style
+0590. 🐛 fix: fix null pointer exception on login
