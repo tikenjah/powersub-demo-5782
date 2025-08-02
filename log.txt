@@ -4163,3 +4163,4 @@
 0525. ✅ test: mock database connection in test suite
 0311. 🎨 style: apply consistent indentation
 0991. ♻️ chore: clean up unused files
+0200. 🐛 fix: handle 500 error in quiz API
