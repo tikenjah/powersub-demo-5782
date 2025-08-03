@@ -10348,3 +10348,4 @@
 0513. ♻️ chore: bump dependencies
 0337. 📚 docs: document token refresh logic
 0545. 🎨 style: standardize quote style
+0603. 🐛 fix: fix broken CSS in mobile view
