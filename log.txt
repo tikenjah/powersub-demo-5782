@@ -11363,3 +11363,4 @@
 0857. 🎨 style: rename variables for clarity
 0990. ♻️ chore: rename env.example
 0735. ♻️ chore: add GitHub actions badge
+0690. 🚀 perf: lazy-load components
