@@ -11362,3 +11362,4 @@
 0688. 🚀 perf: reduce image load time
 0857. 🎨 style: rename variables for clarity
 0990. ♻️ chore: rename env.example
+0735. ♻️ chore: add GitHub actions badge
