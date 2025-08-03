@@ -4178,3 +4178,4 @@
 0371. ✅ test: add integration test for /submit endpoint
 0279. ✨ feat: support email verification
 0775. 🐛 fix: fix null pointer exception on login
+0229. 🚀 perf: optimize database query for quiz results
