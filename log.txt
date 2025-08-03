@@ -6019,3 +6019,4 @@
 0672. 🐛 fix: fix broken CSS in mobile view
 0062. ♻️ chore: update .gitignore
 0468. 📚 docs: update README with setup steps
+0086. 🐛 fix: correct typo in registration form
