@@ -10354,3 +10354,4 @@
 0494. 🎨 style: rename variables for clarity
 0270. ♻️ chore: rename env.example
 0306. 🎨 style: apply consistent indentation
+0588. 🔧 refactor: organize models into subfolders
