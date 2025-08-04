@@ -4196,3 +4196,4 @@
 0743. 🎨 style: apply consistent indentation
 0586. 🎨 style: remove trailing whitespace
 0828. ♻️ chore: add GitHub actions badge
+0940. 📚 docs: document token refresh logic
