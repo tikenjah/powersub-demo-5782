@@ -4190,3 +4190,4 @@
 0462. ♻️ chore: update .gitignore
 0403. ✅ test: mock database connection in test suite
 0885. ♻️ chore: update .gitignore
+0890. 🔧 refactor: organize models into subfolders
