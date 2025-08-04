@@ -11364,3 +11364,4 @@
 0990. ♻️ chore: rename env.example
 0735. ♻️ chore: add GitHub actions badge
 0690. 🚀 perf: lazy-load components
+0104. 🎨 style: apply consistent indentation
