@@ -161,3 +161,4 @@
 0906. 📚 docs: add API usage examples
 0627. 📚 docs: document token refresh logic
 0442. 🎨 style: standardize quote style
+0403. ✅ test: mock database connection in test suite
