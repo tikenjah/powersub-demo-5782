@@ -4202,3 +4202,4 @@
 0890. 🔧 refactor: organize models into subfolders
 0499. 🎨 style: reformat files with black
 0227. ✅ test: test user registration edge cases
+0460. 📚 docs: write FAQ section
