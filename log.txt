@@ -8360,3 +8360,4 @@
 0915. 🚀 perf: cache repeated calculations
 0644. 🎨 style: apply consistent indentation
 0516. ✅ test: add unit test for quiz service
+0680. ♻️ chore: add GitHub actions badge
