@@ -6023,3 +6023,4 @@
 0744. 🔧 refactor: remove redundant code blocks
 0408. ♻️ chore: add GitHub actions badge
 0239. 🎨 style: standardize quote style
+0307. ✨ feat: support email verification
