@@ -6025,3 +6025,4 @@
 0239. 🎨 style: standardize quote style
 0307. ✨ feat: support email verification
 0035. ✅ test: increase coverage on auth module
+0662. ♻️ chore: clean up unused files
