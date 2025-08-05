@@ -9380,3 +9380,4 @@
 0784. ♻️ chore: clean up unused files
 0461. ✨ feat: add user authentication
 0728. 🔧 refactor: split large controller into smaller functions
+0462. ♻️ chore: update .gitignore
