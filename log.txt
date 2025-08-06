@@ -9384,3 +9384,4 @@
 0172. 📚 docs: add API usage examples
 0105. 🐛 fix: correct typo in registration form
 0835. 🐛 fix: prevent crash on empty input
+0279. ✨ feat: support email verification
