@@ -6030,3 +6030,4 @@
 0331. 🐛 fix: fix broken CSS in mobile view
 0645. 🐛 fix: resolve issue with date parsing
 0146. 🎨 style: apply consistent indentation
+0961. 📚 docs: add API usage examples
