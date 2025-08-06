@@ -4210,3 +4210,4 @@
 0827. 🚀 perf: optimize database query for quiz results
 0275. 🎨 style: standardize quote style
 0430. 🐛 fix: fix null pointer exception on login
+0935. 📚 docs: update README with setup steps
