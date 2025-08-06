@@ -8362,3 +8362,4 @@
 0516. ✅ test: add unit test for quiz service
 0680. ♻️ chore: add GitHub actions badge
 0251. ♻️ chore: update .gitignore
+0337. 📚 docs: document token refresh logic
