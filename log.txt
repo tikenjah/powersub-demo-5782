@@ -6027,3 +6027,4 @@
 0035. ✅ test: increase coverage on auth module
 0662. ♻️ chore: clean up unused files
 0115. 🚀 perf: reduce image load time
+0331. 🐛 fix: fix broken CSS in mobile view
