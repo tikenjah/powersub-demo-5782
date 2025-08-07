@@ -11375,3 +11375,4 @@
 0978. 🐛 fix: prevent crash on empty input
 0349. ✅ test: increase coverage on auth module
 0029. 🚀 perf: lazy-load components
+0097. 🐛 fix: handle 500 error in quiz API
