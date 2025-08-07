@@ -10361,3 +10361,4 @@
 0181. ♻️ chore: add GitHub actions badge
 0364. 🐛 fix: resolve issue with date parsing
 0712. 🎨 style: apply consistent indentation
+0722. 📚 docs: add API usage examples
