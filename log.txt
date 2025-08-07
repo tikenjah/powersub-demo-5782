@@ -4222,3 +4222,4 @@
 0474. ✅ test: add unit test for quiz service
 0177. 📚 docs: add API usage examples
 0741. 🎨 style: apply consistent indentation
+0654. ✨ feat: create admin dashboard
