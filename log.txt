@@ -7365,3 +7365,4 @@
 0210. 🎨 style: apply consistent indentation
 0027. 📚 docs: clarify environment setup
 0961. 📚 docs: add API usage examples
+0777. 📚 docs: document token refresh logic
