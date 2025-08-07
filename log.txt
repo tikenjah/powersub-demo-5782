@@ -4235,3 +4235,4 @@
 0895. ✨ feat: support email verification
 0556. ✨ feat: support email verification
 0587. 🔧 refactor: remove redundant code blocks
+0041. 🐛 fix: fix broken CSS in mobile view
