@@ -4233,3 +4233,4 @@
 0955. 🔧 refactor: remove redundant code blocks
 0026. 🔧 refactor: clean up auth middleware
 0895. ✨ feat: support email verification
+0556. ✨ feat: support email verification
