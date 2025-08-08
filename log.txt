@@ -7371,3 +7371,4 @@
 0379. ✨ feat: support email verification
 0290. ✅ test: test user registration edge cases
 0575. ✅ test: add unit test for quiz service
+0152. ✨ feat: add user authentication
