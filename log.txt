@@ -4247,3 +4247,4 @@
 0375. 🐛 fix: handle 500 error in quiz API
 0169. 📚 docs: add API usage examples
 0765. ♻️ chore: clean up unused files
+0424. ✨ feat: add user authentication
