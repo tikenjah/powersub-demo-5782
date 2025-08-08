@@ -7367,3 +7367,4 @@
 0961. 📚 docs: add API usage examples
 0777. 📚 docs: document token refresh logic
 0438. ♻️ chore: bump dependencies
+0456. 🚀 perf: optimize database query for quiz results
