@@ -4253,3 +4253,4 @@
 0612. ✅ test: test user registration edge cases
 0518. ✨ feat: support email verification
 0401. 🚀 perf: reduce image load time
+0813. 🔧 refactor: organize models into subfolders
