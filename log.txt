@@ -7373,3 +7373,4 @@
 0575. ✅ test: add unit test for quiz service
 0152. ✨ feat: add user authentication
 0551. 📚 docs: write FAQ section
+0651. ✨ feat: enable dark mode toggle
