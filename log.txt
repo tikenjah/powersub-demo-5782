@@ -4254,3 +4254,4 @@
 0518. ✨ feat: support email verification
 0401. 🚀 perf: reduce image load time
 0813. 🔧 refactor: organize models into subfolders
+0131. 📚 docs: write FAQ section
