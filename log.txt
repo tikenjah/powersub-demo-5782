@@ -166,3 +166,4 @@
 0253. 📚 docs: update README with setup steps
 0942. ✅ test: increase coverage on auth module
 0825. 🔧 refactor: split large controller into smaller functions
+0536. ✨ feat: add user authentication
