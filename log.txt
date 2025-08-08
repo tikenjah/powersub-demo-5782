@@ -4259,3 +4259,4 @@
 0416. 🎨 style: rename variables for clarity
 0320. 📚 docs: update README with setup steps
 0051. ✨ feat: enable dark mode toggle
+0307. ✨ feat: support email verification
