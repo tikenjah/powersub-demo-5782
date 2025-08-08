@@ -4242,3 +4242,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0657. 🎨 style: standardize quote style
 0964. ♻️ chore: clean up unused files
+0666. 🐛 fix: fix broken CSS in mobile view
