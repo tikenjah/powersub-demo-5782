@@ -7368,3 +7368,4 @@
 0777. 📚 docs: document token refresh logic
 0438. ♻️ chore: bump dependencies
 0456. 🚀 perf: optimize database query for quiz results
+0379. ✨ feat: support email verification
