@@ -4264,3 +4264,4 @@
 0717. 🔧 refactor: refactor quiz grading logic
 0450. 🐛 fix: fix broken CSS in mobile view
 0307. ✨ feat: support email verification
+0394. 🚀 perf: lazy-load components
