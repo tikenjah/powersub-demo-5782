@@ -7375,3 +7375,4 @@
 0551. 📚 docs: write FAQ section
 0651. ✨ feat: enable dark mode toggle
 0001. 🚀 perf: cache repeated calculations
+0077. ♻️ chore: rename env.example
