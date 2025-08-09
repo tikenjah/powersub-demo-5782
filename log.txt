@@ -4265,3 +4265,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0307. ✨ feat: support email verification
 0394. 🚀 perf: lazy-load components
+0900. 🐛 fix: handle 500 error in quiz API
