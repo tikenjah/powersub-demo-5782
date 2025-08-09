@@ -7377,3 +7377,4 @@
 0001. 🚀 perf: cache repeated calculations
 0077. ♻️ chore: rename env.example
 0561. 📚 docs: write FAQ section
+0300. ✨ feat: add export to CSV option
