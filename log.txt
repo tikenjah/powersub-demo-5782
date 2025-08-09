@@ -4270,3 +4270,4 @@
 0916. ♻️ chore: bump dependencies
 0272. 🔧 refactor: remove redundant code blocks
 0712. 🎨 style: apply consistent indentation
+0706. ✨ feat: support email verification
