@@ -6039,3 +6039,4 @@
 0648. ♻️ chore: bump dependencies
 0402. 🎨 style: reformat files with black
 0414. 🔧 refactor: remove redundant code blocks
+0783. 🐛 fix: handle 500 error in quiz API
