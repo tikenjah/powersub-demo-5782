@@ -7380,3 +7380,4 @@
 0300. ✨ feat: add export to CSV option
 0577. ✨ feat: implement quiz timer feature
 0942. ✅ test: increase coverage on auth module
+0431. 🎨 style: reformat files with black
