@@ -4279,3 +4279,4 @@
 0733. 🐛 fix: fix null pointer exception on login
 0341. 🚀 perf: lazy-load components
 0556. ✨ feat: support email verification
+0238. 🎨 style: apply consistent indentation
