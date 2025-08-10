@@ -4285,3 +4285,4 @@
 0424. ✨ feat: add user authentication
 0899. 🚀 perf: cache repeated calculations
 0685. ✅ test: test user registration edge cases
+0021. ✨ feat: support email verification
