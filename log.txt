@@ -8370,3 +8370,4 @@
 0562. 🔧 refactor: clean up auth middleware
 0985. 📚 docs: document token refresh logic
 0279. ✨ feat: support email verification
+0453. 🎨 style: standardize quote style
