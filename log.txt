@@ -8373,3 +8373,4 @@
 0453. 🎨 style: standardize quote style
 0922. 📚 docs: write FAQ section
 0739. 🎨 style: remove trailing whitespace
+0317. ✅ test: test user registration edge cases
