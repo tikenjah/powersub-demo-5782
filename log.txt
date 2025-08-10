@@ -8371,3 +8371,4 @@
 0985. 📚 docs: document token refresh logic
 0279. ✨ feat: support email verification
 0453. 🎨 style: standardize quote style
+0922. 📚 docs: write FAQ section
