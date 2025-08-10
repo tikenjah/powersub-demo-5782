@@ -4287,3 +4287,4 @@
 0685. ✅ test: test user registration edge cases
 0021. ✨ feat: support email verification
 0194. 🎨 style: standardize quote style
+0897. 🐛 fix: prevent crash on empty input
