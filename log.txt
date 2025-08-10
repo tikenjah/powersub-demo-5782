@@ -4293,3 +4293,4 @@
 0863. 🐛 fix: correct typo in registration form
 0202. 🔧 refactor: refactor quiz grading logic
 0547. 📚 docs: write FAQ section
+0526. ✨ feat: add user authentication
