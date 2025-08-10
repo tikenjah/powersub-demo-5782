@@ -4278,3 +4278,4 @@
 0193. 🚀 perf: optimize database query for quiz results
 0733. 🐛 fix: fix null pointer exception on login
 0341. 🚀 perf: lazy-load components
+0556. ✨ feat: support email verification
