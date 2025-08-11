@@ -9395,3 +9395,4 @@
 0711. 🐛 fix: fix broken CSS in mobile view
 0833. ✨ feat: add user authentication
 0927. ♻️ chore: bump dependencies
+0522. 🐛 fix: handle 500 error in quiz API
