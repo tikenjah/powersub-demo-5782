@@ -10376,3 +10376,4 @@
 0800. 🚀 perf: optimize database query for quiz results
 0290. ✅ test: test user registration edge cases
 0443. 🎨 style: standardize quote style
+0765. ♻️ chore: clean up unused files
