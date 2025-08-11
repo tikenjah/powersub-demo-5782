@@ -10377,3 +10377,4 @@
 0290. ✅ test: test user registration edge cases
 0443. 🎨 style: standardize quote style
 0765. ♻️ chore: clean up unused files
+0676. 🐛 fix: prevent crash on empty input
