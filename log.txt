@@ -10380,3 +10380,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0903. ✅ test: mock database connection in test suite
 0141. 📚 docs: document token refresh logic
+0730. ✅ test: test user registration edge cases
