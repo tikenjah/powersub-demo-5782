@@ -10386,3 +10386,4 @@
 0348. ✅ test: test user registration edge cases
 0705. 🔧 refactor: refactor quiz grading logic
 0949. 📚 docs: write FAQ section
+0305. ✨ feat: enable dark mode toggle
