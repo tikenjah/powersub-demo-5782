@@ -10385,3 +10385,4 @@
 0389. 📚 docs: improve code comments in utils
 0348. ✅ test: test user registration edge cases
 0705. 🔧 refactor: refactor quiz grading logic
+0949. 📚 docs: write FAQ section
