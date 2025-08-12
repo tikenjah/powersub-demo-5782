@@ -6045,3 +6045,4 @@
 0083. 🎨 style: reformat files with black
 0349. ✅ test: increase coverage on auth module
 0080. ✨ feat: support email verification
+0566. 📚 docs: write FAQ section
