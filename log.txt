@@ -4309,3 +4309,4 @@
 0111. 📚 docs: update README with setup steps
 0773. 📚 docs: document token refresh logic
 0014. 🔧 refactor: remove redundant code blocks
+0075. ✅ test: mock database connection in test suite
