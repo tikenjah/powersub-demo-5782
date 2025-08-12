@@ -6046,3 +6046,4 @@
 0349. ✅ test: increase coverage on auth module
 0080. ✨ feat: support email verification
 0566. 📚 docs: write FAQ section
+0944. ✨ feat: add user authentication
