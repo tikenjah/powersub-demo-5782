@@ -7390,3 +7390,4 @@
 0362. 📚 docs: add API usage examples
 0686. 🎨 style: standardize quote style
 0524. ♻️ chore: rename env.example
+0967. ♻️ chore: add GitHub actions badge
