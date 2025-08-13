@@ -9401,3 +9401,4 @@
 0180. ✨ feat: add export to CSV option
 0231. 🔧 refactor: clean up auth middleware
 0161. ✨ feat: create admin dashboard
+0737. 🐛 fix: handle 500 error in quiz API
