@@ -6047,3 +6047,4 @@
 0080. ✨ feat: support email verification
 0566. 📚 docs: write FAQ section
 0944. ✨ feat: add user authentication
+0862. ♻️ chore: bump dependencies
