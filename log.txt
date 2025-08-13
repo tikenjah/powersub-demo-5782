@@ -10389,3 +10389,4 @@
 0305. ✨ feat: enable dark mode toggle
 0422. 🔧 refactor: organize models into subfolders
 0434. 📚 docs: document token refresh logic
+0896. 🚀 perf: reduce image load time
