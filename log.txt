@@ -4320,3 +4320,4 @@
 0431. 🎨 style: reformat files with black
 0062. ♻️ chore: update .gitignore
 0406. ✨ feat: add export to CSV option
+0349. ✅ test: increase coverage on auth module
