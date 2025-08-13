@@ -9399,3 +9399,4 @@
 0878. 🔧 refactor: split large controller into smaller functions
 0630. 🚀 perf: lazy-load components
 0180. ✨ feat: add export to CSV option
+0231. 🔧 refactor: clean up auth middleware
