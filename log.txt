@@ -6051,3 +6051,4 @@
 0031. 📚 docs: document token refresh logic
 0816. 🔧 refactor: organize models into subfolders
 0953. 🎨 style: remove trailing whitespace
+0291. 📚 docs: write FAQ section
