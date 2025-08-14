@@ -4348,3 +4348,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0609. 🐛 fix: handle 500 error in quiz API
 0936. 🔧 refactor: organize models into subfolders
+0062. ♻️ chore: update .gitignore
