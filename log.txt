@@ -9408,3 +9408,4 @@
 0451. ✨ feat: support email verification
 0707. 🎨 style: apply consistent indentation
 0995. ✅ test: mock database connection in test suite
+0341. 🚀 perf: lazy-load components
