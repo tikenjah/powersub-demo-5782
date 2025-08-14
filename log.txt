@@ -4338,3 +4338,4 @@
 0990. ♻️ chore: rename env.example
 0235. 🐛 fix: fix null pointer exception on login
 0608. 🔧 refactor: remove redundant code blocks
+0229. 🚀 perf: optimize database query for quiz results
