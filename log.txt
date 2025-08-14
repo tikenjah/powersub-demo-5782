@@ -4331,3 +4331,4 @@
 0979. 🎨 style: standardize quote style
 0866. 📚 docs: add API usage examples
 0123. ✨ feat: implement quiz timer feature
+0778. 📚 docs: write FAQ section
