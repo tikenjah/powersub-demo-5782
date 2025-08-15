@@ -11387,3 +11387,4 @@
 0576. ♻️ chore: update .gitignore
 0514. 🐛 fix: fix broken CSS in mobile view
 0176. 🔧 refactor: remove redundant code blocks
+0756. ✨ feat: support email verification
