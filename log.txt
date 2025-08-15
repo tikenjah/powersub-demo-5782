@@ -6053,3 +6053,4 @@
 0953. 🎨 style: remove trailing whitespace
 0291. 📚 docs: write FAQ section
 0888. 🚀 perf: lazy-load components
+0087. ✨ feat: add export to CSV option
