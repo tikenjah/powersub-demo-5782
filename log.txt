@@ -9410,3 +9410,4 @@
 0995. ✅ test: mock database connection in test suite
 0341. 🚀 perf: lazy-load components
 0848. 📚 docs: update README with setup steps
+0436. ✅ test: add integration test for /submit endpoint
