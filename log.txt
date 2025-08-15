@@ -4359,3 +4359,4 @@
 0695. ✨ feat: create admin dashboard
 0213. ✅ test: add integration test for /submit endpoint
 0979. 🎨 style: standardize quote style
+0502. 📚 docs: update README with setup steps
