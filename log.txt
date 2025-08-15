@@ -4358,3 +4358,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0695. ✨ feat: create admin dashboard
 0213. ✅ test: add integration test for /submit endpoint
+0979. 🎨 style: standardize quote style
