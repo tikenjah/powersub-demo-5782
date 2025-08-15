@@ -7397,3 +7397,4 @@
 0808. 🚀 perf: optimize database query for quiz results
 0842. 🎨 style: remove trailing whitespace
 0755. 🚀 perf: cache repeated calculations
+0239. 🎨 style: standardize quote style
