@@ -7398,3 +7398,4 @@
 0842. 🎨 style: remove trailing whitespace
 0755. 🚀 perf: cache repeated calculations
 0239. 🎨 style: standardize quote style
+0114. ♻️ chore: update .gitignore
