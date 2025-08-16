@@ -10395,3 +10395,4 @@
 0291. 📚 docs: write FAQ section
 0117. ✅ test: increase coverage on auth module
 0390. 🎨 style: standardize quote style
+0770. ♻️ chore: rename env.example
