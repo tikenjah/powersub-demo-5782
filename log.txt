@@ -10396,3 +10396,4 @@
 0117. ✅ test: increase coverage on auth module
 0390. 🎨 style: standardize quote style
 0770. ♻️ chore: rename env.example
+0749. ✨ feat: support email verification
