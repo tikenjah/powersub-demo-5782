@@ -8385,3 +8385,4 @@
 0681. ✨ feat: create admin dashboard
 0256. ✅ test: mock database connection in test suite
 0452. ✨ feat: implement quiz timer feature
+0788. 📚 docs: add API usage examples
