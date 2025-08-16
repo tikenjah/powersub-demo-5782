@@ -11390,3 +11390,4 @@
 0756. ✨ feat: support email verification
 0224. 🐛 fix: fix broken CSS in mobile view
 0206. 🐛 fix: handle 500 error in quiz API
+0643. 🎨 style: apply consistent indentation
