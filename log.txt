@@ -6056,3 +6056,4 @@
 0087. ✨ feat: add export to CSV option
 0420. 🚀 perf: reduce image load time
 0035. ✅ test: increase coverage on auth module
+0734. ✨ feat: add export to CSV option
