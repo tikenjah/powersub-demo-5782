@@ -4381,3 +4381,4 @@
 0986. 📚 docs: document token refresh logic
 0823. ✨ feat: add user authentication
 0401. 🚀 perf: reduce image load time
+0699. 🎨 style: standardize quote style
