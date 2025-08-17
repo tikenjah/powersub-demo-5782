@@ -6058,3 +6058,4 @@
 0035. ✅ test: increase coverage on auth module
 0734. ✨ feat: add export to CSV option
 0462. ♻️ chore: update .gitignore
+0500. ✅ test: add integration test for /submit endpoint
