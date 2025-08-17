@@ -4391,3 +4391,4 @@
 0543. ✨ feat: support email verification
 0498. ✅ test: mock database connection in test suite
 0301. 🎨 style: apply consistent indentation
+0267. 📚 docs: improve code comments in utils
