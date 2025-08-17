@@ -9421,3 +9421,4 @@
 0151. ✅ test: add unit test for quiz service
 0054. ♻️ chore: update .gitignore
 0887. 📚 docs: add API usage examples
+0603. 🐛 fix: fix broken CSS in mobile view
