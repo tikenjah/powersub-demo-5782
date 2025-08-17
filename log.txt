@@ -10398,3 +10398,4 @@
 0770. ♻️ chore: rename env.example
 0749. ✨ feat: support email verification
 0364. 🐛 fix: resolve issue with date parsing
+0109. 🚀 perf: lazy-load components
