@@ -4383,3 +4383,4 @@
 0401. 🚀 perf: reduce image load time
 0699. 🎨 style: standardize quote style
 0194. 🎨 style: standardize quote style
+0068. 🐛 fix: fix null pointer exception on login
