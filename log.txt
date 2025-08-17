@@ -4385,3 +4385,4 @@
 0194. 🎨 style: standardize quote style
 0068. 🐛 fix: fix null pointer exception on login
 0506. 🐛 fix: handle 500 error in quiz API
+0781. 🚀 perf: reduce image load time
