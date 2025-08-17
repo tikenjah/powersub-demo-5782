@@ -4380,3 +4380,4 @@
 0716. ✨ feat: implement quiz timer feature
 0986. 📚 docs: document token refresh logic
 0823. ✨ feat: add user authentication
+0401. 🚀 perf: reduce image load time
