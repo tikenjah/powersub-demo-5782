@@ -4407,3 +4407,4 @@
 0957. 🐛 fix: fix null pointer exception on login
 0827. 🚀 perf: optimize database query for quiz results
 0930. 🎨 style: apply consistent indentation
+0420. 🚀 perf: reduce image load time
