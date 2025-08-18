@@ -4401,3 +4401,4 @@
 0394. 🚀 perf: lazy-load components
 0223. 🔧 refactor: remove redundant code blocks
 0382. 📚 docs: improve code comments in utils
+0428. 🐛 fix: fix null pointer exception on login
