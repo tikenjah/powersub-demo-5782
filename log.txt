@@ -8388,3 +8388,4 @@
 0788. 📚 docs: add API usage examples
 0698. 🐛 fix: handle 500 error in quiz API
 0055. 📚 docs: update README with setup steps
+0661. ✅ test: add integration test for /submit endpoint
