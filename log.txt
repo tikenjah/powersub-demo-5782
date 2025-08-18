@@ -6065,3 +6065,4 @@
 0403. ✅ test: mock database connection in test suite
 0610. 🚀 perf: lazy-load components
 0653. 🐛 fix: prevent crash on empty input
+0501. ✨ feat: add export to CSV option
