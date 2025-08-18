@@ -6063,3 +6063,4 @@
 0785. ✨ feat: enable dark mode toggle
 0382. 📚 docs: improve code comments in utils
 0403. ✅ test: mock database connection in test suite
+0610. 🚀 perf: lazy-load components
