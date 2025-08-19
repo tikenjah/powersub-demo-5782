@@ -4411,3 +4411,4 @@
 0238. 🎨 style: apply consistent indentation
 0678. ✨ feat: add user authentication
 0679. ♻️ chore: bump dependencies
+0720. ✨ feat: add export to CSV option
