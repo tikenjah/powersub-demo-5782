@@ -171,3 +171,4 @@
 0953. 🎨 style: remove trailing whitespace
 0048. 📚 docs: update README with setup steps
 0568. 🐛 fix: handle 500 error in quiz API
+0290. ✅ test: test user registration edge cases
