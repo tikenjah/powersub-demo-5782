@@ -4415,3 +4415,4 @@
 0013. ✅ test: increase coverage on auth module
 0147. ♻️ chore: bump dependencies
 0451. ✨ feat: support email verification
+0794. ♻️ chore: clean up unused files
