@@ -8395,3 +8395,4 @@
 0132. ✅ test: add unit test for quiz service
 0570. 🎨 style: apply consistent indentation
 0294. 🐛 fix: prevent crash on empty input
+0488. ♻️ chore: add GitHub actions badge
