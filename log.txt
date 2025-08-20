@@ -4425,3 +4425,4 @@
 0623. 🎨 style: standardize quote style
 0486. ✨ feat: add export to CSV option
 0936. 🔧 refactor: organize models into subfolders
+0819. 🚀 perf: reduce image load time
