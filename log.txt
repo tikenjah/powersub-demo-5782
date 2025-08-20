@@ -4428,3 +4428,4 @@
 0819. 🚀 perf: reduce image load time
 0486. ✨ feat: add export to CSV option
 0699. 🎨 style: standardize quote style
+0513. ♻️ chore: bump dependencies
