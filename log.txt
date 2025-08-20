@@ -4430,3 +4430,4 @@
 0699. 🎨 style: standardize quote style
 0513. ♻️ chore: bump dependencies
 0703. 🔧 refactor: clean up auth middleware
+0387. ✨ feat: enable dark mode toggle
