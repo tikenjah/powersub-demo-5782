@@ -6071,3 +6071,4 @@
 0965. 🎨 style: reformat files with black
 0637. 🎨 style: apply consistent indentation
 0575. ✅ test: add unit test for quiz service
+0412. ✅ test: increase coverage on auth module
