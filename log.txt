@@ -4442,3 +4442,4 @@
 0464. 🎨 style: remove trailing whitespace
 0706. ✨ feat: support email verification
 0180. ✨ feat: add export to CSV option
+0577. ✨ feat: implement quiz timer feature
