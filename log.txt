@@ -7413,3 +7413,4 @@
 0818. 🔧 refactor: remove redundant code blocks
 0572. ✨ feat: add user authentication
 0692. ✅ test: add integration test for /submit endpoint
+0197. 📚 docs: update README with setup steps
