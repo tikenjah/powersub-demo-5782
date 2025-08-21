@@ -4449,3 +4449,4 @@
 0432. 🎨 style: apply consistent indentation
 0440. 📚 docs: update README with setup steps
 0541. 🐛 fix: correct typo in registration form
+0922. 📚 docs: write FAQ section
