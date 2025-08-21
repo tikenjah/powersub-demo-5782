@@ -4440,3 +4440,4 @@
 0569. 📚 docs: document token refresh logic
 0332. 🎨 style: standardize quote style
 0464. 🎨 style: remove trailing whitespace
+0706. ✨ feat: support email verification
