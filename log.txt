@@ -8401,3 +8401,4 @@
 0338. ♻️ chore: add GitHub actions badge
 0908. ♻️ chore: bump dependencies
 0170. ✅ test: increase coverage on auth module
+0860. 🔧 refactor: organize models into subfolders
