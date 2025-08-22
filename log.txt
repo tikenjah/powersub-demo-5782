@@ -4461,3 +4461,4 @@
 0365. 🚀 perf: reduce image load time
 0739. 🎨 style: remove trailing whitespace
 0804. ♻️ chore: add GitHub actions badge
+0112. ✨ feat: enable dark mode toggle
