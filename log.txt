@@ -4469,3 +4469,4 @@
 0070. ✨ feat: implement quiz timer feature
 0109. 🚀 perf: lazy-load components
 0097. 🐛 fix: handle 500 error in quiz API
+0748. 🚀 perf: optimize database query for quiz results
