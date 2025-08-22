@@ -4457,3 +4457,4 @@
 0660. 🐛 fix: correct typo in registration form
 0268. 🐛 fix: prevent crash on empty input
 0209. ✨ feat: implement quiz timer feature
+0251. ♻️ chore: update .gitignore
