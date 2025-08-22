@@ -4452,3 +4452,4 @@
 0922. 📚 docs: write FAQ section
 0446. 🎨 style: apply consistent indentation
 0237. 🎨 style: standardize quote style
+0623. 🎨 style: standardize quote style
