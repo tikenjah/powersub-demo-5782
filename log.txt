@@ -4455,3 +4455,4 @@
 0623. 🎨 style: standardize quote style
 0380. 🐛 fix: fix null pointer exception on login
 0660. 🐛 fix: correct typo in registration form
+0268. 🐛 fix: prevent crash on empty input
