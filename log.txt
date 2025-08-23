@@ -4474,3 +4474,4 @@
 0738. 🐛 fix: prevent crash on empty input
 0907. 🔧 refactor: split large controller into smaller functions
 0815. 🔧 refactor: split large controller into smaller functions
+0193. 🚀 perf: optimize database query for quiz results
