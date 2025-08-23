@@ -11411,3 +11411,4 @@
 0282. 🔧 refactor: remove redundant code blocks
 0614. 🚀 perf: reduce image load time
 0236. 🔧 refactor: remove redundant code blocks
+0384. 📚 docs: clarify environment setup
