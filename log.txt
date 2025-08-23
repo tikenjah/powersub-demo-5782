@@ -11409,3 +11409,4 @@
 0764. ✨ feat: add user authentication
 0602. 🔧 refactor: remove redundant code blocks
 0282. 🔧 refactor: remove redundant code blocks
+0614. 🚀 perf: reduce image load time
