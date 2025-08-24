@@ -4496,3 +4496,4 @@
 0810. 🔧 refactor: refactor quiz grading logic
 0950. 🎨 style: reformat files with black
 0415. 🐛 fix: handle 500 error in quiz API
+0981. 🚀 perf: lazy-load components
