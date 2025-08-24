@@ -8414,3 +8414,4 @@
 0536. ✨ feat: add user authentication
 0334. 🚀 perf: cache repeated calculations
 0937. 🐛 fix: handle 500 error in quiz API
+0331. 🐛 fix: fix broken CSS in mobile view
