@@ -4489,3 +4489,4 @@
 0070. ✨ feat: implement quiz timer feature
 0854. ♻️ chore: rename env.example
 0887. 📚 docs: add API usage examples
+0541. 🐛 fix: correct typo in registration form
