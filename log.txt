@@ -4506,3 +4506,4 @@
 0593. 🐛 fix: correct typo in registration form
 0185. 📚 docs: write FAQ section
 0648. ♻️ chore: bump dependencies
+0474. ✅ test: add unit test for quiz service
