@@ -4504,3 +4504,4 @@
 0852. ✨ feat: enable dark mode toggle
 0822. 🔧 refactor: remove redundant code blocks
 0593. 🐛 fix: correct typo in registration form
+0185. 📚 docs: write FAQ section
