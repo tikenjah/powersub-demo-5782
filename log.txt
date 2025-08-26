@@ -173,3 +173,4 @@
 0568. 🐛 fix: handle 500 error in quiz API
 0290. ✅ test: test user registration edge cases
 0374. 🎨 style: standardize quote style
+0271. ✅ test: add unit test for quiz service
