@@ -10419,3 +10419,4 @@
 0329. 📚 docs: update README with setup steps
 0002. 🚀 perf: cache repeated calculations
 0027. 📚 docs: clarify environment setup
+0785. ✨ feat: enable dark mode toggle
