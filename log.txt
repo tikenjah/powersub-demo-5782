@@ -9438,3 +9438,4 @@
 0741. 🎨 style: apply consistent indentation
 0197. 📚 docs: update README with setup steps
 0245. 🐛 fix: resolve issue with date parsing
+0573. ✅ test: add integration test for /submit endpoint
