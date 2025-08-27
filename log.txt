@@ -4530,3 +4530,4 @@
 0099. 🚀 perf: reduce image load time
 0053. ✅ test: increase coverage on auth module
 0250. 📚 docs: update README with setup steps
+0477. 🐛 fix: fix broken CSS in mobile view
