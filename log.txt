@@ -9439,3 +9439,4 @@
 0197. 📚 docs: update README with setup steps
 0245. 🐛 fix: resolve issue with date parsing
 0573. ✅ test: add integration test for /submit endpoint
+0738. 🐛 fix: prevent crash on empty input
