@@ -4536,3 +4536,4 @@
 0089. 🔧 refactor: remove redundant code blocks
 0978. 🐛 fix: prevent crash on empty input
 0623. 🎨 style: standardize quote style
+0263. 📚 docs: add API usage examples
