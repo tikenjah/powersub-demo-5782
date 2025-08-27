@@ -4532,3 +4532,4 @@
 0250. 📚 docs: update README with setup steps
 0477. 🐛 fix: fix broken CSS in mobile view
 0857. 🎨 style: rename variables for clarity
+0901. ✨ feat: add user authentication
