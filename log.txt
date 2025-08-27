@@ -8420,3 +8420,4 @@
 0636. ✅ test: increase coverage on auth module
 0468. 📚 docs: update README with setup steps
 0583. ✅ test: increase coverage on auth module
+0578. ✅ test: add integration test for /submit endpoint
