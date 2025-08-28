@@ -4556,3 +4556,4 @@
 0385. ♻️ chore: clean up unused files
 0856. 🐛 fix: fix null pointer exception on login
 0353. ♻️ chore: rename env.example
+0463. 🚀 perf: reduce image load time
