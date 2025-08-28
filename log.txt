@@ -8426,3 +8426,4 @@
 0797. 📚 docs: add API usage examples
 0651. ✨ feat: enable dark mode toggle
 0869. ♻️ chore: bump dependencies
+0629. 🔧 refactor: organize models into subfolders
