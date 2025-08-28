@@ -4551,3 +4551,4 @@
 0483. 📚 docs: update README with setup steps
 0423. ✅ test: mock database connection in test suite
 0925. ✨ feat: add export to CSV option
+0980. 🎨 style: reformat files with black
