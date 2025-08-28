@@ -8422,3 +8422,4 @@
 0583. ✅ test: increase coverage on auth module
 0578. ✅ test: add integration test for /submit endpoint
 0407. 🚀 perf: cache repeated calculations
+0202. 🔧 refactor: refactor quiz grading logic
