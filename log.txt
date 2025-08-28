@@ -7430,3 +7430,4 @@
 0051. ✨ feat: enable dark mode toggle
 0548. 📚 docs: write FAQ section
 0848. 📚 docs: update README with setup steps
+0988. 🐛 fix: fix broken CSS in mobile view
