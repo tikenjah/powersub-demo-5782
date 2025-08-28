@@ -4542,3 +4542,4 @@
 0173. 🚀 perf: cache repeated calculations
 0493. ✨ feat: add user authentication
 0052. 🎨 style: standardize quote style
+0021. ✨ feat: support email verification
