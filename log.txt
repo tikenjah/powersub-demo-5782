@@ -7429,3 +7429,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0051. ✨ feat: enable dark mode toggle
 0548. 📚 docs: write FAQ section
+0848. 📚 docs: update README with setup steps
