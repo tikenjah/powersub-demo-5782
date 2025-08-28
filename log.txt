@@ -4554,3 +4554,4 @@
 0980. 🎨 style: reformat files with black
 0515. 🚀 perf: optimize database query for quiz results
 0385. ♻️ chore: clean up unused files
+0856. 🐛 fix: fix null pointer exception on login
