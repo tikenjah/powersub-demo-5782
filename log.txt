@@ -4566,3 +4566,4 @@
 0850. ♻️ chore: rename env.example
 0861. ♻️ chore: clean up unused files
 0245. 🐛 fix: resolve issue with date parsing
+0297. 🎨 style: remove trailing whitespace
