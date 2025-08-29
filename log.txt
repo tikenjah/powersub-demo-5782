@@ -4569,3 +4569,4 @@
 0297. 🎨 style: remove trailing whitespace
 0117. ✅ test: increase coverage on auth module
 0840. 🔧 refactor: refactor quiz grading logic
+0085. ✨ feat: support email verification
