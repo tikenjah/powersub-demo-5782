@@ -4578,3 +4578,4 @@
 0348. ✅ test: test user registration edge cases
 0849. 🐛 fix: correct typo in registration form
 0054. ♻️ chore: update .gitignore
+0712. 🎨 style: apply consistent indentation
