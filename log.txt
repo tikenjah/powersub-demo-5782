@@ -10432,3 +10432,4 @@
 0625. 🐛 fix: handle 500 error in quiz API
 0199. ✨ feat: create admin dashboard
 0666. 🐛 fix: fix broken CSS in mobile view
+0359. 🔧 refactor: clean up auth middleware
