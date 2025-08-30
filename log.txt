@@ -4573,3 +4573,4 @@
 0915. 🚀 perf: cache repeated calculations
 0938. 🎨 style: rename variables for clarity
 0050. ✨ feat: enable dark mode toggle
+0230. ✨ feat: create admin dashboard
