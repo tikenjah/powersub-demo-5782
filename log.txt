@@ -11428,3 +11428,4 @@
 0932. ✅ test: add integration test for /submit endpoint
 0128. ♻️ chore: rename env.example
 0992. ♻️ chore: clean up unused files
+0136. 🚀 perf: lazy-load components
