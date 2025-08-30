@@ -6087,3 +6087,4 @@
 0006. 🐛 fix: prevent crash on empty input
 0252. 🎨 style: remove trailing whitespace
 0262. 🎨 style: remove trailing whitespace
+0450. 🐛 fix: fix broken CSS in mobile view
