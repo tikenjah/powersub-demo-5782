@@ -7434,3 +7434,4 @@
 0357. ✅ test: add unit test for quiz service
 0157. ✅ test: mock database connection in test suite
 0689. 🎨 style: reformat files with black
+0357. ✅ test: add unit test for quiz service
