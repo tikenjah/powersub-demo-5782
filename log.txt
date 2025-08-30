@@ -4576,3 +4576,4 @@
 0230. ✨ feat: create admin dashboard
 0575. ✅ test: add unit test for quiz service
 0348. ✅ test: test user registration edge cases
+0849. 🐛 fix: correct typo in registration form
