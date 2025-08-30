@@ -4575,3 +4575,4 @@
 0050. ✨ feat: enable dark mode toggle
 0230. ✨ feat: create admin dashboard
 0575. ✅ test: add unit test for quiz service
+0348. ✅ test: test user registration edge cases
