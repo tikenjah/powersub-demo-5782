@@ -4577,3 +4577,4 @@
 0575. ✅ test: add unit test for quiz service
 0348. ✅ test: test user registration edge cases
 0849. 🐛 fix: correct typo in registration form
+0054. ♻️ chore: update .gitignore
