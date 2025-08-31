@@ -4584,3 +4584,4 @@
 0167. 🚀 perf: reduce image load time
 0262. 🎨 style: remove trailing whitespace
 0283. ♻️ chore: add GitHub actions badge
+0095. ✅ test: mock database connection in test suite
