@@ -10433,3 +10433,4 @@
 0199. ✨ feat: create admin dashboard
 0666. 🐛 fix: fix broken CSS in mobile view
 0359. 🔧 refactor: clean up auth middleware
+0208. 🔧 refactor: clean up auth middleware
