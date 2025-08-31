@@ -4589,3 +4589,4 @@
 0212. 🎨 style: standardize quote style
 0283. ♻️ chore: add GitHub actions badge
 0831. 📚 docs: clarify environment setup
+0436. ✅ test: add integration test for /submit endpoint
