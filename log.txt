@@ -9449,3 +9449,4 @@
 0587. 🔧 refactor: remove redundant code blocks
 0807. 🔧 refactor: remove redundant code blocks
 0911. ✅ test: increase coverage on auth module
+0901. ✨ feat: add user authentication
