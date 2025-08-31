@@ -9452,3 +9452,4 @@
 0901. ✨ feat: add user authentication
 0067. 🔧 refactor: remove redundant code blocks
 0819. 🚀 perf: reduce image load time
+0543. ✨ feat: support email verification
