@@ -8438,3 +8438,4 @@
 0071. 🔧 refactor: refactor quiz grading logic
 0786. ✨ feat: enable dark mode toggle
 0840. 🔧 refactor: refactor quiz grading logic
+0613. 🐛 fix: prevent crash on empty input
