@@ -4602,3 +4602,4 @@
 0305. ✨ feat: enable dark mode toggle
 0795. 📚 docs: update README with setup steps
 0144. ✅ test: increase coverage on auth module
+0969. ✨ feat: create admin dashboard
