@@ -4599,3 +4599,4 @@
 0370. 🚀 perf: reduce image load time
 0733. 🐛 fix: fix null pointer exception on login
 0020. ✅ test: add integration test for /submit endpoint
+0305. ✨ feat: enable dark mode toggle
