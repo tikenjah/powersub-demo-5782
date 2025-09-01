@@ -11438,3 +11438,4 @@
 0976. ✨ feat: implement quiz timer feature
 0591. ♻️ chore: clean up unused files
 0545. 🎨 style: standardize quote style
+0553. 🐛 fix: correct typo in registration form
