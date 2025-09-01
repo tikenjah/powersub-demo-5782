@@ -6090,3 +6090,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0110. 🐛 fix: prevent crash on empty input
 0600. 🐛 fix: prevent crash on empty input
+0351. ✨ feat: add export to CSV option
