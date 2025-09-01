@@ -10435,3 +10435,4 @@
 0359. 🔧 refactor: clean up auth middleware
 0208. 🔧 refactor: clean up auth middleware
 0508. ✅ test: add unit test for quiz service
+0231. 🔧 refactor: clean up auth middleware
