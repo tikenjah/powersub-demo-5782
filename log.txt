@@ -4620,3 +4620,4 @@
 0939. 📚 docs: update README with setup steps
 0117. ✅ test: increase coverage on auth module
 0283. ♻️ chore: add GitHub actions badge
+0617. ✨ feat: support email verification
