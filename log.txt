@@ -4611,3 +4611,4 @@
 0588. 🔧 refactor: organize models into subfolders
 0267. 📚 docs: improve code comments in utils
 0157. ✅ test: mock database connection in test suite
+0547. 📚 docs: write FAQ section
