@@ -6093,3 +6093,4 @@
 0351. ✨ feat: add export to CSV option
 0998. 🐛 fix: fix null pointer exception on login
 0471. ✨ feat: support email verification
+0936. 🔧 refactor: organize models into subfolders
