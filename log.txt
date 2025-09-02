@@ -7443,3 +7443,4 @@
 0964. ♻️ chore: clean up unused files
 0406. ✨ feat: add export to CSV option
 0969. ✨ feat: create admin dashboard
+0544. 🔧 refactor: organize models into subfolders
