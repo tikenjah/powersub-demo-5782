@@ -4632,3 +4632,4 @@
 0079. 🐛 fix: correct typo in registration form
 0149. ✨ feat: add export to CSV option
 0295. 🎨 style: remove trailing whitespace
+0269. ✅ test: test user registration edge cases
