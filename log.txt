@@ -4622,3 +4622,4 @@
 0283. ♻️ chore: add GitHub actions badge
 0617. ✨ feat: support email verification
 0892. ✅ test: add unit test for quiz service
+0754. 🐛 fix: handle 500 error in quiz API
