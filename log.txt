@@ -6094,3 +6094,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0471. ✨ feat: support email verification
 0936. 🔧 refactor: organize models into subfolders
+0885. ♻️ chore: update .gitignore
