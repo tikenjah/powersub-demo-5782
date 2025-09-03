@@ -4635,3 +4635,4 @@
 0269. ✅ test: test user registration edge cases
 0394. 🚀 perf: lazy-load components
 0676. 🐛 fix: prevent crash on empty input
+0623. 🎨 style: standardize quote style
