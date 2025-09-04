@@ -10443,3 +10443,4 @@
 0447. ♻️ chore: bump dependencies
 0121. ✨ feat: support email verification
 0806. 📚 docs: improve code comments in utils
+0189. 📚 docs: clarify environment setup
