@@ -6095,3 +6095,4 @@
 0471. ✨ feat: support email verification
 0936. 🔧 refactor: organize models into subfolders
 0885. ♻️ chore: update .gitignore
+0301. 🎨 style: apply consistent indentation
