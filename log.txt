@@ -10441,3 +10441,4 @@
 0714. 📚 docs: improve code comments in utils
 0034. 📚 docs: improve code comments in utils
 0447. ♻️ chore: bump dependencies
+0121. ✨ feat: support email verification
