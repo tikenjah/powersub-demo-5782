@@ -4669,3 +4669,4 @@
 0128. ♻️ chore: rename env.example
 0135. ✅ test: test user registration edge cases
 0480. ♻️ chore: add GitHub actions badge
+0697. ♻️ chore: bump dependencies
