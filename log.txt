@@ -9462,3 +9462,4 @@
 0450. 🐛 fix: fix broken CSS in mobile view
 0271. ✅ test: add unit test for quiz service
 0808. 🚀 perf: optimize database query for quiz results
+0522. 🐛 fix: handle 500 error in quiz API
