@@ -8446,3 +8446,4 @@
 0454. ♻️ chore: bump dependencies
 0600. 🐛 fix: prevent crash on empty input
 0498. ✅ test: mock database connection in test suite
+0585. 🚀 perf: lazy-load components
