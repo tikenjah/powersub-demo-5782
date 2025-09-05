@@ -4664,3 +4664,4 @@
 0512. 🚀 perf: reduce image load time
 0246. ✅ test: add integration test for /submit endpoint
 0983. 🔧 refactor: split large controller into smaller functions
+0659. 📚 docs: add API usage examples
