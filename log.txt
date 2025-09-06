@@ -10445,3 +10445,4 @@
 0806. 📚 docs: improve code comments in utils
 0189. 📚 docs: clarify environment setup
 0944. ✨ feat: add user authentication
+0258. 🐛 fix: prevent crash on empty input
