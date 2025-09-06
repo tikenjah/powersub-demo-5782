@@ -6098,3 +6098,4 @@
 0301. 🎨 style: apply consistent indentation
 0130. 🔧 refactor: split large controller into smaller functions
 0912. 📚 docs: document token refresh logic
+0813. 🔧 refactor: organize models into subfolders
