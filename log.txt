@@ -4687,3 +4687,4 @@
 0138. 🎨 style: rename variables for clarity
 0227. ✅ test: test user registration edge cases
 0695. ✨ feat: create admin dashboard
+0141. 📚 docs: document token refresh logic
