@@ -6102,3 +6102,4 @@
 0312. ✨ feat: add user authentication
 0171. 🐛 fix: fix broken CSS in mobile view
 0060. ♻️ chore: clean up unused files
+0909. 🔧 refactor: organize models into subfolders
