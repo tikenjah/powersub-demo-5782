@@ -6103,3 +6103,4 @@
 0171. 🐛 fix: fix broken CSS in mobile view
 0060. ♻️ chore: clean up unused files
 0909. 🔧 refactor: organize models into subfolders
+0594. 🎨 style: reformat files with black
