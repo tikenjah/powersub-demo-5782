@@ -4708,3 +4708,4 @@
 0458. ✨ feat: create admin dashboard
 0319. 🐛 fix: handle 500 error in quiz API
 0507. 🔧 refactor: clean up auth middleware
+0750. 🎨 style: apply consistent indentation
