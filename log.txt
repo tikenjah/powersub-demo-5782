@@ -11456,3 +11456,4 @@
 0032. 🎨 style: apply consistent indentation
 0252. 🎨 style: remove trailing whitespace
 0947. 📚 docs: write FAQ section
+0201. 🔧 refactor: clean up auth middleware
