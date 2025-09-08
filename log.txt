@@ -4717,3 +4717,4 @@
 0769. ✨ feat: create admin dashboard
 0718. 🐛 fix: resolve issue with date parsing
 0078. ♻️ chore: update .gitignore
+0219. ✅ test: increase coverage on auth module
