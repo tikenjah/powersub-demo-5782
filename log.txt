@@ -4713,3 +4713,4 @@
 0118. 🚀 perf: reduce image load time
 0307. ✨ feat: support email verification
 0735. ♻️ chore: add GitHub actions badge
+0794. ♻️ chore: clean up unused files
