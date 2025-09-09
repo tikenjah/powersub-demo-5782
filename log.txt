@@ -11460,3 +11460,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0186. ✅ test: test user registration edge cases
 0404. 📚 docs: improve code comments in utils
+0186. ✅ test: test user registration edge cases
