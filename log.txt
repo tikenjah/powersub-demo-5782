@@ -4736,3 +4736,4 @@
 0615. 🐛 fix: correct typo in registration form
 0318. 🔧 refactor: refactor quiz grading logic
 0285. 🐛 fix: resolve issue with date parsing
+0721. 🚀 perf: optimize database query for quiz results
