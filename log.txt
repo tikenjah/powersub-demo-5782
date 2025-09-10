@@ -4744,3 +4744,4 @@
 0651. ✨ feat: enable dark mode toggle
 0397. 🐛 fix: handle 500 error in quiz API
 0005. ✅ test: add unit test for quiz service
+0758. 🚀 perf: optimize database query for quiz results
