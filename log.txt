@@ -7463,3 +7463,4 @@
 0119. 📚 docs: improve code comments in utils
 0766. 🎨 style: reformat files with black
 0519. 📚 docs: document token refresh logic
+0488. ♻️ chore: add GitHub actions badge
