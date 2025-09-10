@@ -4742,3 +4742,4 @@
 0223. 🔧 refactor: remove redundant code blocks
 0288. 🔧 refactor: refactor quiz grading logic
 0651. ✨ feat: enable dark mode toggle
+0397. 🐛 fix: handle 500 error in quiz API
