@@ -6109,3 +6109,4 @@
 0102. ✨ feat: support email verification
 0822. 🔧 refactor: remove redundant code blocks
 0832. 🔧 refactor: remove redundant code blocks
+0786. ✨ feat: enable dark mode toggle
