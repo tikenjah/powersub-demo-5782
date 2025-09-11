@@ -4759,3 +4759,4 @@
 0919. 🚀 perf: optimize database query for quiz results
 0383. 🐛 fix: fix broken CSS in mobile view
 0658. 🎨 style: rename variables for clarity
+0973. 🔧 refactor: organize models into subfolders
