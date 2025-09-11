@@ -6110,3 +6110,4 @@
 0822. 🔧 refactor: remove redundant code blocks
 0832. 🔧 refactor: remove redundant code blocks
 0786. ✨ feat: enable dark mode toggle
+0876. ♻️ chore: rename env.example
