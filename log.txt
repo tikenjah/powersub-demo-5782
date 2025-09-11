@@ -4762,3 +4762,4 @@
 0973. 🔧 refactor: organize models into subfolders
 0287. 📚 docs: write FAQ section
 0700. 🎨 style: rename variables for clarity
+0114. ♻️ chore: update .gitignore
