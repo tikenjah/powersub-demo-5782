@@ -4783,3 +4783,4 @@
 0816. 🔧 refactor: organize models into subfolders
 0076. 🎨 style: reformat files with black
 0481. ✅ test: add unit test for quiz service
+0297. 🎨 style: remove trailing whitespace
