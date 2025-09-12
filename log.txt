@@ -8459,3 +8459,4 @@
 0165. 🎨 style: remove trailing whitespace
 0170. ✅ test: increase coverage on auth module
 0318. 🔧 refactor: refactor quiz grading logic
+0747. 🔧 refactor: clean up auth middleware
