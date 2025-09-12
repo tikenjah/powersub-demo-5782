@@ -10471,3 +10471,4 @@
 0519. 📚 docs: document token refresh logic
 0818. 🔧 refactor: remove redundant code blocks
 0217. 🚀 perf: reduce image load time
+0795. 📚 docs: update README with setup steps
