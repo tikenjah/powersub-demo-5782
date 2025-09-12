@@ -4785,3 +4785,4 @@
 0481. ✅ test: add unit test for quiz service
 0297. 🎨 style: remove trailing whitespace
 0148. 🔧 refactor: organize models into subfolders
+0730. ✅ test: test user registration edge cases
