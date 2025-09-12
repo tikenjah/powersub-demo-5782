@@ -4789,3 +4789,4 @@
 0532. 🔧 refactor: split large controller into smaller functions
 0458. ✨ feat: create admin dashboard
 0660. 🐛 fix: correct typo in registration form
+0121. ✨ feat: support email verification
