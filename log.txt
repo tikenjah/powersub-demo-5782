@@ -9475,3 +9475,4 @@
 0468. 📚 docs: update README with setup steps
 0229. 🚀 perf: optimize database query for quiz results
 0461. ✨ feat: add user authentication
+0270. ♻️ chore: rename env.example
