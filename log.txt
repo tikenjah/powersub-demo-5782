@@ -10475,3 +10475,4 @@
 0295. 🎨 style: remove trailing whitespace
 0514. 🐛 fix: fix broken CSS in mobile view
 0997. ✅ test: increase coverage on auth module
+0719. 🎨 style: apply consistent indentation
