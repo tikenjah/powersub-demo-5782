@@ -7474,3 +7474,4 @@
 0054. ♻️ chore: update .gitignore
 0998. 🐛 fix: fix null pointer exception on login
 0745. ✅ test: add unit test for quiz service
+0281. ✨ feat: support email verification
