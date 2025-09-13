@@ -4797,3 +4797,4 @@
 0122. ✨ feat: support email verification
 0420. 🚀 perf: reduce image load time
 0486. ✨ feat: add export to CSV option
+0134. ✨ feat: implement quiz timer feature
