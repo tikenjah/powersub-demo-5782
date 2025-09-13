@@ -9477,3 +9477,4 @@
 0461. ✨ feat: add user authentication
 0270. ♻️ chore: rename env.example
 0754. 🐛 fix: handle 500 error in quiz API
+0041. 🐛 fix: fix broken CSS in mobile view
