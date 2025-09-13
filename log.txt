@@ -9482,3 +9482,4 @@
 0736. 🐛 fix: fix null pointer exception on login
 0738. 🐛 fix: prevent crash on empty input
 0678. ✨ feat: add user authentication
+0355. 🚀 perf: optimize database query for quiz results
