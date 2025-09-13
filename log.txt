@@ -4799,3 +4799,4 @@
 0486. ✨ feat: add export to CSV option
 0134. ✨ feat: implement quiz timer feature
 0343. 🚀 perf: optimize database query for quiz results
+0899. 🚀 perf: cache repeated calculations
