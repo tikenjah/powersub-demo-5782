@@ -7472,3 +7472,4 @@
 0620. ✨ feat: implement quiz timer feature
 0351. ✨ feat: add export to CSV option
 0054. ♻️ chore: update .gitignore
+0998. 🐛 fix: fix null pointer exception on login
