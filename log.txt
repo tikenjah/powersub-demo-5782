@@ -4794,3 +4794,4 @@
 0578. ✅ test: add integration test for /submit endpoint
 0786. ✨ feat: enable dark mode toggle
 0052. 🎨 style: standardize quote style
+0122. ✨ feat: support email verification
