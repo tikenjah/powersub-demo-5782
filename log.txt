@@ -4819,3 +4819,4 @@
 0374. 🎨 style: standardize quote style
 0596. ♻️ chore: update .gitignore
 0730. ✅ test: test user registration edge cases
+0848. 📚 docs: update README with setup steps
