@@ -4823,3 +4823,4 @@
 0566. 📚 docs: write FAQ section
 0347. ♻️ chore: update .gitignore
 0476. 🚀 perf: reduce image load time
+0313. 🎨 style: apply consistent indentation
