@@ -4821,3 +4821,4 @@
 0730. ✅ test: test user registration edge cases
 0848. 📚 docs: update README with setup steps
 0566. 📚 docs: write FAQ section
+0347. ♻️ chore: update .gitignore
