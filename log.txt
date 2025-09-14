@@ -7476,3 +7476,4 @@
 0745. ✅ test: add unit test for quiz service
 0281. ✨ feat: support email verification
 0533. ♻️ chore: add GitHub actions badge
+0297. 🎨 style: remove trailing whitespace
