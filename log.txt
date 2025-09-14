@@ -6117,3 +6117,4 @@
 0522. 🐛 fix: handle 500 error in quiz API
 0181. ♻️ chore: add GitHub actions badge
 0642. 🚀 perf: optimize database query for quiz results
+0665. ♻️ chore: update .gitignore
