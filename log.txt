@@ -4817,3 +4817,4 @@
 0158. 📚 docs: clarify environment setup
 0015. ✨ feat: implement quiz timer feature
 0374. 🎨 style: standardize quote style
+0596. ♻️ chore: update .gitignore
