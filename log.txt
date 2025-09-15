@@ -7477,3 +7477,4 @@
 0281. ✨ feat: support email verification
 0533. ♻️ chore: add GitHub actions badge
 0297. 🎨 style: remove trailing whitespace
+0091. ✨ feat: add user authentication
