@@ -4832,3 +4832,4 @@
 0645. 🐛 fix: resolve issue with date parsing
 0242. ♻️ chore: clean up unused files
 0911. ✅ test: increase coverage on auth module
+0680. ♻️ chore: add GitHub actions badge
