@@ -10485,3 +10485,4 @@
 0553. 🐛 fix: correct typo in registration form
 0367. 🐛 fix: fix null pointer exception on login
 0819. 🚀 perf: reduce image load time
+0091. ✨ feat: add user authentication
