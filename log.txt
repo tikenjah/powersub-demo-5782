@@ -4827,3 +4827,4 @@
 0894. ✅ test: add integration test for /submit endpoint
 0915. 🚀 perf: cache repeated calculations
 0143. ✨ feat: implement quiz timer feature
+0877. 🚀 perf: optimize database query for quiz results
