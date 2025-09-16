@@ -8468,3 +8468,4 @@
 0743. 🎨 style: apply consistent indentation
 0630. 🚀 perf: lazy-load components
 0076. 🎨 style: reformat files with black
+0345. 📚 docs: document token refresh logic
