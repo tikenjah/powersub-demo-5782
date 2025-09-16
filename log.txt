@@ -7478,3 +7478,4 @@
 0533. ♻️ chore: add GitHub actions badge
 0297. 🎨 style: remove trailing whitespace
 0091. ✨ feat: add user authentication
+0870. ♻️ chore: clean up unused files
