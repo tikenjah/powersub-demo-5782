@@ -6125,3 +6125,4 @@
 0925. ✨ feat: add export to CSV option
 0690. 🚀 perf: lazy-load components
 0286. ✅ test: mock database connection in test suite
+0483. 📚 docs: update README with setup steps
