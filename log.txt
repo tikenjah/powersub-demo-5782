@@ -4834,3 +4834,4 @@
 0911. ✅ test: increase coverage on auth module
 0680. ♻️ chore: add GitHub actions badge
 0679. ♻️ chore: bump dependencies
+0460. 📚 docs: write FAQ section
