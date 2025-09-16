@@ -7480,3 +7480,4 @@
 0091. ✨ feat: add user authentication
 0870. ♻️ chore: clean up unused files
 0799. ♻️ chore: clean up unused files
+0696. 🔧 refactor: clean up auth middleware
