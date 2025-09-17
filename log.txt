@@ -11478,3 +11478,4 @@
 0360. ✨ feat: add export to CSV option
 0591. ♻️ chore: clean up unused files
 0744. 🔧 refactor: remove redundant code blocks
+0196. ♻️ chore: bump dependencies
