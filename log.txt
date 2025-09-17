@@ -4847,3 +4847,4 @@
 0965. 🎨 style: reformat files with black
 0999. 🔧 refactor: split large controller into smaller functions
 0624. ✅ test: add unit test for quiz service
+0281. ✨ feat: support email verification
