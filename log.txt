@@ -4861,3 +4861,4 @@
 0221. ✨ feat: add user authentication
 0950. 🎨 style: reformat files with black
 0011. ✅ test: add unit test for quiz service
+0914. ✅ test: test user registration edge cases
