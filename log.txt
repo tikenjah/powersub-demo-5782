@@ -7481,3 +7481,4 @@
 0870. ♻️ chore: clean up unused files
 0799. ♻️ chore: clean up unused files
 0696. 🔧 refactor: clean up auth middleware
+0710. 🐛 fix: fix broken CSS in mobile view
