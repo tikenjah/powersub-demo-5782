@@ -8470,3 +8470,4 @@
 0076. 🎨 style: reformat files with black
 0345. 📚 docs: document token refresh logic
 0475. 🔧 refactor: clean up auth middleware
+0074. ♻️ chore: add GitHub actions badge
