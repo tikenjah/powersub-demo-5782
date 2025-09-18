@@ -4871,3 +4871,4 @@
 0516. ✅ test: add unit test for quiz service
 0258. 🐛 fix: prevent crash on empty input
 0038. 🎨 style: rename variables for clarity
+0484. 🐛 fix: handle 500 error in quiz API
