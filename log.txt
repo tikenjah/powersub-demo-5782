@@ -184,3 +184,4 @@
 0985. 📚 docs: document token refresh logic
 0925. ✨ feat: add export to CSV option
 0785. ✨ feat: enable dark mode toggle
+0307. ✨ feat: support email verification
