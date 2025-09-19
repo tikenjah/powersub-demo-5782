@@ -7484,3 +7484,4 @@
 0710. 🐛 fix: fix broken CSS in mobile view
 0977. 🔧 refactor: organize models into subfolders
 0018. 🔧 refactor: organize models into subfolders
+0876. ♻️ chore: rename env.example
