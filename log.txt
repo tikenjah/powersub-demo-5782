@@ -4879,3 +4879,4 @@
 0284. ✨ feat: implement quiz timer feature
 0430. 🐛 fix: fix null pointer exception on login
 0707. 🎨 style: apply consistent indentation
+0785. ✨ feat: enable dark mode toggle
