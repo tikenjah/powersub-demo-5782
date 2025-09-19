@@ -8475,3 +8475,4 @@
 0569. 📚 docs: document token refresh logic
 0347. ♻️ chore: update .gitignore
 0324. 📚 docs: document token refresh logic
+0226. 🚀 perf: lazy-load components
