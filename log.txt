@@ -4875,3 +4875,4 @@
 0053. ✅ test: increase coverage on auth module
 0904. ✨ feat: implement quiz timer feature
 0742. 📚 docs: clarify environment setup
+0121. ✨ feat: support email verification
