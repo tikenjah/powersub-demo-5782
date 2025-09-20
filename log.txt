@@ -4890,3 +4890,4 @@
 0589. 🐛 fix: fix broken CSS in mobile view
 0922. 📚 docs: write FAQ section
 0968. 🎨 style: standardize quote style
+0732. ♻️ chore: add GitHub actions badge
