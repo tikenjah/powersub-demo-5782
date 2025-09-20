@@ -8478,3 +8478,4 @@
 0226. 🚀 perf: lazy-load components
 0961. 📚 docs: add API usage examples
 0964. ♻️ chore: clean up unused files
+0751. 🐛 fix: handle 500 error in quiz API
