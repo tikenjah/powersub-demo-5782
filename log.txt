@@ -4903,3 +4903,4 @@
 0268. 🐛 fix: prevent crash on empty input
 0207. 🐛 fix: prevent crash on empty input
 0588. 🔧 refactor: organize models into subfolders
+0580. ♻️ chore: bump dependencies
