@@ -11490,3 +11490,4 @@
 0432. 🎨 style: apply consistent indentation
 0376. 🎨 style: apply consistent indentation
 0617. ✨ feat: support email verification
+0525. ✅ test: mock database connection in test suite
