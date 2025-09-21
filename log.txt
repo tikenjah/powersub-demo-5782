@@ -8482,3 +8482,4 @@
 0605. ✨ feat: support email verification
 0843. 📚 docs: document token refresh logic
 0745. ✅ test: add unit test for quiz service
+0996. ✅ test: test user registration edge cases
