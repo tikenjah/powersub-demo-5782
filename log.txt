@@ -10499,3 +10499,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0763. 🔧 refactor: organize models into subfolders
 0532. 🔧 refactor: split large controller into smaller functions
+0406. ✨ feat: add export to CSV option
