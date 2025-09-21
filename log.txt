@@ -11489,3 +11489,4 @@
 0389. 📚 docs: improve code comments in utils
 0432. 🎨 style: apply consistent indentation
 0376. 🎨 style: apply consistent indentation
+0617. ✨ feat: support email verification
