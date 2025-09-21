@@ -8481,3 +8481,4 @@
 0751. 🐛 fix: handle 500 error in quiz API
 0605. ✨ feat: support email verification
 0843. 📚 docs: document token refresh logic
+0745. ✅ test: add unit test for quiz service
