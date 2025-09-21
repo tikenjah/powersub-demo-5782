@@ -4914,3 +4914,4 @@
 0774. 🔧 refactor: refactor quiz grading logic
 0207. 🐛 fix: prevent crash on empty input
 0717. 🔧 refactor: refactor quiz grading logic
+0520. 🐛 fix: fix null pointer exception on login
