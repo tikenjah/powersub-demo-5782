@@ -187,3 +187,4 @@
 0307. ✨ feat: support email verification
 0887. 📚 docs: add API usage examples
 0151. ✅ test: add unit test for quiz service
+0157. ✅ test: mock database connection in test suite
