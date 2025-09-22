@@ -7496,3 +7496,4 @@
 0333. 🚀 perf: cache repeated calculations
 0871. ✅ test: add integration test for /submit endpoint
 0042. 📚 docs: document token refresh logic
+0804. ♻️ chore: add GitHub actions badge
