@@ -4925,3 +4925,4 @@
 0107. 🐛 fix: prevent crash on empty input
 0507. 🔧 refactor: clean up auth middleware
 0021. ✨ feat: support email verification
+0576. ♻️ chore: update .gitignore
