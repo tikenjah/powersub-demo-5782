@@ -6143,3 +6143,4 @@
 0141. 📚 docs: document token refresh logic
 0557. 🔧 refactor: clean up auth middleware
 0095. ✅ test: mock database connection in test suite
+0406. ✨ feat: add export to CSV option
