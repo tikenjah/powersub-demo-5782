@@ -4930,3 +4930,4 @@
 0242. ♻️ chore: clean up unused files
 0976. ✨ feat: implement quiz timer feature
 0989. 📚 docs: write FAQ section
+0433. 🐛 fix: prevent crash on empty input
