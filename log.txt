@@ -6141,3 +6141,4 @@
 0802. 🔧 refactor: remove redundant code blocks
 0285. 🐛 fix: resolve issue with date parsing
 0141. 📚 docs: document token refresh logic
+0557. 🔧 refactor: clean up auth middleware
