@@ -4941,3 +4941,4 @@
 0892. ✅ test: add unit test for quiz service
 0123. ✨ feat: implement quiz timer feature
 0568. 🐛 fix: handle 500 error in quiz API
+0942. ✅ test: increase coverage on auth module
