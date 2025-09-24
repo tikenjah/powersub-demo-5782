@@ -8494,3 +8494,4 @@
 0641. 📚 docs: write FAQ section
 0535. 📚 docs: write FAQ section
 0735. ♻️ chore: add GitHub actions badge
+0042. 📚 docs: document token refresh logic
