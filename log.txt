@@ -4953,3 +4953,4 @@
 0399. ✅ test: mock database connection in test suite
 0697. ♻️ chore: bump dependencies
 0773. 📚 docs: document token refresh logic
+0795. 📚 docs: update README with setup steps
