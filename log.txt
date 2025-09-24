@@ -8495,3 +8495,4 @@
 0535. 📚 docs: write FAQ section
 0735. ♻️ chore: add GitHub actions badge
 0042. 📚 docs: document token refresh logic
+0496. ✅ test: add integration test for /submit endpoint
