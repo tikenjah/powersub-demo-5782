@@ -4952,3 +4952,4 @@
 0035. ✅ test: increase coverage on auth module
 0399. ✅ test: mock database connection in test suite
 0697. ♻️ chore: bump dependencies
+0773. 📚 docs: document token refresh logic
