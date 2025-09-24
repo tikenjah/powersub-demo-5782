@@ -4938,3 +4938,4 @@
 0265. 🎨 style: reformat files with black
 0030. 🐛 fix: fix null pointer exception on login
 0646. ✅ test: test user registration edge cases
+0892. ✅ test: add unit test for quiz service
