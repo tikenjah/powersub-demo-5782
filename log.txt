@@ -10509,3 +10509,4 @@
 0843. 📚 docs: document token refresh logic
 0407. 🚀 perf: cache repeated calculations
 0116. ✨ feat: support email verification
+0787. ♻️ chore: rename env.example
