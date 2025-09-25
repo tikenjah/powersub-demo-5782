@@ -4957,3 +4957,4 @@
 0756. ✨ feat: support email verification
 0211. 🔧 refactor: remove redundant code blocks
 0933. 📚 docs: clarify environment setup
+0258. 🐛 fix: prevent crash on empty input
