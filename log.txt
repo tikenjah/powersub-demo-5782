@@ -6145,3 +6145,4 @@
 0095. ✅ test: mock database connection in test suite
 0406. ✨ feat: add export to CSV option
 0778. 📚 docs: write FAQ section
+0177. 📚 docs: add API usage examples
