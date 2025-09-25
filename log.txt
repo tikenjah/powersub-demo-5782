@@ -8500,3 +8500,4 @@
 0499. 🎨 style: reformat files with black
 0858. ♻️ chore: clean up unused files
 0155. ✨ feat: create admin dashboard
+0424. ✨ feat: add user authentication
