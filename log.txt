@@ -8501,3 +8501,4 @@
 0858. ♻️ chore: clean up unused files
 0155. ✨ feat: create admin dashboard
 0424. ✨ feat: add user authentication
+0942. ✅ test: increase coverage on auth module
