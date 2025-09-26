@@ -8504,3 +8504,4 @@
 0942. ✅ test: increase coverage on auth module
 0493. ✨ feat: add user authentication
 0006. 🐛 fix: prevent crash on empty input
+0213. ✅ test: add integration test for /submit endpoint
