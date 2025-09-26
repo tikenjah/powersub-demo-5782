@@ -8502,3 +8502,4 @@
 0155. ✨ feat: create admin dashboard
 0424. ✨ feat: add user authentication
 0942. ✅ test: increase coverage on auth module
+0493. ✨ feat: add user authentication
