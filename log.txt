@@ -10512,3 +10512,4 @@
 0787. ♻️ chore: rename env.example
 0346. ✅ test: mock database connection in test suite
 0084. 🐛 fix: handle 500 error in quiz API
+0271. ✅ test: add unit test for quiz service
