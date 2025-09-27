@@ -11505,3 +11505,4 @@
 0114. ♻️ chore: update .gitignore
 0888. 🚀 perf: lazy-load components
 0796. 🔧 refactor: refactor quiz grading logic
+0613. 🐛 fix: prevent crash on empty input
