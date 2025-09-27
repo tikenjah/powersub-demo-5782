@@ -6150,3 +6150,4 @@
 0585. 🚀 perf: lazy-load components
 0162. ♻️ chore: add GitHub actions badge
 0561. 📚 docs: write FAQ section
+0286. ✅ test: mock database connection in test suite
