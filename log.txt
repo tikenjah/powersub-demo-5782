@@ -10515,3 +10515,4 @@
 0271. ✅ test: add unit test for quiz service
 0596. ♻️ chore: update .gitignore
 0630. 🚀 perf: lazy-load components
+0256. ✅ test: mock database connection in test suite
