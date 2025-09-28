@@ -5005,3 +5005,4 @@
 0108. 🎨 style: remove trailing whitespace
 0587. 🔧 refactor: remove redundant code blocks
 0947. 📚 docs: write FAQ section
+0349. ✅ test: increase coverage on auth module
