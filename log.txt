@@ -6151,3 +6151,4 @@
 0162. ♻️ chore: add GitHub actions badge
 0561. 📚 docs: write FAQ section
 0286. ✅ test: mock database connection in test suite
+0567. 📚 docs: add API usage examples
