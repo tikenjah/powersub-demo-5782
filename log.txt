@@ -11508,3 +11508,4 @@
 0613. 🐛 fix: prevent crash on empty input
 0615. 🐛 fix: correct typo in registration form
 0239. 🎨 style: standardize quote style
+0357. ✅ test: add unit test for quiz service
