@@ -10514,3 +10514,4 @@
 0084. 🐛 fix: handle 500 error in quiz API
 0271. ✅ test: add unit test for quiz service
 0596. ♻️ chore: update .gitignore
+0630. 🚀 perf: lazy-load components
