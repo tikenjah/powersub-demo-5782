@@ -5007,3 +5007,4 @@
 0947. 📚 docs: write FAQ section
 0349. ✅ test: increase coverage on auth module
 0103. 🔧 refactor: remove redundant code blocks
+0564. 📚 docs: clarify environment setup
