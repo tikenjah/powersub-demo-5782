@@ -5009,3 +5009,4 @@
 0103. 🔧 refactor: remove redundant code blocks
 0564. 📚 docs: clarify environment setup
 0017. ✅ test: mock database connection in test suite
+0947. 📚 docs: write FAQ section
