@@ -9519,3 +9519,4 @@
 0770. ♻️ chore: rename env.example
 0802. 🔧 refactor: remove redundant code blocks
 0900. 🐛 fix: handle 500 error in quiz API
+0451. ✨ feat: support email verification
