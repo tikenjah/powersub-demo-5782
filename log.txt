@@ -6156,3 +6156,4 @@
 0365. 🚀 perf: reduce image load time
 0863. 🐛 fix: correct typo in registration form
 0965. 🎨 style: reformat files with black
+0167. 🚀 perf: reduce image load time
