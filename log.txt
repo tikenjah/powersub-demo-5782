@@ -10518,3 +10518,4 @@
 0256. ✅ test: mock database connection in test suite
 0194. 🎨 style: standardize quote style
 0162. ♻️ chore: add GitHub actions badge
+0151. ✅ test: add unit test for quiz service
