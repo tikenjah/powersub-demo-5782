@@ -9517,3 +9517,4 @@
 0200. 🐛 fix: handle 500 error in quiz API
 0523. ♻️ chore: bump dependencies
 0770. ♻️ chore: rename env.example
+0802. 🔧 refactor: remove redundant code blocks
