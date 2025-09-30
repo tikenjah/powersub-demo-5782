@@ -5020,3 +5020,4 @@
 0500. ✅ test: add integration test for /submit endpoint
 0475. 🔧 refactor: clean up auth middleware
 0122. ✨ feat: support email verification
+0489. 🔧 refactor: organize models into subfolders
