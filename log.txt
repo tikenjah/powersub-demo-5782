@@ -5025,3 +5025,4 @@
 0076. 🎨 style: reformat files with black
 0252. 🎨 style: remove trailing whitespace
 0774. 🔧 refactor: refactor quiz grading logic
+0599. ✅ test: test user registration edge cases
