@@ -5035,3 +5035,4 @@
 0906. 📚 docs: add API usage examples
 0941. 🚀 perf: cache repeated calculations
 0312. ✨ feat: add user authentication
+0198. 📚 docs: clarify environment setup
