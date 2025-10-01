@@ -7512,3 +7512,4 @@
 0520. 🐛 fix: fix null pointer exception on login
 0705. 🔧 refactor: refactor quiz grading logic
 0260. ✨ feat: create admin dashboard
+0355. 🚀 perf: optimize database query for quiz results
