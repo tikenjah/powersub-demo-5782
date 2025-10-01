@@ -5028,3 +5028,4 @@
 0599. ✅ test: test user registration edge cases
 0837. 🚀 perf: cache repeated calculations
 0433. 🐛 fix: prevent crash on empty input
+0775. 🐛 fix: fix null pointer exception on login
