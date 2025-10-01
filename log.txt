@@ -5044,3 +5044,4 @@
 0296. 🔧 refactor: organize models into subfolders
 0281. ✨ feat: support email verification
 0746. ♻️ chore: add GitHub actions badge
+0287. 📚 docs: write FAQ section
