@@ -8516,3 +8516,4 @@
 0217. 🚀 perf: reduce image load time
 0148. 🔧 refactor: organize models into subfolders
 0661. ✅ test: add integration test for /submit endpoint
+0617. ✨ feat: support email verification
