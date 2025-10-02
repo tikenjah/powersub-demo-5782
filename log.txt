@@ -7517,3 +7517,4 @@
 0721. 🚀 perf: optimize database query for quiz results
 0001. 🚀 perf: cache repeated calculations
 0103. 🔧 refactor: remove redundant code blocks
+0395. 📚 docs: write FAQ section
