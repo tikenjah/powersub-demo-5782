@@ -5064,3 +5064,4 @@
 0501. ✨ feat: add export to CSV option
 0720. ✨ feat: add export to CSV option
 0803. ✅ test: mock database connection in test suite
+0051. ✨ feat: enable dark mode toggle
