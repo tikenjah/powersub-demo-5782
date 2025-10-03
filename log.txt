@@ -10524,3 +10524,4 @@
 0240. 🔧 refactor: remove redundant code blocks
 0703. 🔧 refactor: clean up auth middleware
 0023. 📚 docs: clarify environment setup
+0677. 📚 docs: add API usage examples
