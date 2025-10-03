@@ -5074,3 +5074,4 @@
 0876. ♻️ chore: rename env.example
 0912. 📚 docs: document token refresh logic
 0002. 🚀 perf: cache repeated calculations
+0162. ♻️ chore: add GitHub actions badge
