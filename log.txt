@@ -6167,3 +6167,4 @@
 0558. ✨ feat: enable dark mode toggle
 0856. 🐛 fix: fix null pointer exception on login
 0835. 🐛 fix: prevent crash on empty input
+0072. 🚀 perf: optimize database query for quiz results
