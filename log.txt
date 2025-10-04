@@ -7523,3 +7523,4 @@
 0992. ♻️ chore: clean up unused files
 0208. 🔧 refactor: clean up auth middleware
 0243. 🔧 refactor: clean up auth middleware
+0080. ✨ feat: support email verification
