@@ -7524,3 +7524,4 @@
 0208. 🔧 refactor: clean up auth middleware
 0243. 🔧 refactor: clean up auth middleware
 0080. ✨ feat: support email verification
+0096. 🐛 fix: prevent crash on empty input
