@@ -6174,3 +6174,4 @@
 0087. ✨ feat: add export to CSV option
 0907. 🔧 refactor: split large controller into smaller functions
 0998. 🐛 fix: fix null pointer exception on login
+0144. ✅ test: increase coverage on auth module
