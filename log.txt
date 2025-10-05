@@ -6175,3 +6175,4 @@
 0907. 🔧 refactor: split large controller into smaller functions
 0998. 🐛 fix: fix null pointer exception on login
 0144. ✅ test: increase coverage on auth module
+0598. 🔧 refactor: remove redundant code blocks
