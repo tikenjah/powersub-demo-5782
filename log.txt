@@ -5098,3 +5098,4 @@
 0261. 🔧 refactor: refactor quiz grading logic
 0225. 🚀 perf: reduce image load time
 0793. 📚 docs: clarify environment setup
+0429. ✨ feat: add user authentication
