@@ -5101,3 +5101,4 @@
 0429. ✨ feat: add user authentication
 0342. 🚀 perf: cache repeated calculations
 0598. 🔧 refactor: remove redundant code blocks
+0257. 📚 docs: clarify environment setup
