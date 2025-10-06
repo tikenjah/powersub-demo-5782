@@ -5105,3 +5105,4 @@
 0198. 📚 docs: clarify environment setup
 0175. 📚 docs: add API usage examples
 0814. 🔧 refactor: remove redundant code blocks
+0804. ♻️ chore: add GitHub actions badge
