@@ -5115,3 +5115,4 @@
 0694. 🎨 style: rename variables for clarity
 0727. ♻️ chore: add GitHub actions badge
 0041. 🐛 fix: fix broken CSS in mobile view
+0278. 🔧 refactor: clean up auth middleware
