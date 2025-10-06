@@ -7532,3 +7532,4 @@
 0265. 🎨 style: reformat files with black
 0686. 🎨 style: standardize quote style
 0203. 🚀 perf: lazy-load components
+0676. 🐛 fix: prevent crash on empty input
