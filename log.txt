@@ -8526,3 +8526,4 @@
 0150. 🎨 style: remove trailing whitespace
 0628. ♻️ chore: add GitHub actions badge
 0250. 📚 docs: update README with setup steps
+0926. 🔧 refactor: organize models into subfolders
