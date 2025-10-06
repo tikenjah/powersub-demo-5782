@@ -5114,3 +5114,4 @@
 0569. 📚 docs: document token refresh logic
 0694. 🎨 style: rename variables for clarity
 0727. ♻️ chore: add GitHub actions badge
+0041. 🐛 fix: fix broken CSS in mobile view
