@@ -6176,3 +6176,4 @@
 0998. 🐛 fix: fix null pointer exception on login
 0144. ✅ test: increase coverage on auth module
 0598. 🔧 refactor: remove redundant code blocks
+0625. 🐛 fix: handle 500 error in quiz API
