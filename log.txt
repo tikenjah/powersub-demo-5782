@@ -5108,3 +5108,4 @@
 0804. ♻️ chore: add GitHub actions badge
 0800. 🚀 perf: optimize database query for quiz results
 0968. 🎨 style: standardize quote style
+0524. ♻️ chore: rename env.example
