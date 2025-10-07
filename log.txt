@@ -5139,3 +5139,4 @@
 0676. 🐛 fix: prevent crash on empty input
 0536. ✨ feat: add user authentication
 0936. 🔧 refactor: organize models into subfolders
+0649. 📚 docs: update README with setup steps
