@@ -5151,3 +5151,4 @@
 0886. ♻️ chore: clean up unused files
 0818. 🔧 refactor: remove redundant code blocks
 0132. ✅ test: add unit test for quiz service
+0801. ✨ feat: enable dark mode toggle
