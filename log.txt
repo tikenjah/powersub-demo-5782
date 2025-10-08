@@ -6188,3 +6188,4 @@
 0597. 🚀 perf: cache repeated calculations
 0360. ✨ feat: add export to CSV option
 0792. 🎨 style: standardize quote style
+0025. 🚀 perf: optimize database query for quiz results
