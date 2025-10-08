@@ -5155,3 +5155,4 @@
 0196. ♻️ chore: bump dependencies
 0306. 🎨 style: apply consistent indentation
 0716. ✨ feat: implement quiz timer feature
+0378. 🐛 fix: prevent crash on empty input
