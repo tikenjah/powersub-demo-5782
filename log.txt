@@ -7539,3 +7539,4 @@
 0465. 🎨 style: rename variables for clarity
 0141. 📚 docs: document token refresh logic
 0617. ✨ feat: support email verification
+0501. ✨ feat: add export to CSV option
