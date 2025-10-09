@@ -8534,3 +8534,4 @@
 0640. ♻️ chore: bump dependencies
 0641. 📚 docs: write FAQ section
 0724. ✅ test: mock database connection in test suite
+0795. 📚 docs: update README with setup steps
