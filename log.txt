@@ -5177,3 +5177,4 @@
 0384. 📚 docs: clarify environment setup
 0680. ♻️ chore: add GitHub actions badge
 0171. 🐛 fix: fix broken CSS in mobile view
+0633. ✨ feat: add user authentication
