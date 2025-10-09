@@ -5174,3 +5174,4 @@
 0834. ✅ test: increase coverage on auth module
 0686. 🎨 style: standardize quote style
 0984. ♻️ chore: clean up unused files
+0384. 📚 docs: clarify environment setup
