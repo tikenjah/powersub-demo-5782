@@ -10537,3 +10537,4 @@
 0999. 🔧 refactor: split large controller into smaller functions
 0069. 🎨 style: rename variables for clarity
 0925. ✨ feat: add export to CSV option
+0995. ✅ test: mock database connection in test suite
