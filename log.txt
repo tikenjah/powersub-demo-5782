@@ -8537,3 +8537,4 @@
 0795. 📚 docs: update README with setup steps
 0731. 🎨 style: standardize quote style
 0066. 🔧 refactor: clean up auth middleware
+0041. 🐛 fix: fix broken CSS in mobile view
