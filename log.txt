@@ -5165,3 +5165,4 @@
 0145. 📚 docs: improve code comments in utils
 0175. 📚 docs: add API usage examples
 0724. ✅ test: mock database connection in test suite
+0788. 📚 docs: add API usage examples
