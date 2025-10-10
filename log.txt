@@ -6195,3 +6195,4 @@
 0806. 📚 docs: improve code comments in utils
 0695. ✨ feat: create admin dashboard
 0989. 📚 docs: write FAQ section
+0918. ✨ feat: enable dark mode toggle
