@@ -6197,3 +6197,4 @@
 0989. 📚 docs: write FAQ section
 0918. ✨ feat: enable dark mode toggle
 0890. 🔧 refactor: organize models into subfolders
+0395. 📚 docs: write FAQ section
