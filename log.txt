@@ -10539,3 +10539,4 @@
 0925. ✨ feat: add export to CSV option
 0995. ✅ test: mock database connection in test suite
 0085. ✨ feat: support email verification
+0842. 🎨 style: remove trailing whitespace
