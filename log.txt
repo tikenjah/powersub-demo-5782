@@ -8541,3 +8541,4 @@
 0784. ♻️ chore: clean up unused files
 0506. 🐛 fix: handle 500 error in quiz API
 0365. 🚀 perf: reduce image load time
+0009. ✨ feat: enable dark mode toggle
