@@ -5183,3 +5183,4 @@
 0647. 🐛 fix: prevent crash on empty input
 0527. 🎨 style: remove trailing whitespace
 0132. ✅ test: add unit test for quiz service
+0029. 🚀 perf: lazy-load components
