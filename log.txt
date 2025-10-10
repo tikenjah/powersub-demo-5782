@@ -5186,3 +5186,4 @@
 0029. 🚀 perf: lazy-load components
 0599. ✅ test: test user registration edge cases
 0816. 🔧 refactor: organize models into subfolders
+0133. 🐛 fix: fix null pointer exception on login
