@@ -8540,3 +8540,4 @@
 0041. 🐛 fix: fix broken CSS in mobile view
 0784. ♻️ chore: clean up unused files
 0506. 🐛 fix: handle 500 error in quiz API
+0365. 🚀 perf: reduce image load time
