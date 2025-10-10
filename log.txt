@@ -8539,3 +8539,4 @@
 0066. 🔧 refactor: clean up auth middleware
 0041. 🐛 fix: fix broken CSS in mobile view
 0784. ♻️ chore: clean up unused files
+0506. 🐛 fix: handle 500 error in quiz API
