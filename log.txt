@@ -5180,3 +5180,4 @@
 0633. ✨ feat: add user authentication
 0205. 📚 docs: update README with setup steps
 0203. 🚀 perf: lazy-load components
+0647. 🐛 fix: prevent crash on empty input
